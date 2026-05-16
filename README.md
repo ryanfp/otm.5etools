@@ -5,8 +5,8 @@
 
 <p align="center">
 <img width="256" src="favicon.svg"><br>
-<a href="https://github.com/ryanfp/overthemoondnd.5etools/releases/"><img alt="Current Release" src="https://img.shields.io/github/v/release/ryanfp/overthemoondnd.5etools"/></a>
-<a href="https://github.com/ryanfp/overthemoondnd.5etools/issues"><img src="https://img.shields.io/github/issues/ryanfp/overthemoondnd.5etools" alt="issues - overthemoondnd.5etools"></a>
+<a href="https://github.com/ryanfp/otm.5etools/releases/"><img alt="Current Release" src="https://img.shields.io/github/v/release/ryanfp/otm.5etools"/></a>
+<a href="https://github.com/ryanfp/otm.5etools/issues"><img src="https://img.shields.io/github/issues/ryanfp/otm.5etools" alt="issues - otm.5etools"></a>
 <a href="#license"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
 </p>
 
