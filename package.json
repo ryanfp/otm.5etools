@@ -29,6 +29,7 @@
 		"test:unit": "node --localstorage-file test/localstorage.tmp --experimental-vm-modules node_modules/jest/bin/jest.js",
 		"test": "npm run test:js && npm run test:unit && npm run test:css && npm run test:data",
 		"lint": "npm run lint:js && npm run lint:css && npm run lint:data",
+		"newfiles": "git diff --diff-filter=A --name-only HEAD@{1} HEAD -- '*.json'",
 		"build:css": "node node_modules/sass/sass.js scss/:css/ --style=compressed && node node/rm.js css/includes/ css/vars/",
 		"build:seo": "node node/generate-seo.js",
 		"build:sw": "node node/build-sw.mjs",
