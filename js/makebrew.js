@@ -203,7 +203,7 @@ class PageUi {
 				if (val === "none") {
 					InputUiUtil.pGetUserBoolean({
 						title: "Homebrew Builder Support",
-						htmlDescription: `<p>The Homebrew Builder only supports a limited set of entity types. For everything else, you will need to <a href="https://github.com/TheGiddyLimit/homebrew/blob/master/README.md" rel="noopener noreferrer">manually</a> create or convert content.</p>`,
+						htmlDescription: `<p>The Homebrew Builder only supports a limited set of entity types. For everything else, you will need to <a href="https://github.com/ryanfp/otm.5etools-homebrew/blob/master/README.md" rel="noopener noreferrer">manually</a> create or convert content.</p>`,
 						isAlert: true,
 					}).then(null);
 					this._selBuilderMode.val(this._settings.activeBuilder);
