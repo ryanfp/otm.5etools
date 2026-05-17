@@ -80,6 +80,8 @@ $rgb-roll-max--muted: color.adjust($rgb-roll-max, $saturation: - 35%);
 /* Z-Indices */
 $z-token-image: 10;
 
+$z-side-menu: 60;
+
 $z-omnisearch: 100;
 $z-book-find: 100;
 $z-bookmode: 100;
@@ -99,6 +101,8 @@ $z-modal-legal: 1000;
 $z-context-menu: 1100;
 
 $z-temp-effect: 2000;
+
+$z-dice3d-overlay: 99999;
 
 /* *** */
 
