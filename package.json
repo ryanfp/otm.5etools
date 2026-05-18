@@ -49,7 +49,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/5etools-mirror-3/5etools-src"
+		"url": "git+https://github.com/ryanfp/otm.5etools"
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^21.0.1",
@@ -77,9 +77,9 @@
 		"workbox-cli": "^7.1.0"
 	},
 	"bugs": {
-		"url": "https://github.com/5etools-mirror-3/5etools-src/issues"
+		"url": "https://github.com/ryanfp/otm.5etools/issues"
 	},
-	"homepage": "https://github.com/5etools-mirror-3/5etools-src#readme",
+	"homepage": "https://github.com/ryanfp/otm.5etools#readme",
 	"directories": {
 		"lib": "lib",
 		"test": "test"
