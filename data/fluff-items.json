@@ -120,6 +120,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Ammunition of Slaying.webp"
 					},
+					"title": "Ammunition of Slaying (Arrow)",
 					"width": 1000,
 					"height": 986
 				}
@@ -328,6 +329,40 @@
 					},
 					"width": 801,
 					"height": 594
+				}
+			]
+		},
+		{
+			"name": "Armor of Cold Resistance",
+			"source": "DMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/DMG/Armor of Cold Resistance.webp"
+					},
+					"title": "Armor of resistance (Leather Armor), Armor of invulnerability (Plate Armor)",
+					"credit": "Conceptopolis",
+					"width": 850,
+					"height": 1165
+				}
+			]
+		},
+		{
+			"name": "Armor of Cold Resistance",
+			"source": "XDMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/XDMG/Armor of Cold Resistance.webp"
+					},
+					"title": "Armor of resistance (Leather Armor), Armor of invulnerability (Plate Armor)",
+					"credit": "Conceptopolis",
+					"width": 850,
+					"height": 1165
 				}
 			]
 		},
@@ -924,6 +959,7 @@
 						"type": "internal",
 						"path": "items/DMG/Berserker Axe.webp"
 					},
+					"title": "Berserker axe (Battleaxe)",
 					"width": 541,
 					"height": 900
 				}
@@ -939,6 +975,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Berserker Axe.webp"
 					},
+					"title": "Berserker axe (Battleaxe)",
 					"width": 541,
 					"height": 900
 				}
@@ -2398,6 +2435,7 @@
 						"type": "internal",
 						"path": "items/DMG/Dancing Sword.webp"
 					},
+					"title": "Dancing Sword (Longsword)",
 					"width": 850,
 					"height": 444
 				}
@@ -2413,6 +2451,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Dancing Sword.webp"
 					},
+					"title": "Dancing Sword (Longsword)",
 					"width": 850,
 					"height": 444
 				}
@@ -2634,6 +2673,7 @@
 						"type": "internal",
 						"path": "items/DMG/Defender.webp"
 					},
+					"title": "Defender (Greatsword)",
 					"width": 297,
 					"height": 1000
 				}
@@ -2649,6 +2689,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Defender.webp"
 					},
+					"title": "Defender (Greatsword)",
 					"width": 297,
 					"height": 1000
 				}
@@ -2680,6 +2721,7 @@
 						"type": "internal",
 						"path": "items/DMG/Demon Armor.webp"
 					},
+					"title": "Demon Armor (Plate Armor)",
 					"width": 458,
 					"height": 1000
 				}
@@ -2695,6 +2737,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Demon Armor.webp"
 					},
+					"title": "Demon Armor (Plate Armor)",
 					"width": 458,
 					"height": 1000
 				}
@@ -2968,6 +3011,7 @@
 						"type": "internal",
 						"path": "items/DMG/Dragon Slayer.webp"
 					},
+					"title": "Dragon Slayer (Greatsword)",
 					"width": 751,
 					"height": 1000
 				}
@@ -2983,6 +3027,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Dragon Slayer.webp"
 					},
+					"title": "Dragon Slayer (Greatsword)",
 					"width": 751,
 					"height": 1000
 				}
@@ -3762,8 +3807,39 @@
 						"path": "items/DMG/Figurine of Wondrous Power.webp"
 					},
 					"credit": "Conceptopolis",
-					"width": 315,
-					"height": 315
+					"width": 1700,
+					"height": 904
+				}
+			]
+		},
+		{
+			"name": "Figurine of Wondrous Power",
+			"source": "XDMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/XDMG/Figurine of Wondrous Power.webp"
+					},
+					"credit": "Conceptopolis",
+					"width": 1700,
+					"height": 904
+				}
+			]
+		},
+		{
+			"name": "Figurine of Wondrous Power, Ebony Fly",
+			"source": "DMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/DMG/Figurine of Wondrous Power (Ebony Fly).webp"
+					},
+					"width": 1000,
+					"height": 792
 				}
 			]
 		},
@@ -3784,6 +3860,21 @@
 		},
 		{
 			"name": "Figurine of Wondrous Power, Golden Lions",
+			"source": "DMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/DMG/Figurine of Wondrous Power (Golden Lions).webp"
+					},
+					"width": 1000,
+					"height": 663
+				}
+			]
+		},
+		{
+			"name": "Figurine of Wondrous Power, Golden Lions",
 			"source": "XDMG",
 			"images": [
 				{
@@ -3799,6 +3890,21 @@
 		},
 		{
 			"name": "Figurine of Wondrous Power, Ivory Goats",
+			"source": "DMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/DMG/Figurine of Wondrous Power (Ivory Goats).webp"
+					},
+					"width": 511,
+					"height": 1000
+				}
+			]
+		},
+		{
+			"name": "Figurine of Wondrous Power, Ivory Goats",
 			"source": "XDMG",
 			"images": [
 				{
@@ -3808,6 +3914,21 @@
 						"path": "items/XDMG/Figurine of Wondrous Power (Ivory Goats).webp"
 					},
 					"width": 511,
+					"height": 1000
+				}
+			]
+		},
+		{
+			"name": "Figurine of Wondrous Power, Marble Elephant",
+			"source": "DMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/DMG/Figurine of Wondrous Power (Marble Elephant).webp"
+					},
+					"width": 886,
 					"height": 1000
 				}
 			]
@@ -3829,6 +3950,21 @@
 		},
 		{
 			"name": "Figurine of Wondrous Power, Obsidian Steed",
+			"source": "DMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/DMG/Figurine of Wondrous Power (Obsidian Steed).webp"
+					},
+					"width": 880,
+					"height": 1000
+				}
+			]
+		},
+		{
+			"name": "Figurine of Wondrous Power, Obsidian Steed",
 			"source": "XDMG",
 			"images": [
 				{
@@ -3838,6 +3974,21 @@
 						"path": "items/XDMG/Figurine of Wondrous Power (Obsidian Steed).webp"
 					},
 					"width": 880,
+					"height": 1000
+				}
+			]
+		},
+		{
+			"name": "Figurine of Wondrous Power, Serpentine Owl",
+			"source": "DMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/DMG/Figurine of Wondrous Power (Serpentine Owl).webp"
+					},
+					"width": 613,
 					"height": 1000
 				}
 			]
@@ -3899,6 +4050,7 @@
 						"type": "internal",
 						"path": "items/DMG/Flame Tongue.webp"
 					},
+					"title": "Flame Tongue (Longsword)",
 					"width": 692,
 					"height": 1000
 				}
@@ -3914,6 +4066,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Flame Tongue.webp"
 					},
+					"title": "Flame Tongue (Longsword)",
 					"width": 692,
 					"height": 1000
 				}
@@ -4026,6 +4179,7 @@
 						"type": "internal",
 						"path": "items/DMG/Frost Brand.webp"
 					},
+					"title": "Frost Brand (Scimitar)",
 					"width": 541,
 					"height": 1000
 				}
@@ -4041,6 +4195,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Frost Brand.webp"
 					},
+					"title": "Frost Brand (Scimitar)",
 					"width": 541,
 					"height": 1000
 				}
@@ -5125,6 +5280,7 @@
 						"type": "internal",
 						"path": "items/DMG/Holy Avenger.webp"
 					},
+					"title": "Holy Avenger (Greatsword)",
 					"width": 624,
 					"height": 1000
 				}
@@ -5140,6 +5296,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Holy Avenger.webp"
 					},
+					"title": "Holy Avenger (Greatsword)",
 					"width": 624,
 					"height": 1000
 				}
@@ -5683,6 +5840,21 @@
 		},
 		{
 			"name": "Ioun Stone",
+			"source": "DMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/DMG/Ioun Stone.webp"
+					},
+					"width": 1700,
+					"height": 627
+				}
+			]
+		},
+		{
+			"name": "Ioun Stone",
 			"source": "XDMG",
 			"images": [
 				{
@@ -5691,10 +5863,18 @@
 						"type": "internal",
 						"path": "items/XDMG/Ioun Stone.webp"
 					},
-					"width": 1000,
-					"height": 1000
+					"width": 1700,
+					"height": 627
 				}
 			]
+		},
+		{
+			"name": "Ioun Stone, Absorption",
+			"source": "DMG",
+			"_copy": {
+				"name": "Ioun Stone",
+				"source": "DMG"
+			}
 		},
 		{
 			"name": "Ioun Stone, Absorption",
@@ -5702,6 +5882,14 @@
 			"_copy": {
 				"name": "Ioun Stone",
 				"source": "XDMG"
+			}
+		},
+		{
+			"name": "Ioun Stone, Agility",
+			"source": "DMG",
+			"_copy": {
+				"name": "Ioun Stone",
+				"source": "DMG"
 			}
 		},
 		{
@@ -5714,10 +5902,26 @@
 		},
 		{
 			"name": "Ioun Stone, Awareness",
+			"source": "DMG",
+			"_copy": {
+				"name": "Ioun Stone",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ioun Stone, Awareness",
 			"source": "XDMG",
 			"_copy": {
 				"name": "Ioun Stone",
 				"source": "XDMG"
+			}
+		},
+		{
+			"name": "Ioun Stone, Fortitude",
+			"source": "DMG",
+			"_copy": {
+				"name": "Ioun Stone",
+				"source": "DMG"
 			}
 		},
 		{
@@ -5730,10 +5934,26 @@
 		},
 		{
 			"name": "Ioun Stone, Greater Absorption",
+			"source": "DMG",
+			"_copy": {
+				"name": "Ioun Stone",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ioun Stone, Greater Absorption",
 			"source": "XDMG",
 			"_copy": {
 				"name": "Ioun Stone",
 				"source": "XDMG"
+			}
+		},
+		{
+			"name": "Ioun Stone, Insight",
+			"source": "DMG",
+			"_copy": {
+				"name": "Ioun Stone",
+				"source": "DMG"
 			}
 		},
 		{
@@ -5746,10 +5966,26 @@
 		},
 		{
 			"name": "Ioun Stone, Intellect",
+			"source": "DMG",
+			"_copy": {
+				"name": "Ioun Stone",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ioun Stone, Intellect",
 			"source": "XDMG",
 			"_copy": {
 				"name": "Ioun Stone",
 				"source": "XDMG"
+			}
+		},
+		{
+			"name": "Ioun Stone, Leadership",
+			"source": "DMG",
+			"_copy": {
+				"name": "Ioun Stone",
+				"source": "DMG"
 			}
 		},
 		{
@@ -5762,10 +5998,26 @@
 		},
 		{
 			"name": "Ioun Stone, Mastery",
+			"source": "DMG",
+			"_copy": {
+				"name": "Ioun Stone",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ioun Stone, Mastery",
 			"source": "XDMG",
 			"_copy": {
 				"name": "Ioun Stone",
 				"source": "XDMG"
+			}
+		},
+		{
+			"name": "Ioun Stone, Protection",
+			"source": "DMG",
+			"_copy": {
+				"name": "Ioun Stone",
+				"source": "DMG"
 			}
 		},
 		{
@@ -5778,10 +6030,26 @@
 		},
 		{
 			"name": "Ioun Stone, Regeneration",
+			"source": "DMG",
+			"_copy": {
+				"name": "Ioun Stone",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ioun Stone, Regeneration",
 			"source": "XDMG",
 			"_copy": {
 				"name": "Ioun Stone",
 				"source": "XDMG"
+			}
+		},
+		{
+			"name": "Ioun Stone, Reserve",
+			"source": "DMG",
+			"_copy": {
+				"name": "Ioun Stone",
+				"source": "DMG"
 			}
 		},
 		{
@@ -5794,10 +6062,26 @@
 		},
 		{
 			"name": "Ioun Stone, Strength",
+			"source": "DMG",
+			"_copy": {
+				"name": "Ioun Stone",
+				"source": "DMG"
+			}
+		},
+		{
+			"name": "Ioun Stone, Strength",
 			"source": "XDMG",
 			"_copy": {
 				"name": "Ioun Stone",
 				"source": "XDMG"
+			}
+		},
+		{
+			"name": "Ioun Stone, Sustenance",
+			"source": "DMG",
+			"_copy": {
+				"name": "Ioun Stone",
+				"source": "DMG"
 			}
 		},
 		{
@@ -6392,6 +6676,7 @@
 						"type": "internal",
 						"path": "items/DMG/Luck Blade.webp"
 					},
+					"title": "Luck Blade (Shortsword)",
 					"width": 767,
 					"height": 1000
 				}
@@ -6407,6 +6692,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Luck Blade.webp"
 					},
+					"title": "Luck Blade (Shortsword)",
 					"width": 767,
 					"height": 1000
 				}
@@ -6839,6 +7125,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Mariners Armor.webp"
 					},
+					"title": "Mariner's armor (Leather Armor)",
 					"width": 488,
 					"height": 1084
 				}
@@ -7244,6 +7531,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Moon-Touched Sword.webp"
 					},
+					"title": "Moon-Touched Sword (Rapier)",
 					"width": 850,
 					"height": 226
 				}
@@ -7259,6 +7547,7 @@
 						"type": "internal",
 						"path": "items/DMG/Moonblade.webp"
 					},
+					"title": "Moonblade (Longsword)",
 					"width": 1000,
 					"height": 517
 				}
@@ -7274,6 +7563,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Moonblade.webp"
 					},
+					"title": "Moonblade (Longsword)",
 					"width": 1000,
 					"height": 517
 				}
@@ -7532,6 +7822,7 @@
 						"type": "internal",
 						"path": "items/DMG/Nine Lives Stealer.webp"
 					},
+					"title": "Nine Lives Stealer (Greatsword)",
 					"width": 1700,
 					"height": 394
 				}
@@ -7547,6 +7838,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Nine Lives Stealer.webp"
 					},
+					"title": "Nine Lives Stealer (Greatsword)",
 					"width": 1700,
 					"height": 394
 				}
@@ -8481,8 +8773,10 @@
 						"type": "internal",
 						"path": "items/DMG/Quaal's Feather Token.webp"
 					},
-					"width": 315,
-					"height": 315
+					"title": "Quaal's Feather Tokens (Whip, Anchor, Bird, Swan Boat, Fan, Tree)",
+					"credit": "Conceptopolis",
+					"width": 2024,
+					"height": 966
 				}
 			]
 		},
@@ -8496,7 +8790,24 @@
 						"type": "internal",
 						"path": "items/XDMG/Quaals Feather Token.webp"
 					},
-					"width": 953,
+					"title": "Quaal's Feather Tokens (Whip, Anchor, Bird, Swan Boat, Fan, Tree)",
+					"credit": "Conceptopolis",
+					"width": 2024,
+					"height": 966
+				}
+			]
+		},
+		{
+			"name": "Quaal's Feather Token, Anchor",
+			"source": "DMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/DMG/Quaals Feather Token (Anchor).webp"
+					},
+					"width": 971,
 					"height": 1000
 				}
 			]
@@ -8518,6 +8829,21 @@
 		},
 		{
 			"name": "Quaal's Feather Token, Bird",
+			"source": "DMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/DMG/Quaals Feather Token (Bird).webp"
+					},
+					"width": 904,
+					"height": 1000
+				}
+			]
+		},
+		{
+			"name": "Quaal's Feather Token, Bird",
 			"source": "XDMG",
 			"images": [
 				{
@@ -8527,6 +8853,21 @@
 						"path": "items/XDMG/Quaals Feather Token (Bird).webp"
 					},
 					"width": 904,
+					"height": 1000
+				}
+			]
+		},
+		{
+			"name": "Quaal's Feather Token, Fan",
+			"source": "DMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/DMG/Quaals Feather Token (Fan).webp"
+					},
+					"width": 953,
 					"height": 1000
 				}
 			]
@@ -8548,6 +8889,21 @@
 		},
 		{
 			"name": "Quaal's Feather Token, Swan Boat",
+			"source": "DMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/DMG/Quaals Feather Token (Swan boat).webp"
+					},
+					"width": 1000,
+					"height": 911
+				}
+			]
+		},
+		{
+			"name": "Quaal's Feather Token, Swan Boat",
 			"source": "XDMG",
 			"images": [
 				{
@@ -8563,6 +8919,21 @@
 		},
 		{
 			"name": "Quaal's Feather Token, Tree",
+			"source": "DMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/DMG/Quaals Feather Token (Tree).webp"
+					},
+					"width": 576,
+					"height": 1000
+				}
+			]
+		},
+		{
+			"name": "Quaal's Feather Token, Tree",
 			"source": "XDMG",
 			"images": [
 				{
@@ -8572,6 +8943,21 @@
 						"path": "items/XDMG/Quaals Feather Token (Tree).webp"
 					},
 					"width": 576,
+					"height": 1000
+				}
+			]
+		},
+		{
+			"name": "Quaal's Feather Token, Whip",
+			"source": "DMG",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/DMG/Quaals Feather Token (Whip).webp"
+					},
+					"width": 587,
 					"height": 1000
 				}
 			]
@@ -9814,6 +10200,7 @@
 						"type": "internal",
 						"path": "items/CRCotN/Ruidium Weapon.webp"
 					},
+					"title": "Ruidium Battleaxe",
 					"credit": "CoupleOfKooks",
 					"width": 611,
 					"height": 1132
@@ -11576,6 +11963,7 @@
 						"type": "internal",
 						"path": "items/DMG/Sword of Life Stealing.webp"
 					},
+					"title": "Sword of Life Stealing (Longsword)",
 					"width": 637,
 					"height": 1000
 				}
@@ -11591,6 +11979,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Sword of Life Stealing.webp"
 					},
+					"title": "Sword of Life Stealing (Longsword)",
 					"width": 637,
 					"height": 1000
 				}
@@ -11606,6 +11995,7 @@
 						"type": "internal",
 						"path": "items/DMG/Sword of Sharpness.webp"
 					},
+					"title": "Sword of Sharpness (Greatsword)",
 					"width": 654,
 					"height": 1000
 				}
@@ -11621,6 +12011,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Sword of Sharpness.webp"
 					},
+					"title": "Sword of Sharpness (Greatsword)",
 					"width": 654,
 					"height": 1000
 				}
@@ -11682,6 +12073,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Sylvan Talon.webp"
 					},
+					"title": "Sylvan Talon (Scimitar)",
 					"width": 834,
 					"height": 558
 				}
@@ -12010,6 +12402,21 @@
 			]
 		},
 		{
+			"name": "Tloques' Berserker Battleaxe",
+			"source": "TftYP",
+			"images": [
+				{
+					"type": "image",
+					"href": {
+						"type": "internal",
+						"path": "items/TftYP/Tloques' Berserker Battleaxe.webp"
+					},
+					"width": 897,
+					"height": 1000
+				}
+			]
+		},
+		{
 			"name": "Tome of Clear Thought",
 			"source": "DMG",
 			"images": [
@@ -12323,6 +12730,7 @@
 						"type": "internal",
 						"path": "items/DMG/Vicious Weapon.webp"
 					},
+					"title": "Vicious Weapon (Rapier)",
 					"width": 335,
 					"height": 850
 				}
@@ -12338,6 +12746,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Vicious Weapon.webp"
 					},
+					"title": "Vicious Weapon (Rapier)",
 					"width": 335,
 					"height": 850
 				}
@@ -12369,6 +12778,7 @@
 						"type": "internal",
 						"path": "items/DMG/Vorpal Sword.webp"
 					},
+					"title": "Vorpal Sword (Longsword)",
 					"width": 245,
 					"height": 1000
 				}
@@ -12384,6 +12794,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Vorpal Sword.webp"
 					},
+					"title": "Vorpal Sword (Longsword)",
 					"width": 245,
 					"height": 1000
 				}
@@ -12886,6 +13297,7 @@
 						"type": "internal",
 						"path": "items/DMG/Weapon of Warning.webp"
 					},
+					"title": "Weapon of Warning (Trident)",
 					"width": 137,
 					"height": 1000
 				}
@@ -12901,6 +13313,7 @@
 						"type": "internal",
 						"path": "items/XDMG/Weapon of Warning.webp"
 					},
+					"title": "Weapon of Warning (Trident)",
 					"width": 137,
 					"height": 1000
 				}

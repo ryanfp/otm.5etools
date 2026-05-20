@@ -16,13 +16,27 @@ const _WALKER = MiscUtil.getWalker();
 
 const _TAGS_IGNORED = new Set(["@recipe"]);
 
+const _SOURCES_MIGRATION_AVAILABLE = new Set([
+	Parser.SRC_PHB,
+	Parser.SRC_DMG,
+	Parser.SRC_MM,
+]);
+
 const _TAG_TO_MODERN_SOURCE = {
 	"@condition": Parser.SRC_XPHB,
 	"@skill": Parser.SRC_XPHB,
 	"@sense": Parser.SRC_XPHB,
+	"@action": Parser.SRC_XPHB,
+	"@status": Parser.SRC_XPHB,
+	"@class": Parser.SRC_XPHB,
+	"@race": Parser.SRC_XPHB,
+	"@spell": Parser.SRC_XPHB,
+	"@feat": Parser.SRC_XPHB,
+	"@optfeature": Parser.SRC_XPHB,
 
 	"@item": Parser.SRC_XDMG,
 	"@hazard": Parser.SRC_XDMG,
+	"@reward": Parser.SRC_XDMG,
 
 	"@creature": Parser.SRC_XMM,
 };
@@ -49,8 +63,7 @@ const walkerStringHandler = ({stack}, str) => {
 				continue;
 			}
 
-			const tagInfo = Renderer.tag.TAG_LOOKUP[tag];
-			if (!tagInfo.defaultSource) {
+			if (!Renderer.tag.getTagInfo(tag, {isRequired: true}).defaultSource) {
 				out += `{${tag} ${recurse(text)}}`;
 				continue;
 			}
@@ -69,8 +82,7 @@ const walkerStringHandler = ({stack}, str) => {
 
 			stack.push(`{${tag} ${text}}`);
 
-			// FIXME(Future)
-			if (_TAG_TO_MODERN_SOURCE[tag]) {
+			if (_TAG_TO_MODERN_SOURCE[tag] && _SOURCES_MIGRATION_AVAILABLE.has(tagMeta.source)) {
 				const prop = Parser.getTagProps(tag.slice(1))[0];
 				tagMeta.source = _TAG_TO_MODERN_SOURCE[tag];
 				const uid = DataUtil.proxy.getUid(prop, tagMeta, {isMaintainCase: true, displayName: tagMeta.displayText});

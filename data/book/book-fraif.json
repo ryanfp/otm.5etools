@@ -7347,7 +7347,7 @@
 											"entries": [
 												"When the characters reach the cove, Bloodrider has returned. All Undead listed in waves one and two are back on the ship. They, and Mazterel if he escaped, ambush the party in the haunted village.",
 												"The pirates' treasure is hidden behind the waterfall and includes 3,500 GP, a set of amber dice worth 250 GP, a ship in a bottle decorated with gold and gemstones worth 750 GP, {@item Mariner's Armor|XDMG} ({@item Studded Leather Armor|XPHB}) and a {@item Folding Boat|XDMG}.",
-												"Within the captain's grotto, the chain-bound, burning heart of {@i Bloodrider}'s former captain, Salton Vail, floats in the air. A {@creature Chain Devil|XMM} and two {@creature Barbed Devil|XMM|Barbed Devils} guard the heart. {@i Bloodrider} and its crew rise again 1 day after being destroyed unless the heart is doused in Holy Water and the {@spell Remove Curse|XPHB} spell is cast on it. An {@spell Identify|XPHB} spell cast on the heart reveals this ritual."
+												"Within the captain's grotto, the chain-bound, burning heart of {@i Bloodrider}'s former captain, Salton Vail, floats in the air. A {@creature Chain Devil|XMM} and two {@creature Barbed Devil|XMM|Barbed Devils} guard the heart. {@i Bloodrider} and its crew rise again 1 day after being destroyed unless the heart is doused in {@item Holy Water|XPHB} and the {@spell Remove Curse|XPHB} spell is cast on it. An {@spell Identify|XPHB} spell cast on the heart reveals this ritual."
 											]
 										},
 										{
@@ -17038,7 +17038,7 @@
 												{
 													"type": "item",
 													"name": "Frigid Water",
-													"entry": "Icy water is dangerous at the best of times, risking obstacles such as floes and icebergs; creatures such as {@creature Plesiosaurus|XMM|Plesiosauruses}, {@creature Killer Whale|XMM|Killer Whales}, or {@creature sahuagin}; and the potential to be trapped in the ice."
+													"entry": "Icy water is dangerous at the best of times, risking obstacles such as floes and icebergs; creatures such as {@creature Plesiosaurus|XMM|Plesiosauruses}, {@creature Killer Whale|XMM|Killer Whales}, or {@filter sahuagin|bestiary|source=XMM|search=sahuagin}; and the potential to be trapped in the ice."
 												},
 												{
 													"type": "item",
@@ -24158,7 +24158,7 @@
 							"id": "2d3",
 							"entries": [
 								"The Hook Ward contains Calimport's shipyards and associated warehouses. The navigators', seafarers', and shipwrights' guildhalls are within the Hook Ward. Because some of the shipyards specialize in military vessels for the sultana's navy, the Hook Ward also has a strong military presence.",
-								"Temples and shrines dedicated to numerous deities of the seas, including Umberlee and Talos, can be found in the Hook Ward. Sailors visit these shrines in an attempt to soothe these temperamental deities. Priests at these temples heal wounds, remove curses, and sell Holy Water."
+								"Temples and shrines dedicated to numerous deities of the seas, including Umberlee and Talos, can be found in the Hook Ward. Sailors visit these shrines in an attempt to soothe these temperamental deities. Priests at these temples heal wounds, remove curses, and sell {@item Holy Water|XPHB}."
 							]
 						},
 						{
@@ -26870,7 +26870,7 @@
 								"In the Moonshaes, you're never more than a day's travel from the water, and many locals know how to handle a boat. Moonshae stories often require the characters to sail to one or more islands.",
 								"Norlander adventures often focus on piracy, raiding, or whaling. Norlander longships raid coastal settlements and prey on passing ships, so pirates and raiders make great enemies for your characters. You can use Humanoid creatures in the {@book Monster Manual|XMM} such as guards, scouts, berserkers, priests of Tempus, and, of course, pirates for Norlander raiders. They might bring animals or other monstrous companions with them on raids, such as {@creature Winter Wolf|XMM|Winter Wolves} or a pet {@creature Owlbear|XMM}. After the characters fight off a raid, they might follow the raiders back to their home and negotiate with (or threaten) their leader to end the attacks.",
 								"Whaling has been part of Norland culture for centuries, and many Norland families depend on whales for survival. Whaling is an extraordinarily dangerous task that could make for exciting adventures. A successful hunt can yield meat for a village of hungry Norlanders and lucrative byproducts like ambergris and whalebone. But sometimes the \"whale\" turns out to be a {@creature Dragon Turtle|XMM} or an {@creature Ancient Sea Serpent|FTD} (see {@book Fizban's Treasury of Dragons|FTD}).",
-								"Seafaring adventures can also center around trade and exploration. In these stories, merchants hire characters to escort them through dangerous waters. The characters or one of their NPC allies might have their own ship. The party can discover undersea settlements and meet D&D's vast array of underwater creatures, including vicious {@creature kuo-toa|XMM}, {@creature Merrow|XMM}, and {@creature sahuagin}, or the heroic merfolk and tritons (described in {@book Mordenkainen Presents: Monsters of the Multiverse|MPMM})."
+								"Seafaring adventures can also center around trade and exploration. In these stories, merchants hire characters to escort them through dangerous waters. The characters or one of their NPC allies might have their own ship. The party can discover undersea settlements and meet D&D's vast array of underwater creatures, including vicious {@creature kuo-toa|XMM}, {@creature Merrow|XMM}, and {@filter sahuagin|bestiary|source=XMM|search=sahuagin}, or the heroic merfolk and tritons (described in {@book Mordenkainen Presents: Monsters of the Multiverse|MPMM})."
 							]
 						},
 						{
@@ -26976,7 +26976,7 @@
 							"page": 183,
 							"id": "379",
 							"entries": [
-								"{@disease The Rusting|FRAiF} is an existential threat to the Moonsea Isles. If it were to reach moonwells in Gwynneth, even {@area the Earthmother|32a|x} herself might be in danger.",
+								"{@disease The Rusting|FRAiF} is an existential threat to the Moonshae Isles. If it were to reach moonwells in Gwynneth, even {@area the Earthmother|32a|x} herself might be in danger.",
 								{
 									"type": "entries",
 									"name": "Rusted Goals",

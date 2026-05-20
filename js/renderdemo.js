@@ -33,17 +33,17 @@ async function initDemo (data, rendererType) {
 		switch (rendererType) {
 			case "html": {
 				renderer = Renderer.get();
-				out.removeClass("whitespace-pre").removeClass("code");
+				out.removeClass("ve-whitespace-pre").removeClass("ve-code");
 				break;
 			}
 			case "md": {
 				renderer = RendererMarkdown.get();
-				out.addClass("whitespace-pre").addClass("code");
+				out.addClass("ve-whitespace-pre").addClass("ve-code");
 				break;
 			}
 			case "cards": {
 				renderer = RendererCard.get();
-				out.addClass("whitespace-pre").addClass("code");
+				out.addClass("ve-whitespace-pre").addClass("ve-code");
 				break;
 			}
 			default: throw new Error(`Unhandled renderer!`);
@@ -100,7 +100,7 @@ async function initDemo (data, rendererType) {
 	const renderAndSaveDebounced = MiscUtil.debounce(() => {
 		demoRender();
 		StorageUtil.pSetForPage(STORAGE_LOCATION, editor.getValue());
-	}, 150);
+	}, VeCt.DUR_DEBOUNCE_SAVE);
 
 	selRenderer.onn("change", () => {
 		const val = selRenderer.val();

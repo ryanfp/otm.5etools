@@ -513,8 +513,8 @@
 			"source": "XGE",
 			"page": 151,
 			"referenceSources": [
-				"SLW",
-				"RtG"
+				"RtG",
+				"SLW"
 			],
 			"level": 1,
 			"school": "A",
@@ -4580,6 +4580,9 @@
 			"name": "Summon Greater Demon",
 			"source": "XGE",
 			"page": 166,
+			"referenceSources": [
+				"IMR"
+			],
 			"level": 4,
 			"school": "C",
 			"time": [
@@ -5610,6 +5613,7 @@
 				}
 			],
 			"referenceSources": [
+				"LR",
 				"PotA"
 			],
 			"level": 4,

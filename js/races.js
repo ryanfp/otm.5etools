@@ -6,31 +6,33 @@ class RacesSublistManager extends SublistManager {
 		return [
 			new SublistCellTemplate({
 				name: "Name",
-				css: "bold ve-col-5 pl-0 pr-1",
+				css: "ve-bold ve-col-5 ve-pl-0 ve-pr-1",
 				colStyle: "",
 			}),
 			new SublistCellTemplate({
 				name: "Ability",
-				css: "ve-col-5 px-1",
+				css: "ve-col-5 ve-px-1",
 				colStyle: "",
 			}),
 			new SublistCellTemplate({
 				name: "Size",
-				css: "ve-col-2 ve-text-center pl-1 pr-0",
+				css: "ve-col-2 ve-text-center ve-pl-1 ve-pr-0",
 				colStyle: "text-center",
 			}),
 		];
 	}
 
 	pGetSublistItem (race, hash) {
+		const {sizeText, sizeShortText} = PageFilterRaces.getSizeDisplayInfo(race.size);
+
 		const cellsText = [
 			race.name,
-			new SublistCell({text: race._slAbility, css: race._slAbility === VeCt.STR_NONE || race._slAbility. startsWith("Lineage") ? "italic" : ""}),
-			(race.size || [Parser.SZ_VARIES]).map(sz => Parser.sizeAbvToFull(sz)).join("/"),
+			new SublistCell({text: race._slAbility, css: race._slAbility === VeCt.STR_NONE || race._slAbility === "Lineage" ? "ve-italic" : ""}),
+			new SublistCell({text: sizeShortText, title: sizeText}),
 		];
 
-		const ele = ee`<div class="lst__row lst__row--sublist ve-flex-col">
-				<a href="#${UrlUtil.autoEncodeHash(race)}" class="lst__row-border lst__row-inner">
+		const ele = ee`<div class="ve-lst__row ve-lst__row--sublist ve-flex-col">
+				<a href="#${UrlUtil.autoEncodeHash(race)}" class="ve-lst__row-border ve-lst__row-inner">
 					${this.constructor._getRowCellsHtml({values: cellsText})}
 				</a>
 			</div>
@@ -76,6 +78,8 @@ class RacesPage extends ListPage {
 				pageTitle: "Species Book View",
 			},
 
+			isPreviewable: true,
+
 			tableViewOptions: {
 				title: "Species",
 				colTransforms: {
@@ -102,13 +106,14 @@ class RacesPage extends ListPage {
 					_fLangs: {
 						name: "Languages",
 						transform: (race) => (race._fLangs || [])
-   							.map(lang => {
+							.map(lang => {
       							// Shows only the language part before '|'
-      							const abbr = lang.split("|")[0];
+								const abbr = lang.split("|")[0];
       							// Optionally capitalize the first letter
-      							return abbr.charAt(0).toUpperCase() + abbr.slice(1);
-    						})
-    						.join(", ") || "\u2014",
+								return abbr.charAt(0).toUpperCase() + abbr.slice(1);
+							}
+						)
+							.join(", ") || "\u2014",
 						// transform: (race) => (race._fLangs || []).join(", ") || "\u2014",
 					},
 					_age: {
@@ -179,7 +184,7 @@ class RacesPage extends ListPage {
 					entries: {
 						name: "Features",
 						transform: (it) => Renderer.get().render({
-   							type: "entries",
+							type: "entries",
 							entries: Array.isArray(it)
 							? it.filter(e =>
 								!(typeof e === "object" && e.name &&
@@ -214,17 +219,23 @@ class RacesPage extends ListPage {
 		this._pageFilter.mutateAndAddToFilters(race, isExcluded);
 
 		const eleLi = document.createElement("div");
-		eleLi.className = `lst__row ve-flex-col ${isExcluded ? "lst__row--blocklisted" : ""}`;
+		eleLi.className = `ve-lst__row ve-flex-col ${isExcluded ? "ve-lst__row--blocklisted" : ""}`;
 
-		const size = (race.size || [Parser.SZ_VARIES]).map(sz => Parser.sizeAbvToFull(sz)).join("/");
+		const {sizeText, sizeShortText} = PageFilterRaces.getSizeDisplayInfo(race.size);
+
 		const source = Parser.sourceJsonToAbv(race.source);
 
-		eleLi.innerHTML = `<a href="#${hash}" class="lst__row-border lst__row-inner">
-			<span class="bold ve-col-4 pl-0 pr-1">${race.name}</span>
-			<span class="ve-col-4 px-1 ${race._slAbility === VeCt.STR_NONE || race._slAbility. startsWith("Lineage") ? "italic" : ""}">${race._slAbility}</span>
-			<span class="ve-col-2 px-1 ve-text-center">${size}</span>
-			<span class="ve-col-2 ve-text-center ${Parser.sourceJsonToSourceClassname(race.source)} pl-1 pr-0" title="${Parser.sourceJsonToFull(race.source)}">${source}</span>
-		</a>`;
+		eleLi.innerHTML = `<a href="#${hash}" class="ve-lst__row-border ve-lst__row-inner">
+			<span class="ve-col-0-4 ve-px-0 ve-flex-vh-center ve-lst__btn-toggle-expand ve-self-flex-stretch ve-no-select">[+]</span>
+			<span class="ve-bold ve-col-4-4 ve-pl-0 ve-pr-1">${race.name}</span>
+			<span class="ve-col-3-6 ve-px-1 ${race._slAbility === VeCt.STR_NONE || race._slAbility. startsWith("Lineage") ? "ve-italic" : ""}">${race._slAbility}</span>
+			<span class="ve-col-1-6 ve-px-1 ve-text-center" title="${sizeText}">${sizeShortText}</span>
+			<span class="ve-col-2 ve-text-center ${Parser.sourceJsonToSourceClassname(race.source)} ve-pl-1 ve-pr-0" title="${Parser.sourceJsonToFull(race.source)}">${source}</span>
+		</a>
+		<div class="ve-flex ve-hidden ve-relative ve-accordion__wrp-preview">
+			<div class="ve-vr-0 ve-absolute ve-accordion__vr-preview"></div>
+			<div class="ve-flex-col ve-py-3 ve-ml-4 ve-accordion__wrp-preview-inner"></div>
+		</div>`;
 
 		const listItem = new ListItem(
 			rcI,
@@ -235,7 +246,7 @@ class RacesPage extends ListPage {
 				source,
 				page: race.page,
 				ability: race._slAbility,
-				size,
+				size: sizeText,
 				cleanName: PageFilterRaces.getInvertedName(race.name) || "",
 				alias: PageFilterRaces.getListAliases(race),
 			},

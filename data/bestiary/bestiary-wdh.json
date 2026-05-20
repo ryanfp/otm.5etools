@@ -451,7 +451,7 @@
 			"familiar": true,
 			"soundClip": {
 				"type": "internal",
-				"path": "bestiary/rat.mp3"
+				"path": "bestiary/rat.opus"
 			},
 			"traitTags": [
 				"Keen Senses"
@@ -5309,7 +5309,8 @@
 			],
 			"traitTags": [
 				"Magic Resistance",
-				"Magic Weapons"
+				"Magic Weapons",
+				"Sure-Footed"
 			],
 			"senseTags": [
 				"D"

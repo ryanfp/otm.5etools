@@ -1610,8 +1610,8 @@
 			"source": "GoS",
 			"page": 241,
 			"referenceSources": [
-				"SLW",
-				"IMR"
+				"IMR",
+				"SLW"
 			],
 			"size": [
 				"L"

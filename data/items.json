@@ -200,7 +200,9 @@
 			"source": "DMG",
 			"page": 197,
 			"referenceSources": [
-				"SjA"
+				"CoS",
+				"SjA",
+				"TftYP-THSoT"
 			],
 			"reprintedAs": [
 				"+1 Rod of the Pact Keeper|XDMG"
@@ -251,11 +253,16 @@
 			"page": 212,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
-				"WDMM",
+				"BGDIA",
+				"CM",
+				"CoA",
 				"DSotDQ",
+				"GoS",
+				"IDRotF",
+				"PotA",
+				"SKT",
 				"ToFW",
-				"CoA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"+1 Wand of the War Mage|XDMG"
@@ -531,8 +538,8 @@
 			"source": "DMG",
 			"page": 197,
 			"referenceSources": [
-				"OoW",
-				"KftGV"
+				"KftGV",
+				"OoW"
 			],
 			"reprintedAs": [
 				"+2 Rod of the Pact Keeper|XDMG"
@@ -1107,11 +1114,12 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"OoW",
-				"SLW",
-				"SCC-ARiR",
+				"DSotDQ",
 				"KftGV",
-				"QftIS"
+				"OoW",
+				"QftIS",
+				"SCC-ARiR",
+				"SLW"
 			],
 			"reprintedAs": [
 				"Acid|XPHB"
@@ -1303,6 +1311,9 @@
 			"name": "Airship",
 			"source": "DMG",
 			"page": 119,
+			"referenceSources": [
+				"IDRotF"
+			],
 			"reprintedAs": [
 				"Airship|XPHB"
 			],
@@ -1513,15 +1524,19 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"TftYP-TSC",
-				"TftYP-TFoF",
-				"OoW",
-				"SLW",
-				"SDW",
-				"IDRotF",
+				"BGDIA",
+				"CoS",
 				"DSotDQ",
+				"IDRotF",
 				"KftGV",
-				"QftIS"
+				"OoW",
+				"QftIS",
+				"SCC-ARiR",
+				"SDW",
+				"SLW",
+				"TftYP-TFoF",
+				"TftYP-TSC",
+				"TTP"
 			],
 			"reprintedAs": [
 				"Alchemist's Fire|XPHB"
@@ -1542,12 +1557,13 @@
 			"source": "DMG",
 			"page": 150,
 			"referenceSources": [
-				"CoS",
-				"ToA",
-				"SDW",
-				"IDRotF",
 				"CM",
+				"CoS",
+				"IDRotF",
 				"PaBTSO",
+				"PotA",
+				"SDW",
+				"ToA",
 				"ToFW"
 			],
 			"reprintedAs": [
@@ -2134,10 +2150,10 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"PotA",
-				"ToA",
+				"CoA",
 				"IDRotF",
-				"CoA"
+				"PotA",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Amulet of Health|XDMG"
@@ -2195,14 +2211,14 @@
 			"page": 150,
 			"srd": true,
 			"referenceSources": [
-				"CoS",
-				"SKT",
-				"WDMM",
-				"WBtW",
-				"PaBTSO",
 				"CoA",
+				"CoS",
+				"PaBTSO",
+				"QftIS",
+				"SKT",
 				"VEoR",
-				"QftIS"
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Amulet of Proof against Detection and Location|XDMG"
@@ -2385,9 +2401,10 @@
 			"page": 150,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
 				"KftGV",
 				"ToFW",
-				"CoA"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Amulet of the Planes|XDMG"
@@ -2564,10 +2581,15 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"ToA",
+				"CoS",
 				"GoS",
 				"IDRotF",
-				"QftIS"
+				"KftGV",
+				"OoW",
+				"QftIS",
+				"SCC-HfMT",
+				"TftYP-TSC",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Antitoxin|XPHB"
@@ -2588,14 +2610,14 @@
 			"page": 151,
 			"srd": "Apparatus of the Crab",
 			"referenceSources": [
-				"SKT",
-				"WDH",
-				"LLK",
+				"CoA",
 				"GoS",
 				"IMR",
 				"KftGV",
+				"LLK",
+				"SKT",
 				"ToFW",
-				"CoA"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Apparatus of Kwalish|XDMG"
@@ -2768,8 +2790,8 @@
 						],
 						[
 							"5",
-							"Each extended claw makes the following melee attack: +8 to hit, reach 5 ft. {@i Hit:} 7 ({@damage 2d6}) Bludgeoning damage.",
-							"Each extended claw makes the following melee attack: +8 to hit, reach 5 ft. {@i Hit:} The target has the {@condition Grappled|XPHB} condition (escape {@dc 15})."
+							"Each extended claw makes the following melee attack: {@hit 8} to hit, reach 5 ft. {@i Hit:} 7 ({@damage 2d6}) Bludgeoning damage.",
+							"Each extended claw makes the following melee attack: {@hit 8} to hit, reach 5 ft. {@i Hit:} The target has the {@condition Grappled|XPHB} condition (escape {@dc 15})."
 						],
 						[
 							"6",
@@ -3143,6 +3165,9 @@
 			"source": "DMG",
 			"page": 152,
 			"srd": true,
+			"referenceSources": [
+				"TftYP-WPM"
+			],
 			"reprintedAs": [
 				{
 					"uid": "Armor of Vulnerability (Slashing)|XDMG",
@@ -3347,7 +3372,9 @@
 			"srd": true,
 			"referenceSources": [
 				"CM",
-				"HoL"
+				"HoL",
+				"KftGV",
+				"SDW"
 			],
 			"reprintedAs": [
 				"Assassin's Blood|XDMG"
@@ -4031,7 +4058,8 @@
 			"basicRules": true,
 			"referenceSources": [
 				"CRCotN",
-				"PaBTSO"
+				"PaBTSO",
+				"TftYP-TSC"
 			],
 			"reprintedAs": [
 				"Backpack|XPHB"
@@ -4056,7 +4084,8 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"BQGT"
+				"BQGT",
+				"FFotR"
 			],
 			"type": "G|XPHB",
 			"rarity": "none",
@@ -4104,10 +4133,10 @@
 			"srd": true,
 			"referenceSources": [
 				"BGDIA",
-				"IMR",
 				"IDRotF",
-				"WBtW",
-				"JttRC"
+				"IMR",
+				"JttRC",
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Bag of Beans|XDMG"
@@ -4324,30 +4353,31 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CM",
+				"CRCotN",
+				"DSotDQ",
+				"GoS",
+				"HftT",
+				"HoL",
 				"HotDQ",
-				"RoT",
-				"PotA",
+				"IDRotF",
+				"JttRC",
+				"KftGV",
+				"LLK",
+				"LRDT",
 				"OotA",
+				"PotA",
+				"QftIS",
+				"RoT",
+				"SCC-CK",
+				"SjA",
 				"SKT",
 				"TftYP-AtG",
 				"TftYP-ToH",
-				"WDH",
-				"LLK",
-				"GoS",
-				"HftT",
-				"IDRotF",
-				"CM",
-				"HoL",
-				"WBtW",
-				"CRCotN",
-				"JttRC",
-				"SjA",
-				"DSotDQ",
-				"KftGV",
 				"ToFW",
-				"LRDT",
 				"VEoR",
-				"QftIS"
+				"WBtW",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Bag of Holding|XDMG"
@@ -4417,9 +4447,10 @@
 			"page": 154,
 			"srd": true,
 			"referenceSources": [
-				"SKT",
+				"CoS",
+				"QftIS",
 				"SCC-CK",
-				"QftIS"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Bag of Tricks, Gray|XDMG"
@@ -4552,8 +4583,8 @@
 			"page": 154,
 			"srd": true,
 			"referenceSources": [
-				"NRH-TLT",
-				"KftGV"
+				"KftGV",
+				"NRH-TLT"
 			],
 			"reprintedAs": [
 				"Bag of Tricks, Rust|XDMG"
@@ -4833,7 +4864,7 @@
 			"wondrous": true,
 			"weight": 1,
 			"entries": [
-				"This scale bears celestial symbols on one pan and fiendish symbols on the other. You can use the scale to cast {@spell detect evil and good} as a ritual. Doing so requires you to place the scale on a solid surface, then sprinkle the pans with holy water or place a transparent gem worth 100 gp in each pan. The scale remains motionless if it detects nothing, tips to one side or the other for good (consecrated) or evil (desecrated), and fluctuates slightly if it detects a creature appropriate to the spell but neither good nor evil. By touching the scales after casting the ritual, you instantly learn any information the spell can normally convey, and then the effect ends."
+				"This scale bears celestial symbols on one pan and fiendish symbols on the other. You can use the scale to cast {@spell detect evil and good} as a ritual. Doing so requires you to place the scale on a solid surface, then sprinkle the pans with {@item Holy Water (Flask)|PHB|holy water} or place a transparent gem worth 100 gp in each pan. The scale remains motionless if it detects nothing, tips to one side or the other for good (consecrated) or evil (desecrated), and fluctuates slightly if it detects a creature appropriate to the spell but neither good nor evil. By touching the scales after casting the ritual, you instantly learn any information the spell can normally convey, and then the effect ends."
 			],
 			"attachedSpells": {
 				"ritual": [
@@ -5531,9 +5562,10 @@
 			"page": 154,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
+				"CoA",
 				"PaBTSO",
-				"CoA"
+				"ToA",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Bead of Force|XDMG"
@@ -5566,8 +5598,8 @@
 				}
 			],
 			"referenceSources": [
-				"ScoEE",
-				"DrDe-SD"
+				"DrDe-SD",
+				"ScoEE"
 			],
 			"rarity": "rare",
 			"wondrous": true,
@@ -5629,6 +5661,9 @@
 			"name": "Bead of Refreshment",
 			"source": "XDMG",
 			"page": 235,
+			"referenceSources": [
+				"DrDe-TDoN"
+			],
 			"rarity": "common",
 			"wondrous": true,
 			"entries": [
@@ -5665,6 +5700,9 @@
 			"page": 150,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"TftYP-TSC"
+			],
 			"reprintedAs": [
 				"Bedroll|XPHB"
 			],
@@ -6633,7 +6671,9 @@
 			"source": "DMG",
 			"page": 216,
 			"referenceSources": [
-				"TftYP-WPM"
+				"IMR",
+				"TftYP-WPM",
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Blackrazor|XDMG"
@@ -7209,6 +7249,7 @@
 			"rarity": "uncommon",
 			"reqAttune": true,
 			"wondrous": true,
+			"curse": true,
 			"recharge": "dawn",
 			"rechargeAmount": "{@dice 1d3}",
 			"charges": 3,
@@ -7457,6 +7498,7 @@
 			"source": "DMG",
 			"page": 134,
 			"referenceSources": [
+				"DoSI",
 				"IDRotF",
 				"KftGV"
 			],
@@ -7727,6 +7769,7 @@
 			"source": "DMG",
 			"page": 268,
 			"referenceSources": [
+				"LoX",
 				"SCC-ARiR"
 			],
 			"reprintedAs": [
@@ -7801,6 +7844,9 @@
 			"page": 151,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"PaBTSO"
+			],
 			"reprintedAs": [
 				"Book|XPHB"
 			],
@@ -8319,11 +8365,13 @@
 			"page": 155,
 			"srd": true,
 			"referenceSources": [
-				"WDH",
-				"WDMM",
 				"DIP",
+				"DoSI",
+				"QftIS",
+				"TftYP-AtG",
 				"WBtW",
-				"DoSI"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Boots of Elvenkind|XDMG"
@@ -8354,8 +8402,8 @@
 				}
 			],
 			"referenceSources": [
-				"ScoEE",
-				"HotB"
+				"HotB",
+				"ScoEE"
 			],
 			"rarity": "uncommon",
 			"wondrous": true,
@@ -8409,8 +8457,8 @@
 			"page": 155,
 			"srd": true,
 			"referenceSources": [
-				"WBtW",
-				"DSotDQ"
+				"DSotDQ",
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Boots of Levitation|XDMG"
@@ -8523,12 +8571,13 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"LMoP",
-				"TftYP-WPM",
-				"LLK",
 				"GoS",
+				"IMR",
 				"KftGV",
-				"PaBTSO"
+				"LLK",
+				"LMoP",
+				"PaBTSO",
+				"TftYP-WPM"
 			],
 			"reprintedAs": [
 				"Boots of Striding and Springing|XDMG"
@@ -8602,8 +8651,8 @@
 			"page": 156,
 			"srd": true,
 			"referenceSources": [
-				"IDRotF",
-				"CM"
+				"CM",
+				"IDRotF"
 			],
 			"reprintedAs": [
 				"Boots of the Winterlands|XDMG"
@@ -8780,7 +8829,8 @@
 			"page": 156,
 			"srd": true,
 			"referenceSources": [
-				"LR"
+				"LR",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Bowl of Commanding Water Elementals|XDMG"
@@ -8889,9 +8939,10 @@
 			"page": 156,
 			"srd": true,
 			"referenceSources": [
+				"PaBTSO",
 				"ToA",
 				"WBtW",
-				"PaBTSO"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Bracers of Archery|XDMG"
@@ -8980,13 +9031,16 @@
 			"page": 156,
 			"srd": true,
 			"referenceSources": [
-				"SKT",
-				"TftYP-THSoT",
-				"TftYP-DiT",
-				"TftYP-ToH",
 				"BGDIA",
 				"CoA",
-				"QftIS"
+				"DitLCoT",
+				"HotDQ",
+				"QftIS",
+				"SKT",
+				"TftYP-DiT",
+				"TftYP-THSoT",
+				"TftYP-ToH",
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Bracers of Defense|XDMG"
@@ -9101,9 +9155,9 @@
 			"page": 156,
 			"srd": true,
 			"referenceSources": [
-				"TftYP-AtG",
+				"CoA",
 				"KftGV",
-				"CoA"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Brazier of Commanding Fire Elementals|XDMG"
@@ -9359,8 +9413,9 @@
 			"page": 156,
 			"srd": true,
 			"referenceSources": [
-				"GoS",
 				"AitFR-DN",
+				"CRCotN",
+				"GoS",
 				"ToFW"
 			],
 			"reprintedAs": [
@@ -9427,10 +9482,10 @@
 			"page": 156,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
 				"CoS",
-				"WBtW",
 				"ToFW",
-				"CoA"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Broom of Flying|XDMG"
@@ -9513,8 +9568,9 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"GoS",
-				"DSotDQ"
+				"CoS",
+				"DSotDQ",
+				"GoS"
 			],
 			"reprintedAs": [
 				"Bullseye Lantern|XPHB"
@@ -9569,6 +9625,9 @@
 			"page": 151,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"US"
+			],
 			"reprintedAs": [
 				"Burglar's Pack|XPHB"
 			],
@@ -9877,9 +9936,9 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"TftYP-TSC",
 				"BGDIA",
-				"CM"
+				"CM",
+				"TftYP-TSC"
 			],
 			"reprintedAs": [
 				"Caltrops|XPHB"
@@ -9933,7 +9992,9 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"TTP"
+				"KftGV",
+				"TTP",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Candle|XPHB"
@@ -10007,8 +10068,9 @@
 			"page": 157,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
-				"ToFW"
+				"DSotDQ",
+				"ToFW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Candle of Invocation|XDMG"
@@ -10334,9 +10396,9 @@
 			"source": "DMG",
 			"page": 157,
 			"referenceSources": [
-				"WDH",
 				"GoS",
-				"KftGV"
+				"KftGV",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Cap of Water Breathing|XDMG"
@@ -10404,9 +10466,10 @@
 			"page": 157,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
+				"CoA",
 				"DSotDQ",
-				"CoA"
+				"ToA",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Cape of the Mountebank|XDMG"
@@ -10556,6 +10619,9 @@
 			"source": "DMG",
 			"page": 157,
 			"srd": true,
+			"referenceSources": [
+				"JttRC"
+			],
 			"reprintedAs": [
 				"Carpet of Flying, 4 ft. × 6 ft.|XDMG"
 			],
@@ -10644,6 +10710,9 @@
 			"page": 157,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"WDH"
+			],
 			"reprintedAs": [
 				"Carriage|XPHB"
 			],
@@ -10669,6 +10738,7 @@
 			"page": 258,
 			"srd": "Crawler Mucus (Contact)",
 			"referenceSources": [
+				"BGDIA",
 				"QftIS"
 			],
 			"reprintedAs": [
@@ -11341,10 +11411,11 @@
 			"page": 158,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
-				"IDRotF",
+				"AitFR-AVT",
 				"CM",
-				"WBtW"
+				"IDRotF",
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Chime of Opening|XDMG"
@@ -11555,6 +11626,8 @@
 			"page": 158,
 			"srd": true,
 			"referenceSources": [
+				"BGDIA",
+				"DC",
 				"ToA",
 				"WDMM"
 			],
@@ -11723,8 +11796,9 @@
 			"basicRules": true,
 			"referenceSources": [
 				"CoS",
+				"SjA",
 				"ToA",
-				"SjA"
+				"TTP"
 			],
 			"reprintedAs": [
 				"Climber's Kit|XPHB"
@@ -11919,8 +11993,8 @@
 			"page": 158,
 			"srd": true,
 			"referenceSources": [
-				"WBtW",
-				"SCC-HfMT"
+				"SCC-HfMT",
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Cloak of Displacement|XDMG"
@@ -11961,10 +12035,12 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"TftYP-AtG",
-				"SCC-HfMT",
+				"IDRotF",
+				"QftIS",
 				"SCC-ARiR",
-				"QftIS"
+				"SCC-HfMT",
+				"TftYP-AtG",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Cloak of Elvenkind|XDMG"
@@ -12103,17 +12179,18 @@
 			"page": 159,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
 				"CoS",
-				"SKT",
-				"IDRotF",
-				"WBtW",
-				"SCC-CK",
 				"CRCotN",
 				"DSotDQ",
+				"GoS",
+				"IDRotF",
 				"PaBTSO",
+				"QftIS",
+				"SCC-CK",
+				"SKT",
 				"ToFW",
-				"CoA",
-				"QftIS"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Cloak of Protection|XDMG"
@@ -12224,9 +12301,12 @@
 			"page": 159,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
 				"GoS",
-				"JttRC"
+				"JttRC",
+				"OoW",
+				"SDW",
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Cloak of the Manta Ray|XDMG"
@@ -12285,8 +12365,8 @@
 			"page": 245,
 			"referenceSources": [
 				"DrDe-FWtVC",
-				"HotB",
-				"FRAiF"
+				"FRAiF",
+				"HotB"
 			],
 			"rarity": "common",
 			"wondrous": true,
@@ -12614,7 +12694,8 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"VNotEE"
+				"VNotEE",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Component Pouch|XPHB"
@@ -13008,6 +13089,9 @@
 			"name": "Cracked Driftglobe",
 			"source": "CM",
 			"page": 110,
+			"referenceSources": [
+				"CRCotN"
+			],
 			"rarity": "uncommon",
 			"wondrous": true,
 			"weight": 1,
@@ -13168,8 +13252,9 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"VEoR",
-				"QftIS"
+				"CM",
+				"QftIS",
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Crossbow Bolt Case|XPHB"
@@ -13218,7 +13303,8 @@
 			"basicRules": true,
 			"referenceSources": [
 				"CoS",
-				"DoSI"
+				"DoSI",
+				"PaBTSO"
 			],
 			"reprintedAs": [
 				"Crowbar|XPHB"
@@ -13569,10 +13655,11 @@
 			"page": 159,
 			"srd": true,
 			"referenceSources": [
-				"SKT",
-				"SDW",
-				"IDRotF",
 				"CoA",
+				"IDRotF",
+				"SDW",
+				"SKT",
+				"ToFW",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -13620,6 +13707,9 @@
 			"name": "Crystal Ball of Mind Reading",
 			"source": "DMG",
 			"page": 159,
+			"referenceSources": [
+				"SDW"
+			],
 			"reprintedAs": [
 				"Crystal Ball of Mind Reading|XDMG"
 			],
@@ -13666,7 +13756,8 @@
 			"source": "DMG",
 			"page": 159,
 			"referenceSources": [
-				"JttRC"
+				"JttRC",
+				"SDW"
 			],
 			"reprintedAs": [
 				"Crystal Ball of Telepathy|XDMG"
@@ -13727,6 +13818,8 @@
 			"page": 159,
 			"referenceSources": [
 				"CM",
+				"OotA",
+				"SDW",
 				"ToFW"
 			],
 			"reprintedAs": [
@@ -13821,6 +13914,7 @@
 			"srd": true,
 			"referenceSources": [
 				"LR",
+				"TftYP-WPM",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -14230,8 +14324,8 @@
 			"page": 160,
 			"srd": "Instant Fortress",
 			"referenceSources": [
-				"OotA",
 				"CoS",
+				"OotA",
 				"PaBTSO"
 			],
 			"reprintedAs": [
@@ -14321,15 +14415,16 @@
 			"page": 161,
 			"srd": true,
 			"referenceSources": [
-				"HotDQ",
-				"TftYP-DiT",
-				"WDMM",
-				"SLW",
-				"JttRC",
-				"PaBTSO",
-				"ToFW",
 				"CoA",
-				"LRDT"
+				"HotDQ",
+				"JttRC",
+				"LRDT",
+				"OoW",
+				"PaBTSO",
+				"SLW",
+				"TftYP-DiT",
+				"ToFW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Dagger of Venom|XDMG"
@@ -14813,12 +14908,12 @@
 			"page": 161,
 			"srd": true,
 			"referenceSources": [
-				"SKT",
-				"WDMM",
-				"GoS",
 				"DC",
+				"GoS",
 				"JttRC",
-				"KftGV"
+				"KftGV",
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Decanter of Endless Water|XDMG"
@@ -14948,8 +15043,10 @@
 			"page": 161,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
 				"CoS",
-				"CoA"
+				"HoL",
+				"QftIS"
 			],
 			"reprintedAs": [
 				"Deck of Illusions|XDMG"
@@ -16114,6 +16211,9 @@
 			"name": "Deck of Many Things",
 			"source": "BMT",
 			"page": 13,
+			"referenceSources": [
+				"QftIS"
+			],
 			"reprintedAs": [
 				"Deck of Many Things|XDMG"
 			],
@@ -16187,7 +16287,8 @@
 			"page": 162,
 			"srd": true,
 			"referenceSources": [
-				"LLK"
+				"LLK",
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Deck of Many Things|XDMG"
@@ -18333,7 +18434,8 @@
 			"page": 165,
 			"srd": true,
 			"referenceSources": [
-				"CoA"
+				"CoA",
+				"ToFW"
 			],
 			"reprintedAs": [
 				{
@@ -18372,9 +18474,9 @@
 			"source": "TCE",
 			"page": 125,
 			"referenceSources": [
-				"WBtW",
+				"QftIS",
 				"VEoR",
-				"QftIS"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Demonomicon of Iggwilv|XDMG"
@@ -18775,8 +18877,8 @@
 			"source": "DMG",
 			"page": 134,
 			"referenceSources": [
-				"WDH",
-				"PaBTSO"
+				"PaBTSO",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Diamond|XDMG"
@@ -18884,10 +18986,10 @@
 			"srd": true,
 			"referenceSources": [
 				"BGDIA",
+				"CoA",
 				"JttRC",
 				"KftGV",
-				"ToFW",
-				"CoA"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Dimensional Shackles|XDMG"
@@ -19083,6 +19185,7 @@
 				}
 			],
 			"referenceSources": [
+				"CoS",
 				"KftGV"
 			],
 			"reprintedAs": [
@@ -19345,11 +19448,11 @@
 						],
 						[
 							"5\u20136",
-							"The dodecahedron casts {@spell ray of frost} (+5 to hit), targeting a random creature within 60 feet of it that doesn't have {@quickref Cover||3||total cover} against the attack."
+							"The dodecahedron casts {@spell ray of frost} ({@hit 5} to hit), targeting a random creature within 60 feet of it that doesn't have {@quickref Cover||3||total cover} against the attack."
 						],
 						[
 							"7\u20138",
-							"The dodecahedron casts {@spell shocking grasp} (+5 to hit) on the next creature that touches it."
+							"The dodecahedron casts {@spell shocking grasp} ({@hit 5} to hit) on the next creature that touches it."
 						],
 						[
 							"9\u201310",
@@ -19589,6 +19692,7 @@
 			"page": 154,
 			"basicRules": true,
 			"referenceSources": [
+				"DIP",
 				"KftGV"
 			],
 			"reprintedAs": [
@@ -19813,9 +19917,9 @@
 			"source": "XGE",
 			"page": 137,
 			"referenceSources": [
-				"WDMM",
 				"DIP",
-				"WBtW"
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Dread Helm|XDMG"
@@ -19846,17 +19950,19 @@
 			"source": "DMG",
 			"page": 166,
 			"referenceSources": [
-				"PotA",
-				"WDH",
-				"WDMM",
-				"IDRotF",
 				"CM",
-				"SCC-CK",
-				"JttRC",
 				"DSotDQ",
+				"IDRotF",
+				"JttRC",
 				"KftGV",
+				"PotA",
+				"RoT",
+				"SCC-CK",
 				"ToFW",
-				"VEoR"
+				"TTP",
+				"VEoR",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Driftglobe|XDMG"
@@ -20009,6 +20115,11 @@
 			"page": 151,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"SCC-ARiR",
+				"TTP",
+				"US"
+			],
 			"reprintedAs": [
 				"Dungeoneer's Pack|XPHB"
 			],
@@ -20195,13 +20306,16 @@
 			"page": 166,
 			"srd": true,
 			"referenceSources": [
+				"CM",
+				"CRCotN",
+				"DIP",
+				"JttRC",
+				"KftGV",
 				"OotA",
+				"PotA",
 				"TftYP-THSoT",
 				"WDH",
-				"WDMM",
-				"DIP",
-				"CM",
-				"KftGV"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Dust of Disappearance|XDMG"
@@ -20227,8 +20341,8 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-DaS",
-				"DrDe-BD"
+				"DrDe-BD",
+				"DrDe-DaS"
 			],
 			"rarity": "uncommon",
 			"wondrous": true,
@@ -20250,8 +20364,9 @@
 			"page": 166,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
-				"CRCotN"
+				"CRCotN",
+				"OoW",
+				"PotA"
 			],
 			"reprintedAs": [
 				"Dust of Dryness|XDMG"
@@ -20291,9 +20406,11 @@
 			"page": 166,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
 				"OoW",
-				"WBtW",
-				"CoA"
+				"QftIS",
+				"SCC-TMM",
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Dust of Sneezing and Choking|XDMG"
@@ -20354,9 +20471,9 @@
 			"page": 167,
 			"srd": true,
 			"referenceSources": [
-				"TftYP-AtG",
 				"CM",
-				"CoA"
+				"CoA",
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				{
@@ -21060,6 +21177,7 @@
 			"page": 167,
 			"srd": true,
 			"referenceSources": [
+				"RoT",
 				"WBtW"
 			],
 			"reprintedAs": [
@@ -21101,8 +21219,9 @@
 			"page": 167,
 			"srd": true,
 			"referenceSources": [
-				"SCC-HfMT",
 				"JttRC",
+				"PaBTSO",
+				"SCC-HfMT",
 				"ToFW",
 				"VEoR"
 			],
@@ -21180,9 +21299,10 @@
 			"page": 167,
 			"srd": true,
 			"referenceSources": [
-				"OoW",
+				"BGDIA",
+				"IDRotF",
 				"IMR",
-				"IDRotF"
+				"OoW"
 			],
 			"reprintedAs": [
 				"Elemental Gem, Yellow Diamond|XDMG"
@@ -21246,10 +21366,13 @@
 			"source": "DMG",
 			"page": 168,
 			"referenceSources": [
-				"PotA",
 				"CoS",
-				"TftYP-THSoT",
 				"DoSI",
+				"JttRC",
+				"LLK",
+				"PotA",
+				"TftYP-THSoT",
+				"TftYP-TSC",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -21297,9 +21420,9 @@
 			"page": 168,
 			"srd": true,
 			"referenceSources": [
+				"KftGV",
 				"PotA",
-				"US",
-				"KftGV"
+				"US"
 			],
 			"reprintedAs": [
 				{
@@ -22111,6 +22234,11 @@
 			"source": "DMG",
 			"page": 258,
 			"srd": true,
+			"referenceSources": [
+				"BGDIA",
+				"ToA",
+				"WDH"
+			],
 			"reprintedAs": [
 				"Essence of Ether|XDMG"
 			],
@@ -22237,10 +22365,10 @@
 			"page": 168,
 			"srd": true,
 			"referenceSources": [
-				"KKW",
 				"BGDIA",
-				"ToFW",
-				"QftIS"
+				"KKW",
+				"QftIS",
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Eversmoking Bottle|XDMG"
@@ -22318,10 +22446,12 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"ToA",
+				"BGDIA",
 				"GoS",
 				"IDRotF",
-				"QftIS"
+				"QftIS",
+				"SCC-ARiR",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Explorer's Pack|XPHB"
@@ -22699,8 +22829,8 @@
 			"page": 168,
 			"srd": true,
 			"referenceSources": [
-				"WDH",
-				"CoA"
+				"CoA",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Eyes of Charming|XDMG"
@@ -22769,11 +22899,12 @@
 			"page": 168,
 			"srd": true,
 			"referenceSources": [
-				"DC",
-				"IDRotF",
 				"CM",
 				"CoA",
+				"DC",
 				"DitLCoT",
+				"IDRotF",
+				"PaBTSO",
 				"QftIS"
 			],
 			"reprintedAs": [
@@ -22814,8 +22945,8 @@
 			"page": 168,
 			"srd": true,
 			"referenceSources": [
-				"CRCotN",
-				"CoA"
+				"CoA",
+				"CRCotN"
 			],
 			"reprintedAs": [
 				"Eyes of the Eagle|XDMG"
@@ -23749,7 +23880,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table G"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Figurine of Wondrous Power, Ebony Fly",
@@ -23782,8 +23914,8 @@
 			"page": 169,
 			"srd": true,
 			"referenceSources": [
-				"SKT",
-				"CoA"
+				"CoA",
+				"SKT"
 			],
 			"reprintedAs": [
 				"Figurine of Wondrous Power, Golden Lions|XDMG"
@@ -23805,7 +23937,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table G"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Figurine of Wondrous Power, Golden Lions",
@@ -23866,7 +23999,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table G"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Figurine of Wondrous Power, Ivory Goats",
@@ -23927,8 +24061,8 @@
 			"page": 170,
 			"srd": true,
 			"referenceSources": [
-				"CRCotN",
-				"CoA"
+				"CoA",
+				"CRCotN"
 			],
 			"reprintedAs": [
 				"Figurine of Wondrous Power, Marble Elephant|XDMG"
@@ -23950,7 +24084,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table G"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Figurine of Wondrous Power, Marble Elephant",
@@ -24003,7 +24138,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table H"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Figurine of Wondrous Power, Obsidian Steed",
@@ -24037,8 +24173,8 @@
 			"page": 170,
 			"srd": true,
 			"referenceSources": [
-				"ToFW",
-				"CoA"
+				"CoA",
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Figurine of Wondrous Power, Onyx Dog|XDMG"
@@ -24095,6 +24231,7 @@
 			"page": 170,
 			"srd": true,
 			"referenceSources": [
+				"BGDIA",
 				"KftGV",
 				"ToFW"
 			],
@@ -24118,7 +24255,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table G"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Figurine of Wondrous Power, Serpentine Owl",
@@ -24415,6 +24553,7 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"IDRotF",
 				"TTP"
 			],
 			"type": "G",
@@ -24675,11 +24814,12 @@
 			"page": 170,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
-				"LLK",
-				"IMR",
 				"DitLCoT",
-				"QftIS"
+				"GoS",
+				"IMR",
+				"LLK",
+				"QftIS",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Folding Boat|XDMG"
@@ -24790,6 +24930,9 @@
 					"source": "XGE",
 					"page": 81
 				}
+			],
+			"referenceSources": [
+				"IMR"
 			],
 			"reprintedAs": [
 				"Forgery Kit|XPHB"
@@ -25241,13 +25384,15 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"LMoP",
-				"OotA",
-				"WDMM",
+				"CoA",
+				"DIP",
 				"IMR",
 				"KftGV",
+				"LMoP",
+				"OotA",
 				"PaBTSO",
-				"CoA"
+				"TftYP-AtG",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Gauntlets of Ogre Power|XDMG"
@@ -25373,16 +25518,16 @@
 			"page": 171,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"ToA",
-				"WDMM",
-				"EFR",
-				"SCC-CK",
 				"DSotDQ",
+				"EFR",
 				"KftGV",
+				"OotA",
 				"PaBTSO",
+				"QftIS",
+				"SCC-CK",
+				"ToA",
 				"ToFW",
-				"QftIS"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Gem of Brightness|XDMG"
@@ -25472,15 +25617,17 @@
 			"page": 172,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
+				"DSotDQ",
+				"LR",
+				"NRH-TCMC",
 				"OotA",
+				"OoW",
+				"QftIS",
 				"TftYP-AtG",
 				"TftYP-ToH",
-				"WDMM",
-				"OoW",
-				"NRH-TCMC",
-				"DSotDQ",
-				"CoA",
-				"QftIS"
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Gem of Seeing|XDMG"
@@ -25775,6 +25922,7 @@
 			"page": 172,
 			"srd": true,
 			"referenceSources": [
+				"TftYP-THSoT",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -25879,9 +26027,9 @@
 			"source": "DMG",
 			"page": 172,
 			"referenceSources": [
+				"KftGV",
 				"NRH-TCMC",
-				"WBtW",
-				"KftGV"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Gloves of Thievery|XDMG"
@@ -26016,13 +26164,15 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"DIP",
-				"DD",
 				"CM",
-				"WBtW",
+				"CoA",
 				"CRCotN",
+				"DD",
+				"DIP",
+				"OotA",
 				"SjA",
-				"CoA"
+				"TftYP-WPM",
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Goggles of Night|XDMG"
@@ -26596,6 +26746,9 @@
 			"page": 150,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"GoS"
+			],
 			"reprintedAs": [
 				"Grappling Hook|XPHB"
 			],
@@ -27281,6 +27434,9 @@
 			"name": "Gunpowder Keg",
 			"source": "DMG",
 			"page": 268,
+			"referenceSources": [
+				"LoX"
+			],
 			"reprintedAs": [
 				"Gunpowder (keg)|XDMG"
 			],
@@ -27339,7 +27495,8 @@
 			"source": "MM",
 			"page": 177,
 			"referenceSources": [
-				"CoS"
+				"CoS",
+				"KftGV"
 			],
 			"reprintedAs": [
 				"Hag Eye|XDMG"
@@ -27518,7 +27675,8 @@
 			"source": "DMG",
 			"page": 224,
 			"referenceSources": [
-				"BGDIA"
+				"BGDIA",
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Hand of Vecna|XDMG"
@@ -27929,19 +28087,19 @@
 			"page": 173,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"CoS",
-				"TftYP-THSoT",
-				"WDH",
-				"DC",
 				"BGDIA",
-				"IDRotF",
 				"CM",
-				"CRCotN",
-				"JttRC",
-				"ToFW",
 				"CoA",
-				"VNotEE"
+				"CoS",
+				"CRCotN",
+				"DC",
+				"IDRotF",
+				"JttRC",
+				"OotA",
+				"TftYP-THSoT",
+				"ToFW",
+				"VNotEE",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Hat of Disguise|XDMG"
@@ -28299,11 +28457,11 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"WDH",
-				"WDMM",
 				"BGDIA",
 				"CM",
-				"CoA"
+				"CoA",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Headband of Intellect|XDMG"
@@ -28360,16 +28518,22 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"CoS",
-				"TftYP-TSC",
 				"BGDIA",
-				"LR",
+				"CoS",
 				"CRCotN",
-				"LoX",
+				"GoS",
+				"IDRotF",
 				"KftGV",
+				"LoX",
+				"LR",
 				"PaBTSO",
+				"QftIS",
+				"SLW",
+				"TftYP-TSC",
+				"ToA",
 				"ToFW",
-				"QftIS"
+				"TTP",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Healer's Kit|XPHB"
@@ -28497,7 +28661,8 @@
 			"page": 173,
 			"srd": true,
 			"referenceSources": [
-				"CoA"
+				"CoA",
+				"CoS"
 			],
 			"reprintedAs": [
 				"Helm of Brilliance|XDMG"
@@ -28637,9 +28802,9 @@
 			"page": 173,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
 				"CM",
-				"CoA"
+				"CoA",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Helm of Comprehending Languages|XDMG"
@@ -28826,12 +28991,14 @@
 			"page": 174,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
+				"BGDIA",
+				"CoA",
 				"DC",
 				"IDRotF",
-				"WBtW",
 				"JttRC",
-				"QftIS"
+				"QftIS",
+				"ToA",
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Helm of Telepathy|XDMG"
@@ -29151,8 +29318,11 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"TTP",
-				"CRCotN"
+				"CoS",
+				"CRCotN",
+				"DSotDQ",
+				"GoS",
+				"TTP"
 			],
 			"reprintedAs": [
 				"Rope|XPHB"
@@ -29178,9 +29348,14 @@
 				}
 			],
 			"referenceSources": [
+				"BGDIA",
 				"IDRotF",
+				"IMR",
+				"OoW",
 				"RtG",
-				"SCC-HfMT"
+				"SCC-HfMT",
+				"TftYP-TSC",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Herbalism Kit|XPHB"
@@ -29425,10 +29600,12 @@
 			"page": 174,
 			"srd": "Handy Haversack",
 			"referenceSources": [
-				"SKT",
-				"SCC-CK",
+				"IMR",
 				"JttRC",
-				"KftGV"
+				"KftGV",
+				"PaBTSO",
+				"SCC-CK",
+				"SKT"
 			],
 			"reprintedAs": [
 				"Heward's Handy Haversack|XDMG"
@@ -29784,12 +29961,13 @@
 			"basicRules": true,
 			"referenceSources": [
 				"CoS",
-				"TftYP-TFoF",
-				"OoW",
-				"SCC-CK",
 				"DSotDQ",
-				"ToFW",
-				"QftIS"
+				"IDRotF",
+				"OoW",
+				"QftIS",
+				"SCC-CK",
+				"TftYP-TFoF",
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Holy Water|XPHB"
@@ -29813,10 +29991,10 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"ToA",
 				"GoS",
 				"IDRotF",
-				"SCC-CK"
+				"SCC-CK",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Hooded Lantern|XPHB"
@@ -29931,10 +30109,16 @@
 			"baseItem": "horn|phb",
 			"type": "INS",
 			"rarity": "legendary",
-			"reqAttune": "by a sorcerer",
+			"reqAttune": "by a sorcerer, warlock, or wizard",
 			"reqAttuneTags": [
 				{
 					"class": "sorcerer"
+				},
+				{
+					"class": "warlock"
+				},
+				{
+					"class": "wizard"
 				}
 			],
 			"wondrous": true,
@@ -29951,9 +30135,9 @@
 			"page": 174,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
-				"IDRotF",
 				"CM",
+				"IDRotF",
+				"ToA",
 				"WBtW"
 			],
 			"reprintedAs": [
@@ -30198,9 +30382,9 @@
 			"page": 175,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
 				"KftGV",
-				"ToFW",
-				"CoA"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Horn of Valhalla, Silver|XDMG"
@@ -30722,8 +30906,8 @@
 			"page": 175,
 			"srd": true,
 			"referenceSources": [
-				"WDH",
-				"CoA"
+				"CoA",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Horseshoes of Speed|XDMG"
@@ -30821,7 +31005,8 @@
 			"basicRules": true,
 			"referenceSources": [
 				"CoS",
-				"CRCotN"
+				"CRCotN",
+				"IDRotF"
 			],
 			"reprintedAs": [
 				"Hunting Trap|XPHB"
@@ -31211,9 +31396,13 @@
 			"page": 175,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
+				"DIP",
+				"GoS",
+				"OoW",
+				"PaBTSO",
 				"PotA",
 				"ToA",
-				"CoA",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -31527,8 +31716,8 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-TDoN",
-				"DrDe-SD"
+				"DrDe-SD",
+				"DrDe-TDoN"
 			],
 			"type": "G|XPHB",
 			"rarity": "none",
@@ -31579,6 +31768,7 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
+				"DrDe-SD",
 				"DrDe-TDoN"
 			],
 			"type": "G|XPHB",
@@ -31713,6 +31903,9 @@
 			"name": "Instrument of the Bards, Anstruth Harp",
 			"source": "DMG",
 			"page": 176,
+			"referenceSources": [
+				"ToFW"
+			],
 			"reprintedAs": [
 				"Instrument of the Bards, Anstruth Harp|XDMG"
 			],
@@ -31871,8 +32064,8 @@
 			"source": "DMG",
 			"page": 176,
 			"referenceSources": [
-				"GoS",
 				"CM",
+				"GoS",
 				"KftGV"
 			],
 			"reprintedAs": [
@@ -31956,6 +32149,7 @@
 			"source": "DMG",
 			"page": 176,
 			"referenceSources": [
+				"CoS",
 				"NRH-CoI"
 			],
 			"reprintedAs": [
@@ -32314,7 +32508,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table H"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ioun Stone, Absorption",
@@ -32358,7 +32553,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table H"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ioun Stone, Agility",
@@ -32406,7 +32602,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table G"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ioun Stone, Awareness",
@@ -32450,7 +32647,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table H"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ioun Stone, Fortitude",
@@ -32494,7 +32692,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table I"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ioun Stone, Greater Absorption",
@@ -32536,8 +32735,9 @@
 			"page": 176,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
-				"WBtW"
+				"DSotDQ",
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Ioun Stone, Insight|XDMG"
@@ -32557,7 +32757,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table H"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ioun Stone, Insight",
@@ -32604,7 +32805,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table H"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ioun Stone, Intellect",
@@ -32647,6 +32849,9 @@
 			"source": "DMG",
 			"page": 176,
 			"srd": true,
+			"referenceSources": [
+				"JttRC"
+			],
 			"reprintedAs": [
 				"Ioun Stone, Leadership|XDMG"
 			],
@@ -32665,7 +32870,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table H"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ioun Stone, Leadership",
@@ -32713,7 +32919,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table I"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ioun Stone, Mastery",
@@ -32771,7 +32978,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table G"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ioun Stone, Protection",
@@ -32813,7 +33021,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table I"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ioun Stone, Regeneration",
@@ -32855,8 +33064,8 @@
 			"page": 176,
 			"srd": true,
 			"referenceSources": [
-				"LoX",
-				"CoA"
+				"CoA",
+				"LoX"
 			],
 			"reprintedAs": [
 				"Ioun Stone, Reserve|XDMG"
@@ -32875,7 +33084,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table G"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ioun Stone, Reserve",
@@ -32937,7 +33147,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table H"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ioun Stone, Strength",
@@ -32998,7 +33209,8 @@
 			],
 			"lootTables": [
 				"Magic Item Table G"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ioun Stone, Sustenance",
@@ -33067,8 +33279,9 @@
 			"page": 177,
 			"srd": "Iron Bands of Binding",
 			"referenceSources": [
-				"WDH",
-				"CoA"
+				"CM",
+				"CoA",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Iron Bands of Bilarro|XDMG"
@@ -33114,12 +33327,13 @@
 			"page": 178,
 			"srd": true,
 			"referenceSources": [
-				"SKT",
 				"BGDIA",
 				"IMR",
 				"JttRC",
-				"ToFW",
-				"QftIS"
+				"LLK",
+				"QftIS",
+				"SKT",
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Iron Flask|XDMG"
@@ -33814,6 +34028,9 @@
 			"name": "Jasper",
 			"source": "DMG",
 			"page": 134,
+			"referenceSources": [
+				"DoSI"
+			],
 			"reprintedAs": [
 				"Jasper|XDMG"
 			],
@@ -33871,10 +34088,12 @@
 			"page": 178,
 			"srd": true,
 			"referenceSources": [
-				"TftYP-AtG",
-				"PaBTSO",
 				"CoA",
-				"QftIS"
+				"DC",
+				"DSotDQ",
+				"PaBTSO",
+				"QftIS",
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Javelin of Lightning|XDMG"
@@ -34371,11 +34590,13 @@
 			"srd": "Restorative Ointment",
 			"basicRules": true,
 			"referenceSources": [
-				"OotA",
-				"ToA",
 				"IMR",
+				"JttRC",
+				"OotA",
+				"OoW",
 				"PaBTSO",
-				"QftIS"
+				"QftIS",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Keoghtom's Ointment|XDMG"
@@ -34998,10 +35219,12 @@
 			"page": 179,
 			"srd": true,
 			"referenceSources": [
-				"RtG",
+				"CM",
 				"KftGV",
-				"ToFW",
 				"LRDT",
+				"PaBTSO",
+				"RtG",
+				"ToFW",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -36559,9 +36782,9 @@
 			"page": 179,
 			"srd": true,
 			"referenceSources": [
-				"WDH",
 				"NRH-AWoL",
-				"QftIS"
+				"QftIS",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Mace of Disruption|XDMG"
@@ -36635,10 +36858,10 @@
 			"page": 179,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
+				"CoA",
 				"SCC-TMM",
 				"ToFW",
-				"CoA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Mace of Smiting|XDMG"
@@ -36695,8 +36918,10 @@
 			"page": 180,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
-				"CoA"
+				"CoA",
+				"CoS",
+				"KftGV",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Mace of Terror|XDMG"
@@ -37006,6 +37231,10 @@
 			"source": "DMG",
 			"page": 258,
 			"srd": true,
+			"referenceSources": [
+				"BGDIA",
+				"SDW"
+			],
 			"reprintedAs": [
 				"Malice|XDMG"
 			],
@@ -37049,9 +37278,11 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"BGDIA",
 				"CoS",
-				"GoS",
 				"DSotDQ",
+				"GoS",
+				"IDRotF",
 				"QftIS"
 			],
 			"reprintedAs": [
@@ -37101,8 +37332,8 @@
 			"page": 180,
 			"srd": true,
 			"referenceSources": [
-				"IDRotF",
-				"CoA"
+				"CoA",
+				"IDRotF"
 			],
 			"reprintedAs": [
 				"Mantle of Spell Resistance|XDMG"
@@ -37142,10 +37373,10 @@
 			"page": 180,
 			"srd": true,
 			"referenceSources": [
-				"CoS",
 				"CoA",
-				"VEoR",
-				"QftIS"
+				"CoS",
+				"QftIS",
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Manual of Bodily Health|XDMG"
@@ -37227,6 +37458,9 @@
 			"source": "DMG",
 			"page": 180,
 			"srd": true,
+			"referenceSources": [
+				"LLK"
+			],
 			"reprintedAs": [
 				"Manual of Flesh Golems|XDMG"
 			],
@@ -37265,9 +37499,9 @@
 			"page": 180,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
 				"CoA",
-				"QftIS"
+				"QftIS",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Manual of Gainful Exercise|XDMG"
@@ -37311,8 +37545,8 @@
 			"page": 180,
 			"srd": true,
 			"referenceSources": [
-				"LLK",
-				"CoA"
+				"CoA",
+				"LLK"
 			],
 			"reprintedAs": [
 				"Manual of Iron Golems|XDMG"
@@ -37452,6 +37686,9 @@
 			"page": 151,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"KftGV"
+			],
 			"reprintedAs": [
 				"Map or Scroll Case|XPHB"
 			],
@@ -37628,8 +37865,8 @@
 			"page": 271,
 			"referenceSources": [
 				"CoS",
-				"SKT",
-				"CRCotN"
+				"CRCotN",
+				"SKT"
 			],
 			"reprintedAs": [
 				"Command Amulet|XMM"
@@ -37936,8 +38173,9 @@
 			"srd": true,
 			"referenceSources": [
 				"CoA",
-				"VEoR",
-				"QftIS"
+				"QftIS",
+				"TTP",
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Medallion of Thoughts|XDMG"
@@ -38033,8 +38271,10 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"TTP",
-				"SjA"
+				"CoS",
+				"SjA",
+				"ToA",
+				"TTP"
 			],
 			"type": "G",
 			"rarity": "none",
@@ -38050,10 +38290,10 @@
 			"page": 258,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
-				"WDMM",
 				"BGDIA",
-				"KftGV"
+				"KftGV",
+				"ToA",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Midnight Tears|XDMG"
@@ -38438,6 +38678,10 @@
 			"page": 150,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"IDRotF",
+				"PaBTSO"
+			],
 			"type": "G",
 			"rarity": "none",
 			"weight": 10,
@@ -38463,11 +38707,11 @@
 			"page": 181,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
-				"WDMM",
+				"CoA",
 				"JttRC",
 				"LoX",
-				"CoA"
+				"ToA",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Mirror of Life Trapping|XDMG"
@@ -39495,10 +39739,10 @@
 				}
 			],
 			"referenceSources": [
-				"ToA",
 				"GoS",
 				"IDRotF",
-				"LoX"
+				"LoX",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Navigator's Tools|XPHB"
@@ -39596,9 +39840,11 @@
 			"page": 182,
 			"srd": true,
 			"referenceSources": [
+				"JttRC",
 				"NRH-AVitW",
-				"VEoR",
-				"QftIS"
+				"OotA",
+				"QftIS",
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Necklace of Adaptation|XDMG"
@@ -39657,16 +39903,18 @@
 			"page": 182,
 			"srd": true,
 			"referenceSources": [
+				"BGDIA",
+				"DIP",
+				"IDRotF",
+				"KftGV",
+				"NRH-ASS",
+				"NRH-TLT",
 				"OotA",
 				"TftYP-AtG",
 				"ToA",
-				"WDH",
-				"IDRotF",
-				"NRH-ASS",
-				"NRH-TLT",
-				"KftGV",
 				"ToFW",
-				"VEoR"
+				"VEoR",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Necklace of Fireballs|XDMG"
@@ -39730,9 +39978,9 @@
 			"page": 182,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
 				"JttRC",
 				"KftGV",
+				"PotA",
 				"ToFW"
 			],
 			"reprintedAs": [
@@ -40226,7 +40474,7 @@
 			"rechargeAmount": "{@dice 1d6}",
 			"charges": 6,
 			"entries": [
-				"This Mace has 6 charges and regains {@dice 1d6} expended charges daily at dawn. While holding the Mace, you can expend 1 of its charges to cast {@spell Summon Celestial|XPHB} (+9 to hit with spell attacks)."
+				"This Mace has 6 charges and regains {@dice 1d6} expended charges daily at dawn. While holding the Mace, you can expend 1 of its charges to cast {@spell Summon Celestial|XPHB} ({@hit 9} to hit with spell attacks)."
 			],
 			"attachedSpells": {
 				"charges": {
@@ -40278,13 +40526,14 @@
 			"page": 183,
 			"srd": "Marvelous Pigments",
 			"referenceSources": [
-				"ToA",
-				"LLK",
-				"WDMM",
+				"CRCotN",
 				"GoS",
 				"IMR",
-				"CRCotN",
-				"JttRC"
+				"JttRC",
+				"LLK",
+				"TftYP-AtG",
+				"ToA",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Nolzur's Marvelous Pigments|XDMG"
@@ -40606,8 +40855,13 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CRCotN",
+				"DSotDQ",
+				"IDRotF",
+				"PaBTSO",
+				"QftIS",
 				"TftYP-THSoT",
-				"CRCotN"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Oil|XPHB"
@@ -40629,6 +40883,7 @@
 			"page": 183,
 			"srd": true,
 			"referenceSources": [
+				"HotDQ",
 				"TftYP-DiT"
 			],
 			"reprintedAs": [
@@ -40679,10 +40934,11 @@
 			"page": 184,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"CoS",
-				"LoX",
 				"CoA",
+				"CoS",
+				"KftGV",
+				"LoX",
+				"OotA",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -40733,10 +40989,14 @@
 			"page": 184,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
+				"CM",
+				"CoA",
 				"GoS",
+				"KftGV",
+				"OotA",
 				"SCC-HfMT",
-				"CoA"
+				"TftYP-AtG",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Oil of Slipperiness|XDMG"
@@ -40789,8 +41049,9 @@
 			"page": 258,
 			"srd": true,
 			"referenceSources": [
-				"TftYP-AtG",
-				"EFR"
+				"BGDIA",
+				"EFR",
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Oil of Taggit|XDMG"
@@ -41124,8 +41385,8 @@
 			"page": 138,
 			"referenceSources": [
 				"LLK",
-				"WDMM",
-				"WBtW"
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Orb of Direction|XDMG"
@@ -41502,6 +41763,10 @@
 			"name": "Orb of Time",
 			"source": "XGE",
 			"page": 138,
+			"referenceSources": [
+				"LLK",
+				"RtG"
+			],
 			"reprintedAs": [
 				"Orb of Time|XDMG"
 			],
@@ -42209,6 +42474,7 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
+				"DrDe-SD",
 				"DrDe-TDoN"
 			],
 			"type": "G|XPHB",
@@ -42225,8 +42491,9 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"TftYP-ToH",
-				"CRCotN"
+				"CRCotN",
+				"KftGV",
+				"TftYP-ToH"
 			],
 			"reprintedAs": [
 				"Parchment|XPHB"
@@ -42277,6 +42544,7 @@
 			"source": "DMG",
 			"page": 134,
 			"referenceSources": [
+				"DoSI",
 				"KftGV"
 			],
 			"reprintedAs": [
@@ -42306,13 +42574,14 @@
 			"page": 184,
 			"srd": true,
 			"referenceSources": [
-				"SKT",
-				"TftYP-AtG",
+				"DSotDQ",
 				"GoS",
 				"IDRotF",
 				"JttRC",
-				"DSotDQ",
-				"QftIS"
+				"QftIS",
+				"SKT",
+				"TftYP-AtG",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Pearl of Power|XDMG"
@@ -42493,6 +42762,9 @@
 			"value": 500,
 			"entries": [
 				"Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have {@variantrule Advantage|XPHB} on Charisma ({@skill Persuasion|XPHB}) checks made to influence an Indifferent Humanoid within 5 feet of yourself."
+			],
+			"miscTags": [
+				"CNS"
 			]
 		},
 		{
@@ -42509,7 +42781,10 @@
 			],
 			"type": "G",
 			"rarity": "none",
-			"value": 500
+			"value": 500,
+			"miscTags": [
+				"CNS"
+			]
 		},
 		{
 			"name": "Perfume of Bewitching",
@@ -42523,6 +42798,9 @@
 			"lootTables": [
 				"Arcana - Common|XDMG",
 				"Implements - Common|XDMG"
+			],
+			"miscTags": [
+				"CNS"
 			]
 		},
 		{
@@ -42537,6 +42815,9 @@
 			"wondrous": true,
 			"entries": [
 				"This tiny vial contains magic perfume, enough for one use. You can use an action to apply the perfume to yourself, and its effect lasts 1 hour. For the duration, you have advantage on all Charisma checks directed at humanoids of challenge rating 1 or lower. Those subjected to the perfume's effect are not aware that they've been influenced by magic."
+			],
+			"miscTags": [
+				"CNS"
 			]
 		},
 		{
@@ -42594,6 +42875,7 @@
 			"srd": true,
 			"referenceSources": [
 				"DitLCoT",
+				"DSotDQ",
 				"QftIS"
 			],
 			"reprintedAs": [
@@ -42646,6 +42928,7 @@
 			"srd": true,
 			"referenceSources": [
 				"LR",
+				"TftYP-THSoT",
 				"ToFW"
 			],
 			"reprintedAs": [
@@ -42709,6 +42992,9 @@
 			"name": "Peridot",
 			"source": "DMG",
 			"page": 134,
+			"referenceSources": [
+				"PaBTSO"
+			],
 			"reprintedAs": [
 				"Peridot|XDMG"
 			],
@@ -42764,6 +43050,10 @@
 			"source": "DMG",
 			"page": 184,
 			"srd": true,
+			"referenceSources": [
+				"OotA",
+				"TftYP-AtG"
+			],
 			"reprintedAs": [
 				"Philter of Love|XDMG"
 			],
@@ -42874,8 +43164,8 @@
 			"source": "XGE",
 			"page": 138,
 			"referenceSources": [
-				"WDMM",
-				"WBtW"
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Pipe of Smoke Monsters|XDMG"
@@ -42894,10 +43184,10 @@
 			"page": 185,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
 				"CoS",
 				"US",
-				"WBtW",
-				"CoA"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Pipes of Haunting|XDMG"
@@ -42963,6 +43253,7 @@
 			"page": 185,
 			"srd": true,
 			"referenceSources": [
+				"BGDIA",
 				"TftYP-AtG"
 			],
 			"reprintedAs": [
@@ -43057,8 +43348,8 @@
 			"source": "OotA",
 			"page": 222,
 			"referenceSources": [
-				"WDMM",
-				"IDRotF"
+				"IDRotF",
+				"WDMM"
 			],
 			"rarity": "uncommon",
 			"reqAttune": true,
@@ -43206,6 +43497,9 @@
 			"source": "DMG",
 			"page": 185,
 			"srd": true,
+			"referenceSources": [
+				"CoA"
+			],
 			"reprintedAs": [
 				{
 					"uid": "Plate Armor of Etherealness (*)|XDMG",
@@ -43397,6 +43691,9 @@
 			"page": 154,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"CoS"
+			],
 			"reprintedAs": [
 				"Playing Cards|XPHB"
 			],
@@ -43489,7 +43786,13 @@
 				}
 			],
 			"referenceSources": [
-				"KftGV"
+				"BGDIA",
+				"CoS",
+				"KftGV",
+				"OoW",
+				"SCC-HfMT",
+				"TftYP-TSC",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Poisoner's Kit|XPHB"
@@ -43693,6 +43996,7 @@
 			"source": "XGE",
 			"page": 138,
 			"referenceSources": [
+				"DIP",
 				"WBtW"
 			],
 			"reprintedAs": [
@@ -43739,10 +44043,12 @@
 			"page": 185,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
-				"RMBRE",
+				"DSotDQ",
+				"KftGV",
+				"LLK",
 				"LoX",
-				"DSotDQ"
+				"RMBRE",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Portable Hole|XDMG"
@@ -43882,8 +44188,8 @@
 				}
 			],
 			"referenceSources": [
-				"WDMM",
-				"IMR"
+				"IMR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Pot of Awakening|XDMG"
@@ -43902,8 +44208,9 @@
 			"page": 188,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
-				"OoW"
+				"LRDT",
+				"OoW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Acid Resistance|XDMG"
@@ -43965,13 +44272,15 @@
 			"page": 187,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
-				"WDH",
-				"WDMM",
+				"CoA",
 				"IDRotF",
 				"KftGV",
-				"CoA",
-				"QftIS"
+				"OoW",
+				"QftIS",
+				"ToA",
+				"ToR",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Animal Friendship|XDMG"
@@ -44062,13 +44371,13 @@
 			"page": 187,
 			"srd": true,
 			"referenceSources": [
-				"SKT",
-				"TftYP-THSoT",
 				"CM",
-				"KftGV",
 				"CoA",
+				"KftGV",
 				"LRDT",
-				"QftIS"
+				"QftIS",
+				"SKT",
+				"TftYP-THSoT"
 			],
 			"reprintedAs": [
 				"Potion of Clairvoyance|XDMG"
@@ -44118,15 +44427,17 @@
 			"page": 187,
 			"srd": true,
 			"referenceSources": [
-				"SKT",
-				"TftYP-TFoF",
-				"TftYP-DiT",
-				"WDH",
-				"GoS",
-				"OoW",
-				"SDW",
 				"DC",
-				"MOT"
+				"GoS",
+				"MOT",
+				"OoW",
+				"PaBTSO",
+				"SCC-HfMT",
+				"SDW",
+				"SKT",
+				"TftYP-DiT",
+				"TftYP-TFoF",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Potion of Climbing|XDMG"
@@ -44182,7 +44493,8 @@
 			"page": 187,
 			"srd": true,
 			"referenceSources": [
-				"CoA"
+				"CoA",
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Potion of Cloud Giant Strength|XDMG"
@@ -44324,16 +44636,20 @@
 			"page": 187,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
+				"OoW",
+				"PotA",
+				"QftIS",
+				"RtG",
+				"SDW",
+				"SKT",
+				"TftYP-AtG",
 				"TftYP-DiT",
 				"TftYP-ToH",
 				"ToA",
-				"WDMM",
-				"OoW",
-				"SDW",
-				"WBtW",
-				"CoA",
 				"VEoR",
-				"QftIS"
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Diminution|XDMG"
@@ -44396,12 +44712,14 @@
 			"source": "DMG",
 			"page": 187,
 			"referenceSources": [
-				"RoT",
-				"PotA",
-				"TftYP-TSC",
 				"BGDIA",
+				"CoA",
 				"DSotDQ",
-				"CoA"
+				"OotA",
+				"PotA",
+				"RoT",
+				"TftYP-TSC",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Fire Breath|XDMG"
@@ -44448,8 +44766,8 @@
 			"srd": true,
 			"referenceSources": [
 				"CM",
-				"GotSF",
-				"CoA"
+				"CoA",
+				"GotSF"
 			],
 			"reprintedAs": [
 				"Potion of Fire Giant Strength|XDMG"
@@ -44505,13 +44823,14 @@
 			"page": 188,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
-				"TftYP-TSC",
-				"TftYP-AtG",
-				"WDMM",
 				"JttRC",
 				"KftGV",
-				"VEoR"
+				"PotA",
+				"SKT",
+				"TftYP-AtG",
+				"TftYP-TSC",
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Fire Resistance|XDMG"
@@ -44557,17 +44876,22 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"LMoP",
-				"PotA",
-				"TftYP-WPM",
-				"TftYP-DiT",
 				"BGDIA",
-				"RMBRE",
-				"GotSF",
-				"PaBTSO",
-				"ToFW",
 				"CoA",
-				"VEoR"
+				"GotSF",
+				"IMR",
+				"JttRC",
+				"LMoP",
+				"OotA",
+				"PaBTSO",
+				"PotA",
+				"RMBRE",
+				"TftYP-DiT",
+				"TftYP-TFoF",
+				"TftYP-WPM",
+				"ToFW",
+				"VEoR",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Potion of Flying|XDMG"
@@ -44664,10 +44988,11 @@
 			"page": 187,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
-				"OoW",
 				"BGDIA",
-				"CoA"
+				"CoA",
+				"OoW",
+				"PotA",
+				"RoT"
 			],
 			"reprintedAs": [
 				"Potion of Frost Giant Strength|XDMG"
@@ -44723,18 +45048,20 @@
 			"page": 187,
 			"srd": true,
 			"referenceSources": [
-				"HotDQ",
-				"PotA",
-				"OotA",
-				"SKT",
-				"WDMM",
-				"OoW",
-				"IDRotF",
 				"CM",
+				"CoA",
 				"CRCotN",
 				"DSotDQ",
-				"CoA",
-				"VEoR"
+				"GoS",
+				"HotDQ",
+				"IDRotF",
+				"KftGV",
+				"OotA",
+				"OoW",
+				"PotA",
+				"SKT",
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Gaseous Form|XDMG"
@@ -44800,31 +45127,38 @@
 			"page": 187,
 			"srd": true,
 			"referenceSources": [
-				"HotDQ",
-				"RoT",
-				"PotA",
-				"OotA",
-				"TftYP-ToH",
-				"ToA",
-				"WDH",
-				"WDMM",
-				"GoS",
-				"DIP",
-				"SLW",
-				"SDW",
-				"DC",
+				"AitFR-AVT",
 				"BGDIA",
-				"IMR",
 				"CM",
-				"RtG",
+				"CoS",
 				"CRCotN",
+				"DC",
+				"DIP",
+				"DitLCoT",
 				"DSotDQ",
+				"GoS",
+				"HotDQ",
+				"IMR",
 				"KftGV",
-				"PaBTSO",
 				"LRDT",
-				"VNotEE",
+				"OotA",
+				"OoW",
+				"PaBTSO",
+				"PotA",
+				"QftIS",
+				"RoT",
+				"RtG",
+				"SCC-ARiR",
+				"SDW",
+				"SLW",
+				"TftYP-DiT",
+				"TftYP-ToH",
+				"TftYP-WPM",
+				"ToA",
 				"VEoR",
-				"QftIS"
+				"VNotEE",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Greater Healing|XDMG"
@@ -44851,8 +45185,8 @@
 			"basicRules2024": true,
 			"referenceSources": [
 				"DrDe-BtS",
-				"HotB",
-				"FFotR"
+				"FFotR",
+				"HotB"
 			],
 			"type": "P|XPHB",
 			"rarity": "uncommon",
@@ -44892,13 +45226,16 @@
 			"page": 187,
 			"srd": true,
 			"referenceSources": [
-				"SDW",
-				"DC",
-				"WBtW",
-				"PaBTSO",
 				"CoA",
+				"DC",
+				"OoW",
+				"PaBTSO",
+				"QftIS",
+				"RoT",
+				"SDW",
+				"TftYP-AtG",
 				"VEoR",
-				"QftIS"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Potion of Growth|XDMG"
@@ -44925,6 +45262,9 @@
 			"page": 288,
 			"srd52": true,
 			"basicRules2024": true,
+			"referenceSources": [
+				"DrDe-SD"
+			],
 			"type": "P|XPHB",
 			"rarity": "uncommon",
 			"weight": 0.5,
@@ -44955,58 +45295,63 @@
 				}
 			],
 			"referenceSources": [
-				"LMoP",
-				"HotDQ",
-				"RoT",
-				"PotA",
-				"OotA",
+				"BGDIA",
+				"CM",
 				"CoS",
+				"CRCotN",
+				"DC",
+				"DD",
+				"DIP",
+				"DoSI",
+				"DSotDQ",
+				"GoS",
+				"HftT",
+				"HoL",
+				"HotDQ",
+				"IDRotF",
+				"JttRC",
+				"KftGV",
+				"LLK",
+				"LMoP",
+				"LoX",
+				"LRDT",
+				"MOT",
+				"NRH-ASS",
+				"NRH-AT",
+				"NRH-AVitW",
+				"NRH-AWoL",
+				"NRH-CoI",
+				"NRH-TCMC",
+				"NRH-TLT",
+				"OotA",
+				"OoW",
+				"PaBTSO",
+				"PotA",
+				"QftIS",
+				"RMBRE",
+				"RoT",
+				"RtG",
+				"SCC-CK",
+				"SCC-HfMT",
+				"SCC-TMM",
+				"SDW",
+				"SjA",
 				"SKT",
-				"TftYP-TSC",
+				"SLW",
+				"TftYP-AtG",
+				"TftYP-DiT",
 				"TftYP-TFoF",
 				"TftYP-THSoT",
-				"TftYP-DiT",
-				"TftYP-AtG",
 				"TftYP-ToH",
+				"TftYP-TSC",
 				"ToA",
-				"TTP",
-				"WDH",
-				"LLK",
-				"WDMM",
-				"GoS",
-				"OoW",
-				"DIP",
-				"SLW",
-				"SDW",
-				"DC",
-				"BGDIA",
-				"RMBRE",
-				"ToR",
-				"DD",
-				"US",
-				"MOT",
-				"IDRotF",
-				"CM",
-				"HoL",
-				"NRH-TCMC",
-				"NRH-AVitW",
-				"NRH-ASS",
-				"NRH-CoI",
-				"NRH-TLT",
-				"NRH-AWoL",
-				"NRH-AT",
-				"SCC-CK",
-				"SCC-TMM",
-				"CRCotN",
-				"JttRC",
-				"DoSI",
-				"SjA",
-				"DSotDQ",
-				"KftGV",
-				"PaBTSO",
 				"ToFW",
-				"LRDT",
-				"QftIS"
+				"ToR",
+				"TTP",
+				"US",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Healing|XDMG"
@@ -45039,12 +45384,13 @@
 				}
 			],
 			"referenceSources": [
-				"UtHftLH",
+				"DrDe-DaS",
 				"DrDe-FWtVC",
 				"DrDe-SD",
+				"FRAiF",
 				"HotB",
-				"WttHC",
-				"FRAiF"
+				"UtHftLH",
+				"WttHC"
 			],
 			"type": "P|XPHB",
 			"rarity": "common",
@@ -45068,15 +45414,21 @@
 			"page": 188,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
-				"CoS",
-				"SKT",
-				"GoS",
-				"SDW",
-				"DC",
-				"RtG",
-				"CRCotN",
+				"CM",
 				"CoA",
+				"CoS",
+				"CRCotN",
+				"DC",
+				"GoS",
+				"LRDT",
+				"OoW",
+				"PotA",
+				"QftIS",
+				"RtG",
+				"SDW",
+				"SKT",
+				"TftYP-AtG",
+				"TftYP-DiT",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -45105,8 +45457,8 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-TFV",
-				"DrDe-BtS"
+				"DrDe-BtS",
+				"DrDe-TFV"
 			],
 			"type": "P|XPHB",
 			"rarity": "rare",
@@ -45132,12 +45484,14 @@
 			"page": 187,
 			"srd": true,
 			"referenceSources": [
+				"CM",
+				"CoA",
+				"CRCotN",
+				"KftGV",
 				"PotA",
 				"TftYP-TFoF",
 				"TftYP-THSoT",
-				"CM",
-				"CRCotN",
-				"CoA"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Potion of Hill Giant Strength|XDMG"
@@ -45194,22 +45548,26 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"LMoP",
-				"PotA",
-				"OotA",
-				"SKT",
-				"TftYP-THSoT",
-				"TftYP-DiT",
-				"WDH",
-				"WDMM",
-				"GoS",
-				"OoW",
-				"IDRotF",
-				"WBtW",
-				"SCC-HfMT",
-				"PaBTSO",
+				"BGDIA",
 				"CoA",
-				"VEoR"
+				"GoS",
+				"IDRotF",
+				"LMoP",
+				"OotA",
+				"OoW",
+				"PaBTSO",
+				"PotA",
+				"QftIS",
+				"SCC-HfMT",
+				"SKT",
+				"TftYP-AtG",
+				"TftYP-DiT",
+				"TftYP-TFoF",
+				"TftYP-THSoT",
+				"VEoR",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Invisibility|XDMG"
@@ -45256,10 +45614,14 @@
 			"source": "DMG",
 			"page": 188,
 			"referenceSources": [
-				"PotA",
 				"CoS",
-				"SKT",
+				"DC",
 				"DIP",
+				"JttRC",
+				"PaBTSO",
+				"PotA",
+				"SKT",
+				"TftYP-AtG",
 				"WBtW"
 			],
 			"reprintedAs": [
@@ -45336,7 +45698,8 @@
 			"srd": true,
 			"referenceSources": [
 				"DoSI",
-				"KftGV"
+				"KftGV",
+				"SKT"
 			],
 			"reprintedAs": [
 				"Potion of Lightning Resistance|XDMG"
@@ -45380,12 +45743,14 @@
 			"source": "DMG",
 			"page": 188,
 			"referenceSources": [
+				"CM",
+				"CoA",
+				"IDRotF",
+				"JttRC",
+				"OotA",
 				"PotA",
 				"SKT",
-				"WDMM",
-				"CM",
-				"JttRC",
-				"CoA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Longevity|XDMG"
@@ -45497,15 +45862,17 @@
 			"page": 188,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"TftYP-DiT",
-				"WDH",
-				"WDMM",
-				"US",
 				"CM",
-				"SCC-CK",
 				"CoA",
-				"VEoR"
+				"OotA",
+				"SCC-CK",
+				"TftYP-AtG",
+				"TftYP-DiT",
+				"TftYP-WPM",
+				"US",
+				"VEoR",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Mind Reading|XDMG"
@@ -45604,20 +45971,24 @@
 			"page": 188,
 			"srd": true,
 			"referenceSources": [
-				"RoT",
-				"PotA",
-				"OotA",
+				"CoA",
 				"CoS",
-				"SKT",
-				"TftYP-THSoT",
-				"TftYP-AtG",
-				"ToA",
-				"SDW",
 				"IMR",
 				"KftGV",
-				"CoA",
-				"VEoR",
-				"QftIS"
+				"OotA",
+				"OoW",
+				"PaBTSO",
+				"PotA",
+				"QftIS",
+				"RoT",
+				"SCC-ARiR",
+				"SDW",
+				"SKT",
+				"TftYP-AtG",
+				"TftYP-DiT",
+				"TftYP-THSoT",
+				"ToA",
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Potion of Poison|XDMG"
@@ -45662,6 +46033,8 @@
 			"page": 188,
 			"srd": true,
 			"referenceSources": [
+				"KftGV",
+				"SKT",
 				"ToFW"
 			],
 			"reprintedAs": [
@@ -45751,6 +46124,9 @@
 			"source": "DMG",
 			"page": 188,
 			"srd": true,
+			"referenceSources": [
+				"OotA"
+			],
 			"reprintedAs": [
 				"Potion of Psychic Resistance|XDMG"
 			],
@@ -45858,10 +46234,10 @@
 			"page": 188,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
-				"TftYP-AtG",
 				"CoA",
 				"LRDT",
+				"PotA",
+				"TftYP-AtG",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -45915,6 +46291,10 @@
 			"source": "DMG",
 			"page": 187,
 			"srd": true,
+			"referenceSources": [
+				"CoA",
+				"VEoR"
+			],
 			"reprintedAs": [
 				"Potion of Stone Giant Strength|XDMG"
 			],
@@ -45969,8 +46349,10 @@
 			"page": 187,
 			"srd": true,
 			"referenceSources": [
-				"TftYP-AtG",
-				"CoA"
+				"CoA",
+				"DC",
+				"SKT",
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Potion of Storm Giant Strength|XDMG"
@@ -46027,20 +46409,21 @@
 			"page": 187,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
-				"CoS",
-				"TftYP-AtG",
-				"WDMM",
-				"GoS",
-				"DIP",
-				"IDRotF",
 				"CM",
-				"RtG",
+				"CoS",
 				"CRCotN",
-				"JttRC",
+				"DIP",
 				"DSotDQ",
+				"GoS",
+				"IDRotF",
+				"JttRC",
 				"KftGV",
-				"VEoR"
+				"PotA",
+				"RtG",
+				"TftYP-AtG",
+				"TftYP-DiT",
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Superior Healing|XDMG"
@@ -46084,13 +46467,16 @@
 			"page": 187,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
+				"CoA",
 				"DC",
 				"JttRC",
+				"OotA",
 				"PaBTSO",
+				"SKT",
+				"ToA",
 				"ToFW",
-				"CoA",
-				"VEoR"
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Supreme Healing|XDMG"
@@ -46180,13 +46566,16 @@
 			"page": 188,
 			"basicRules": true,
 			"referenceSources": [
+				"CoA",
+				"IDRotF",
+				"KftGV",
 				"LMoP",
 				"OotA",
+				"QftIS",
+				"SLW",
 				"ToA",
-				"WDMM",
-				"KftGV",
-				"CoA",
-				"QftIS"
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Vitality|XDMG"
@@ -46245,24 +46634,26 @@
 			"page": 188,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
-				"SKT",
-				"TftYP-TFoF",
-				"TftYP-DiT",
-				"TftYP-AtG",
-				"ToA",
-				"WDH",
-				"WDMM",
-				"GoS",
-				"OoW",
-				"DIP",
-				"SDW",
-				"DC",
-				"ToR",
-				"IDRotF",
+				"CoA",
 				"CRCotN",
+				"DC",
+				"DIP",
+				"GoS",
+				"IDRotF",
+				"KftGV",
+				"OotA",
+				"OoW",
+				"PotA",
+				"SDW",
+				"SKT",
+				"TftYP-AtG",
+				"TftYP-DiT",
+				"TftYP-TFoF",
+				"ToA",
 				"ToFW",
-				"CoA"
+				"ToR",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Water Breathing|XDMG"
@@ -46311,6 +46702,7 @@
 			"basicRules": true,
 			"referenceSources": [
 				"DoSI",
+				"DSotDQ",
 				"KftGV",
 				"PaBTSO"
 			],
@@ -46648,7 +47040,8 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"QftIS"
+				"QftIS",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Priest's Pack|XPHB"
@@ -47295,6 +47688,7 @@
 			"page": 188,
 			"srd": "Feather Token, Anchor",
 			"referenceSources": [
+				"OoW",
 				"TTP"
 			],
 			"reprintedAs": [
@@ -47312,7 +47706,8 @@
 						"You can use an action to touch the token to a boat or ship. For the next 24 hours, the vessel can't be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears."
 					]
 				}
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Quaal's Feather Token, Anchor",
@@ -47338,6 +47733,7 @@
 			"page": 188,
 			"srd": "Feather Token, Bird",
 			"referenceSources": [
+				"CM",
 				"DSotDQ",
 				"ToFW"
 			],
@@ -47356,7 +47752,8 @@
 						"You can use an action to toss the token 5 feet into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a {@creature roc}, but it obeys your simple commands and can't attack. It can carry up to 500 pounds while flying at its maximum speed (16 miles an hour for a maximum of 144 miles per day. with a one-hour rest for every 3 hours of flying), or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 hit points. You can dismiss the bird as an action."
 					]
 				}
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Quaal's Feather Token, Bird",
@@ -47396,7 +47793,8 @@
 						"If you are on a boat or ship, you can use an action to toss the token up to 10 feet in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a wind strong enough to fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as an action."
 					]
 				}
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Quaal's Feather Token, Fan",
@@ -47436,7 +47834,8 @@
 						"You can use an action to touch the token to a body of water at least 60 feet in diameter. The token disappears, and a 50-foot-long, 20-foot-wide boat shaped like a swan takes its place. The boat is self-propelled and moves across water at a speed of 6 miles per hour. You can use an action while on the boat to command it to move or to turn up to 90 degrees. The boat can carry up to thirty-two Medium or smaller creatures. A Large creature counts as four Medium creatures, while a Huge creature counts as nine. The boat remains for 24 hours and then disappears. You can dismiss the boat as an action."
 					]
 				}
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Quaal's Feather Token, Swan Boat",
@@ -47462,8 +47861,8 @@
 			"page": 188,
 			"srd": "Feather Token, Tree",
 			"referenceSources": [
-				"TftYP-TSC",
-				"GotSF"
+				"GotSF",
+				"TftYP-TSC"
 			],
 			"reprintedAs": [
 				"Quaal's Feather Token, Tree|XDMG"
@@ -47480,7 +47879,8 @@
 						"You must be outdoors to use this token. You can use an action to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs into existence. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius."
 					]
 				}
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Quaal's Feather Token, Tree",
@@ -47521,7 +47921,8 @@
 						"As a bonus action on your turn, you can direct the whip to fly up to 20 feet and repeat the attack against a creature within 10 feet of it. The whip disappears after 1 hour, when you use an action to dismiss it, or when you are {@condition incapacitated} or die."
 					]
 				}
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Quaal's Feather Token, Whip",
@@ -47716,9 +48117,12 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"ToA",
 				"CRCotN",
-				"DitLCoT"
+				"DitLCoT",
+				"IDRotF",
+				"PaBTSO",
+				"TftYP-TSC",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Quiver|XPHB"
@@ -47744,6 +48148,9 @@
 			"page": 228,
 			"srd52": true,
 			"basicRules2024": true,
+			"referenceSources": [
+				"DrDe-TWoO"
+			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"weight": 1,
@@ -47765,8 +48172,9 @@
 			"page": 189,
 			"srd": "Efficient Quiver",
 			"referenceSources": [
-				"WBtW",
-				"KftGV"
+				"IDRotF",
+				"KftGV",
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Quiver of Ehlonna|XDMG"
@@ -48086,11 +48494,14 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"ToA",
-				"XMtS",
-				"DIP",
 				"CRCotN",
-				"ToFW"
+				"DIP",
+				"KftGV",
+				"SjA",
+				"TftYP-TSC",
+				"ToA",
+				"ToFW",
+				"XMtS"
 			],
 			"reprintedAs": [
 				"Rations|XPHB"
@@ -48694,8 +49105,9 @@
 			"page": 189,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
 				"KftGV",
+				"TftYP-THSoT",
+				"ToA",
 				"ToFW"
 			],
 			"reprintedAs": [
@@ -48775,8 +49187,9 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"PotA",
 				"RoT",
-				"PotA"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Ring of Cold Resistance|XDMG"
@@ -48879,6 +49292,9 @@
 			"source": "DMG",
 			"page": 190,
 			"srd": true,
+			"referenceSources": [
+				"OotA"
+			],
 			"reprintedAs": [
 				"Ring of Elemental Command (Earth)|XDMG"
 			],
@@ -49274,7 +49690,9 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"KftGV"
+				"CoS",
+				"KftGV",
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Ring of Evasion|XDMG"
@@ -49323,10 +49741,12 @@
 			"page": 191,
 			"srd": true,
 			"referenceSources": [
-				"TftYP-ToH",
 				"DSotDQ",
+				"OoW",
+				"QftIS",
+				"TftYP-ToH",
 				"VEoR",
-				"QftIS"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Ring of Feather Falling|XDMG"
@@ -49422,12 +49842,13 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"DSotDQ",
 				"PotA",
+				"QftIS",
 				"SKT",
 				"TftYP-AtG",
 				"TftYP-ToH",
-				"ToA",
-				"QftIS"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Ring of Fire Resistance|XDMG"
@@ -49469,6 +49890,9 @@
 			"page": 192,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"WDH"
+			],
 			"reprintedAs": [
 				"Ring of Force Resistance|XDMG"
 			],
@@ -49508,10 +49932,10 @@
 			"page": 191,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
+				"CRCotN",
 				"GoS",
-				"OoW",
-				"CRCotN"
+				"OotA",
+				"OoW"
 			],
 			"reprintedAs": [
 				"Ring of Free Action|XDMG"
@@ -49560,6 +49984,8 @@
 			"page": 191,
 			"srd": true,
 			"referenceSources": [
+				"LRDT",
+				"TftYP-AtG",
 				"WDH"
 			],
 			"reprintedAs": [
@@ -49602,7 +50028,8 @@
 			"referenceSources": [
 				"CM",
 				"JttRC",
-				"KftGV"
+				"KftGV",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Ring of Jumping|XDMG"
@@ -49704,16 +50131,19 @@
 			"page": 191,
 			"srd": true,
 			"referenceSources": [
-				"TftYP-AtG",
-				"RtG",
-				"SCC-CK",
-				"SCC-ARiR",
+				"BGDIA",
+				"CoA",
+				"CoS",
 				"JttRC",
 				"KftGV",
 				"PaBTSO",
+				"QftIS",
+				"RtG",
+				"SCC-ARiR",
+				"SCC-CK",
+				"TftYP-AtG",
 				"ToFW",
-				"CoA",
-				"QftIS"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Ring of Mind Shielding|XDMG"
@@ -49870,20 +50300,22 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"LMoP",
-				"OotA",
-				"SKT",
-				"TftYP-THSoT",
-				"TftYP-WPM",
-				"TftYP-AtG",
-				"TftYP-ToH",
-				"ToA",
-				"RMBRE",
 				"AitFR-DN",
-				"NRH-ASS",
-				"ToFW",
 				"CoA",
-				"QftIS"
+				"HftT",
+				"LMoP",
+				"NRH-ASS",
+				"OotA",
+				"QftIS",
+				"RMBRE",
+				"SKT",
+				"TftYP-AtG",
+				"TftYP-DiT",
+				"TftYP-THSoT",
+				"TftYP-ToH",
+				"TftYP-WPM",
+				"ToA",
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Ring of Protection|XDMG"
@@ -50082,7 +50514,8 @@
 			"page": 191,
 			"srd": true,
 			"referenceSources": [
-				"CoS"
+				"CoS",
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Ring of Regeneration|XDMG"
@@ -50122,12 +50555,13 @@
 			"page": 192,
 			"srd": true,
 			"referenceSources": [
-				"TftYP-AtG",
 				"CM",
-				"WBtW",
-				"LoX",
 				"CoA",
-				"VEoR"
+				"CRCotN",
+				"LoX",
+				"TftYP-AtG",
+				"VEoR",
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Ring of Shooting Stars|XDMG"
@@ -50282,9 +50716,11 @@
 			"page": 192,
 			"srd": true,
 			"referenceSources": [
-				"TftYP-TFoF",
 				"CM",
-				"CoA"
+				"CoA",
+				"DSotDQ",
+				"TftYP-TFoF",
+				"TftYP-WPM"
 			],
 			"reprintedAs": [
 				"Ring of Spell Storing|XDMG"
@@ -50369,11 +50805,11 @@
 			"page": 193,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
-				"WDMM",
-				"GoS",
 				"CM",
-				"CRCotN"
+				"CRCotN",
+				"GoS",
+				"PotA",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Ring of Swimming|XDMG"
@@ -50511,7 +50947,8 @@
 			"srd": true,
 			"referenceSources": [
 				"CM",
-				"CRCotN"
+				"CRCotN",
+				"IDRotF"
 			],
 			"reprintedAs": [
 				"Ring of the Ram|XDMG"
@@ -50567,6 +51004,9 @@
 			"source": "DMG",
 			"page": 193,
 			"srd": true,
+			"referenceSources": [
+				"ToFW"
+			],
 			"reprintedAs": [
 				"Ring of Three Wishes|XDMG"
 			],
@@ -50682,9 +51122,10 @@
 			"srd": true,
 			"referenceSources": [
 				"CoS",
-				"WDH",
+				"IDRotF",
+				"JttRC",
 				"SLW",
-				"IDRotF"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Ring of Warmth|XDMG"
@@ -50778,8 +51219,9 @@
 			"page": 193,
 			"srd": true,
 			"referenceSources": [
+				"IMR",
 				"OotA",
-				"IMR"
+				"SLW"
 			],
 			"reprintedAs": [
 				"Ring of Water Walking|XDMG"
@@ -50930,9 +51372,9 @@
 			"page": 193,
 			"srd": true,
 			"referenceSources": [
+				"BGDIA",
 				"TftYP-WPM",
-				"WDMM",
-				"BGDIA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Ring of X-ray Vision|XDMG"
@@ -51026,8 +51468,11 @@
 			"page": 193,
 			"srd": true,
 			"referenceSources": [
+				"CM",
+				"CoA",
+				"OotA",
 				"RtG",
-				"CoA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Robe of Eyes|XDMG"
@@ -51104,9 +51549,9 @@
 			"page": 194,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
 				"CM",
-				"LRDT"
+				"LRDT",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Robe of Scintillating Colors|XDMG"
@@ -51352,8 +51797,8 @@
 			"srd": true,
 			"referenceSources": [
 				"CoS",
-				"SKT",
-				"LoX"
+				"LoX",
+				"SKT"
 			],
 			"reprintedAs": [
 				"Robe of Useful Items|XDMG"
@@ -51813,8 +52258,8 @@
 			"page": 196,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
-				"BGDIA"
+				"BGDIA",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Rod of Lordly Might|XDMG"
@@ -52375,6 +52820,7 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
+				"BQGT",
 				"DrDe-TWoO",
 				"HotB"
 			],
@@ -52393,6 +52839,7 @@
 			"page": 197,
 			"srd": true,
 			"referenceSources": [
+				"VEoR",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -52444,7 +52891,9 @@
 			"page": 197,
 			"srd": true,
 			"referenceSources": [
-				"KftGV"
+				"KftGV",
+				"OoW",
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Rope of Entanglement|XDMG"
@@ -52550,10 +52999,10 @@
 			"basicRules": true,
 			"referenceSources": [
 				"CoS",
-				"TTP",
-				"WDH",
+				"DoSI",
 				"RMBRE",
-				"DoSI"
+				"TTP",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Rowboat|XPHB"
@@ -52580,8 +53029,12 @@
 			"page": 230,
 			"srd52": true,
 			"basicRules2024": true,
+			"referenceSources": [
+				"DrDe-TDoN"
+			],
 			"type": "SHP|XPHB",
 			"rarity": "none",
+			"weight": 100,
 			"value": 5000,
 			"crew": 1,
 			"vehAc": 11,
@@ -53120,6 +53573,8 @@
 			"referenceSources": [
 				"CRCotN",
 				"DoSI",
+				"GoS",
+				"KftGV",
 				"PaBTSO"
 			],
 			"reprintedAs": [
@@ -53747,6 +54202,10 @@
 			"page": 151,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"QftIS",
+				"SCC-ARiR"
+			],
 			"reprintedAs": [
 				"Scholar's Pack|XPHB"
 			],
@@ -53819,9 +54278,10 @@
 			"page": 199,
 			"srd": true,
 			"referenceSources": [
+				"LRDT",
 				"OotA",
-				"SDW",
-				"LRDT"
+				"QftIS",
+				"SDW"
 			],
 			"reprintedAs": [
 				"Scimitar of Speed|XDMG"
@@ -54553,6 +55013,9 @@
 			"page": 150,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"KftGV"
+			],
 			"type": "G",
 			"rarity": "none",
 			"value": 50
@@ -54770,17 +55233,17 @@
 			"source": "DMG",
 			"page": 199,
 			"referenceSources": [
+				"BGDIA",
+				"CoA",
+				"CRCotN",
+				"DD",
+				"DIP",
+				"KftGV",
+				"LoX",
+				"SjA",
 				"SKT",
 				"ToA",
-				"WDMM",
-				"DIP",
-				"BGDIA",
-				"DD",
-				"CRCotN",
-				"SjA",
-				"LoX",
-				"KftGV",
-				"CoA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Sending Stones|XDMG"
@@ -54819,9 +55282,9 @@
 				}
 			],
 			"referenceSources": [
-				"ScoEE",
+				"DrDe-ACfaS",
 				"DrDe-TDoN",
-				"DrDe-ACfaS"
+				"ScoEE"
 			],
 			"rarity": "uncommon",
 			"wondrous": true,
@@ -54881,9 +55344,10 @@
 			"source": "DMG",
 			"page": 199,
 			"referenceSources": [
-				"WDMM",
+				"CRCotN",
+				"LRDT",
 				"OoW",
-				"CRCotN"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Sentinel Shield|XDMG"
@@ -54941,8 +55405,8 @@
 			"page": 258,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
-				"SDW"
+				"SDW",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Serpent Venom|XDMG"
@@ -55907,9 +56371,9 @@
 			"basicRules": true,
 			"referenceSources": [
 				"CoS",
-				"WDH",
 				"DSotDQ",
-				"PaBTSO"
+				"PaBTSO",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Shovel|XPHB"
@@ -56061,6 +56525,9 @@
 			"page": 153,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"PaBTSO"
+			],
 			"type": "G",
 			"rarity": "none",
 			"weight": 5,
@@ -56859,10 +57326,11 @@
 			"page": 200,
 			"srd": true,
 			"referenceSources": [
-				"OoW",
-				"MOT",
+				"CoA",
+				"JttRC",
 				"KftGV",
-				"CoA"
+				"MOT",
+				"OoW"
 			],
 			"reprintedAs": [
 				"Slippers of Spider Climbing|XDMG"
@@ -57178,6 +57646,10 @@
 				{
 					"source": "VEoR",
 					"page": 155
+				},
+				{
+					"source": "CoA",
+					"page": 269
 				}
 			],
 			"referenceSources": [
@@ -57239,82 +57711,20 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Soul Coin",
-			"source": "CoA",
-			"page": 269,
-			"rarity": "uncommon",
-			"wondrous": true,
-			"charges": 3,
-			"entries": [
-				"Soul Coins are about 5 inches across and about an inch thick, minted from infernal iron. Each coin weighs one-third of a pound and is inscribed with Infernal writing and a spell that magically binds a single soul to the coin. Because each Soul Coin has a unique soul trapped within it, each has a story. A creature might have been imprisoned as a result of defaulting on a deal, while another might be the victim of a night hag's curse.",
-				{
-					"type": "entries",
-					"name": "Carrying Soul Coins",
-					"entries": [
-						"To hold a Soul Coin is to feel the soul bound within it\u2014overcome with rage or fraught with despair.",
-						"An evil creature can carry as many Soul Coins as it wishes (up to its maximum weight allowance). A non-evil creature can carry a number of Soul Coins equal to or less than its Constitution modifier without penalty. A non-evil creature carrying a number of Soul Coins greater than its Constitution modifier has disadvantage on its attack rolls, ability checks, and saving throws."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Using a Soul Coin",
-					"entries": [
-						"A Soul Coin has 3 charges. A creature carrying the coin can use its action to expend 1 charge from a Soul Coin and use it to do one of the following:",
-						{
-							"type": "list",
-							"style": "list-hang-notitle",
-							"items": [
-								{
-									"type": "item",
-									"name": "Drain Life",
-									"entries": [
-										"You siphon away some of the soul's essence and gain {@dice 1d10} temporary hit points."
-									]
-								},
-								{
-									"type": "item",
-									"name": "Query",
-									"entries": [
-										"You telepathically ask the soul a question and receive a brief telepathic response, which you can understand. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic."
-									]
-								}
-							]
-						}
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Freeing a Soul",
-					"entries": [
-						"Casting a spell that removes a curse on a Soul Coin frees the soul trapped within it, as does expending all of the coin's charges. The coin itself rusts from within and is destroyed once the soul is released. A freed soul travels to the realm of the god it served, or the outer plane most closely tied to its alignment (DM's choice). The souls of lawful evil creatures released from Soul Coins typically emerge from the River Styx as lemure devils.",
-						"A soul can also be freed by destroying the coin that contains it. A Soul Coin has AC 19, 1 hit point for each charge it has remaining, and immunity to all damage except that which is dealt by an infernal warship's furnace.",
-						"Freeing a soul from a Soul Coin is considered a good act, even if the soul belongs to an evil creature."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Hellish Currency",
-					"entries": [
-						"Soul Coins are a currency of the Nine Hells and are highly valued by devils. The coins are used among the infernal hierarchy to barter for favors, bribe the unwilling, and reward the faithful for services rendered.",
-						"Soul Coins are created by Mammon and his greater devils on Minauros, the third layer of the Nine Hells, in a vast chamber where the captured souls of evil mortals are bound into the coins. These coins are then distributed throughout the Nine Hells to be used for goods and services, infernal deals, dark bargains, and bribes."
-					]
-				}
-			]
-		},
-		{
 			"name": "Sovereign Glue",
 			"source": "DMG",
 			"page": 200,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"CoS",
-				"ToA",
-				"WDMM",
-				"GoS",
 				"BGDIA",
+				"CoS",
+				"GoS",
 				"IDRotF",
-				"WBtW"
+				"JttRC",
+				"OotA",
+				"ToA",
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Sovereign Glue|XDMG"
@@ -57775,6 +58185,9 @@
 					"page": 95
 				}
 			],
+			"referenceSources": [
+				"IMR"
+			],
 			"rarity": "uncommon",
 			"reqAttune": "optional",
 			"wondrous": true,
@@ -57818,6 +58231,9 @@
 					"source": "IMR",
 					"page": 95
 				}
+			],
+			"referenceSources": [
+				"IMR"
 			],
 			"rarity": "rare",
 			"reqAttune": "optional",
@@ -57904,9 +58320,9 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"ToA",
+				"CoA",
 				"PaBTSO",
-				"CoA"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Spell Scroll (Level 1)|XDMG"
@@ -57936,6 +58352,8 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CoA",
+				"DoSI",
 				"LMoP",
 				"PaBTSO"
 			],
@@ -57967,6 +58385,11 @@
 			"page": 202,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"CoA",
+				"LMoP",
+				"PaBTSO"
+			],
 			"reprintedAs": [
 				"Spell Scroll (Level 3)|XDMG"
 			],
@@ -57995,6 +58418,7 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CoA",
 				"PaBTSO",
 				"ToFW"
 			],
@@ -58026,6 +58450,7 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CoA",
 				"PaBTSO"
 			],
 			"reprintedAs": [
@@ -58523,7 +58948,10 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"AitFR-FCD",
+				"CoS",
 				"DSotDQ",
+				"IDRotF",
 				"KftGV",
 				"QftIS"
 			],
@@ -58733,9 +59161,9 @@
 			"page": 201,
 			"srd": true,
 			"referenceSources": [
+				"IMR",
 				"TftYP-ToH",
 				"ToA",
-				"IMR",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -59130,10 +59558,11 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CoS",
+				"KftGV",
 				"ToA",
 				"TTP",
-				"XMtS",
-				"KftGV"
+				"XMtS"
 			],
 			"reprintedAs": [
 				"Spyglass|XPHB"
@@ -59341,6 +59770,7 @@
 			"page": 201,
 			"srd": true,
 			"referenceSources": [
+				"IDRotF",
 				"TftYP-DiT"
 			],
 			"reprintedAs": [
@@ -59674,7 +60104,9 @@
 			"page": 201,
 			"srd": true,
 			"referenceSources": [
-				"CoA"
+				"CoA",
+				"HotDQ",
+				"SKT"
 			],
 			"reprintedAs": [
 				"Staff of Fire|XDMG"
@@ -59904,12 +60336,13 @@
 			"page": 202,
 			"srd": true,
 			"referenceSources": [
-				"CoS",
-				"TftYP-AtG",
-				"WDMM",
-				"IDRotF",
 				"CoA",
-				"LRDT"
+				"CoS",
+				"IDRotF",
+				"JttRC",
+				"LRDT",
+				"TftYP-AtG",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Staff of Frost|XDMG"
@@ -60228,14 +60661,14 @@
 			"page": 202,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
 				"CoS",
-				"WDH",
-				"WDMM",
 				"GoS",
 				"IDRotF",
-				"WBtW",
 				"KftGV",
-				"CoA"
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Staff of Power|XDMG"
@@ -60610,6 +61043,9 @@
 			"source": "DMG",
 			"page": 203,
 			"srd": true,
+			"referenceSources": [
+				"TftYP-AtG"
+			],
 			"reprintedAs": [
 				"Staff of Swarming Insects|XDMG"
 			],
@@ -60960,9 +61396,9 @@
 			"page": 203,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
 				"SKT",
-				"TftYP-ToH",
-				"CoA"
+				"TftYP-ToH"
 			],
 			"reprintedAs": [
 				"Staff of the Magi|XDMG"
@@ -61290,6 +61726,7 @@
 			"page": 204,
 			"srd": true,
 			"referenceSources": [
+				"JttRC",
 				"ToA"
 			],
 			"reprintedAs": [
@@ -62028,6 +62465,9 @@
 			"page": 150,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"CoS"
+			],
 			"reprintedAs": [
 				"Mirror|XPHB"
 			],
@@ -62120,8 +62560,8 @@
 			"page": 205,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"JttRC"
+				"JttRC",
+				"OotA"
 			],
 			"reprintedAs": [
 				"Stone of Controlling Earth Elementals|XDMG"
@@ -62321,15 +62761,16 @@
 			"page": 205,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
 				"CoS",
 				"IDRotF",
-				"WBtW",
-				"SCC-HfMT",
 				"JttRC",
 				"KftGV",
+				"PotA",
+				"SCC-HfMT",
+				"TftYP-WPM",
 				"ToFW",
-				"VEoR"
+				"VEoR",
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Stone of Good Luck|XDMG"
@@ -62704,10 +63145,10 @@
 			"page": 205,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
 				"CM",
+				"CoA",
 				"JttRC",
-				"CoA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Sun Blade|XDMG"
@@ -63969,6 +64410,8 @@
 			"page": 207,
 			"srd": true,
 			"referenceSources": [
+				"IMR",
+				"ToA",
 				"ToFW"
 			],
 			"reprintedAs": [
@@ -64145,8 +64588,8 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"WDH",
-				"SjA"
+				"SjA",
+				"WDH"
 			],
 			"type": "G",
 			"rarity": "none",
@@ -64615,10 +65058,10 @@
 			"source": "DMG",
 			"page": 208,
 			"referenceSources": [
-				"PotA",
+				"GoS",
 				"OotA",
-				"TftYP-AtG",
-				"GoS"
+				"PotA",
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Tentacle Rod|XDMG"
@@ -65547,31 +65990,34 @@
 				}
 			],
 			"referenceSources": [
-				"LMoP",
+				"AitFR-THP",
+				"AZfyT",
+				"BGDIA",
+				"CoS",
+				"CRCotN",
+				"DIP",
+				"DSotDQ",
+				"EFR",
+				"GoS",
 				"HotDQ",
+				"IDRotF",
+				"JttRC",
+				"KftGV",
+				"LMoP",
+				"LR",
+				"OoW",
+				"PaBTSO",
+				"QftIS",
+				"RMBRE",
 				"RoT",
+				"RtG",
+				"SDW",
+				"SLW",
 				"ToA",
 				"TTP",
-				"XMtS",
-				"AZfyT",
-				"GoS",
-				"OoW",
-				"DIP",
-				"SLW",
-				"SDW",
-				"BGDIA",
-				"LR",
-				"EFR",
-				"RMBRE",
-				"IDRotF",
-				"RtG",
-				"AitFR-THP",
-				"CRCotN",
-				"JttRC",
-				"DSotDQ",
-				"KftGV",
-				"PaBTSO",
-				"QftIS"
+				"WDH",
+				"WDMM",
+				"XMtS"
 			],
 			"reprintedAs": [
 				"Thieves' Tools|XPHB"
@@ -65645,6 +66091,7 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
+				"DrDe-BtS",
 				"DrDe-TDoN",
 				"WttHC"
 			],
@@ -65952,6 +66399,11 @@
 			"page": 153,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"BGDIA",
+				"CoS",
+				"TftYP-TSC"
+			],
 			"reprintedAs": [
 				"Tinderbox|XPHB"
 			],
@@ -66055,15 +66507,66 @@
 			"value": 2500
 		},
 		{
+			"name": "Tloques' Berserker Battleaxe",
+			"source": "TftYP",
+			"page": 68,
+			"baseItem": "battleaxe|PHB",
+			"type": "M",
+			"rarity": "rare",
+			"reqAttune": true,
+			"curse": true,
+			"weight": 4,
+			"weaponCategory": "martial",
+			"property": [
+				"V"
+			],
+			"dmg1": "1d8",
+			"dmgType": "S",
+			"dmg2": "1d10",
+			"bonusWeapon": "+2",
+			"recharge": "dawn",
+			"rechargeAmount": "{@dice 1d6 + 4}",
+			"charges": 12,
+			"entries": [
+				"This battleaxe has a blade of bronze, and the haft is wound with snakeskin wrappings. It casts an ominous shadow in the shape of what appears to be a withered arm. Those within reach of it feel a cold chill run up and down their spine.",
+				"Concealed beneath the wrappings around the handle is a parchment containing the spells {@spell passwall}, {@spell burning hands}, and {@spell gust of wind}. When the attuned wielder uses an action to say the correct words of power, which are engraved in Olman on the axe blade, one of these spells can be cast.",
+				"The axe has 12 charges and regains {@dice 1d6 + 4} expended charges daily at dawn. Casting a spell from it takes a number of charges equal to the level at which the spell is cast (5th for {@spell passwall}, 2nd for {@spell gust of wind}, and 1st or higher for {@spell burning hands}; spell save {@dc 15}). If the parchment is removed from the axe, the axe loses the capability of casting these spells forever.",
+				"You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained.",
+				{
+					"type": "entries",
+					"name": "Curse",
+					"entries": [
+						"This axe is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear."
+					]
+				},
+				"Whenever a hostile creature damages you while the axe is in your possession, you must succeed on a {@dc 15} Wisdom saving throw or go berserk. While berserk, you must use your action each round to attack the creature nearest to you with the axe. If you can make extra attacks as part of the {@action Attack} action, you use those extra attacks, moving to attack the next nearest creature after you fell your current target. If you have multiple possible targets, you attack one at random. You are berserk until you start your turn with no creatures within 60 feet of you that you can see or hear."
+			],
+			"attachedSpells": {
+				"charges": {
+					"1": [
+						"burning hands"
+					],
+					"2": [
+						"gust of wind"
+					],
+					"5": [
+						"passwall"
+					]
+				}
+			},
+			"hasFluffImages": true
+		},
+		{
 			"name": "Tome of Clear Thought",
 			"source": "DMG",
 			"page": 208,
 			"srd": true,
 			"referenceSources": [
-				"TftYP-AtG",
 				"CoA",
 				"LRDT",
-				"QftIS"
+				"QftIS",
+				"TftYP-AtG",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Tome of Clear Thought|XDMG"
@@ -66110,8 +66613,8 @@
 			"srd": true,
 			"referenceSources": [
 				"CoA",
-				"VEoR",
-				"QftIS"
+				"QftIS",
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Tome of Leadership and Influence|XDMG"
@@ -66245,8 +66748,8 @@
 			"page": 209,
 			"srd": true,
 			"referenceSources": [
-				"CoS",
 				"CoA",
+				"CoS",
 				"QftIS"
 			],
 			"reprintedAs": [
@@ -66346,7 +66849,11 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"PaBTSO"
+				"GoS",
+				"IDRotF",
+				"KftGV",
+				"PaBTSO",
+				"TftYP-TSC"
 			],
 			"reprintedAs": [
 				"Torch|XPHB"
@@ -66375,6 +66882,7 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
+				"BQGT",
 				"DrDe-TDoN"
 			],
 			"type": "G|XPHB",
@@ -66497,7 +67005,10 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"KftGV"
+				"CoS",
+				"KftGV",
+				"PaBTSO",
+				"TTP"
 			],
 			"reprintedAs": [
 				"Traveler's Clothes|XPHB"
@@ -66535,9 +67046,9 @@
 			"page": 209,
 			"srd": true,
 			"referenceSources": [
+				"GoS",
 				"PotA",
-				"SKT",
-				"GoS"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Trident of Fish Command|XDMG"
@@ -67707,12 +68218,12 @@
 			"page": 159,
 			"basicRules": true,
 			"referenceSources": [
-				"TTP",
-				"WDH",
-				"WDMM",
 				"BGDIA",
 				"CM",
-				"ToFW"
+				"ToFW",
+				"TTP",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Trinket|XPHB"
@@ -68794,6 +69305,9 @@
 			"name": "Turquoise",
 			"source": "DMG",
 			"page": 134,
+			"referenceSources": [
+				"DoSI"
+			],
 			"reprintedAs": [
 				"Turquoise|XDMG"
 			],
@@ -68864,8 +69378,8 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"ToA",
-				"CRCotN"
+				"CRCotN",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Tent|XPHB"
@@ -68945,6 +69459,9 @@
 			"source": "DMG",
 			"page": 209,
 			"srd": true,
+			"referenceSources": [
+				"WDMM"
+			],
 			"reprintedAs": [
 				"Universal Solvent|XDMG"
 			],
@@ -69396,8 +69913,8 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"WDH",
-				"PaBTSO"
+				"PaBTSO",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Wagon|XPHB"
@@ -69542,12 +70059,12 @@
 			"page": 209,
 			"srd": true,
 			"referenceSources": [
-				"TftYP-DiT",
-				"WDH",
-				"OoW",
+				"CoA",
 				"IDRotF",
 				"KftGV",
-				"CoA"
+				"OoW",
+				"TftYP-DiT",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Wand of Binding|XDMG"
@@ -69800,6 +70317,8 @@
 			"page": 210,
 			"srd": true,
 			"referenceSources": [
+				"PotA",
+				"RoT",
 				"ToA"
 			],
 			"reprintedAs": [
@@ -69914,9 +70433,10 @@
 			"page": 210,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
+				"OoW",
 				"SKT",
-				"WDMM",
-				"CoA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Wand of Fireballs|XDMG"
@@ -69996,8 +70516,11 @@
 			"page": 211,
 			"srd": true,
 			"referenceSources": [
+				"OoW",
+				"RtG",
+				"SKT",
 				"TftYP-THSoT",
-				"RtG"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Wand of Lightning Bolts|XDMG"
@@ -70081,10 +70604,13 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"OoW",
-				"US",
 				"CoA",
-				"QftIS"
+				"OoW",
+				"PaBTSO",
+				"QftIS",
+				"SDW",
+				"US",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Wand of Magic Detection|XDMG"
@@ -70155,17 +70681,20 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"LMoP",
-				"PotA",
-				"TftYP-TFoF",
-				"WDH",
-				"OoW",
-				"RMBRE",
-				"IDRotF",
+				"BGDIA",
+				"HftT",
 				"HoL",
+				"IDRotF",
 				"KftGV",
+				"LMoP",
+				"OoW",
 				"PaBTSO",
-				"QftIS"
+				"PotA",
+				"QftIS",
+				"RMBRE",
+				"SLW",
+				"TftYP-TFoF",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Wand of Magic Missiles|XDMG"
@@ -70235,6 +70764,7 @@
 			"source": "DMG",
 			"page": 227,
 			"referenceSources": [
+				"IDRotF",
 				"OotA"
 			],
 			"reprintedAs": [
@@ -70368,7 +70898,7 @@
 			"charges": 7,
 			"entries": [
 				"Crafted and wielded by {@creature Orcus|MPMM}, this ghastly wand slips from the demon lord's grasp from time to time. When it does, it magically appears wherever the demon lord senses an opportunity to achieve some fell goal.",
-				"The wand is topped with a skull that once belonged to a human hero slain by Orcus. The wand can magically change in size to better conform to the grip of its user. All Holy Water within 10 feet of the wand is destroyed.",
+				"The wand is topped with a skull that once belonged to a human hero slain by Orcus. The wand can magically change in size to better conform to the grip of its user. All {@item Holy Water|XPHB} within 10 feet of the wand is destroyed.",
 				"Any creature besides Orcus that tries to attune to the wand makes a {@dc 17} Constitution saving throw. On a successful save, the creature takes {@damage 10d6} Necrotic damage. On a failed save, the creature dies and, if it is a Humanoid, turns into a {@creature Zombie|XMM}.",
 				{
 					"type": "entries",
@@ -70505,7 +71035,8 @@
 			"page": 211,
 			"srd": true,
 			"referenceSources": [
-				"QftIS"
+				"QftIS",
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Wand of Paralysis|XDMG"
@@ -70571,6 +71102,7 @@
 			"page": 211,
 			"srd": true,
 			"referenceSources": [
+				"CM",
 				"CoS",
 				"WBtW"
 			],
@@ -70675,6 +71207,9 @@
 			"name": "Wand of Pyrotechnics",
 			"source": "XGE",
 			"page": 140,
+			"referenceSources": [
+				"DIP"
+			],
 			"reprintedAs": [
 				"Wand of Pyrotechnics|XDMG"
 			],
@@ -70715,14 +71250,18 @@
 			"page": 211,
 			"srd": true,
 			"referenceSources": [
-				"CoS",
-				"ToA",
-				"WDMM",
-				"DIP",
 				"BGDIA",
-				"WBtW",
+				"CoA",
+				"CoS",
+				"CRCotN",
+				"DIP",
+				"IMR",
+				"QftIS",
 				"SCC-TMM",
-				"CoA"
+				"ToA",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Wand of Secrets|XDMG"
@@ -70752,6 +71291,7 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
+				"DrDe-TWoO",
 				"WttHC"
 			],
 			"type": "WD|XDMG",
@@ -70819,6 +71359,7 @@
 			"srd": true,
 			"referenceSources": [
 				"IDRotF",
+				"IMR",
 				"WBtW"
 			],
 			"reprintedAs": [
@@ -70918,7 +71459,7 @@
 			"charges": 7,
 			"entries": [
 				"This wand looks and feels like an icicle. You must be attuned to the wand to use it.",
-				"The wand has 7 charges, which are used to fuel the spells within it. With the wand in hand, you can use your action to cast one of the following spells from the wand, even if you are incapable of casting spells: {@spell ray of frost} (no charges, or 1 charge to cast at 5th level; +5 to hit with ranged spell attack), {@spell sleet storm} (3 charges; spell save {@dc 15}), or {@spell ice storm} (4 charges; spell save {@dc 15}). No components are required. The wand regains {@dice 1d6 + 1} expended charges each day at dawn. If you expend the wand's last charge, roll a {@dice d20}. On a 20, the wand melts away, forever destroyed."
+				"The wand has 7 charges, which are used to fuel the spells within it. With the wand in hand, you can use your action to cast one of the following spells from the wand, even if you are incapable of casting spells: {@spell ray of frost} (no charges, or 1 charge to cast at 5th level; {@hit 5} to hit with ranged spell attack), {@spell sleet storm} (3 charges; spell save {@dc 15}), or {@spell ice storm} (4 charges; spell save {@dc 15}). No components are required. The wand regains {@dice 1d6 + 1} expended charges each day at dawn. If you expend the wand's last charge, roll a {@dice d20}. On a 20, the wand melts away, forever destroyed."
 			],
 			"attachedSpells": {
 				"will": [
@@ -70941,10 +71482,11 @@
 			"page": 212,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
+				"CRCotN",
 				"ToA",
-				"WDMM",
 				"ToFW",
-				"CoA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Wand of Wonder|XDMG"
@@ -71066,7 +71608,16 @@
 							"98-00",
 							"If you targeted a creature, it must make a {@dc 15} Constitution saving throw. If you didn't target a creature, you become the target and must make the saving throw. If the saving throw fails by 5 or more, the target is instantly {@condition petrified}. On any other failed save, the target is {@condition restrained} and begins to turn to stone. While {@condition restrained} in this way, the target must repeat the saving throw at the end of its next turn, becoming {@condition petrified} on a failure or ending the effect on a success. The petrification lasts until the target is freed by the {@spell greater restoration} spell or similar magic."
 						]
-					]
+					],
+					"data": {
+						"genTables": {
+							"tableName": "Wand of Wonder Effects",
+							"tableInclude": true,
+							"reprintedAs": [
+								"Wand of Wonder Effects|XDMG"
+							]
+						}
+					}
 				}
 			],
 			"attachedSpells": {
@@ -71199,7 +71750,12 @@
 							"98-00",
 							"The creature closest to the chosen point of origin makes a {@dc 15} Constitution saving throw. On a failed save, the creature has the {@condition Restrained|XPHB} condition and begins to turn to stone. While {@condition Restrained|XPHB} in this way, the creature repeats the save at the end of its next turn. On a successful save, the effect ends. On a failed save, the creature has the {@condition Petrified|XPHB} condition instead of the {@condition Restrained|XPHB} condition. The petrification lasts until the creature is freed by the {@spell Greater Restoration|XPHB} spell or similar magic."
 						]
-					]
+					],
+					"data": {
+						"genTables": {
+							"tableInclude": true
+						}
+					}
 				}
 			],
 			"attachedSpells": {
@@ -71429,6 +71985,11 @@
 			"page": 153,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"DIP",
+				"TftYP-TSC",
+				"WDH"
+			],
 			"reprintedAs": [
 				"Waterskin|XPHB"
 			],
@@ -71448,7 +72009,8 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"BQGT"
+				"BQGT",
+				"DrDe-ACfaS"
 			],
 			"type": "G|XPHB",
 			"rarity": "none",
@@ -71469,10 +72031,10 @@
 			"source": "DMG",
 			"page": 218,
 			"referenceSources": [
-				"TftYP-WPM",
 				"DC",
+				"IMR",
 				"LR",
-				"IMR"
+				"TftYP-WPM"
 			],
 			"reprintedAs": [
 				"Wave|XDMG"
@@ -71700,6 +72262,7 @@
 			"page": 213,
 			"srd": true,
 			"referenceSources": [
+				"JttRC",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -71841,6 +72404,7 @@
 			"source": "DMG",
 			"page": 218,
 			"referenceSources": [
+				"IMR",
 				"TftYP-WPM"
 			],
 			"reprintedAs": [
@@ -72691,8 +73255,9 @@
 			"page": 214,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
 				"JttRC",
-				"CoA"
+				"LLK"
 			],
 			"reprintedAs": [
 				"Wings of Flying|XDMG"
@@ -73262,6 +73827,7 @@
 			"page": 258,
 			"srd": true,
 			"referenceSources": [
+				"HotDQ",
 				"ToA"
 			],
 			"reprintedAs": [
@@ -73366,7 +73932,7 @@
 			"rarity": "none",
 			"value": 100,
 			"entries": [
-				"A yahcha (pronounced YAH-chah) is a harmless, meaty beetle about the size of a human hand, which feeds on worms and maggots. It moves slowly (walking speed 10 feet) and is easy to catch. A creature with blue mist fever that eats a raw or cooked yahcha can immediately make a saving throw with advantage against that disease (see \"Diseases,\" page 40),"
+				"A yahcha (pronounced YAH-chah) is a harmless, meaty beetle about the size of a human hand, which feeds on worms and maggots. It moves slowly (walking speed 10 feet) and is easy to catch. A creature with blue mist fever that eats a raw or cooked yahcha can immediately make a saving throw with advantage against that disease (see {@adventure \"Diseases,\"|ToA|2|Diseases} page 40)."
 			]
 		},
 		{
@@ -73766,6 +74332,7 @@
 			"source": "DMG",
 			"page": 162,
 			"referenceSources": [
+				"RoT",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -73851,6 +74418,9 @@
 			"page": 231,
 			"srd52": true,
 			"basicRules2024": true,
+			"referenceSources": [
+				"DrDe-BtS"
+			],
 			"type": "GV|XDMG",
 			"rarity": "rare",
 			"reqAttune": true,
@@ -73936,7 +74506,8 @@
 			"source": "DMG",
 			"page": 152,
 			"referenceSources": [
-				"TftYP-AtG"
+				"TftYP-AtG",
+				"TftYP-DiT"
 			],
 			"reprintedAs": [
 				"Armor of Vulnerability|XDMG"
@@ -73986,7 +74557,8 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"PaBTSO"
+				"PaBTSO",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Artisan's Tools|XPHB"
@@ -74045,7 +74617,9 @@
 			"source": "DMG",
 			"page": 154,
 			"referenceSources": [
-				"IDRotF"
+				"GoS",
+				"IDRotF",
+				"LLK"
 			],
 			"reprintedAs": [
 				"Bag of Tricks|XDMG"
@@ -74205,8 +74779,8 @@
 			"source": "DMG",
 			"page": 157,
 			"referenceSources": [
-				"JttRC",
-				"CoA"
+				"CoA",
+				"JttRC"
 			],
 			"reprintedAs": [
 				"Carpet of Flying|XDMG"
@@ -74419,6 +74993,9 @@
 			"source": "DMG",
 			"page": 165,
 			"srd": true,
+			"referenceSources": [
+				"KftGV"
+			],
 			"reprintedAs": [
 				"Dragon Scale Mail|XDMG"
 			],
@@ -74482,6 +75059,18 @@
 			"name": "Dragon Vessel",
 			"source": "FTD",
 			"page": 27,
+			"referenceSources": [
+				"DrDe-ACfaS",
+				"DrDe-BD",
+				"DrDe-BtS",
+				"DrDe-DaS",
+				"DrDe-DotSC",
+				"DrDe-FWtVC",
+				"DrDe-SD",
+				"DrDe-TDoN",
+				"DrDe-TFV",
+				"DrDe-TWoO"
+			],
 			"rarity": "varies",
 			"reqAttune": true,
 			"wondrous": true,
@@ -74499,6 +75088,18 @@
 			"name": "Dragon's Wrath Weapon",
 			"source": "FTD",
 			"page": 25,
+			"referenceSources": [
+				"DrDe-ACfaS",
+				"DrDe-BD",
+				"DrDe-BtS",
+				"DrDe-DaS",
+				"DrDe-DotSC",
+				"DrDe-FWtVC",
+				"DrDe-SD",
+				"DrDe-TDoN",
+				"DrDe-TFV",
+				"DrDe-TWoO"
+			],
 			"type": "GV|DMG",
 			"rarity": "varies",
 			"reqAttune": true,
@@ -74516,6 +75117,18 @@
 			"name": "Dragon-Touched Focus",
 			"source": "FTD",
 			"page": 26,
+			"referenceSources": [
+				"DrDe-ACfaS",
+				"DrDe-BD",
+				"DrDe-BtS",
+				"DrDe-DaS",
+				"DrDe-DotSC",
+				"DrDe-FWtVC",
+				"DrDe-SD",
+				"DrDe-TDoN",
+				"DrDe-TFV",
+				"DrDe-TWoO"
+			],
 			"type": "SCF",
 			"rarity": "varies",
 			"reqAttune": "by a spellcaster",
@@ -74550,6 +75163,9 @@
 			"name": "Druidic Focus",
 			"source": "PHB",
 			"page": 151,
+			"referenceSources": [
+				"ToA"
+			],
 			"reprintedAs": [
 				"Druidic Focus|XPHB"
 			],
@@ -74587,10 +75203,10 @@
 			"source": "DMG",
 			"page": 167,
 			"referenceSources": [
-				"RoT",
+				"DSotDQ",
 				"OotA",
-				"WDMM",
-				"DSotDQ"
+				"RoT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Elemental Gem|XDMG"
@@ -75146,10 +75762,11 @@
 			"source": "DMG",
 			"page": 169,
 			"referenceSources": [
-				"PotA",
-				"SKT",
 				"IMR",
-				"RtG"
+				"PotA",
+				"RtG",
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Figurine of Wondrous Power|XDMG"
@@ -75187,7 +75804,8 @@
 				"Figurine of Wondrous Power, Onyx Dog|XDMG",
 				"Figurine of Wondrous Power, Serpentine Owl|XDMG",
 				"Figurine of Wondrous Power, Silver Raven|XDMG"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Gaming Set",
@@ -75368,11 +75986,12 @@
 			"source": "PHB",
 			"page": 151,
 			"referenceSources": [
-				"CoS",
-				"TTP",
 				"CM",
+				"CoS",
+				"DSotDQ",
 				"KftGV",
-				"PaBTSO"
+				"PaBTSO",
+				"TTP"
 			],
 			"reprintedAs": [
 				"Holy Symbol|XPHB"
@@ -75415,7 +76034,8 @@
 			"source": "DMG",
 			"page": 175,
 			"referenceSources": [
-				"TftYP-AtG"
+				"TftYP-AtG",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Horn of Valhalla|XDMG"
@@ -75695,7 +76315,8 @@
 				"Ioun Stone, Reserve",
 				"Ioun Stone, Strength",
 				"Ioun Stone, Sustenance"
-			]
+			],
+			"hasFluffImages": true
 		},
 		{
 			"name": "Ioun Stone",
@@ -76213,11 +76834,12 @@
 			"source": "DMG",
 			"page": 188,
 			"referenceSources": [
-				"WDH",
-				"WDMM",
-				"IDRotF",
+				"CoA",
 				"DoSI",
-				"CoA"
+				"IDRotF",
+				"KftGV",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Potion of Resistance|XDMG"
@@ -76394,7 +77016,9 @@
 			"page": 188,
 			"referenceSources": [
 				"GoS",
-				"ToFW"
+				"IMR",
+				"ToFW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Quaal's Feather Token|XDMG"
@@ -76911,16 +77535,16 @@
 			"source": "FTD",
 			"page": 27,
 			"referenceSources": [
-				"DrDe-DaS",
+				"DrDe-ACfaS",
 				"DrDe-BD",
-				"DrDe-TWoO",
+				"DrDe-BtS",
+				"DrDe-DaS",
+				"DrDe-DotSC",
 				"DrDe-FWtVC",
+				"DrDe-SD",
 				"DrDe-TDoN",
 				"DrDe-TFV",
-				"DrDe-BtS",
-				"DrDe-SD",
-				"DrDe-ACfaS",
-				"DrDe-DotSC"
+				"DrDe-TWoO"
 			],
 			"rarity": "varies",
 			"reqAttune": true,
@@ -76941,9 +77565,12 @@
 			"source": "DMG",
 			"page": 199,
 			"referenceSources": [
-				"RoT",
+				"CoS",
 				"OotA",
+				"RoT",
 				"TftYP-AtG",
+				"TftYP-THSoT",
+				"TftYP-WPM",
 				"ToA"
 			],
 			"reprintedAs": [
@@ -77306,54 +77933,56 @@
 			"source": "DMG",
 			"page": 200,
 			"referenceSources": [
-				"LMoP",
-				"HotDQ",
-				"RoT",
-				"OotA",
+				"AitFR-AVT",
+				"AitFR-ISF",
+				"BGDIA",
+				"CM",
+				"CoA",
 				"CoS",
+				"CRCotN",
+				"DC",
+				"DitLCoT",
+				"DoSI",
+				"DSotDQ",
+				"FS",
+				"GoS",
+				"HotDQ",
+				"IDRotF",
+				"IMR",
+				"JttRC",
+				"KftGV",
+				"LLK",
+				"LMoP",
+				"LoX",
+				"LRDT",
+				"MOT",
+				"NRH-TLT",
+				"OotA",
+				"OoW",
+				"PotA",
+				"QftIS",
+				"RoT",
+				"RtG",
+				"SCC-ARiR",
+				"SDW",
+				"SjA",
 				"SKT",
-				"TftYP-TSC",
+				"SLW",
+				"TftYP-AtG",
+				"TftYP-DiT",
 				"TftYP-TFoF",
 				"TftYP-THSoT",
-				"TftYP-WPM",
-				"TftYP-DiT",
-				"TftYP-AtG",
 				"TftYP-ToH",
+				"TftYP-TSC",
+				"TftYP-WPM",
 				"ToA",
-				"WDH",
-				"LLK",
-				"WDMM",
-				"GoS",
-				"OoW",
-				"SLW",
-				"SDW",
-				"DC",
-				"BGDIA",
-				"IMR",
-				"ToR",
-				"FS",
-				"MOT",
-				"IDRotF",
-				"CM",
-				"RtG",
-				"AitFR-ISF",
-				"AitFR-AVT",
-				"NRH-TLT",
-				"WBtW",
-				"SCC-ARiR",
-				"CRCotN",
-				"JttRC",
-				"DoSI",
-				"SjA",
-				"LoX",
-				"DSotDQ",
-				"KftGV",
 				"ToFW",
-				"CoA",
-				"DitLCoT",
-				"LRDT",
+				"ToR",
 				"VEoR",
-				"QftIS"
+				"VNotEE",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Spell Scroll|XPHB",
@@ -77384,11 +78013,12 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-DaS",
-				"DrDe-TWoO",
-				"DrDe-TDoN",
 				"DrDe-ACfaS",
+				"DrDe-BD",
+				"DrDe-DaS",
 				"DrDe-DotSC",
+				"DrDe-TDoN",
+				"DrDe-TWoO",
 				"FRAiF"
 			],
 			"type": "SC|XPHB",

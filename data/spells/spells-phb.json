@@ -77,6 +77,7 @@
 				}
 			],
 			"referenceSources": [
+				"PotA",
 				"TftYP-DiT"
 			],
 			"reprintedAs": [
@@ -136,22 +137,23 @@
 			"page": 211,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
-				"OotA",
-				"CoS",
-				"SKT",
-				"TftYP-TFoF",
-				"ToA",
-				"TLK",
-				"WDH",
-				"WDMM",
-				"SLW",
 				"CM",
-				"SCC-TMM",
-				"DSotDQ",
-				"KftGV",
 				"CoA",
-				"QftIS"
+				"CoS",
+				"DSotDQ",
+				"JttRC",
+				"KftGV",
+				"OotA",
+				"PotA",
+				"QftIS",
+				"SCC-TMM",
+				"SKT",
+				"SLW",
+				"TftYP-TFoF",
+				"TLK",
+				"ToA",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Alarm|XPHB"
@@ -203,16 +205,16 @@
 			"page": 211,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
+				"BGDIA",
+				"CM",
 				"CoS",
+				"IDRotF",
+				"KftGV",
+				"OotA",
 				"SKT",
 				"ToA",
 				"WDH",
-				"WDMM",
-				"BGDIA",
-				"IDRotF",
-				"CM",
-				"KftGV"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Alter Self|XPHB"
@@ -282,9 +284,9 @@
 			"srd": true,
 			"referenceSources": [
 				"CoS",
-				"ToA",
+				"CRCotN",
 				"IDRotF",
-				"CRCotN"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Animal Friendship|XPHB"
@@ -353,13 +355,15 @@
 			"page": 212,
 			"srd": true,
 			"referenceSources": [
-				"RoT",
-				"PotA",
+				"GoS",
+				"IDRotF",
 				"OotA",
+				"PotA",
+				"RoT",
 				"SKT",
-				"WDH",
 				"ToR",
-				"WBtW"
+				"WBtW",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Animal Messenger|XPHB"
@@ -474,16 +478,17 @@
 			"page": 212,
 			"srd": true,
 			"referenceSources": [
-				"RoT",
-				"CoS",
-				"WDH",
-				"LLK",
-				"WDMM",
 				"BGDIA",
-				"US",
+				"CM",
+				"CoS",
 				"IDRotF",
+				"LLK",
+				"LRDT",
+				"RoT",
 				"ToFW",
-				"LRDT"
+				"US",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Animate Dead|XPHB"
@@ -542,12 +547,14 @@
 			"page": 213,
 			"srd": true,
 			"referenceSources": [
+				"CM",
+				"IDRotF",
 				"RoT",
 				"SKT",
 				"ToA",
+				"WBtW",
 				"WDH",
-				"WDMM",
-				"WBtW"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Animate Objects|XPHB"
@@ -678,8 +685,8 @@
 			"page": 213,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
-				"CM"
+				"CM",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Antilife Shell|XPHB"
@@ -743,18 +750,19 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"HotDQ",
-				"OotA",
+				"BGDIA",
 				"CoS",
+				"DC",
+				"HotDQ",
+				"IDRotF",
+				"LLK",
+				"OotA",
 				"SKT",
 				"ToA",
+				"ToFW",
+				"VEoR",
 				"WDH",
-				"LLK",
-				"WDMM",
-				"DC",
-				"BGDIA",
-				"IDRotF",
-				"ToFW"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Antimagic Field|XPHB"
@@ -857,11 +865,11 @@
 			"srd": true,
 			"referenceSources": [
 				"CoS",
+				"DitLCoT",
+				"QftIS",
 				"TftYP-ToH",
 				"ToA",
-				"WDMM",
-				"DitLCoT",
-				"QftIS"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Antipathy/Sympathy|XPHB"
@@ -941,12 +949,12 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"DSotDQ",
 				"HotDQ",
+				"IDRotF",
 				"SKT",
 				"WDH",
-				"WDMM",
-				"IDRotF",
-				"DSotDQ"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Arcane Eye|XPHB"
@@ -992,8 +1000,8 @@
 			"source": "PHB",
 			"page": 214,
 			"referenceSources": [
-				"ToA",
-				"DSotDQ"
+				"DSotDQ",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Arcane Gate|XPHB"
@@ -1046,34 +1054,34 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"HotDQ",
-				"PotA",
-				"OotA",
-				"CoS",
-				"SKT",
-				"TftYP-TSC",
-				"TftYP-THSoT",
-				"TftYP-DiT",
-				"ToA",
-				"TTP",
-				"WDH",
-				"WDMM",
-				"GoS",
-				"SDW",
-				"IMR",
-				"IDRotF",
 				"CM",
+				"CoS",
+				"GoS",
 				"HoL",
+				"HotDQ",
+				"IDRotF",
+				"IMR",
+				"KftGV",
+				"LRDT",
+				"OotA",
+				"PotA",
+				"QftIS",
 				"RtG",
-				"WBtW",
 				"SCC-CK",
 				"SCC-HfMT",
 				"SCC-TMM",
+				"SDW",
 				"SjA",
-				"KftGV",
-				"LRDT",
+				"SKT",
+				"TftYP-DiT",
+				"TftYP-THSoT",
+				"TftYP-TSC",
+				"ToA",
+				"TTP",
 				"VEoR",
-				"QftIS"
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Arcane Lock|XPHB"
@@ -1237,9 +1245,11 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CoS",
 				"OotA",
 				"ToA",
-				"VEoR"
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Astral Projection|XPHB"
@@ -1305,14 +1315,17 @@
 				}
 			],
 			"referenceSources": [
-				"HotDQ",
-				"OotA",
 				"CoS",
-				"ToA",
-				"WDMM",
-				"US",
+				"HotDQ",
+				"JttRC",
+				"KftGV",
+				"LMoP",
+				"OotA",
+				"PaBTSO",
 				"SCC-HfMT",
-				"JttRC"
+				"ToA",
+				"US",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Augury|XPHB"
@@ -1510,12 +1523,12 @@
 			"page": 216,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
-				"WDMM",
 				"GoS",
 				"IDRotF",
+				"JttRC",
+				"ToA",
 				"WBtW",
-				"JttRC"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Awaken|XPHB"
@@ -1572,6 +1585,8 @@
 			"page": 216,
 			"srd": true,
 			"referenceSources": [
+				"JttRC",
+				"KftGV",
 				"TftYP-TSC",
 				"WDMM"
 			],
@@ -1687,16 +1702,19 @@
 			"page": 217,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"SKT",
-				"ToA",
-				"SLW",
+				"AitFR-THP",
 				"BGDIA",
 				"CM",
-				"RtG",
-				"AitFR-THP",
 				"DitLCoT",
-				"QftIS"
+				"KftGV",
+				"OotA",
+				"QftIS",
+				"RtG",
+				"SKT",
+				"SLW",
+				"ToA",
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Banishment|XPHB"
@@ -1765,9 +1783,10 @@
 			"page": 217,
 			"srd": true,
 			"referenceSources": [
+				"GoS",
+				"JttRC",
 				"SKT",
-				"TftYP-TSC",
-				"JttRC"
+				"TftYP-TSC"
 			],
 			"reprintedAs": [
 				"Barkskin|XPHB"
@@ -1917,11 +1936,14 @@
 			"page": 218,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
 				"CoS",
+				"CRCotN",
+				"OotA",
+				"TftYP-THSoT",
 				"TftYP-ToH",
 				"WBtW",
-				"CRCotN",
-				"CoA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Bestow Curse|XPHB"
@@ -1995,12 +2017,13 @@
 			"page": 218,
 			"srd": "Arcane Hand",
 			"referenceSources": [
-				"OotA",
+				"BGDIA",
 				"CoS",
+				"OotA",
 				"SKT",
+				"WBtW",
 				"WDH",
-				"WDMM",
-				"BGDIA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Bigby's Hand|XPHB"
@@ -2209,15 +2232,21 @@
 				}
 			],
 			"referenceSources": [
-				"CoS",
-				"SKT",
-				"OoW",
-				"DIP",
 				"BGDIA",
-				"RtG",
+				"CM",
+				"CoA",
+				"CoS",
+				"DIP",
+				"GoS",
 				"JttRC",
 				"KftGV",
-				"CoA",
+				"OoW",
+				"RoT",
+				"RtG",
+				"SKT",
+				"TftYP-DiT",
+				"TftYP-TFoF",
+				"ToR",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -2278,11 +2307,14 @@
 			"page": 219,
 			"srd": true,
 			"referenceSources": [
+				"CM",
+				"CoS",
 				"OotA",
+				"PaBTSO",
 				"SKT",
 				"ToA",
-				"WDMM",
-				"CM"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Blight|XPHB"
@@ -2412,12 +2444,14 @@
 			"page": 219,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"TftYP-AtG",
-				"WDMM",
-				"US",
 				"CRCotN",
-				"KftGV"
+				"KftGV",
+				"OotA",
+				"OoW",
+				"TftYP-AtG",
+				"US",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Blindness/Deafness|XPHB"
@@ -2535,11 +2569,13 @@
 				}
 			],
 			"referenceSources": [
-				"OotA",
-				"WDMM",
-				"DIP",
 				"CM",
-				"PaBTSO"
+				"DIP",
+				"IDRotF",
+				"KftGV",
+				"OotA",
+				"PaBTSO",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Blur|XPHB"
@@ -2581,8 +2617,8 @@
 			"page": 219,
 			"srd": true,
 			"referenceSources": [
-				"CoS",
-				"BGDIA"
+				"BGDIA",
+				"CoS"
 			],
 			"reprintedAs": [
 				"Shining Smite|XPHB"
@@ -2647,13 +2683,16 @@
 				}
 			],
 			"referenceSources": [
-				"PotA",
-				"CoS",
-				"TftYP-TFoF",
-				"WDH",
-				"DIP",
 				"BGDIA",
-				"KftGV"
+				"CoS",
+				"DIP",
+				"KftGV",
+				"PotA",
+				"TftYP-TFoF",
+				"TftYP-THSoT",
+				"TftYP-ToH",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Burning Hands|XPHB"
@@ -2715,10 +2754,11 @@
 			"page": 220,
 			"srd": true,
 			"referenceSources": [
+				"DC",
+				"RoT",
 				"SKT",
-				"ToA",
 				"SLW",
-				"DC"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Call Lightning|XPHB"
@@ -2786,15 +2826,16 @@
 			"page": 221,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"CoS",
-				"WDMM",
-				"SDW",
 				"BGDIA",
-				"IDRotF",
 				"CM",
+				"CoS",
+				"IDRotF",
+				"OotA",
+				"SDW",
 				"ToFW",
-				"VEoR"
+				"VEoR",
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Calm Emotions|XPHB"
@@ -2850,13 +2891,15 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"OotA",
-				"SKT",
-				"WDMM",
-				"DC",
-				"CM",
 				"AitFR-ISF",
-				"PaBTSO"
+				"CM",
+				"DC",
+				"OotA",
+				"PaBTSO",
+				"RoT",
+				"SDW",
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Chain Lightning|XPHB"
@@ -2928,21 +2971,23 @@
 				}
 			],
 			"referenceSources": [
-				"RoT",
-				"CoS",
-				"SKT",
-				"TftYP-TFoF",
-				"TftYP-DiT",
-				"WDH",
 				"AZfyT",
-				"SDW",
 				"BGDIA",
-				"LR",
-				"IDRotF",
 				"CM",
-				"WBtW",
+				"CoS",
+				"DIP",
+				"IDRotF",
 				"KftGV",
-				"PaBTSO"
+				"LR",
+				"PaBTSO",
+				"RoT",
+				"SDW",
+				"SKT",
+				"TftYP-DiT",
+				"TftYP-TFoF",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Charm Person|XPHB"
@@ -3010,8 +3055,8 @@
 			"page": 221,
 			"srd": true,
 			"referenceSources": [
-				"IDRotF",
-				"CRCotN"
+				"CRCotN",
+				"IDRotF"
 			],
 			"reprintedAs": [
 				"Chill Touch|XPHB"
@@ -3145,9 +3190,9 @@
 			"page": 221,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
 				"KftGV",
-				"VEoR"
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Circle of Death|XPHB"
@@ -3253,16 +3298,16 @@
 			"page": 222,
 			"srd": true,
 			"referenceSources": [
+				"CM",
+				"CoA",
+				"JttRC",
+				"KftGV",
+				"SCC-ARiR",
 				"SKT",
 				"TftYP-WPM",
 				"ToA",
 				"WDH",
-				"WDMM",
-				"CM",
-				"SCC-ARiR",
-				"JttRC",
-				"KftGV",
-				"CoA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Clairvoyance|XPHB"
@@ -3358,9 +3403,12 @@
 			"source": "PHB",
 			"page": 222,
 			"referenceSources": [
+				"BGDIA",
+				"CoS",
+				"IDRotF",
 				"RoT",
-				"WDMM",
-				"BGDIA"
+				"ToA",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Cloud of Daggers|XPHB"
@@ -3420,14 +3468,21 @@
 			"page": 222,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
+				"CoS",
+				"GoS",
+				"IDRotF",
+				"OotA",
+				"PaBTSO",
+				"PotA",
+				"QftIS",
 				"RoT",
-				"ToA",
-				"WDMM",
 				"RtG",
 				"SCC-CK",
-				"PaBTSO",
-				"CoA",
-				"QftIS"
+				"SKT",
+				"TftYP-AtG",
+				"ToA",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Cloudkill|XPHB"
@@ -3495,9 +3550,11 @@
 			"page": 222,
 			"srd": true,
 			"referenceSources": [
+				"OotA",
+				"QftIS",
 				"TftYP-TFoF",
-				"WDMM",
-				"QftIS"
+				"ToA",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Color Spray|XPHB"
@@ -3564,17 +3621,19 @@
 				}
 			],
 			"referenceSources": [
-				"HotDQ",
+				"CM",
 				"CoS",
-				"TftYP-TSC",
+				"DoSI",
+				"GoS",
+				"HotDQ",
+				"OoW",
+				"QftIS",
 				"TftYP-TFoF",
 				"TftYP-THSoT",
-				"GoS",
+				"TftYP-TSC",
 				"US",
-				"CM",
 				"WBtW",
-				"DoSI",
-				"QftIS"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Command|XPHB"
@@ -3690,14 +3749,19 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"BGDIA",
+				"CM",
+				"CRCotN",
+				"GoS",
+				"HotDQ",
+				"OotA",
+				"RoT",
 				"TftYP-ToH",
 				"ToA",
-				"WDH",
-				"WDMM",
-				"BGDIA",
 				"US",
-				"CM",
-				"WBtW"
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Commune|XPHB"
@@ -3855,20 +3919,24 @@
 				}
 			],
 			"referenceSources": [
-				"OotA",
-				"SKT",
-				"TftYP-ToH",
-				"ToA",
-				"WDH",
-				"WDMM",
+				"CM",
+				"CoS",
+				"DIP",
 				"EFR",
 				"FS",
+				"GoS",
 				"IDRotF",
-				"CM",
-				"WBtW",
 				"KftGV",
+				"OotA",
 				"PaBTSO",
-				"QftIS"
+				"QftIS",
+				"SKT",
+				"TftYP-DiT",
+				"TftYP-ToH",
+				"ToA",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Comprehend Languages|XPHB"
@@ -3968,17 +4036,24 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CM",
 				"CoS",
+				"DC",
+				"IDRotF",
+				"KftGV",
+				"OoW",
+				"PaBTSO",
+				"PotA",
+				"RtG",
+				"SDW",
 				"SKT",
+				"SLW",
 				"TftYP-THSoT",
 				"TftYP-ToH",
-				"WDH",
-				"WDMM",
-				"IDRotF",
-				"CM",
+				"TftYP-WPM",
 				"WBtW",
-				"KftGV",
-				"PaBTSO"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Cone of Cold|XPHB"
@@ -4037,16 +4112,17 @@
 			"page": 224,
 			"srd": true,
 			"referenceSources": [
+				"BGDIA",
+				"CoA",
 				"HotDQ",
-				"PotA",
+				"IDRotF",
 				"OotA",
+				"PaBTSO",
+				"PotA",
 				"SKT",
 				"TftYP-DiT",
-				"WDMM",
-				"BGDIA",
-				"PaBTSO",
 				"ToFW",
-				"CoA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Confusion|XPHB"
@@ -4164,9 +4240,13 @@
 			"page": 225,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
+				"IDRotF",
+				"JttRC",
 				"LR",
-				"JttRC"
+				"OotA",
+				"SKT",
+				"US",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Conjure Animals|XPHB"
@@ -4336,9 +4416,11 @@
 			"page": 225,
 			"srd": true,
 			"referenceSources": [
+				"CM",
+				"IDRotF",
 				"PotA",
 				"SKT",
-				"CM"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Conjure Elemental|XPHB"
@@ -4398,7 +4480,8 @@
 			"page": 226,
 			"srd": true,
 			"referenceSources": [
-				"CM"
+				"CM",
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Conjure Fey|XPHB"
@@ -4459,6 +4542,7 @@
 			"srd": true,
 			"referenceSources": [
 				"OotA",
+				"SjA",
 				"SKT",
 				"TftYP-WPM"
 			],
@@ -4571,6 +4655,7 @@
 			"page": 226,
 			"srd": true,
 			"referenceSources": [
+				"SKT",
 				"WBtW"
 			],
 			"reprintedAs": [
@@ -4641,11 +4726,14 @@
 			"page": 226,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"SKT",
 				"BGDIA",
 				"CM",
-				"CoA"
+				"CoA",
+				"IMR",
+				"KftGV",
+				"OotA",
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Contact Other Plane|XPHB"
@@ -4696,8 +4784,9 @@
 			"page": 227,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
+				"CoA",
 				"CoS",
+				"OotA",
 				"ToA"
 			],
 			"reprintedAs": [
@@ -4843,37 +4932,37 @@
 			"page": 227,
 			"srd": true,
 			"referenceSources": [
-				"RoT",
-				"PotA",
-				"OotA",
+				"BGDIA",
+				"CM",
 				"CoS",
+				"CRCotN",
+				"DSotDQ",
+				"FS",
+				"GoS",
+				"IDRotF",
+				"JttRC",
+				"KftGV",
+				"KKW",
+				"LoX",
+				"LRDT",
+				"OotA",
+				"PaBTSO",
+				"PotA",
+				"QftIS",
+				"RoT",
+				"SCC-ARiR",
+				"SCC-CK",
+				"SCC-TMM",
+				"SDW",
+				"SjA",
 				"SKT",
 				"TftYP-TSC",
 				"ToA",
-				"WDH",
-				"WDMM",
-				"KKW",
-				"GoS",
-				"SDW",
-				"BGDIA",
-				"FS",
-				"IDRotF",
-				"CM",
-				"WBtW",
-				"SCC-CK",
-				"SCC-TMM",
-				"SCC-ARiR",
-				"CRCotN",
-				"JttRC",
-				"SjA",
-				"LoX",
-				"DSotDQ",
-				"KftGV",
-				"PaBTSO",
 				"ToFW",
-				"LRDT",
 				"VEoR",
-				"QftIS"
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Continual Flame|XPHB"
@@ -4923,11 +5012,13 @@
 			"page": 227,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"WBtW",
-				"JttRC",
 				"DitLCoT",
-				"QftIS"
+				"GoS",
+				"JttRC",
+				"OotA",
+				"QftIS",
+				"WBtW",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Control Water|XPHB"
@@ -5020,9 +5111,9 @@
 			"page": 228,
 			"srd": true,
 			"referenceSources": [
+				"IDRotF",
 				"SKT",
-				"TTP",
-				"IDRotF"
+				"TTP"
 			],
 			"reprintedAs": [
 				"Control Weather|XPHB"
@@ -5235,13 +5326,17 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CM",
+				"CoA",
 				"CoS",
+				"KftGV",
+				"LR",
+				"RtG",
 				"SKT",
 				"TftYP-DiT",
-				"WDMM",
-				"LR",
-				"CM",
-				"CoA"
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Counterspell|XPHB"
@@ -5292,9 +5387,10 @@
 			"page": 229,
 			"srd": true,
 			"referenceSources": [
+				"CoS",
 				"OotA",
-				"SKT",
-				"SDW"
+				"SDW",
+				"SKT"
 			],
 			"reprintedAs": [
 				"Create Food and Water|XPHB"
@@ -5333,9 +5429,9 @@
 			"page": 229,
 			"srd": true,
 			"referenceSources": [
-				"TftYP-ToH",
 				"PaBTSO",
-				"QftIS"
+				"QftIS",
+				"TftYP-ToH"
 			],
 			"reprintedAs": [
 				"Create or Destroy Water|XPHB"
@@ -5551,8 +5647,9 @@
 			"source": "PHB",
 			"page": 229,
 			"referenceSources": [
-				"WDMM",
-				"KftGV"
+				"KftGV",
+				"OotA",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Crown of Madness|XPHB"
@@ -5671,22 +5768,24 @@
 				}
 			],
 			"referenceSources": [
+				"BGDIA",
+				"CRCotN",
+				"DC",
+				"DSotDQ",
+				"IDRotF",
+				"IMR",
+				"KftGV",
+				"RMBRE",
 				"RoT",
+				"SDW",
 				"SKT",
-				"TftYP-TSC",
+				"SLW",
 				"TftYP-AtG",
 				"TftYP-ToH",
-				"SLW",
-				"SDW",
-				"DC",
-				"BGDIA",
-				"IMR",
-				"RMBRE",
+				"TftYP-TSC",
+				"ToFW",
 				"ToR",
-				"IDRotF",
-				"CRCotN",
-				"DSotDQ",
-				"ToFW"
+				"US"
 			],
 			"reprintedAs": [
 				"Cure Wounds|XPHB"
@@ -5760,13 +5859,13 @@
 				}
 			],
 			"referenceSources": [
-				"OotA",
-				"ToA",
-				"WDMM",
 				"GoS",
 				"IDRotF",
+				"KftGV",
+				"OotA",
+				"ToA",
 				"WBtW",
-				"KftGV"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Dancing Lights|XPHB"
@@ -5823,21 +5922,24 @@
 				}
 			],
 			"referenceSources": [
+				"BGDIA",
+				"CM",
+				"CoA",
+				"CoS",
 				"LMoP",
+				"OotA",
+				"PaBTSO",
 				"PotA",
+				"RtG",
+				"SDW",
 				"SKT",
+				"TftYP-AtG",
 				"TftYP-THSoT",
 				"TftYP-WPM",
-				"TftYP-AtG",
 				"ToA",
-				"WDMM",
-				"SDW",
-				"BGDIA",
-				"RtG",
-				"WBtW",
-				"PaBTSO",
 				"ToFW",
-				"CoA"
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Darkness|XPHB"
@@ -5890,13 +5992,15 @@
 			"page": 230,
 			"srd": true,
 			"referenceSources": [
+				"BGDIA",
 				"CoS",
+				"IDRotF",
+				"QftIS",
 				"SKT",
 				"TftYP-DiT",
+				"WBtW",
 				"WDH",
-				"WDMM",
-				"IDRotF",
-				"QftIS"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Darkvision|XPHB"
@@ -5942,8 +6046,10 @@
 			"page": 230,
 			"srd": true,
 			"referenceSources": [
+				"CM",
 				"HotDQ",
-				"CM"
+				"QftIS",
+				"TftYP-DiT"
 			],
 			"reprintedAs": [
 				"Daylight|XPHB"
@@ -5996,7 +6102,9 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"CoA"
+				"CoA",
+				"IDRotF",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Death Ward|XPHB"
@@ -6114,7 +6222,8 @@
 			"page": 231,
 			"srd": true,
 			"referenceSources": [
-				"CM"
+				"CM",
+				"KftGV"
 			],
 			"reprintedAs": [
 				"Demiplane|XPHB"
@@ -6160,6 +6269,9 @@
 			"name": "Destructive Wave",
 			"source": "PHB",
 			"page": 231,
+			"referenceSources": [
+				"WDMM"
+			],
 			"reprintedAs": [
 				"Destructive Wave|XPHB"
 			],
@@ -6211,16 +6323,17 @@
 			"page": 231,
 			"srd": true,
 			"referenceSources": [
-				"TftYP-THSoT",
-				"TftYP-DiT",
-				"TftYP-AtG",
-				"TftYP-ToH",
 				"BGDIA",
-				"IDRotF",
 				"CM",
-				"JttRC",
 				"CoA",
-				"VEoR"
+				"IDRotF",
+				"JttRC",
+				"TftYP-AtG",
+				"TftYP-DiT",
+				"TftYP-THSoT",
+				"TftYP-ToH",
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Detect Evil and Good|XPHB"
@@ -6279,52 +6392,53 @@
 				}
 			],
 			"referenceSources": [
-				"LMoP",
-				"RoT",
-				"PotA",
-				"OotA",
+				"AitFR-THP",
+				"BGDIA",
+				"CM",
 				"CoS",
+				"CRCotN",
+				"DC",
+				"DIP",
+				"DoSI",
+				"DSotDQ",
+				"EFR",
+				"FS",
+				"GoS",
+				"HFStCM",
+				"IDRotF",
+				"IMR",
+				"JttRC",
+				"KftGV",
+				"LK",
+				"LMoP",
+				"OotA",
+				"OoW",
+				"PaBTSO",
+				"PotA",
+				"QftIS",
+				"RMBRE",
+				"RoT",
+				"RtG",
+				"SCC-ARiR",
+				"SCC-TMM",
+				"SDW",
+				"SjA",
 				"SKT",
-				"TftYP-TSC",
-				"TftYP-THSoT",
-				"TftYP-DiT",
 				"TftYP-AtG",
+				"TftYP-DiT",
+				"TftYP-THSoT",
 				"TftYP-ToH",
+				"TftYP-TSC",
+				"TftYP-WPM",
 				"ToA",
+				"ToFW",
 				"TTP",
-				"XMtS",
+				"VEoR",
+				"VNotEE",
+				"WBtW",
 				"WDH",
 				"WDMM",
-				"GoS",
-				"OoW",
-				"DIP",
-				"SDW",
-				"DC",
-				"BGDIA",
-				"IMR",
-				"EFR",
-				"RMBRE",
-				"FS",
-				"IDRotF",
-				"CM",
-				"RtG",
-				"AitFR-THP",
-				"WBtW",
-				"SCC-TMM",
-				"SCC-ARiR",
-				"CRCotN",
-				"JttRC",
-				"DoSI",
-				"SjA",
-				"DSotDQ",
-				"KftGV",
-				"PaBTSO",
-				"LK",
-				"ToFW",
-				"HFStCM",
-				"VNotEE",
-				"VEoR",
-				"QftIS"
+				"XMtS"
 			],
 			"reprintedAs": [
 				"Detect Magic|XPHB"
@@ -6416,18 +6530,20 @@
 			"page": 231,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"SKT",
-				"WDH",
-				"WDMM",
-				"GoS",
-				"OoW",
-				"IDRotF",
-				"WBtW",
 				"CRCotN",
-				"SjA",
+				"GoS",
+				"IDRotF",
 				"KftGV",
-				"PaBTSO"
+				"OotA",
+				"OoW",
+				"PaBTSO",
+				"RtG",
+				"SDW",
+				"SjA",
+				"SKT",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Detect Thoughts|XPHB"
@@ -6485,22 +6601,22 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"BGDIA",
+				"CM",
+				"CoA",
+				"DSotDQ",
 				"HotDQ",
+				"KftGV",
+				"LoX",
+				"LRDT",
 				"OotA",
+				"PaBTSO",
+				"SCC-ARiR",
+				"SDW",
 				"TftYP-DiT",
 				"ToA",
 				"WDH",
-				"WDMM",
-				"SDW",
-				"BGDIA",
-				"CM",
-				"SCC-ARiR",
-				"LoX",
-				"DSotDQ",
-				"KftGV",
-				"PaBTSO",
-				"CoA",
-				"LRDT"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Dimension Door|XPHB"
@@ -6548,16 +6664,21 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"CoS",
-				"WDH",
-				"WDMM",
 				"AZfyT",
-				"SLW",
 				"BGDIA",
-				"WBtW",
+				"CoS",
 				"DSotDQ",
+				"IDRotF",
 				"KftGV",
-				"VEoR"
+				"OotA",
+				"QftIS",
+				"SKT",
+				"SLW",
+				"TftYP-TFoF",
+				"VEoR",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Disguise Self|XPHB"
@@ -6608,17 +6729,24 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"OotA",
+				"CM",
 				"CoS",
+				"KftGV",
+				"LoX",
+				"OotA",
+				"PaBTSO",
+				"QftIS",
+				"RoT",
+				"SDW",
+				"SjA",
+				"SKT",
+				"TftYP-AtG",
 				"TftYP-THSoT",
 				"TftYP-ToH",
-				"WDMM",
-				"SDW",
-				"CM",
-				"SjA",
-				"LoX",
-				"PaBTSO",
-				"QftIS"
+				"TftYP-WPM",
+				"VEoR",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Disintegrate|XPHB"
@@ -6683,13 +6811,14 @@
 			"page": 233,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
-				"WDMM",
 				"BGDIA",
 				"CM",
-				"KftGV",
 				"CoA",
-				"QftIS"
+				"KftGV",
+				"OotA",
+				"QftIS",
+				"ToA",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Dispel Evil and Good|XPHB"
@@ -6771,39 +6900,44 @@
 				}
 			],
 			"referenceSources": [
-				"HotDQ",
-				"CoS",
-				"SKT",
-				"TftYP-THSoT",
-				"TftYP-WPM",
-				"TftYP-DiT",
-				"TftYP-AtG",
-				"TftYP-ToH",
-				"ToA",
-				"WDH",
-				"WDMM",
 				"AZfyT",
-				"GoS",
-				"OoW",
-				"SLW",
-				"SDW",
 				"BGDIA",
-				"LR",
-				"US",
-				"IDRotF",
 				"CM",
-				"RtG",
-				"WBtW",
-				"CRCotN",
-				"JttRC",
-				"DSotDQ",
-				"KftGV",
-				"PaBTSO",
 				"CoA",
+				"CoS",
+				"CRCotN",
+				"DC",
 				"DitLCoT",
+				"DSotDQ",
+				"GoS",
+				"HotDQ",
+				"IDRotF",
+				"JttRC",
+				"KftGV",
+				"LR",
 				"LRDT",
+				"OotA",
+				"OoW",
+				"PaBTSO",
+				"QftIS",
+				"RoT",
+				"RtG",
+				"SDW",
+				"SjA",
+				"SKT",
+				"SLW",
+				"TftYP-AtG",
+				"TftYP-DiT",
+				"TftYP-THSoT",
+				"TftYP-ToH",
+				"TftYP-WPM",
+				"ToA",
+				"TTP",
+				"US",
 				"VEoR",
-				"QftIS"
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Dispel Magic|XPHB"
@@ -6910,19 +7044,23 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"OotA",
+				"BGDIA",
+				"CM",
+				"CoA",
 				"CoS",
+				"CRCotN",
+				"DSotDQ",
+				"GoS",
+				"IDRotF",
+				"IMR",
+				"KftGV",
+				"LoX",
+				"OotA",
+				"QftIS",
 				"SKT",
 				"ToA",
-				"WDMM",
-				"GoS",
-				"BGDIA",
-				"IMR",
-				"IDRotF",
-				"LoX",
-				"KftGV",
-				"CoA",
-				"QftIS"
+				"US",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Divination|XPHB"
@@ -6969,6 +7107,9 @@
 			"source": "PHB",
 			"page": 234,
 			"srd": true,
+			"referenceSources": [
+				"CoS"
+			],
 			"reprintedAs": [
 				"Divine Favor|XPHB"
 			],
@@ -7015,6 +7156,10 @@
 			"source": "PHB",
 			"page": 234,
 			"srd": true,
+			"referenceSources": [
+				"CoA",
+				"TftYP-AtG"
+			],
 			"reprintedAs": [
 				"Divine Word|XPHB"
 			],
@@ -7144,13 +7289,13 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"SKT",
-				"WDH",
-				"WDMM",
-				"OoW",
-				"IMR",
 				"IDRotF",
-				"ToFW"
+				"IMR",
+				"OoW",
+				"SKT",
+				"ToFW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Dominate Monster|XPHB"
@@ -7219,9 +7364,9 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CM",
 				"CoS",
-				"WDH",
-				"CM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Dominate Person|XPHB"
@@ -7292,6 +7437,7 @@
 			"page": 235,
 			"srd": "Instant Summons",
 			"referenceSources": [
+				"OotA",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -7347,8 +7493,9 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"RoT",
 				"PotA",
+				"RoT",
+				"WDH",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -7401,10 +7548,10 @@
 			"page": 236,
 			"srd": true,
 			"referenceSources": [
+				"IDRotF",
 				"SKT",
 				"TftYP-TSC",
-				"ToA",
-				"IDRotF"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Druidcraft|XPHB"
@@ -7453,12 +7600,12 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"RoT",
-				"PotA",
-				"OotA",
+				"CRCotN",
 				"LLK",
-				"WDMM",
-				"CRCotN"
+				"OotA",
+				"PotA",
+				"RoT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Earthquake|XPHB"
@@ -7757,11 +7904,13 @@
 			"page": 237,
 			"srd": true,
 			"referenceSources": [
-				"RoT",
+				"CoS",
+				"LK",
 				"OotA",
-				"WDMM",
+				"RoT",
+				"TftYP-TFoF",
 				"WBtW",
-				"LK"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Enlarge/Reduce|XPHB"
@@ -7892,9 +8041,10 @@
 			"page": 238,
 			"srd": true,
 			"referenceSources": [
-				"TftYP-TSC",
 				"AZfyT",
 				"LR",
+				"SKT",
+				"TftYP-TSC",
 				"US"
 			],
 			"reprintedAs": [
@@ -8003,8 +8153,14 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CoS",
+				"DC",
+				"GoS",
+				"SKT",
 				"ToA",
-				"DC"
+				"VEoR",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Etherealness|XPHB"
@@ -8068,11 +8224,14 @@
 			"srd": "Black Tentacles",
 			"referenceSources": [
 				"HotDQ",
-				"OotA",
-				"SKT",
-				"WDMM",
+				"IDRotF",
 				"LR",
-				"QftIS"
+				"OotA",
+				"QftIS",
+				"RoT",
+				"SKT",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Evard's Black Tentacles|XPHB"
@@ -8137,6 +8296,12 @@
 			"source": "PHB",
 			"page": 238,
 			"srd": true,
+			"referenceSources": [
+				"IDRotF",
+				"SDW",
+				"TftYP-TSC",
+				"ToA"
+			],
 			"reprintedAs": [
 				"Expeditious Retreat|XPHB"
 			],
@@ -8181,8 +8346,9 @@
 			"page": 238,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
-				"CoA"
+				"CoA",
+				"OotA",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Eyebite|XPHB"
@@ -8259,7 +8425,13 @@
 			"page": 239,
 			"srd": true,
 			"referenceSources": [
-				"SKT"
+				"CM",
+				"IDRotF",
+				"OotA",
+				"SKT",
+				"ToA",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Fabricate|XPHB"
@@ -8306,12 +8478,14 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CM",
+				"DSotDQ",
+				"IDRotF",
 				"OotA",
 				"TftYP-TSC",
-				"WDMM",
-				"IDRotF",
-				"CM",
-				"WBtW"
+				"ToA",
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Faerie Fire|XPHB"
@@ -8364,6 +8538,13 @@
 			"source": "PHB",
 			"page": 239,
 			"srd": true,
+			"referenceSources": [
+				"AZfyT",
+				"KftGV",
+				"SCC-ARiR",
+				"WDH",
+				"WDMM"
+			],
 			"reprintedAs": [
 				"False Life|XPHB"
 			],
@@ -8417,12 +8598,17 @@
 			"page": 239,
 			"srd": true,
 			"referenceSources": [
+				"AitFR-AVT",
+				"CM",
+				"GoS",
+				"OotA",
+				"SCC-ARiR",
+				"TftYP-AtG",
 				"TftYP-THSoT",
 				"TftYP-WPM",
-				"TftYP-AtG",
+				"ToA",
 				"US",
-				"AitFR-AVT",
-				"SCC-ARiR"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Fear|XPHB"
@@ -8483,13 +8669,17 @@
 				}
 			],
 			"referenceSources": [
-				"PotA",
-				"WDMM",
-				"EFR",
+				"BGDIA",
 				"CM",
-				"WBtW",
+				"DSotDQ",
+				"EFR",
+				"HotDQ",
+				"PotA",
 				"SjA",
-				"DSotDQ"
+				"ToA",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Feather Fall|XPHB"
@@ -8536,11 +8726,12 @@
 			"page": 239,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"WDMM",
 				"BGDIA",
+				"CoA",
+				"OotA",
 				"PaBTSO",
-				"CoA"
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Befuddlement|XPHB"
@@ -8594,8 +8785,10 @@
 			"source": "PHB",
 			"page": 240,
 			"referenceSources": [
+				"JttRC",
+				"OotA",
 				"WBtW",
-				"JttRC"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Feign Death|XPHB"
@@ -8663,11 +8856,16 @@
 			"page": 240,
 			"srd": true,
 			"referenceSources": [
-				"CoS",
-				"WDH",
-				"GoS",
 				"BGDIA",
-				"IDRotF"
+				"CM",
+				"CoS",
+				"DC",
+				"GoS",
+				"IDRotF",
+				"JttRC",
+				"OotA",
+				"QftIS",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Find Familiar|XPHB"
@@ -8724,8 +8922,8 @@
 			"page": 240,
 			"srd": true,
 			"referenceSources": [
-				"CoS",
-				"BGDIA"
+				"BGDIA",
+				"CoS"
 			],
 			"reprintedAs": [
 				"Find Steed|XPHB"
@@ -8773,9 +8971,11 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"BGDIA",
 				"CoS",
+				"SKT",
 				"ToA",
-				"BGDIA"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Find the Path|XPHB"
@@ -8823,6 +9023,7 @@
 			"page": 241,
 			"srd": true,
 			"referenceSources": [
+				"QftIS",
 				"TftYP-ToH",
 				"ToA"
 			],
@@ -8868,9 +9069,11 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CoA",
 				"CoS",
-				"WDMM",
-				"CoA"
+				"TftYP-AtG",
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Finger of Death|XPHB"
@@ -8928,12 +9131,13 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"BGDIA",
 				"CoS",
+				"OotA",
+				"RMBRE",
 				"TftYP-TFoF",
 				"TftYP-WPM",
-				"WDMM",
-				"BGDIA",
-				"RMBRE"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Fire Bolt|XPHB"
@@ -8995,8 +9199,13 @@
 			"page": 242,
 			"srd": true,
 			"referenceSources": [
+				"KftGV",
+				"OotA",
+				"QftIS",
 				"RoT",
-				"QftIS"
+				"RtG",
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Fire Shield|XPHB"
@@ -9109,23 +9318,30 @@
 				}
 			],
 			"referenceSources": [
-				"OotA",
-				"SKT",
-				"TftYP-THSoT",
-				"TftYP-WPM",
-				"TftYP-AtG",
-				"ToA",
-				"WDH",
-				"WDMM",
-				"GoS",
-				"OoW",
+				"CM",
+				"CoA",
+				"CoS",
 				"DC",
-				"IMR",
-				"RMBRE",
+				"GoS",
+				"HotDQ",
 				"IDRotF",
-				"WBtW",
+				"IMR",
+				"KftGV",
+				"OotA",
+				"OoW",
+				"PaBTSO",
+				"QftIS",
+				"RMBRE",
 				"SCC-CK",
-				"CoA"
+				"SKT",
+				"TftYP-AtG",
+				"TftYP-THSoT",
+				"TftYP-ToH",
+				"TftYP-WPM",
+				"ToA",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Fireball|XPHB"
@@ -9320,8 +9536,10 @@
 				}
 			],
 			"referenceSources": [
+				"DoSI",
 				"GoS",
-				"DoSI"
+				"TftYP-TSC",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Flaming Sphere|XPHB"
@@ -9391,8 +9609,11 @@
 			"page": 243,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
-				"IDRotF"
+				"CM",
+				"IDRotF",
+				"OotA",
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Flesh to Stone|XPHB"
@@ -9461,20 +9682,29 @@
 				}
 			],
 			"referenceSources": [
-				"HotDQ",
-				"PotA",
-				"SKT",
-				"TftYP-WPM",
-				"TftYP-DiT",
-				"WDMM",
 				"BGDIA",
-				"IDRotF",
+				"CM",
+				"CoA",
+				"CoS",
 				"CRCotN",
+				"DIP",
+				"DSotDQ",
+				"HotDQ",
+				"IDRotF",
 				"JttRC",
-				"LoX",
 				"KftGV",
+				"LoX",
+				"OotA",
+				"PotA",
+				"QftIS",
+				"RtG",
+				"SKT",
+				"TftYP-DiT",
+				"TftYP-WPM",
 				"ToFW",
-				"QftIS"
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Fly|XPHB"
@@ -9533,11 +9763,17 @@
 			"page": 243,
 			"srd": true,
 			"referenceSources": [
-				"CoS",
-				"OoW",
 				"BGDIA",
+				"CoS",
 				"DD",
-				"IDRotF"
+				"IDRotF",
+				"KftGV",
+				"OoW",
+				"QftIS",
+				"SCC-ARiR",
+				"SDW",
+				"US",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Fog Cloud|XPHB"
@@ -9776,9 +10012,9 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"SKT",
 				"LR",
-				"PaBTSO"
+				"PaBTSO",
+				"SKT"
 			],
 			"reprintedAs": [
 				"Freedom of Movement|XPHB"
@@ -9829,8 +10065,9 @@
 			"page": 244,
 			"referenceSources": [
 				"CoS",
-				"US",
-				"IDRotF"
+				"IDRotF",
+				"OotA",
+				"US"
 			],
 			"reprintedAs": [
 				"Friends|XPHB"
@@ -9879,12 +10116,16 @@
 			"page": 244,
 			"srd": true,
 			"referenceSources": [
+				"BGDIA",
+				"GoS",
+				"JttRC",
+				"OotA",
+				"PotA",
 				"RoT",
 				"ToA",
-				"WDMM",
-				"GoS",
 				"WBtW",
-				"JttRC"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Gaseous Form|XPHB"
@@ -9937,12 +10178,14 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"ToA",
-				"WDH",
-				"LLK",
 				"CM",
+				"CoA",
+				"LLK",
+				"TftYP-AtG",
+				"ToA",
 				"ToFW",
-				"CoA"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Gate|XPHB"
@@ -9998,12 +10241,16 @@
 			"page": 244,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
-				"LLK",
-				"WDMM",
 				"BGDIA",
 				"CM",
-				"CoA"
+				"CoA",
+				"JttRC",
+				"LLK",
+				"SKT",
+				"ToA",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Geas|XPHB"
@@ -10073,9 +10320,9 @@
 			"srd": true,
 			"referenceSources": [
 				"CoS",
-				"WDH",
+				"DSotDQ",
 				"WBtW",
-				"DSotDQ"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Gentle Repose|XPHB"
@@ -10172,7 +10419,8 @@
 			"page": 245,
 			"srd": true,
 			"referenceSources": [
-				"ToFW"
+				"ToFW",
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Glibness|XPHB"
@@ -10214,8 +10462,13 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CM",
+				"KftGV",
 				"OotA",
-				"SKT"
+				"OoW",
+				"RtG",
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Globe of Invulnerability|XPHB"
@@ -10276,32 +10529,33 @@
 			"page": 245,
 			"srd": true,
 			"referenceSources": [
-				"RoT",
-				"PotA",
-				"OotA",
+				"CM",
 				"CoS",
+				"GoS",
+				"IMR",
+				"JttRC",
+				"KftGV",
+				"KKW",
+				"OotA",
+				"OoW",
+				"PaBTSO",
+				"PotA",
+				"RoT",
+				"SCC-ARiR",
+				"SCC-HfMT",
+				"SDW",
+				"SjA",
 				"SKT",
-				"TftYP-TSC",
-				"TftYP-THSoT",
-				"TftYP-WPM",
+				"SLW",
 				"TftYP-AtG",
+				"TftYP-THSoT",
+				"TftYP-TSC",
+				"TftYP-WPM",
 				"ToA",
 				"TTP",
+				"VEoR",
 				"WDH",
-				"WDMM",
-				"KKW",
-				"GoS",
-				"OoW",
-				"SLW",
-				"SDW",
-				"CM",
-				"SCC-HfMT",
-				"SCC-ARiR",
-				"JttRC",
-				"SjA",
-				"KftGV",
-				"PaBTSO",
-				"VEoR"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Glyph of Warding|XPHB"
@@ -10393,6 +10647,8 @@
 			"referenceSources": [
 				"BGDIA",
 				"CM",
+				"OotA",
+				"SKT",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -10434,6 +10690,9 @@
 			"name": "Grasping Vine",
 			"source": "PHB",
 			"page": 246,
+			"referenceSources": [
+				"SKT"
+			],
 			"reprintedAs": [
 				"Grasping Vine|XPHB"
 			],
@@ -10488,7 +10747,12 @@
 			"page": 246,
 			"srd": true,
 			"referenceSources": [
-				"SCC-HfMT"
+				"CM",
+				"LoX",
+				"OotA",
+				"QftIS",
+				"SCC-HfMT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Grease|XPHB"
@@ -10546,12 +10810,18 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"OotA",
+				"CM",
 				"CoS",
-				"WDMM",
 				"DC",
+				"IDRotF",
 				"KftGV",
-				"VEoR"
+				"OotA",
+				"RoT",
+				"SKT",
+				"VEoR",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Greater Invisibility|XPHB"
@@ -10601,26 +10871,34 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"OotA",
-				"CoS",
-				"TftYP-THSoT",
-				"TftYP-DiT",
-				"ToA",
-				"WDH",
-				"WDMM",
-				"OoW",
-				"SLW",
-				"BGDIA",
-				"IMR",
-				"IDRotF",
-				"CM",
 				"AitFR-DN",
-				"CRCotN",
-				"PaBTSO",
-				"ToFW",
+				"BGDIA",
+				"CM",
 				"CoA",
+				"CoS",
+				"CRCotN",
+				"IDRotF",
+				"IMR",
+				"JttRC",
+				"LLK",
+				"LoX",
+				"OotA",
+				"OoW",
+				"PaBTSO",
+				"PotA",
+				"QftIS",
+				"SKT",
+				"SLW",
+				"TftYP-AtG",
+				"TftYP-DiT",
+				"TftYP-THSoT",
+				"TftYP-ToH",
+				"ToA",
+				"ToFW",
 				"VEoR",
-				"QftIS"
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Greater Restoration|XPHB"
@@ -10675,6 +10953,9 @@
 			"page": 246,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"CM"
+			],
 			"reprintedAs": [
 				"Guardian of Faith|XPHB"
 			],
@@ -10726,9 +11007,10 @@
 			"page": 248,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
+				"CM",
 				"IMR",
-				"CM"
+				"OotA",
+				"SKT"
 			],
 			"reprintedAs": [
 				"Guards and Wards|XPHB"
@@ -10831,8 +11113,11 @@
 				}
 			],
 			"referenceSources": [
+				"CM",
+				"SKT",
 				"ToA",
 				"TTP",
+				"US",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -10886,7 +11171,10 @@
 				}
 			],
 			"referenceSources": [
-				"TTP"
+				"TftYP-TSC",
+				"ToR",
+				"TTP",
+				"US"
 			],
 			"reprintedAs": [
 				"Guiding Bolt|XPHB"
@@ -10950,19 +11238,22 @@
 			"page": 248,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
+				"BGDIA",
+				"CM",
+				"CoA",
 				"CoS",
-				"SKT",
-				"ToA",
-				"WDH",
-				"WDMM",
 				"GoS",
 				"IMR",
-				"CM",
-				"SCC-ARiR",
 				"KftGV",
+				"OotA",
+				"SCC-ARiR",
+				"SKT",
+				"TftYP-DiT",
+				"TftYP-THSoT",
+				"ToA",
 				"ToFW",
-				"CoA"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Gust of Wind|XPHB"
@@ -11076,13 +11367,14 @@
 			"page": 249,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
-				"OotA",
 				"CoS",
+				"DSotDQ",
 				"GoS",
 				"HoL",
-				"DSotDQ",
-				"QftIS"
+				"OotA",
+				"PotA",
+				"QftIS",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Hallow|XPHB"
@@ -11231,10 +11523,12 @@
 			"page": 249,
 			"srd": true,
 			"referenceSources": [
-				"SKT",
-				"WDMM",
 				"BGDIA",
-				"CM"
+				"CM",
+				"IDRotF",
+				"OotA",
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Hallucinatory Terrain|XPHB"
@@ -11285,6 +11579,9 @@
 			"page": 249,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"TftYP-DiT"
+			],
 			"reprintedAs": [
 				"Harm|XPHB"
 			],
@@ -11334,9 +11631,14 @@
 			"page": 250,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
 				"CoA",
-				"VEoR"
+				"LoX",
+				"PotA",
+				"RoT",
+				"SKT",
+				"TftYP-WPM",
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Haste|XPHB"
@@ -11391,10 +11693,14 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"SDW",
 				"BGDIA",
+				"CoA",
+				"DSotDQ",
 				"LR",
-				"DSotDQ"
+				"QftIS",
+				"SDW",
+				"TftYP-AtG",
+				"TftYP-ToH"
 			],
 			"reprintedAs": [
 				"Heal|XPHB"
@@ -11535,8 +11841,9 @@
 			"page": 250,
 			"srd": true,
 			"referenceSources": [
+				"CM",
 				"TftYP-THSoT",
-				"CM"
+				"TftYP-ToH"
 			],
 			"reprintedAs": [
 				"Heat Metal|XPHB"
@@ -11668,11 +11975,11 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"CoS",
-				"WDMM",
 				"BGDIA",
 				"CM",
-				"QftIS"
+				"CoS",
+				"QftIS",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Heroes' Feast|XPHB"
@@ -11852,7 +12159,12 @@
 			"srd": true,
 			"referenceSources": [
 				"CoA",
-				"LRDT"
+				"LRDT",
+				"OotA",
+				"RoT",
+				"SDW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Hold Monster|XPHB"
@@ -11941,17 +12253,24 @@
 				}
 			],
 			"referenceSources": [
+				"CM",
+				"CoA",
+				"CoS",
+				"DIP",
+				"DoSI",
+				"GoS",
+				"KftGV",
+				"OotA",
+				"OoW",
+				"PaBTSO",
+				"RoT",
+				"TftYP-AtG",
 				"TftYP-TFoF",
 				"TftYP-THSoT",
 				"TftYP-WPM",
-				"TftYP-AtG",
-				"WDMM",
-				"GoS",
+				"ToA",
 				"WBtW",
-				"DoSI",
-				"KftGV",
-				"PaBTSO",
-				"CoA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Hold Person|XPHB"
@@ -12021,6 +12340,9 @@
 			"page": 251,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"DC"
+			],
 			"reprintedAs": [
 				"Holy Aura|XPHB"
 			],
@@ -12199,7 +12521,9 @@
 			"page": 252,
 			"srd": true,
 			"referenceSources": [
-				"SCC-ARiR"
+				"SCC-ARiR",
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Hypnotic Pattern|XPHB"
@@ -12255,11 +12579,16 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CM",
+				"IDRotF",
+				"KftGV",
+				"LRDT",
+				"PotA",
 				"SKT",
 				"TftYP-WPM",
-				"WDMM",
-				"IDRotF",
-				"LRDT"
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Ice Storm|XPHB"
@@ -12326,23 +12655,31 @@
 				}
 			],
 			"referenceSources": [
+				"BGDIA",
+				"CM",
+				"CoA",
+				"CoS",
+				"CRCotN",
+				"DIP",
+				"DitLCoT",
+				"GoS",
+				"IDRotF",
+				"IMR",
+				"KftGV",
 				"LMoP",
 				"OotA",
+				"OoW",
+				"PaBTSO",
+				"QftIS",
+				"RMBRE",
+				"RtG",
 				"SKT",
 				"TftYP-DiT",
 				"ToA",
-				"WDMM",
-				"OoW",
-				"BGDIA",
-				"IMR",
-				"RMBRE",
-				"IDRotF",
+				"TTP",
+				"VNotEE",
 				"WBtW",
-				"CRCotN",
-				"PaBTSO",
-				"CoA",
-				"DitLCoT",
-				"QftIS"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Identify|XPHB"
@@ -12394,7 +12731,10 @@
 			"page": 252,
 			"srd": true,
 			"referenceSources": [
-				"IDRotF"
+				"IDRotF",
+				"JttRC",
+				"QftIS",
+				"ToA"
 			],
 			"reprintedAs": [
 				"Illusory Script|XPHB"
@@ -12447,10 +12787,11 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"OotA",
-				"WDH",
 				"BGDIA",
-				"ToFW"
+				"OotA",
+				"ToFW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Imprisonment|XPHB"
@@ -12559,6 +12900,7 @@
 			"page": 253,
 			"srd": true,
 			"referenceSources": [
+				"OotA",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -12624,7 +12966,9 @@
 				}
 			],
 			"referenceSources": [
-				"WDH"
+				"TftYP-TSC",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Inflict Wounds|XPHB"
@@ -12679,6 +13023,11 @@
 			"source": "PHB",
 			"page": 254,
 			"srd": true,
+			"referenceSources": [
+				"CM",
+				"OotA",
+				"TftYP-AtG"
+			],
 			"reprintedAs": [
 				"Insect Plague|XPHB"
 			],
@@ -12753,25 +13102,29 @@
 				}
 			],
 			"referenceSources": [
-				"LMoP",
-				"RoT",
-				"PotA",
-				"OotA",
+				"CM",
 				"CoS",
-				"TftYP-TFoF",
-				"TftYP-WPM",
-				"TftYP-AtG",
-				"ToA",
-				"WDH",
-				"WDMM",
 				"GoS",
 				"IDRotF",
-				"WBtW",
-				"LoX",
 				"KftGV",
+				"LMoP",
+				"LoX",
+				"LRDT",
+				"OotA",
 				"PaBTSO",
+				"PotA",
+				"RoT",
+				"SDW",
+				"SKT",
+				"TftYP-AtG",
+				"TftYP-DiT",
+				"TftYP-TFoF",
+				"TftYP-WPM",
+				"ToA",
 				"ToFW",
-				"LRDT"
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Invisibility|XPHB"
@@ -12833,10 +13186,12 @@
 			"page": 254,
 			"srd": true,
 			"referenceSources": [
-				"SKT",
-				"WDMM",
 				"CM",
-				"LRDT"
+				"LRDT",
+				"OotA",
+				"SKT",
+				"TftYP-WPM",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Jump|XPHB"
@@ -12883,34 +13238,35 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"HotDQ",
-				"RoT",
-				"PotA",
-				"OotA",
+				"BGDIA",
+				"CM",
 				"CoS",
+				"CRCotN",
+				"DIP",
+				"DSotDQ",
+				"HotDQ",
+				"IDRotF",
+				"KftGV",
+				"LRDT",
+				"OotA",
+				"PaBTSO",
+				"PotA",
+				"QftIS",
+				"RoT",
+				"SDW",
 				"SKT",
-				"TftYP-TSC",
-				"TftYP-THSoT",
-				"TftYP-WPM",
 				"TftYP-DiT",
+				"TftYP-THSoT",
 				"TftYP-ToH",
+				"TftYP-TSC",
+				"TftYP-WPM",
 				"ToA",
 				"TTP",
-				"WDH",
-				"WDMM",
-				"DIP",
-				"BGDIA",
-				"IDRotF",
-				"CM",
-				"WBtW",
-				"CRCotN",
-				"DSotDQ",
-				"KftGV",
-				"PaBTSO",
-				"LRDT",
-				"VNotEE",
 				"VEoR",
-				"QftIS"
+				"VNotEE",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Knock|XPHB"
@@ -12955,17 +13311,20 @@
 			"page": 254,
 			"srd": true,
 			"referenceSources": [
+				"CM",
+				"DC",
+				"IMR",
+				"KftGV",
+				"OotA",
 				"RoT",
+				"SDW",
 				"SKT",
+				"SLW",
 				"TftYP-ToH",
 				"ToA",
 				"TTP",
-				"WDMM",
-				"SLW",
-				"SDW",
-				"DC",
-				"CM",
-				"WBtW"
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Legend Lore|XPHB"
@@ -13012,9 +13371,12 @@
 			"page": 254,
 			"srd": "Secret Chest",
 			"referenceSources": [
-				"SKT",
 				"IDRotF",
-				"WBtW"
+				"OotA",
+				"SKT",
+				"VEoR",
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Leomund's Secret Chest|XPHB"
@@ -13062,8 +13424,11 @@
 			"page": 255,
 			"srd": "Tiny Hut",
 			"referenceSources": [
+				"IDRotF",
 				"IMR",
-				"IDRotF"
+				"ToA",
+				"TTP",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Leomund's Tiny Hut|XPHB"
@@ -13122,20 +13487,28 @@
 				}
 			],
 			"referenceSources": [
-				"RoT",
-				"PotA",
-				"OotA",
+				"AitFR-AVT",
 				"CoS",
+				"CRCotN",
+				"DC",
+				"DoSI",
+				"DSotDQ",
+				"IDRotF",
+				"JttRC",
+				"KftGV",
+				"OotA",
+				"OoW",
+				"PotA",
+				"QftIS",
+				"RoT",
+				"SDW",
+				"SLW",
+				"TftYP-AtG",
+				"TftYP-DiT",
 				"TftYP-TFoF",
 				"ToA",
-				"WDMM",
-				"OoW",
 				"US",
-				"IDRotF",
-				"AitFR-AVT",
-				"JttRC",
-				"DoSI",
-				"DSotDQ"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Lesser Restoration|XPHB"
@@ -13177,18 +13550,21 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"RoT",
+				"AitFR-DN",
+				"CM",
+				"CoS",
+				"DitLCoT",
+				"DSotDQ",
+				"IDRotF",
 				"OotA",
+				"QftIS",
+				"RoT",
 				"SKT",
 				"TftYP-ToH",
-				"WDH",
-				"WDMM",
-				"IDRotF",
-				"AitFR-DN",
-				"DSotDQ",
-				"DitLCoT",
+				"TftYP-WPM",
 				"VEoR",
-				"QftIS"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Levitate|XPHB"
@@ -13252,20 +13628,21 @@
 				}
 			],
 			"referenceSources": [
-				"HotDQ",
-				"OotA",
-				"CoS",
-				"LLK",
-				"WDMM",
-				"GoS",
-				"SDW",
 				"BGDIA",
-				"IMR",
-				"US",
-				"RtG",
+				"CoS",
 				"CRCotN",
+				"GoS",
+				"HotDQ",
+				"IMR",
 				"KftGV",
-				"PaBTSO"
+				"LLK",
+				"OotA",
+				"PaBTSO",
+				"RtG",
+				"SDW",
+				"TftYP-WPM",
+				"US",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Light|XPHB"
@@ -13381,17 +13758,27 @@
 				}
 			],
 			"referenceSources": [
-				"OotA",
+				"CoA",
 				"CoS",
-				"ToA",
-				"WDMM",
-				"DIP",
-				"SDW",
 				"DC",
-				"LR",
-				"IMR",
+				"DIP",
 				"IDRotF",
-				"CoA"
+				"IMR",
+				"KftGV",
+				"LMoP",
+				"LR",
+				"OotA",
+				"OoW",
+				"PaBTSO",
+				"RMBRE",
+				"RtG",
+				"SDW",
+				"SKT",
+				"TftYP-ToH",
+				"TftYP-WPM",
+				"ToA",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Lightning Bolt|XPHB"
@@ -13452,6 +13839,9 @@
 			"source": "PHB",
 			"page": 256,
 			"srd": true,
+			"referenceSources": [
+				"SKT"
+			],
 			"reprintedAs": [
 				"Locate Animals or Plants|XPHB"
 			],
@@ -13497,6 +13887,11 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CM",
+				"OotA",
+				"SKT",
+				"WBtW",
+				"WDH",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -13544,9 +13939,14 @@
 			"srd": true,
 			"referenceSources": [
 				"CM",
+				"CoA",
+				"CoS",
+				"IMR",
 				"JttRC",
 				"KftGV",
-				"CoA"
+				"QftIS",
+				"SKT",
+				"XMtS"
 			],
 			"reprintedAs": [
 				"Locate Object|XPHB"
@@ -13660,16 +14060,23 @@
 				}
 			],
 			"referenceSources": [
-				"LMoP",
-				"OotA",
-				"CoS",
-				"SKT",
-				"TftYP-TSC",
-				"WDMM",
-				"LR",
+				"BGDIA",
 				"CM",
 				"CoA",
-				"LRDT"
+				"CoS",
+				"DIP",
+				"IDRotF",
+				"KftGV",
+				"LMoP",
+				"LR",
+				"LRDT",
+				"OotA",
+				"RtG",
+				"SKT",
+				"TftYP-TSC",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Mage Armor|XPHB"
@@ -13725,22 +14132,25 @@
 				}
 			],
 			"referenceSources": [
-				"CoS",
-				"SKT",
-				"ToA",
-				"WDMM",
-				"OoW",
-				"DIP",
 				"BGDIA",
-				"RMBRE",
+				"CoS",
+				"DIP",
 				"IDRotF",
-				"NRH-TLT",
-				"SjA",
-				"LoX",
 				"KftGV",
 				"LK",
+				"LoX",
+				"NRH-TLT",
+				"OoW",
+				"QftIS",
+				"RMBRE",
+				"SDW",
+				"SjA",
+				"SKT",
+				"TftYP-TFoF",
+				"TftYP-WPM",
+				"ToA",
 				"VEoR",
-				"QftIS"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Mage Hand|XPHB"
@@ -13940,18 +14350,26 @@
 				}
 			],
 			"referenceSources": [
+				"BGDIA",
+				"CM",
 				"CoS",
+				"DIP",
+				"IDRotF",
+				"KftGV",
+				"LoX",
+				"LRDT",
+				"PaBTSO",
+				"QftIS",
+				"RMBRE",
+				"RtG",
+				"SKT",
 				"TftYP-THSoT",
 				"TftYP-WPM",
-				"WDMM",
-				"BGDIA",
-				"RMBRE",
 				"ToR",
-				"LoX",
-				"KftGV",
-				"PaBTSO",
-				"LRDT",
-				"VEoR"
+				"VEoR",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Magic Missile|XPHB"
@@ -14010,19 +14428,20 @@
 			"page": 257,
 			"srd": true,
 			"referenceSources": [
-				"RoT",
-				"OotA",
 				"CoS",
-				"TftYP-TSC",
-				"TftYP-TFoF",
-				"TftYP-WPM",
-				"TftYP-ToH",
-				"ToA",
-				"WDH",
-				"WDMM",
 				"GoS",
 				"KftGV",
-				"QftIS"
+				"OotA",
+				"QftIS",
+				"RoT",
+				"TftYP-AtG",
+				"TftYP-TFoF",
+				"TftYP-ToH",
+				"TftYP-TSC",
+				"TftYP-WPM",
+				"ToA",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Magic Mouth|XPHB"
@@ -14079,8 +14498,14 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"BGDIA",
 				"CoS",
+				"KftGV",
+				"OotA",
+				"SKT",
 				"TftYP-DiT",
+				"TftYP-ToH",
+				"WDH",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -14134,11 +14559,16 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"PotA",
 				"CoS",
-				"TftYP-THSoT",
 				"GoS",
-				"PaBTSO"
+				"IDRotF",
+				"OotA",
+				"PaBTSO",
+				"PotA",
+				"TftYP-THSoT",
+				"ToA",
+				"VEoR",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Major Image|XPHB"
@@ -14203,9 +14633,10 @@
 			"basicRules": true,
 			"referenceSources": [
 				"CoS",
-				"WDMM",
+				"IDRotF",
+				"SDW",
 				"SLW",
-				"IDRotF"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Mass Cure Wounds|XPHB"
@@ -14274,6 +14705,9 @@
 			"page": 258,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"CoA"
+			],
 			"reprintedAs": [
 				"Mass Heal|XPHB"
 			],
@@ -14408,8 +14842,10 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"IMR",
 				"SKT",
-				"IMR"
+				"WBtW",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Mass Suggestion|XPHB"
@@ -14475,6 +14911,8 @@
 			"basicRules": true,
 			"referenceSources": [
 				"CoS",
+				"OotA",
+				"WDH",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -14530,9 +14968,9 @@
 			"page": 259,
 			"srd": true,
 			"referenceSources": [
+				"KftGV",
 				"SKT",
-				"WBtW",
-				"KftGV"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Meld into Stone|XPHB"
@@ -14587,6 +15025,7 @@
 			"referenceSources": [
 				"HotDQ",
 				"TftYP-DiT",
+				"TftYP-TSC",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -14645,19 +15084,21 @@
 			"page": 259,
 			"srd": true,
 			"referenceSources": [
-				"HotDQ",
+				"BGDIA",
+				"CM",
 				"CoS",
+				"GoS",
+				"HotDQ",
+				"IDRotF",
+				"IMR",
+				"OotA",
+				"OoW",
+				"SCC-ARiR",
+				"SDW",
 				"SKT",
 				"ToA",
 				"WDH",
-				"WDMM",
-				"GoS",
-				"OoW",
-				"BGDIA",
-				"IMR",
-				"IDRotF",
-				"CM",
-				"SCC-ARiR"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Mending|XPHB"
@@ -14700,13 +15141,14 @@
 			"page": 259,
 			"srd": true,
 			"referenceSources": [
-				"SKT",
 				"AZfyT",
 				"BGDIA",
-				"IDRotF",
 				"CM",
+				"CoA",
+				"DC",
+				"IDRotF",
 				"LoX",
-				"CoA"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Message|XPHB"
@@ -14810,11 +15252,15 @@
 			"page": 259,
 			"srd": true,
 			"referenceSources": [
-				"CoS",
-				"WDMM",
 				"BGDIA",
 				"CM",
-				"PaBTSO"
+				"CoS",
+				"KftGV",
+				"PaBTSO",
+				"RtG",
+				"SKT",
+				"ToA",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Mind Blank|XPHB"
@@ -14866,14 +15312,18 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"RoT",
-				"OotA",
-				"TftYP-ToH",
-				"WDMM",
 				"IDRotF",
-				"WBtW",
 				"KftGV",
-				"PaBTSO"
+				"LoX",
+				"OotA",
+				"PaBTSO",
+				"RoT",
+				"SKT",
+				"TftYP-TFoF",
+				"TftYP-ToH",
+				"ToA",
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Minor Illusion|XPHB"
@@ -14921,6 +15371,10 @@
 			"source": "PHB",
 			"page": 260,
 			"srd": true,
+			"referenceSources": [
+				"OotA",
+				"SKT"
+			],
 			"reprintedAs": [
 				"Mirage Arcane|XPHB"
 			],
@@ -14964,10 +15418,16 @@
 			"page": 260,
 			"srd": true,
 			"referenceSources": [
+				"CM",
 				"CoS",
+				"IDRotF",
+				"KftGV",
+				"RtG",
+				"SKT",
 				"TftYP-WPM",
 				"ToA",
-				"WDH"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Mirror Image|XPHB"
@@ -15013,7 +15473,9 @@
 			"page": 260,
 			"srd": true,
 			"referenceSources": [
-				"LoX"
+				"IDRotF",
+				"LoX",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Mislead|XPHB"
@@ -15073,17 +15535,23 @@
 				}
 			],
 			"referenceSources": [
-				"LMoP",
+				"BGDIA",
+				"CM",
 				"CoS",
+				"DoSI",
+				"IDRotF",
+				"KftGV",
+				"LK",
+				"LMoP",
+				"LoX",
+				"PaBTSO",
+				"RtG",
+				"SjA",
 				"SKT",
 				"ToA",
-				"WDMM",
-				"BGDIA",
 				"WBtW",
-				"DoSI",
-				"SjA",
-				"LoX",
-				"PaBTSO"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Misty Step|XPHB"
@@ -15124,10 +15592,12 @@
 			"page": 261,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
-				"RtG",
 				"AitFR-AVT",
-				"VEoR"
+				"RtG",
+				"SKT",
+				"VEoR",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Modify Memory|XPHB"
@@ -15199,9 +15669,9 @@
 			"srd": true,
 			"referenceSources": [
 				"CoS",
-				"WDMM",
 				"IDRotF",
-				"VEoR"
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Moonbeam|XPHB"
@@ -15270,9 +15740,11 @@
 			"page": 261,
 			"srd": "Faithful Hound",
 			"referenceSources": [
-				"CoS",
 				"AitFR-THP",
-				"VEoR"
+				"CoS",
+				"SKT",
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Mordenkainen's Faithful Hound|XPHB"
@@ -15324,9 +15796,11 @@
 			"page": 261,
 			"srd": "Magnificent Mansion",
 			"referenceSources": [
+				"CM",
 				"CoS",
-				"WDMM",
-				"CM"
+				"OotA",
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Mordenkainen's Magnificent Mansion|XPHB"
@@ -15378,7 +15852,8 @@
 			"page": 262,
 			"srd": "Private Sanctum",
 			"referenceSources": [
-				"QftIS"
+				"QftIS",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Mordenkainen's Private Sanctum|XPHB"
@@ -15452,6 +15927,7 @@
 			"srd": "Arcane Sword",
 			"basicRules": true,
 			"referenceSources": [
+				"PotA",
 				"SKT",
 				"WDMM"
 			],
@@ -15516,6 +15992,7 @@
 			"page": 263,
 			"srd": true,
 			"referenceSources": [
+				"OotA",
 				"RoT"
 			],
 			"reprintedAs": [
@@ -15568,11 +16045,15 @@
 			"page": 263,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"WDMM",
+				"CoS",
+				"KftGV",
 				"LR",
+				"OotA",
+				"SKT",
 				"ToFW",
-				"VEoR"
+				"VEoR",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Nondetection|XPHB"
@@ -15625,6 +16106,8 @@
 			"page": 263,
 			"srd": "Arcanist's Magic Aura",
 			"referenceSources": [
+				"IDRotF",
+				"QftIS",
 				"ToA",
 				"WDMM"
 			],
@@ -15691,6 +16174,9 @@
 			"source": "PHB",
 			"page": 263,
 			"srd": "Freezing Sphere",
+			"referenceSources": [
+				"AitFR-ISF"
+			],
 			"reprintedAs": [
 				"Otiluke's Freezing Sphere|XPHB"
 			],
@@ -15752,8 +16238,9 @@
 			"page": 264,
 			"srd": "Resilient Sphere",
 			"referenceSources": [
-				"WDMM",
-				"CRCotN"
+				"CRCotN",
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Otiluke's Resilient Sphere|XPHB"
@@ -15826,9 +16313,12 @@
 			"srd": "Irresistible Dance",
 			"basicRules": true,
 			"referenceSources": [
-				"TftYP-THSoT",
 				"CM",
-				"SCC-TMM"
+				"OotA",
+				"SCC-TMM",
+				"TftYP-THSoT",
+				"ToA",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Otto's Irresistible Dance|XPHB"
@@ -15881,8 +16371,10 @@
 			"page": 264,
 			"srd": true,
 			"referenceSources": [
+				"CRCotN",
+				"SKT",
 				"WBtW",
-				"CRCotN"
+				"XMtS"
 			],
 			"reprintedAs": [
 				"Pass without Trace|XPHB"
@@ -15930,13 +16422,18 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"TftYP-THSoT",
-				"ToA",
 				"CRCotN",
+				"JttRC",
 				"KftGV",
+				"OotA",
 				"PaBTSO",
+				"QftIS",
+				"TftYP-DiT",
+				"TftYP-THSoT",
+				"TftYP-WPM",
+				"ToA",
 				"VEoR",
-				"QftIS"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Passwall|XPHB"
@@ -15984,10 +16481,14 @@
 			"source": "PHB",
 			"page": 264,
 			"referenceSources": [
-				"TftYP-THSoT",
+				"CM",
 				"GoS",
+				"IDRotF",
 				"KftGV",
-				"LRDT"
+				"LRDT",
+				"OotA",
+				"TftYP-THSoT",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Phantasmal Force|XPHB"
@@ -16062,12 +16563,14 @@
 			"page": 265,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
-				"IDRotF",
-				"CM",
 				"AitFR-AVT",
+				"CM",
+				"CoA",
+				"IDRotF",
+				"OotA",
 				"PaBTSO",
-				"CoA"
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Phantasmal Killer|XPHB"
@@ -16135,8 +16638,10 @@
 			"page": 265,
 			"srd": true,
 			"referenceSources": [
+				"CoA",
 				"CoS",
-				"CoA"
+				"DSotDQ",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Phantom Steed|XPHB"
@@ -16232,6 +16737,10 @@
 			"source": "PHB",
 			"page": 265,
 			"srd": true,
+			"referenceSources": [
+				"CM",
+				"WDMM"
+			],
 			"reprintedAs": [
 				"Planar Binding|XPHB"
 			],
@@ -16303,24 +16812,25 @@
 			"page": 266,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
-				"WDMM",
-				"GoS",
-				"OoW",
-				"SLW",
-				"BGDIA",
-				"IDRotF",
-				"CM",
 				"AitFR-DN",
-				"WBtW",
-				"JttRC",
-				"DSotDQ",
-				"KftGV",
-				"PaBTSO",
-				"ToFW",
+				"BGDIA",
+				"CM",
 				"CoA",
+				"CoS",
+				"DSotDQ",
+				"GoS",
+				"IDRotF",
+				"JttRC",
+				"KftGV",
+				"OoW",
+				"PaBTSO",
+				"QftIS",
+				"SLW",
+				"ToA",
+				"ToFW",
 				"VEoR",
-				"QftIS"
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Plane Shift|XPHB"
@@ -16428,6 +16938,8 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"OotA",
+				"TftYP-TFoF",
 				"TftYP-TSC",
 				"ToA"
 			],
@@ -16491,18 +17003,24 @@
 			"page": 266,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
+				"CM",
+				"CoA",
+				"CoS",
+				"DSotDQ",
+				"IDRotF",
+				"JttRC",
+				"KftGV",
 				"OotA",
+				"OoW",
+				"PotA",
+				"SLW",
 				"TftYP-ToH",
 				"ToA",
-				"TTP",
-				"WDMM",
-				"OoW",
-				"WBtW",
-				"JttRC",
-				"DSotDQ",
 				"ToFW",
-				"CoA"
+				"TTP",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Polymorph|XPHB"
@@ -16615,6 +17133,8 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"PotA",
+				"SKT",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -16659,6 +17179,10 @@
 			"page": 267,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"OotA",
+				"WDMM"
+			],
 			"reprintedAs": [
 				"Power Word Stun|XPHB"
 			],
@@ -16713,6 +17237,9 @@
 					"source": "RMR",
 					"page": 57
 				}
+			],
+			"referenceSources": [
+				"OoW"
 			],
 			"reprintedAs": [
 				"Prayer of Healing|XPHB"
@@ -16787,14 +17314,18 @@
 				}
 			],
 			"referenceSources": [
-				"OotA",
 				"CoS",
-				"WDMM",
-				"RMBRE",
 				"IDRotF",
+				"KftGV",
 				"NRH-TLT",
+				"OotA",
+				"RMBRE",
+				"SKT",
+				"TftYP-TFoF",
+				"ToA",
+				"VEoR",
 				"WBtW",
-				"VEoR"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Prestidigitation|XPHB"
@@ -16853,7 +17384,9 @@
 			"page": 267,
 			"srd": true,
 			"referenceSources": [
+				"OotA",
 				"SKT",
+				"ToA",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -16972,6 +17505,9 @@
 			"source": "PHB",
 			"page": 267,
 			"srd": true,
+			"referenceSources": [
+				"WDMM"
+			],
 			"reprintedAs": [
 				"Prismatic Wall|XPHB"
 			],
@@ -17007,7 +17543,7 @@
 				"A shimmering, multicolored plane of light forms a vertical opaque wall\u2014up to 90 feet long, 30 feet high, and 1 inch thick\u2014centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your action and the spell slot are wasted.",
 				"The wall sheds bright light out to a range of 100 feet and dim light for an additional 100 feet. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves to within 20 feet of it or starts its turn there, the creature must succeed on a Constitution saving throw or become {@condition blinded} for 1 minute.",
 				"The wall consists of seven layers, each with a different color. When a creature attempts to reach into or pass through the wall, it does so one layer at a time through all the wall's layers. As it passes or reaches through each layer, the creature must make a Dexterity saving throw or be affected by that layer's properties as described below.",
-				"The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. An {@spell antimagic field} has no effect on a prismatic wall.",
+				"The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. {@spell Antimagic field} has no effect on the wall, and {@spell dispel magic} can affect only the violet layer.",
 				{
 					"type": "entries",
 					"name": "Red",
@@ -17092,9 +17628,13 @@
 			"page": 269,
 			"srd": true,
 			"referenceSources": [
-				"WDH",
+				"GoS",
+				"IDRotF",
+				"JttRC",
+				"SKT",
+				"ToA",
 				"US",
-				"IDRotF"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Produce Flame|XPHB"
@@ -17160,9 +17700,9 @@
 			"page": 269,
 			"srd": true,
 			"referenceSources": [
+				"CM",
 				"CoS",
-				"TftYP-ToH",
-				"CM"
+				"TftYP-ToH"
 			],
 			"reprintedAs": [
 				"Programmed Illusion|XPHB"
@@ -17214,8 +17754,8 @@
 			"page": 270,
 			"srd": true,
 			"referenceSources": [
-				"IDRotF",
 				"AitFR-AVT",
+				"IDRotF",
 				"JttRC",
 				"KftGV"
 			],
@@ -17286,8 +17826,11 @@
 				}
 			],
 			"referenceSources": [
+				"LRDT",
+				"OotA",
 				"RoT",
-				"LRDT"
+				"SDW",
+				"SKT"
 			],
 			"reprintedAs": [
 				"Protection from Energy|XPHB"
@@ -17342,9 +17885,11 @@
 			"referenceSources": [
 				"BGDIA",
 				"CM",
-				"WBtW",
 				"CoA",
-				"VNotEE"
+				"CoS",
+				"VNotEE",
+				"WBtW",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Protection from Evil and Good|XPHB"
@@ -17406,8 +17951,12 @@
 			"page": 270,
 			"srd": true,
 			"referenceSources": [
+				"CoS",
+				"GoS",
+				"JttRC",
 				"TftYP-AtG",
-				"JttRC"
+				"TftYP-TSC",
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Protection from Poison|XPHB"
@@ -17459,13 +18008,14 @@
 			"page": 270,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"CoS",
-				"TftYP-ToH",
-				"WDMM",
-				"GoS",
 				"CM",
-				"QftIS"
+				"CoS",
+				"GoS",
+				"OotA",
+				"QftIS",
+				"TftYP-ToH",
+				"ToA",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Purify Food and Drink|XPHB"
@@ -17511,22 +18061,24 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"RoT",
-				"OotA",
+				"BGDIA",
+				"CM",
 				"CoS",
+				"DC",
+				"GoS",
+				"JttRC",
+				"KftGV",
+				"OotA",
+				"QftIS",
+				"RoT",
+				"SCC-TMM",
 				"SKT",
 				"TftYP-ToH",
 				"ToA",
-				"WDH",
-				"WDMM",
-				"GoS",
-				"DC",
-				"CM",
-				"SCC-TMM",
-				"JttRC",
-				"KftGV",
 				"ToFW",
-				"QftIS"
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Raise Dead|XPHB"
@@ -17590,10 +18142,13 @@
 			"page": 270,
 			"srd": "Telepathic Bond",
 			"referenceSources": [
-				"CoS",
-				"WDMM",
 				"BGDIA",
-				"IDRotF"
+				"CoS",
+				"IDRotF",
+				"LoX",
+				"OotA",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Rary's Telepathic Bond|XPHB"
@@ -17643,6 +18198,9 @@
 			"source": "PHB",
 			"page": 271,
 			"srd": true,
+			"referenceSources": [
+				"WDMM"
+			],
 			"reprintedAs": [
 				"Ray of Enfeeblement|XPHB"
 			],
@@ -17702,8 +18260,12 @@
 				}
 			],
 			"referenceSources": [
-				"WDMM",
-				"NRH-TLT"
+				"NRH-TLT",
+				"OotA",
+				"RoT",
+				"SKT",
+				"TftYP-TFoF",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Ray of Frost|XPHB"
@@ -17763,8 +18325,13 @@
 			"source": "PHB",
 			"page": 271,
 			"referenceSources": [
+				"BGDIA",
+				"CM",
+				"CoA",
+				"CoS",
+				"CRCotN",
 				"OotA",
-				"CoA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Ray of Sickness|XPHB"
@@ -17876,7 +18443,8 @@
 			"srd": true,
 			"referenceSources": [
 				"CoS",
-				"IDRotF"
+				"IDRotF",
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Reincarnate|XPHB"
@@ -18086,29 +18654,35 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"PotA",
-				"OotA",
-				"CoS",
-				"SKT",
-				"TftYP-DiT",
-				"ToA",
-				"LLK",
-				"WDMM",
-				"OoW",
-				"DIP",
-				"SLW",
 				"BGDIA",
-				"IMR",
-				"ToR",
-				"IDRotF",
 				"CM",
-				"WBtW",
-				"CRCotN",
-				"JttRC",
-				"DSotDQ",
 				"CoA",
+				"CoS",
+				"CRCotN",
+				"DIP",
+				"DSotDQ",
+				"IDRotF",
+				"IMR",
+				"JttRC",
+				"KftGV",
+				"LLK",
+				"OotA",
+				"OoW",
+				"PaBTSO",
+				"PotA",
+				"QftIS",
+				"SKT",
+				"SLW",
+				"TftYP-AtG",
+				"TftYP-DiT",
+				"TftYP-THSoT",
+				"TftYP-ToH",
+				"ToA",
+				"ToFW",
+				"ToR",
 				"VEoR",
-				"QftIS"
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Remove Curse|XPHB"
@@ -18158,6 +18732,13 @@
 					"page": 58
 				}
 			],
+			"referenceSources": [
+				"SKT",
+				"ToA",
+				"TTP",
+				"US",
+				"WDMM"
+			],
 			"reprintedAs": [
 				"Resistance|XPHB"
 			],
@@ -18204,12 +18785,15 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"OotA",
-				"CoS",
-				"SKT",
 				"BGDIA",
 				"CM",
-				"JttRC"
+				"CoS",
+				"JttRC",
+				"OotA",
+				"SKT",
+				"TftYP-ToH",
+				"ToA",
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Resurrection|XPHB"
@@ -18274,11 +18858,12 @@
 			"page": 272,
 			"srd": true,
 			"referenceSources": [
+				"OotA",
+				"QftIS",
 				"SKT",
 				"ToA",
-				"WDMM",
 				"VEoR",
-				"QftIS"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Reverse Gravity|XPHB"
@@ -18341,16 +18926,19 @@
 				}
 			],
 			"referenceSources": [
+				"BGDIA",
+				"CM",
+				"CoA",
 				"CoS",
+				"DSotDQ",
+				"JttRC",
+				"LMoP",
+				"PaBTSO",
 				"SKT",
 				"ToA",
-				"WDH",
 				"US",
-				"CM",
 				"WBtW",
-				"JttRC",
-				"DSotDQ",
-				"CoA"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Revivify|XPHB"
@@ -18399,10 +18987,12 @@
 			"page": 272,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
-				"WDMM",
+				"IMR",
 				"SjA",
-				"VEoR"
+				"ToA",
+				"VEoR",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Rope Trick|XPHB"
@@ -18456,7 +19046,8 @@
 			],
 			"referenceSources": [
 				"BGDIA",
-				"DoSI"
+				"DoSI",
+				"US"
 			],
 			"reprintedAs": [
 				"Sacred Flame|XPHB"
@@ -18526,8 +19117,11 @@
 				}
 			],
 			"referenceSources": [
-				"TTP",
-				"GoS"
+				"BGDIA",
+				"CoS",
+				"GoS",
+				"HotDQ",
+				"TTP"
 			],
 			"reprintedAs": [
 				"Sanctuary|XPHB"
@@ -18579,6 +19173,9 @@
 			"srd": true,
 			"referenceSources": [
 				"HotDQ",
+				"IDRotF",
+				"KftGV",
+				"TftYP-TFoF",
 				"TftYP-TSC"
 			],
 			"reprintedAs": [
@@ -18638,17 +19235,20 @@
 			"page": 273,
 			"srd": true,
 			"referenceSources": [
+				"CM",
+				"CoA",
 				"CoS",
+				"DSotDQ",
+				"GoS",
+				"JttRC",
+				"KftGV",
+				"PotA",
+				"RtG",
 				"SKT",
 				"ToA",
-				"WDMM",
-				"GoS",
-				"RtG",
 				"WBtW",
-				"JttRC",
-				"DSotDQ",
-				"KftGV",
-				"CoA"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Scrying|XPHB"
@@ -18809,15 +19409,18 @@
 			"page": 274,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"TftYP-ToH",
-				"WDH",
-				"WDMM",
-				"IDRotF",
+				"CM",
 				"CRCotN",
+				"DSotDQ",
+				"IDRotF",
 				"KftGV",
+				"OotA",
+				"QftIS",
+				"RoT",
+				"TftYP-ToH",
 				"VEoR",
-				"QftIS"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"See Invisibility|XPHB"
@@ -18862,7 +19465,10 @@
 			"referenceSources": [
 				"CM",
 				"DSotDQ",
-				"VEoR"
+				"IDRotF",
+				"SKT",
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Seeming|XPHB"
@@ -18920,22 +19526,27 @@
 			"page": 274,
 			"srd": true,
 			"referenceSources": [
-				"RoT",
-				"PotA",
-				"OotA",
+				"BGDIA",
+				"CM",
+				"CoA",
 				"CoS",
-				"SKT",
-				"TftYP-DiT",
-				"WDH",
-				"WDMM",
+				"CRCotN",
+				"DC",
+				"DSotDQ",
 				"GoS",
 				"IDRotF",
-				"CM",
-				"CRCotN",
 				"JttRC",
+				"KftGV",
 				"LoX",
-				"DSotDQ",
-				"VEoR"
+				"OotA",
+				"PotA",
+				"RoT",
+				"SKT",
+				"TftYP-DiT",
+				"ToA",
+				"VEoR",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Sending|XPHB"
@@ -18979,10 +19590,10 @@
 			"page": 274,
 			"srd": true,
 			"referenceSources": [
-				"SKT",
-				"TftYP-TSC",
 				"IDRotF",
-				"KftGV"
+				"KftGV",
+				"SKT",
+				"TftYP-TSC"
 			],
 			"reprintedAs": [
 				"Sequester|XPHB"
@@ -19040,6 +19651,7 @@
 			"page": 274,
 			"srd": true,
 			"referenceSources": [
+				"BGDIA",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -19093,9 +19705,12 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"WDMM",
+				"CM",
 				"GoS",
-				"CM"
+				"KftGV",
+				"SKT",
+				"TftYP-TFoF",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Shatter|XPHB"
@@ -19164,8 +19779,21 @@
 				}
 			],
 			"referenceSources": [
+				"CM",
+				"CoS",
+				"DIP",
+				"IDRotF",
+				"KftGV",
+				"LoX",
 				"OotA",
-				"LoX"
+				"RoT",
+				"SKT",
+				"TftYP-TFoF",
+				"TftYP-WPM",
+				"ToR",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Shield|XPHB"
@@ -19266,7 +19894,8 @@
 			"page": 275,
 			"srd": true,
 			"referenceSources": [
-				"GoS"
+				"GoS",
+				"TftYP-TSC"
 			],
 			"reprintedAs": [
 				"Shillelagh|XPHB"
@@ -19319,7 +19948,12 @@
 				}
 			],
 			"referenceSources": [
+				"BGDIA",
+				"CoS",
+				"KftGV",
+				"SDW",
 				"TftYP-TFoF",
+				"TftYP-WPM",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -19387,19 +20021,20 @@
 				}
 			],
 			"referenceSources": [
-				"LMoP",
-				"CoS",
-				"ToA",
-				"WDMM",
-				"IDRotF",
 				"CM",
-				"RtG",
-				"NRH-TLT",
-				"WBtW",
+				"CoS",
+				"IDRotF",
 				"KftGV",
+				"LMoP",
+				"NRH-TLT",
+				"OoW",
 				"PaBTSO",
+				"QftIS",
+				"RtG",
+				"ToA",
 				"VEoR",
-				"QftIS"
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Silence|XPHB"
@@ -19459,10 +20094,12 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"BGDIA",
 				"GoS",
 				"IDRotF",
-				"WBtW",
-				"KftGV"
+				"KftGV",
+				"TftYP-TFoF",
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Silent Image|XPHB"
@@ -19512,11 +20149,11 @@
 			"page": 276,
 			"srd": true,
 			"referenceSources": [
-				"SKT",
-				"WDH",
-				"WDMM",
 				"BGDIA",
-				"VEoR"
+				"SKT",
+				"VEoR",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Simulacrum|XPHB"
@@ -19579,12 +20216,20 @@
 				}
 			],
 			"referenceSources": [
+				"BGDIA",
 				"CoS",
-				"WDMM",
-				"RMBRE",
+				"DIP",
+				"KftGV",
+				"KKW",
 				"MOT",
+				"QftIS",
+				"RMBRE",
 				"SCC-CK",
-				"KftGV"
+				"SDW",
+				"TftYP-TFoF",
+				"ToA",
+				"WBtW",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Sleep|XPHB"
@@ -19660,6 +20305,10 @@
 			"source": "PHB",
 			"page": 276,
 			"srd": true,
+			"referenceSources": [
+				"TftYP-THSoT",
+				"WDMM"
+			],
 			"reprintedAs": [
 				"Sleet Storm|XPHB"
 			],
@@ -19719,8 +20368,13 @@
 			"page": 277,
 			"srd": true,
 			"referenceSources": [
+				"CM",
+				"IDRotF",
+				"OotA",
+				"QftIS",
 				"RoT",
-				"QftIS"
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Slow|XPHB"
@@ -19779,8 +20433,9 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
+				"CRCotN",
 				"SDW",
-				"CRCotN"
+				"US"
 			],
 			"reprintedAs": [
 				"Spare the Dying|XPHB"
@@ -19835,14 +20490,17 @@
 			"page": 277,
 			"srd": true,
 			"referenceSources": [
-				"RoT",
-				"XMtS",
-				"WDMM",
 				"BGDIA",
+				"GoS",
 				"IMR",
-				"WBtW",
 				"LK",
-				"QftIS"
+				"QftIS",
+				"RoT",
+				"SDW",
+				"SKT",
+				"WBtW",
+				"WDMM",
+				"XMtS"
 			],
 			"reprintedAs": [
 				"Speak with Animals|XPHB"
@@ -19891,30 +20549,31 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"HotDQ",
-				"RoT",
-				"CoS",
-				"SKT",
-				"ToA",
-				"WDH",
-				"LLK",
-				"WDMM",
-				"GoS",
-				"OoW",
-				"SLW",
-				"SDW",
 				"BGDIA",
-				"EFR",
-				"IDRotF",
 				"CM",
-				"WBtW",
-				"JttRC",
+				"CoS",
 				"DSotDQ",
-				"KftGV",
+				"EFR",
+				"GoS",
 				"HFStCM",
+				"HotDQ",
+				"IDRotF",
+				"JttRC",
+				"KftGV",
+				"LLK",
 				"LRDT",
+				"OoW",
+				"QftIS",
+				"RoT",
+				"SDW",
+				"SKT",
+				"SLW",
+				"TftYP-DiT",
+				"ToA",
 				"VEoR",
-				"QftIS"
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Speak with Dead|XPHB"
@@ -19974,7 +20633,11 @@
 			"page": 277,
 			"srd": true,
 			"referenceSources": [
+				"GoS",
+				"JttRC",
+				"OotA",
 				"RoT",
+				"SKT",
 				"WBtW"
 			],
 			"reprintedAs": [
@@ -20029,12 +20692,16 @@
 				}
 			],
 			"referenceSources": [
-				"SKT",
-				"ToA",
 				"DIP",
+				"LK",
+				"OotA",
+				"SKT",
 				"SLW",
+				"TftYP-TFoF",
+				"TftYP-TSC",
+				"ToA",
 				"WBtW",
-				"LK"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Spider Climb|XPHB"
@@ -20077,6 +20744,9 @@
 			"source": "PHB",
 			"page": 277,
 			"srd": true,
+			"referenceSources": [
+				"US"
+			],
 			"reprintedAs": [
 				"Spike Growth|XPHB"
 			],
@@ -20140,7 +20810,11 @@
 				}
 			],
 			"referenceSources": [
-				"CoS"
+				"CoS",
+				"GoS",
+				"OotA",
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Spirit Guardians|XPHB"
@@ -20215,8 +20889,15 @@
 				}
 			],
 			"referenceSources": [
+				"BGDIA",
+				"CoS",
+				"GoS",
 				"OoW",
-				"BGDIA"
+				"TftYP-TFoF",
+				"TTP",
+				"US",
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Spiritual Weapon|XPHB"
@@ -20332,12 +21013,15 @@
 			"page": 278,
 			"srd": true,
 			"referenceSources": [
-				"RoT",
-				"PotA",
+				"AZfyT",
+				"CM",
+				"KftGV",
 				"OotA",
-				"TftYP-WPM",
+				"PotA",
+				"RoT",
 				"TftYP-AtG",
-				"KftGV"
+				"TftYP-WPM",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Stinking Cloud|XPHB"
@@ -20393,19 +21077,22 @@
 			"page": 278,
 			"srd": true,
 			"referenceSources": [
+				"AitFR-FCD",
+				"CRCotN",
+				"GoS",
+				"IDRotF",
+				"JttRC",
+				"KftGV",
+				"OoW",
 				"PotA",
+				"QftIS",
+				"RoT",
 				"SKT",
 				"TftYP-THSoT",
 				"ToA",
-				"WDH",
-				"WDMM",
-				"GoS",
-				"IDRotF",
-				"CRCotN",
-				"JttRC",
-				"KftGV",
 				"VEoR",
-				"QftIS"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Stone Shape|XPHB"
@@ -20448,10 +21135,18 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"OotA",
-				"SKT",
+				"AitFR-FCD",
+				"CM",
+				"CoA",
+				"CoS",
 				"IDRotF",
-				"VEoR"
+				"KftGV",
+				"OotA",
+				"RtG",
+				"SDW",
+				"SKT",
+				"VEoR",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Stoneskin|XPHB"
@@ -20507,8 +21202,8 @@
 			"page": 279,
 			"srd": true,
 			"referenceSources": [
-				"SKT",
-				"CoA"
+				"CoA",
+				"SKT"
 			],
 			"reprintedAs": [
 				"Storm of Vengeance|XPHB"
@@ -20610,13 +21305,18 @@
 				}
 			],
 			"referenceSources": [
-				"RoT",
-				"CoS",
-				"ToA",
-				"IDRotF",
 				"CM",
+				"CoS",
+				"IDRotF",
+				"KftGV",
+				"RoT",
+				"SDW",
+				"SKT",
+				"ToA",
+				"US",
 				"WBtW",
-				"KftGV"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Suggestion|XPHB"
@@ -20731,6 +21431,9 @@
 			"page": 279,
 			"srd": true,
 			"basicRules": true,
+			"referenceSources": [
+				"VEoR"
+			],
 			"reprintedAs": [
 				"Sunburst|XPHB"
 			],
@@ -20831,11 +21534,14 @@
 			"page": 280,
 			"srd": true,
 			"referenceSources": [
+				"IDRotF",
+				"JttRC",
 				"OotA",
-				"TftYP-AtG",
-				"WDMM",
+				"PaBTSO",
 				"SCC-HfMT",
-				"PaBTSO"
+				"TftYP-AtG",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Symbol|XPHB"
@@ -20967,11 +21673,17 @@
 			"page": 280,
 			"srd": "Hideous Laughter",
 			"referenceSources": [
+				"BGDIA",
+				"CoS",
 				"IMR",
-				"WBtW",
+				"KftGV",
+				"OotA",
+				"QftIS",
 				"SCC-TMM",
 				"VEoR",
-				"QftIS"
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Tasha's Hideous Laughter|XPHB"
@@ -21030,13 +21742,17 @@
 			"page": 280,
 			"srd": true,
 			"referenceSources": [
+				"AitFR-FCD",
+				"CM",
+				"CoA",
+				"CRCotN",
+				"IDRotF",
+				"OotA",
+				"SKT",
 				"TftYP-ToH",
 				"ToA",
-				"WDMM",
-				"IDRotF",
-				"AitFR-FCD",
-				"CRCotN",
-				"CoA"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Telekinesis|XPHB"
@@ -21109,6 +21825,11 @@
 			"name": "Telepathy",
 			"source": "PHB",
 			"page": 281,
+			"referenceSources": [
+				"NRH-TLT",
+				"OotA",
+				"WDMM"
+			],
 			"reprintedAs": [
 				"Telepathy|XPHB"
 			],
@@ -21155,21 +21876,26 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"RoT",
+				"AitFR-FCD",
+				"BGDIA",
+				"CM",
+				"CoA",
+				"CoS",
+				"CRCotN",
+				"IMR",
+				"KftGV",
 				"OotA",
+				"OoW",
+				"RoT",
+				"RtG",
+				"SCC-ARiR",
 				"SKT",
 				"TftYP-DiT",
 				"ToA",
-				"WDH",
-				"WDMM",
-				"OoW",
-				"IMR",
-				"CM",
-				"AitFR-FCD",
-				"CRCotN",
 				"ToFW",
-				"CoA",
-				"VEoR"
+				"VEoR",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Teleport|XPHB"
@@ -21326,17 +22052,21 @@
 			"page": 282,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
+				"AitFR-FCD",
+				"CM",
+				"CoA",
 				"CoS",
+				"CRCotN",
+				"DSotDQ",
+				"IMR",
+				"OotA",
 				"SKT",
 				"TftYP-DiT",
 				"ToA",
+				"ToFW",
+				"WBtW",
 				"WDH",
-				"WDMM",
-				"CM",
-				"AitFR-FCD",
-				"CRCotN",
-				"DSotDQ"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Teleportation Circle|XPHB"
@@ -21390,10 +22120,15 @@
 			"page": 282,
 			"srd": "Floating Disk",
 			"referenceSources": [
-				"OotA",
-				"LLK",
 				"EFR",
-				"SCC-ARiR"
+				"GoS",
+				"IDRotF",
+				"LLK",
+				"OotA",
+				"SCC-ARiR",
+				"ToA",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Tenser's Floating Disk|XPHB"
@@ -21452,8 +22187,13 @@
 				}
 			],
 			"referenceSources": [
+				"CoS",
+				"DC",
+				"GoS",
+				"IMR",
 				"OoW",
-				"IMR"
+				"TftYP-TSC",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Thaumaturgy|XPHB"
@@ -21506,6 +22246,9 @@
 			"name": "Thorn Whip",
 			"source": "PHB",
 			"page": 282,
+			"referenceSources": [
+				"US"
+			],
 			"reprintedAs": [
 				"Thorn Whip|XPHB"
 			],
@@ -21565,6 +22308,10 @@
 			"name": "Thunderous Smite",
 			"source": "PHB",
 			"page": 282,
+			"referenceSources": [
+				"CoS",
+				"GoS"
+			],
 			"reprintedAs": [
 				"Thunderous Smite|XPHB"
 			],
@@ -21625,16 +22372,23 @@
 				}
 			],
 			"referenceSources": [
-				"RoT",
 				"CoS",
-				"TftYP-THSoT",
-				"ToA",
-				"WDH",
-				"GoS",
-				"OoW",
+				"CRCotN",
 				"DIP",
+				"GoS",
 				"IDRotF",
-				"CRCotN"
+				"JttRC",
+				"OoW",
+				"RoT",
+				"SKT",
+				"TftYP-DiT",
+				"TftYP-THSoT",
+				"TftYP-TSC",
+				"TftYP-WPM",
+				"ToA",
+				"ToR",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Thunderwave|XPHB"
@@ -21697,13 +22451,16 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"PotA",
-				"OotA",
+				"BGDIA",
 				"CoS",
-				"SKT",
-				"WDMM",
+				"IMR",
+				"KftGV",
+				"OotA",
 				"OoW",
-				"BGDIA"
+				"PotA",
+				"RtG",
+				"SKT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Time Stop|XPHB"
@@ -21741,15 +22498,19 @@
 			"page": 283,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
-				"ToA",
-				"WDMM",
-				"OoW",
 				"BGDIA",
-				"RtG",
-				"LoX",
 				"DitLCoT",
-				"QftIS"
+				"GoS",
+				"LoX",
+				"OotA",
+				"OoW",
+				"PaBTSO",
+				"QftIS",
+				"RtG",
+				"SKT",
+				"ToA",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Tongues|XPHB"
@@ -21889,9 +22650,10 @@
 			"page": 283,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
+				"CoA",
 				"IDRotF",
-				"CoA"
+				"TftYP-DiT",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"True Polymorph|XPHB"
@@ -21975,7 +22737,11 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"BGDIA"
+				"BGDIA",
+				"CoA",
+				"DSotDQ",
+				"JttRC",
+				"ToA"
 			],
 			"reprintedAs": [
 				"True Resurrection|XPHB"
@@ -22027,12 +22793,19 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"CoS",
-				"TftYP-WPM",
-				"TftYP-ToH",
-				"WDMM",
 				"BGDIA",
-				"WBtW"
+				"CM",
+				"CoS",
+				"KftGV",
+				"OotA",
+				"SKT",
+				"TftYP-AtG",
+				"TftYP-ToH",
+				"TftYP-WPM",
+				"ToA",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"True Seeing|XPHB"
@@ -22182,13 +22955,20 @@
 			"page": 284,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
+				"CM",
 				"CoS",
-				"SKT",
-				"WDMM",
-				"WBtW",
+				"IDRotF",
+				"IMR",
+				"KftGV",
+				"LoX",
+				"OotA",
+				"QftIS",
 				"SCC-TMM",
-				"QftIS"
+				"SKT",
+				"ToA",
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Unseen Servant|XPHB"
@@ -22241,7 +23021,9 @@
 			"page": 285,
 			"srd": true,
 			"referenceSources": [
-				"IDRotF"
+				"CoS",
+				"IDRotF",
+				"WDH"
 			],
 			"reprintedAs": [
 				"Vampiric Touch|XPHB"
@@ -22367,13 +23149,15 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"PotA",
+				"AitFR-ISF",
 				"CoS",
+				"JttRC",
+				"PotA",
+				"RoT",
 				"TftYP-THSoT",
 				"ToA",
-				"WDMM",
-				"AitFR-ISF",
-				"JttRC"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Wall of Fire|XPHB"
@@ -22438,17 +23222,21 @@
 			"page": 285,
 			"srd": true,
 			"referenceSources": [
+				"AitFR-FCD",
+				"IDRotF",
+				"KftGV",
+				"LoX",
 				"OotA",
+				"OoW",
+				"QftIS",
+				"RtG",
+				"SDW",
+				"SKT",
+				"TftYP-THSoT",
 				"TftYP-WPM",
 				"ToA",
-				"WDMM",
-				"OoW",
-				"SDW",
-				"IDRotF",
-				"AitFR-FCD",
-				"LoX",
 				"VEoR",
-				"QftIS"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Wall of Force|XPHB"
@@ -22497,8 +23285,9 @@
 			"page": 285,
 			"srd": true,
 			"referenceSources": [
-				"WDMM",
-				"CoA"
+				"CoA",
+				"IDRotF",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Wall of Ice|XPHB"
@@ -22565,12 +23354,15 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"RoT",
-				"OotA",
+				"AitFR-FCD",
+				"AitFR-ISF",
+				"CM",
 				"CoS",
+				"OotA",
+				"RoT",
 				"SKT",
 				"ToA",
-				"CM"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Wall of Stone|XPHB"
@@ -22750,14 +23542,20 @@
 			"page": 287,
 			"srd": true,
 			"referenceSources": [
-				"RoT",
-				"PotA",
-				"SKT",
-				"WDMM",
+				"CRCotN",
+				"DitLCoT",
 				"GoS",
 				"LR",
+				"OotA",
+				"PaBTSO",
+				"PotA",
+				"QftIS",
+				"RoT",
+				"SKT",
+				"ToA",
 				"ToR",
-				"CRCotN"
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Water Breathing|XPHB"
@@ -22810,8 +23608,12 @@
 			"page": 287,
 			"srd": true,
 			"referenceSources": [
+				"CRCotN",
+				"DitLCoT",
+				"QftIS",
+				"SKT",
 				"TftYP-DiT",
-				"CRCotN"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Water Walk|XPHB"
@@ -22872,10 +23674,17 @@
 				}
 			],
 			"referenceSources": [
+				"CoS",
+				"IDRotF",
+				"IMR",
 				"OotA",
+				"QftIS",
+				"SKT",
 				"TftYP-TFoF",
 				"TftYP-ToH",
-				"IMR"
+				"TftYP-WPM",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Web|XPHB"
@@ -22942,6 +23751,9 @@
 			"source": "PHB",
 			"page": 288,
 			"srd": true,
+			"referenceSources": [
+				"WDMM"
+			],
 			"reprintedAs": [
 				"Weird|XPHB"
 			],
@@ -23050,6 +23862,9 @@
 			"source": "PHB",
 			"page": 288,
 			"srd": true,
+			"referenceSources": [
+				"ToA"
+			],
 			"reprintedAs": [
 				"Wind Wall|XPHB"
 			],
@@ -23104,25 +23919,28 @@
 			"page": 288,
 			"srd": true,
 			"referenceSources": [
-				"HotDQ",
-				"RoT",
-				"CoS",
-				"TftYP-WPM",
-				"TftYP-ToH",
-				"ToA",
-				"WDMM",
-				"SLW",
-				"DC",
 				"BGDIA",
-				"IMR",
-				"IDRotF",
 				"CM",
-				"WBtW",
-				"CRCotN",
-				"LoX",
 				"CoA",
+				"CoS",
+				"CRCotN",
+				"DC",
+				"DSotDQ",
+				"HotDQ",
+				"IDRotF",
+				"IMR",
+				"LoX",
+				"OotA",
+				"QftIS",
+				"RoT",
+				"SLW",
+				"TftYP-ToH",
+				"TftYP-WPM",
+				"ToA",
 				"VEoR",
-				"QftIS"
+				"WBtW",
+				"WDH",
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Wish|XPHB"
@@ -23193,6 +24011,13 @@
 			"name": "Witch Bolt",
 			"source": "PHB",
 			"page": 289,
+			"referenceSources": [
+				"CM",
+				"CoS",
+				"IDRotF",
+				"WDH",
+				"WDMM"
+			],
 			"reprintedAs": [
 				"Witch Bolt|XPHB"
 			],
@@ -23254,10 +24079,11 @@
 			"page": 289,
 			"srd": true,
 			"referenceSources": [
+				"BGDIA",
+				"CoA",
 				"TftYP-AtG",
 				"ToA",
-				"BGDIA",
-				"CoA"
+				"WDMM"
 			],
 			"reprintedAs": [
 				"Word of Recall|XPHB"
@@ -23353,9 +24179,9 @@
 			"page": 289,
 			"srd": true,
 			"referenceSources": [
+				"JttRC",
 				"RoT",
-				"TftYP-AtG",
-				"JttRC"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Zone of Truth|XPHB"

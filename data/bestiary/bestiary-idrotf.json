@@ -940,7 +940,8 @@
 				}
 			],
 			"traitTags": [
-				"Charge"
+				"Charge",
+				"Sure-Footed"
 			],
 			"actionTags": [
 				"Multiattack"
@@ -1552,6 +1553,9 @@
 			"name": "Chwinga",
 			"source": "IDRotF",
 			"page": 282,
+			"referenceSources": [
+				"CM"
+			],
 			"_copy": {
 				"name": "Chwinga",
 				"source": "ToA"
@@ -2732,7 +2736,7 @@
 				{
 					"name": "Regeneration",
 					"entries": [
-						"The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn."
+						"The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from {@item Holy Water (Flask)|PHB|holy water}, this trait doesn't function at the start of the vampire's next turn."
 					]
 				},
 				{
@@ -4780,7 +4784,7 @@
 				{
 					"name": "Regeneration",
 					"entries": [
-						"The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of its next turn."
+						"The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from {@item Holy Water (Flask)|PHB|holy water}, this trait doesn't function at the start of its next turn."
 					]
 				},
 				{
@@ -5299,7 +5303,8 @@
 				}
 			],
 			"traitTags": [
-				"Charge"
+				"Charge",
+				"Sure-Footed"
 			],
 			"damageTags": [
 				"B"
@@ -5468,6 +5473,7 @@
 				}
 			],
 			"traitTags": [
+				"Ethereal Sight",
 				"Incorporeal Movement"
 			],
 			"senseTags": [

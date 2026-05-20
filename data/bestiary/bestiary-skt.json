@@ -664,9 +664,9 @@
 			"page": 96,
 			"referenceSources": [
 				"DC",
-				"SLW",
+				"OoW",
 				"SDW",
-				"OoW"
+				"SLW"
 			],
 			"_copy": {
 				"name": "Ancient Green Dragon",
@@ -5534,6 +5534,9 @@
 					"source": "IDRotF",
 					"page": 76
 				}
+			],
+			"referenceSources": [
+				"IDRotF"
 			],
 			"_copy": {
 				"name": "Goat",

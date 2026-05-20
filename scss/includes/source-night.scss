@@ -10,7 +10,7 @@
 		text-decoration-color: $rgb !important;
 	}
 
-	.ve-night-mode .source {
+	.ve-night-mode .ve-source {
 		$rgb-source-category-site: #de000a;
 		$rgb-source-category-extras: #bb6468;
 		$rgb-source-category-prerelease: vars-night.$rgb-subclass-ua--night;
@@ -49,6 +49,7 @@
 		$rgb-source-PSX: #cb3631;
 		$rgb-source-XMtS: #be3e8d;
 		$rgb-source-XPHB: #d98d2a;
+		$rgb-source-CaBoMP: #b35a89;
 
 		// region Categories
 
@@ -231,11 +232,15 @@
 			&XPHB {
 				@include mix-source-color($rgb-source-XPHB);
 			}
+
+			&CaBoMP {
+				@include mix-source-color($rgb-source-CaBoMP);
+			}
 		}
 	}
 
 	// (Unused)
-	.ve-night-mode .itm__ {
+	.ve-night-mode .ve-itm__ {
 		&rarity-alt- {
 			&common {
 				color: color.adjust(vars-night.$rgb-font--night, $lightness: -15%);
@@ -263,7 +268,7 @@
 		}
 	}
 
-	.ve-night-mode .itm__ {
+	.ve-night-mode .ve-itm__ {
 		&rarity- {
 			&common {
 				color: color.adjust(vars-night.$rgb-font--night, $lightness: -15%);

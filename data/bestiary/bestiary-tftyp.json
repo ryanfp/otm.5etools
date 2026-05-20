@@ -1946,8 +1946,8 @@
 			"page": 236,
 			"referenceSources": [
 				"DC",
-				"SDW",
-				"IMR"
+				"IMR",
+				"SDW"
 			],
 			"size": [
 				"H"
@@ -2257,8 +2257,8 @@
 			"page": 237,
 			"referenceSources": [
 				"DC",
-				"SDW",
-				"IMR"
+				"IMR",
+				"SDW"
 			],
 			"size": [
 				"M"
@@ -3502,8 +3502,38 @@
 						"replace": "the evoker",
 						"with": "Lahnis",
 						"flags": "i"
+					},
+					"trait": {
+						"mode": "appendArr",
+						"items": {
+							"name": "Special Equipment",
+							"entries": [
+								"Lahnis wears a {@item ring of protection}."
+							]
+						}
 					}
 				}
+			},
+			"ac": [
+				{
+					"ac": 13,
+					"from": [
+						"{@item ring of protection}"
+					]
+				},
+				{
+					"ac": 16,
+					"condition": "with {@spell mage armor}",
+					"braces": true
+				}
+			],
+			"save": {
+				"str": "+0",
+				"dex": "+3",
+				"con": "+2",
+				"int": "+8",
+				"wis": "+6",
+				"cha": "+1"
 			},
 			"hasToken": true,
 			"hasFluffImages": true
@@ -5461,7 +5491,7 @@
 					"name": "Spellcasting",
 					"type": "spellcasting",
 					"headerEntries": [
-						"Snarla is a 6th-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 14}, +6 to hit with spell attacks). She has the following wizard spells prepared:"
+						"Snarla is a 6th-level spellcaster. Her spellcasting ability is Intelligence (spell save {@dc 14}, {@hit 6} to hit with spell attacks). She has the following wizard spells prepared:"
 					],
 					"spells": {
 						"0": {
@@ -6699,7 +6729,7 @@
 				{
 					"name": "Regeneration",
 					"entries": [
-						"The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn."
+						"The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from {@item Holy Water (Flask)|PHB|holy water}, this trait doesn't function at the start of the vampire's next turn."
 					]
 				},
 				{
