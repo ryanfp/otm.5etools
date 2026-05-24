@@ -891,7 +891,7 @@ FilterBox._COMBINE_MODES = ["and", "or", "custom"];
 FilterBox._STORAGE_KEY = "filterBoxState";
 FilterBox._DEFAULT_META = {
 	modeCombineFilters: "and",
-	isSummaryHidden: false,
+	isSummaryHidden: true,
 	isPrereleaseDefaultHidden: false,
 	isBrewDefaultHidden: false,
 };

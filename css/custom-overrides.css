@@ -17,9 +17,9 @@
 :root {
 /*#region COLORS*/
   --otm-dark-main-heading: #d29e38;
-  --otm-dark-subheading: #ff8a65;
-  --otm-link-default: #fba332;/* #fb8c00*/
-  --otm-link-default-muted: #c97000;
+  --otm-dark-subheading: #ff7043;
+  --otm-link-default: #ffa03c;/* #fb8c00*/
+  --otm-link-default-muted: #cc8030;
   --otm-link-dice: #ffab91;
   --otm-link-dice-muted: #cc8974;
   --otm-white: #e4e4e4;
@@ -72,12 +72,16 @@
   color: var(--otm-link-dice);
 }
 
-.ve-night-mode .ve-muted a {
-  color: var(--otm-link-default-muted);
+.ve-night-mode #pagecontent .ve-muted a,
+.ve-night-mode .hwin .ve-muted a,
+.ve-night-mode .cls-side .ve-muted a {
+	color: var(--otm-link-default-muted);
 }
 
-.ve-night-mode .ve-muted .ve-roller {
-  color: var(--otm-link-dice-muted);
+.ve-night-mode #pagecontent .ve-muted .ve-roller,
+.ve-night-mode .hwin .ve-muted .ve-roller,
+.ve-night-mode .cls-side .ve-muted .ve-roller {
+	color: var(--otm-link-dice-muted);
 }
 
 /*#endregion Links & Inline Dice Rollers */
@@ -188,7 +192,7 @@
 
 /*#region Homepage Buttons*/
 .home__btn-page {
-  transition: transform 0.3s ease-in-out;
+  transition: transform 0.15s ease-in-out;
   border-radius: 4px;
 }
 
@@ -217,6 +221,33 @@
 
 /* ====================================================== */
 
+/*#region Navigation Appearance*/
+
+.page__header span {
+    color: var(--otm-white);
+    text-transform: capitalize;
+    display: inline-block;
+}
+.page__header {
+    background-color: var(--otm-green-accent);
+}
+
+/* Active Tab */
+.ve-night-mode .page__nav-inner > li.ve-active > a,
+.ve-night-mode .page__nav-inner > li.ve-active:hover > a {
+    background-color: var(--otm-green-accent);
+    color: #ffffff;
+    font-weight: bold;
+}
+
+
+/* Active in Currently Open Dropdown */
+/* .ve-night-mode .ve-dropdown-menu li.ve-active > a {
+    background-color: var(--rgb-border--statblock);
+    font-weight: bold;
+} */
+
+/*#endregion Navigation Appearance*/
 
 /*#region Filter Summary*/
 
