@@ -14,7 +14,7 @@
 ========================
 */
 
-: :root {
+:root {
 /*#region COLORS*/
   --otm-dark-main-heading: #d29e38;
   --otm-dark-subheading: #ff8a65;
@@ -48,7 +48,9 @@
 */
 
 /* -------- Bold Font Weight -------- */
-b, strong, em {
+.ve-night-mode b, 
+.ve-night-mode strong, 
+.ve-night-mode em {
     color: var(--otm-white);
 }
 
@@ -166,14 +168,14 @@ b, strong, em {
   color: var(--otm-dark-subheading);
 }
 
-.ve-night-mode .ve-text-left .ve-cls-tbl__disp-name {
+.ve-night-mode .ve-cls-tbl__disp-name {
   color: var(--otm-dark-main-heading);
 }
 
 .ve-night-mode .ve-cls-tbl__col-level,
 .ve-night-mode .ve-cls-tbl__col-prof-bonus,
 .ve-night-mode .ve-cls-tbl__col-group,
-.ve-night-mode .cls__squash_header
+.ve-night-mode .cls__squash_header,
 .ve-night-mode .ve-cls-tbl__col-generic-center {
   color: var(--otm-dark-subheading);
 }
@@ -186,20 +188,28 @@ b, strong, em {
 
 /*#region Homepage Buttons*/
 .home__btn-page {
-    transition: transform 0.3s ease-in-out;
-    border-radius: 4px;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 4px;
 }
 
 .home__btn-page:hover {
-    transform: scale(1.05);
-    background: linear-gradient(to bottom, #383838, #15171A);
-    border-width: 3px;
-    filter: brightness(1.05);
+  transform: scale(1.05);
+  background: linear-gradient(to bottom, #383838, #15171A);
+  border-width: 3px;
+  filter: brightness(1.05);
 }
 
 .home__btn-page {
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.home__h-player {
+  text-decoration-color: var(--otm-green-accent) !important;
+}
+.home__btn-player {
+  border-color: var(--otm-green-accent) !important;
+  color: var(--color-primary) !important;
 }
 
 /*#endregion Homepage Buttons */
@@ -295,8 +305,8 @@ Renderer H0 and H1 — chapter titles, statblock section heads (render-night.scs
   background: #232323;
 }
 
-.navbar {
-    position: sticky;
-    top: 0;
-    z-index: 1030;
+.page__nav {
+	position: sticky;
+	top: 0;
+	z-index: 1030;
 }
