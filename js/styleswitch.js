@@ -9,16 +9,11 @@ export class StyleSwitcher {
 		this._STORAGE_KEY_WIDE,
 	];
 
-	static _STYLE_THEME_AUTOMATIC = "auto";
 	static STYLE_THEME_DAY = "day";
 	static _STYLE_THEME_NIGHT = "night";
-	static _STYLE_THEME_NIGHT_ALT = "nightAlt";
-	static _STYLE_THEME_NIGHT_CLEAN = "nightClean";
 
 	static _CLASS_THEME_NIGHT = "ve-night-mode";
 	static _CLASS_THEME_NIGHT_STANDARD = "ve-night-mode--standard";
-	static _CLASS_THEME_NIGHT_ALT = "ve-night-mode--classic";
-	static _CLASS_THEME_NIGHT_CLEAN = "ve-night-mode--clean";
 
 	static _STYLE_ROLLBOX_DEFAULT = "default";
 	static _STYLE_ROLLBOX_RIGHT = "right";
@@ -31,11 +26,8 @@ export class StyleSwitcher {
 	static _WIDE_ID = "style-switch__wide";
 
 	static _STYLE_THEME_TO_DISPLAY_NAME = {
-		[this._STYLE_THEME_AUTOMATIC]: "Browser Default",
-		[this.STYLE_THEME_DAY]: "Day Mode",
-		[this._STYLE_THEME_NIGHT]: "Night Mode",
-		[this._STYLE_THEME_NIGHT_ALT]: "Night Mode (Classic)",
-		[this._STYLE_THEME_NIGHT_CLEAN]: "Night Mode (Clean)",
+		[this.STYLE_THEME_DAY]: "Light Mode",
+		[this._STYLE_THEME_NIGHT]: "Dark Mode",
 	};
 
 	static _STYLE_ROLLBOX_TO_DISPLAY_NAME = {
@@ -47,8 +39,6 @@ export class StyleSwitcher {
 	static _CLASSES_THEME = [
 		this._CLASS_THEME_NIGHT,
 		this._CLASS_THEME_NIGHT_STANDARD,
-		this._CLASS_THEME_NIGHT_ALT,
-		this._CLASS_THEME_NIGHT_CLEAN,
 	];
 
 	static _CLASSES_ROLLBOX = [
@@ -114,7 +104,7 @@ export class StyleSwitcher {
 
 	constructor () {
 		if (typeof window === "undefined") return;
-		this._setActiveStyleTheme(StyleSwitcher.storage.getItem(StyleSwitcher._STORAGE_KEY_THEME) || StyleSwitcher._STYLE_THEME_AUTOMATIC);
+		this._setActiveStyleTheme(StyleSwitcher.storage.getItem(StyleSwitcher._STORAGE_KEY_THEME) || StyleSwitcher._STYLE_THEME_NIGHT);
 		this._setActiveStyleRollbox(StyleSwitcher.storage.getItem(StyleSwitcher._STORAGE_KEY_ROLLBOX) || StyleSwitcher._STYLE_ROLLBOX_DEFAULT);
 		this._setActiveWide(StyleSwitcher.storage.getItem(StyleSwitcher._STORAGE_KEY_WIDE) === "true");
 	}
@@ -133,13 +123,7 @@ export class StyleSwitcher {
 	}
 
 	_getResolvedStyleTheme () {
-		if (this._styleTheme === StyleSwitcher._STYLE_THEME_AUTOMATIC) return this.constructor._getDefaultStyleTheme();
 		return this._styleTheme;
-	}
-
-	static _getDefaultStyleTheme () {
-		if (window.matchMedia("(prefers-color-scheme: dark)").matches) return StyleSwitcher._STYLE_THEME_NIGHT;
-		return StyleSwitcher.STYLE_THEME_DAY;
 	}
 
 	_setActiveStyleTheme (style) {
@@ -166,16 +150,6 @@ export class StyleSwitcher {
 				document.documentElement.classList.add(StyleSwitcher._CLASS_THEME_NIGHT_STANDARD);
 				break;
 			}
-			case StyleSwitcher._STYLE_THEME_NIGHT_ALT: {
-				document.documentElement.classList.add(StyleSwitcher._CLASS_THEME_NIGHT);
-				document.documentElement.classList.add(StyleSwitcher._CLASS_THEME_NIGHT_ALT);
-				break;
-			}
-			case StyleSwitcher._STYLE_THEME_NIGHT_CLEAN: {
-				document.documentElement.classList.add(StyleSwitcher._CLASS_THEME_NIGHT);
-				document.documentElement.classList.add(StyleSwitcher._CLASS_THEME_NIGHT_CLEAN);
-				break;
-			}
 		}
 	}
 
@@ -183,8 +157,6 @@ export class StyleSwitcher {
 		switch (this._getResolvedStyleTheme()) {
 			case StyleSwitcher.STYLE_THEME_DAY: return "";
 			case StyleSwitcher._STYLE_THEME_NIGHT: return [StyleSwitcher._CLASS_THEME_NIGHT, StyleSwitcher._CLASS_THEME_NIGHT_STANDARD].join(" ");
-			case StyleSwitcher._STYLE_THEME_NIGHT_ALT: return [StyleSwitcher._CLASS_THEME_NIGHT, StyleSwitcher._CLASS_THEME_NIGHT_ALT].join(" ");
-			case StyleSwitcher._STYLE_THEME_NIGHT_CLEAN: return [StyleSwitcher._CLASS_THEME_NIGHT, StyleSwitcher._CLASS_THEME_NIGHT_CLEAN].join(" ");
 		}
 	}
 	// endregion
@@ -288,7 +260,7 @@ try {
 	StyleSwitcher.storage = {
 		getItem (k) {
 			switch (k) {
-				case StyleSwitcher._STORAGE_KEY_THEME: return StyleSwitcher._STYLE_THEME_AUTOMATIC;
+				case StyleSwitcher._STORAGE_KEY_THEME: return StyleSwitcher._STYLE_THEME_NIGHT;
 				case StyleSwitcher._STORAGE_KEY_ROLLBOX: return StyleSwitcher._STYLE_ROLLBOX_DEFAULT;
 				case StyleSwitcher._STORAGE_KEY_WIDE: return false;
 			}
