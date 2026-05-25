@@ -275,26 +275,26 @@
 
 /* Default — filters hidden */
 [title="Toggle Filter Summary"] > .glyphicon-resize-small::before {
-	mask-image: var(--otm-icon-eye-slash);
-	-webkit-mask-image: var(--otm-icon-eye-slash);
-}
-
-/* Default + hover */
-[title="Toggle Filter Summary"]:hover > .glyphicon-resize-small::before {
 	mask-image: var(--otm-icon-eye-slash-fill);
 	-webkit-mask-image: var(--otm-icon-eye-slash-fill);
 }
 
-/* Active — filters visible */
-[title="Toggle Filter Summary"].ve-active > .glyphicon-resize-small::before {
+/* Default + hover */
+[title="Toggle Filter Summary"]:hover > .glyphicon-resize-small::before {
 	mask-image: var(--otm-icon-eye);
 	-webkit-mask-image: var(--otm-icon-eye);
 }
 
-/* Active + hover */
-[title="Toggle Filter Summary"].ve-active:hover > .glyphicon-resize-small::before {
+/* Active — filters visible */
+[title="Toggle Filter Summary"].ve-active > .glyphicon-resize-small::before {
 	mask-image: var(--otm-icon-eye-fill);
 	-webkit-mask-image: var(--otm-icon-eye-fill);
+}
+
+/* Active + hover */
+[title="Toggle Filter Summary"].ve-active:hover > .glyphicon-resize-small::before {
+	mask-image: var(--otm-icon-eye-slash);
+	-webkit-mask-image: var(--otm-icon-eye-slash);
 }
 
 /*#endregion Filter Summary*/
