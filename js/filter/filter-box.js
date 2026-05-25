@@ -242,7 +242,7 @@ export class FilterBox extends ProxyBase {
 					this._doSaveStateThrottled();
 				});
 			const summaryHiddenHook = () => {
-				this._btnToggleSummaryHidden.toggleClass("ve-active", !!this._meta.isSummaryHidden);
+				this._btnToggleSummaryHidden.toggleClass("ve-active", !this._meta.isSummaryHidden);
 				if (this._wrpMiniPills) this._wrpMiniPills.toggleClass("ve-hidden", !!this._meta.isSummaryHidden);
 			};
 			this._addHook("meta", "isSummaryHidden", summaryHiddenHook);

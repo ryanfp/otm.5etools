@@ -63,22 +63,30 @@
 
 /*#region Links & Inline Dice Rollers*/
 .ve-night-mode #pagecontent a,
+.ve-night-mode #classtable a,
 .ve-night-mode .hwin a,
+.ve-night-mode .cls__stats a,
 .ve-night-mode .cls-side a {
   color: var(--otm-link-default);
 }
 
-.ve-night-mode .ve-roller {
+.ve-night-mode #pagecontent .ve-roller,
+.ve-night-mode #classtable .ve-roller,
+.ve-night-mode .hwin .ve-roller,
+.ve-night-mode .cls-side .ve-roller {
   color: var(--otm-link-dice);
 }
 
 .ve-night-mode #pagecontent .ve-muted a,
+.ve-night-mode #classtable .ve-muted a,
 .ve-night-mode .hwin .ve-muted a,
+.ve-night-mode .cls__stats .ve-muted a,
 .ve-night-mode .cls-side .ve-muted a {
 	color: var(--otm-link-default-muted);
 }
 
 .ve-night-mode #pagecontent .ve-muted .ve-roller,
+.ve-night-mode #classtable .ve-muted .ve-roller,
 .ve-night-mode .hwin .ve-muted .ve-roller,
 .ve-night-mode .cls-side .ve-muted .ve-roller {
 	color: var(--otm-link-dice-muted);
@@ -172,11 +180,11 @@
   color: var(--otm-dark-subheading);
 }
 
-.ve-night-mode .ve-rd__h--3 {
+.ve-night-mode .ve-rd__h--2 {
   color: var(--otm-dark-subheading);
 }
 
-.ve-night-mode .ve-cls-tbl__disp-name {
+.ve-night-mode #classtable .ve-cls-tbl__disp-name {
   color: var(--otm-dark-main-heading);
 }
 
@@ -319,11 +327,7 @@ Renderer H0 and H1 — chapter titles, statblock section heads (render-night.scs
 .ve-night-mode .cls-tbl > tbody > tr > th { color: #d29a34; }
 */
 
-/*
-========================
-  STRUCTURAL ADDITIONS
-========================
-*/
+/*#region Structural Additions*/
 
 /* sticky column header for scrollable table-view tables */
 .ve-overflow-y-auto {
@@ -341,3 +345,4 @@ Renderer H0 and H1 — chapter titles, statblock section heads (render-night.scs
 	top: 0;
 	z-index: 1030;
 }
+/*#endregion Structural Additions*/
