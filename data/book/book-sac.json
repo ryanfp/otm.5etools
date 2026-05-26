@@ -3190,7 +3190,7 @@
 											"name": "Does a gauth's Devour Magic eye ray end a creature's attunement to an attuned magic item the ray affects?",
 											"page": 22,
 											"entries": [
-												"No. ({@creature gauth|VGM})"
+												"No. ({@creature gauth|MPMM})"
 											],
 											"id": "160"
 										},

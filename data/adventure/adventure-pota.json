@@ -21751,7 +21751,7 @@
 											"page": 101,
 											"id": "3ae",
 											"entries": [
-												"If the ogres are defeated, {@creature Marlos Urnrayle|PotA} replaces them with an {@creature earth elemental myrmidon|MTF} (see {@adventure chapter 7|PotA|6}) after {@dice 1d4} days."
+												"If the ogres are defeated, {@creature Marlos Urnrayle|PotA} replaces them with an {@creature earth elemental myrmidon|MPMM} (see {@adventure chapter 7|PotA|6}) after {@dice 1d4} days."
 											]
 										}
 									]
@@ -29833,7 +29833,7 @@
 												"This room smells of blood and death. The debris of several recent battles is scattered throughout this rough-hewn chamber. A dozen dead warriors, clearly of the earth and water cults, lie amid a handful of monstrous corpses, such as those of bugbears and ogres. Some of the bodies look like they have been here for months, while others are only days old. A whirlwind of air encased in armor and clutching a flail rushes into view."
 											]
 										},
-										"This chamber has been a battleground for the elemental cults as they seek to consolidate control of the fane. The Cult of the Howling Hatred presently holds the room, which is guarded by an {@creature air elemental myrmidon|MTF} (see {@adventure chapter 7|PotA|6}).",
+										"This chamber has been a battleground for the elemental cults as they seek to consolidate control of the fane. The Cult of the Howling Hatred presently holds the room, which is guarded by an {@creature air elemental myrmidon|MPMM} (see {@adventure chapter 7|PotA|6}).",
 										"When intruders appear, the myrmidon levels its flail at them and asks in a cold voice, \"Whom do you serve?\" The myrmidon decides whether the adventurers are friends or foes, based on their response to its question and the gear they wear. If the characters look like air cultists and reply that they serve elemental air or the Elder Elemental Eye, the myrmidon might be satisfied. If not, the myrmidon attacks.",
 										{
 											"type": "entries",
@@ -33794,7 +33794,7 @@
 											"width": 599,
 											"height": 1000
 										},
-										"If the characters defeated Aerisi, two {@creature Air Elemental Myrmidon|MTF|air elemental myrmidons} (see {@adventure chapter 7|PotA|6}) defend this cave.",
+										"If the characters defeated Aerisi, two {@creature Air Elemental Myrmidon|MPMM|air elemental myrmidons} (see {@adventure chapter 7|PotA|6}) defend this cave.",
 										"If Aerisi is here but isn't the only prophet still alive, use the \"Encounter with Aerisi\" section. Use the \"Encounter with {@creature Yan-C-Bin|PotA}\" section if Aerisi is the only remaining prophet. In either encounter, the air elemental myrmidons aren't present.",
 										{
 											"type": "entries",
@@ -33802,7 +33802,7 @@
 											"page": 127,
 											"id": "4fb",
 											"entries": [
-												"{@creature Aerisi Kalinoth|PotA} (see {@adventure chapter 7|PotA|6}) stands next to the air portal, protected by an {@creature air elemental myrmidon|MTF}. While attempting to call {@creature Yan-C-Bin|PotA} into the world, she tries to stay out of the characters' reach while casting her destructive spells. The myrmidons focus on thwarting and killing ranged attackers and spellcasters.",
+												"{@creature Aerisi Kalinoth|PotA} (see {@adventure chapter 7|PotA|6}) stands next to the air portal, protected by an {@creature air elemental myrmidon|MPMM}. While attempting to call {@creature Yan-C-Bin|PotA} into the world, she tries to stay out of the characters' reach while casting her destructive spells. The myrmidons focus on thwarting and killing ranged attackers and spellcasters.",
 												"Aerisi refuses to flee at this point, and trying to do so through the air portal with {@item Windvane|PotA} would be disastrous. When the characters defeat her, she vanishes in a scream of wind, but {@item Windvane|PotA} remains, as does the portal."
 											]
 										},
@@ -39743,7 +39743,7 @@
 												"Water pours into this cavern from a waterfall to the north, then flows over a second waterfall to the south. Thick mist conceals the cavern ceiling, with only an occasional stalactite piercing the fog. The surface of the water undulates in big, rolling waves."
 											]
 										},
-										"The ceiling is 30 feet above the eater's surface. A {@creature water elemental myrmidon|MTF} (see {@adventure chapter 7|PotA|6}) lurks under the water but rises to attack trespassers not dressed as water cultists."
+										"The ceiling is 30 feet above the eater's surface. A {@creature water elemental myrmidon|MPMM} (see {@adventure chapter 7|PotA|6}) lurks under the water but rises to attack trespassers not dressed as water cultists."
 									]
 								},
 								{
@@ -43831,7 +43831,7 @@
 											]
 										},
 										"The river of mud flows into this cavern from area G6.",
-										"An {@creature earth elemental myrmidon|MTF} (see {@adventure chapter 7|PotA|6}) stands guard, ignoring the taunts of six {@creature Mud Mephit||mud mephits}. The myrmidon is protective of the pool and attacks intruders. The mephits join in, but unlike the myrmidon, each one reduced to fewer than 10 hit points flees.",
+										"An {@creature earth elemental myrmidon|MPMM} (see {@adventure chapter 7|PotA|6}) stands guard, ignoring the taunts of six {@creature Mud Mephit||mud mephits}. The myrmidon is protective of the pool and attacks intruders. The mephits join in, but unlike the myrmidon, each one reduced to fewer than 10 hit points flees.",
 										"See {@area area G6|57b|x} for rules about moving through the river of mud. A creature that ends its turn in the swirling pool must succeed on a {@dc 15} Strength saving throw or be sucked down into the Elemental Plane of Earth and lost. A creature tethered by a rope can be pulled 10 feet toward the edge of the pool with a successful {@dc 15} Strength ({@skill Athletics}) check.",
 										{
 											"type": "entries",
@@ -43993,7 +43993,7 @@
 											"width": 1000,
 											"height": 491
 										},
-										"If {@creature Marlos Urnrayle|PotA} has been defeated elsewhere, this cavern is guarded by two {@creature Earth Elemental Myrmidon|MTF|earth elemental myrmidons} (see {@adventure chapter 7|PotA|6}) that stand before the monolith in plain view. If Marlos has retreated to this cavern and the characters have defeated two other prophets, use the \"{@area Encounter with Marlos Urnrayle|5a5|x}\" section. Use the \"{@adventure Encounter with Ogrémoch|PotA|4|Encounter with Ogrémoch}\" section if Marlos is the last remaining prophet.",
+										"If {@creature Marlos Urnrayle|PotA} has been defeated elsewhere, this cavern is guarded by two {@creature Earth Elemental Myrmidon|MPMM|earth elemental myrmidons} (see {@adventure chapter 7|PotA|6}) that stand before the monolith in plain view. If Marlos has retreated to this cavern and the characters have defeated two other prophets, use the \"{@area Encounter with Marlos Urnrayle|5a5|x}\" section. Use the \"{@adventure Encounter with Ogrémoch|PotA|4|Encounter with Ogrémoch}\" section if Marlos is the last remaining prophet.",
 										{
 											"type": "entries",
 											"name": "Encounter with Marlos Urnrayle",
@@ -46035,7 +46035,7 @@
 											"width": 382,
 											"height": 1000
 										},
-										"If {@creature Vanifer|PotA} has been defeated, Halinaxus (see area W11) guards the fire portal and fights to the death to protect it. A {@creature fire elemental myrmidon|MTF} (see {@adventure chapter 7|PotA|6}) stands before the altar in plain view, rushing forward to attack anyone other than {@creature Vanifer|PotA} who approaches the portal. If {@creature Vanifer|PotA} has retreated to this cavern and the characters have defeated two other prophets, use the \"{@area Encounter with Vanifer|5ee|x}\" section. Use the \"{@area Encounter with Imix|5ef|x}\" section if {@creature Vanifer|PotA} is the last remaining prophet. In either case, the myrmidon isn't present.",
+										"If {@creature Vanifer|PotA} has been defeated, Halinaxus (see area W11) guards the fire portal and fights to the death to protect it. A {@creature fire elemental myrmidon|MPMM} (see {@adventure chapter 7|PotA|6}) stands before the altar in plain view, rushing forward to attack anyone other than {@creature Vanifer|PotA} who approaches the portal. If {@creature Vanifer|PotA} has retreated to this cavern and the characters have defeated two other prophets, use the \"{@area Encounter with Vanifer|5ee|x}\" section. Use the \"{@area Encounter with Imix|5ef|x}\" section if {@creature Vanifer|PotA} is the last remaining prophet. In either case, the myrmidon isn't present.",
 										{
 											"type": "entries",
 											"name": "Encounter with Vanifer",

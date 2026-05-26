@@ -1566,7 +1566,7 @@
 			"page": 141,
 			"_copy": {
 				"name": "Apprentice Wizard",
-				"source": "VGM",
+				"source": "MPMM",
 				"_templates": [
 					{
 						"name": "Rock Gnome",
@@ -6077,7 +6077,7 @@
 			"page": 215,
 			"_copy": {
 				"name": "Swashbuckler",
-				"source": "VGM",
+				"source": "MPMM",
 				"_mod": {
 					"*": {
 						"mode": "replaceTxt",
@@ -8880,7 +8880,7 @@
 			"page": 160,
 			"_copy": {
 				"name": "Martial Arts Adept",
-				"source": "VGM",
+				"source": "MPMM",
 				"_templates": [
 					{
 						"name": "Lightfoot Halfling",

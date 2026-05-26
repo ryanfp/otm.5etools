@@ -2061,9 +2061,9 @@
 		{
 			"name": "Female Steeder",
 			"source": "OotA",
-			"page": 238,
+			"page": 231,
 			"reprintedAs": [
-				"Female Steeder|MTF"
+				"Female Steeder|MPMM"
 			],
 			"size": [
 				"L"
@@ -3596,7 +3596,7 @@
 			"source": "OotA",
 			"page": 231,
 			"reprintedAs": [
-				"Male Steeder|MTF"
+				"Male Steeder|MPMM"
 			],
 			"size": [
 				"M"
