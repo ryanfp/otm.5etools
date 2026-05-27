@@ -4222,31 +4222,6 @@
 		},
 		{
 			"name": "Natural Armor",
-			"source": "TTP",
-			"raceName": "Tortle",
-			"raceSource": "TTP",
-			"effects": [
-				{
-					"name": "Natural Armor",
-					"transfer": true,
-					"changes": [
-						{
-							"key": "system.attributes.ac.calc",
-							"mode": "OVERRIDE",
-							"value": "custom"
-						},
-						{
-							"key": "system.attributes.ac.formula",
-							"mode": "OVERRIDE",
-							"value": "17"
-						}
-					]
-				}
-			],
-			"migrationVersion": 3
-		},
-		{
-			"name": "Natural Armor",
 			"source": "MPMM",
 			"raceName": "Lizardfolk",
 			"raceSource": "MPMM",
@@ -4264,6 +4239,31 @@
 							"key": "system.attributes.ac.formula",
 							"mode": "OVERRIDE",
 							"value": "13 + @abilities.dex.mod"
+						}
+					]
+				}
+			],
+			"migrationVersion": 3
+		},
+		{
+			"name": "Natural Armor",
+			"source": "TTP",
+			"raceName": "Tortle",
+			"raceSource": "TTP",
+			"effects": [
+				{
+					"name": "Natural Armor",
+					"transfer": true,
+					"changes": [
+						{
+							"key": "system.attributes.ac.calc",
+							"mode": "OVERRIDE",
+							"value": "custom"
+						},
+						{
+							"key": "system.attributes.ac.formula",
+							"mode": "OVERRIDE",
+							"value": "17"
 						}
 					]
 				}

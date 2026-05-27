@@ -289,10 +289,10 @@
 			"source": "XPHB",
 			"page": 186,
 			"edition": "one",
+			"lineage": "VRGR",
 			"creatureTypes": [
 				"humanoid"
 			],
-			"lineage": "VRGR",
 			"size": [
 				"S",
 				"M"

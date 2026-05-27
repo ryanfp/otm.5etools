@@ -2360,6 +2360,28 @@
 		},
 		{
 			"name": "Corellon Larethian",
+			"source": "PHB",
+			"page": 296,
+			"additionalSources": [
+				{
+					"source": "SCAG",
+					"page": 125
+				}
+			],
+			"pantheon": "Nonhuman",
+			"alignment": [
+				"C",
+				"G"
+			],
+			"title": "Elf deity of art and magic",
+			"domains": [
+				"Light",
+				"Arcana"
+			],
+			"symbol": "Quarter moon or starburst"
+		},
+		{
+			"name": "Corellon Larethian",
 			"source": "SCAG",
 			"page": 23,
 			"additionalSources": [
@@ -2407,28 +2429,6 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "Corellon Larethian",
-			"source": "PHB",
-			"page": 296,
-			"additionalSources": [
-				{
-					"source": "SCAG",
-					"page": 125
-				}
-			],
-			"pantheon": "Nonhuman",
-			"alignment": [
-				"C",
-				"G"
-			],
-			"title": "Elf deity of art and magic",
-			"domains": [
-				"Light",
-				"Arcana"
-			],
-			"symbol": "Quarter moon or starburst"
 		},
 		{
 			"name": "Corellon Larethian",
@@ -2605,6 +2605,22 @@
 		},
 		{
 			"name": "Deep Sashelas",
+			"source": "PHB",
+			"page": 296,
+			"pantheon": "Nonhuman",
+			"alignment": [
+				"C",
+				"G"
+			],
+			"title": "Elf god of the sea",
+			"domains": [
+				"Nature",
+				"Tempest"
+			],
+			"symbol": "Dolphin"
+		},
+		{
+			"name": "Deep Sashelas",
 			"source": "SCAG",
 			"page": 22,
 			"pantheon": "Elven",
@@ -2633,22 +2649,6 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "Deep Sashelas",
-			"source": "PHB",
-			"page": 296,
-			"pantheon": "Nonhuman",
-			"alignment": [
-				"C",
-				"G"
-			],
-			"title": "Elf god of the sea",
-			"domains": [
-				"Nature",
-				"Tempest"
-			],
-			"symbol": "Dolphin"
 		},
 		{
 			"name": "Deep Sashelas",
@@ -4356,38 +4356,6 @@
 		},
 		{
 			"name": "Gruumsh",
-			"source": "PHB",
-			"page": 296,
-			"pantheon": "Nonhuman",
-			"alignment": [
-				"C",
-				"E"
-			],
-			"title": "Orc god of storms and war",
-			"domains": [
-				"Tempest",
-				"War"
-			],
-			"symbol": "Unblinking eye"
-		},
-		{
-			"name": "Gruumsh",
-			"source": "SCAG",
-			"page": 24,
-			"pantheon": "Orc",
-			"alignment": [
-				"C",
-				"E"
-			],
-			"title": "God of storms and war",
-			"domains": [
-				"Tempest",
-				"War"
-			],
-			"symbol": "Unblinking eye"
-		},
-		{
-			"name": "Gruumsh",
 			"source": "EGW",
 			"page": 27,
 			"_copy": {
@@ -4426,6 +4394,38 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Gruumsh",
+			"source": "PHB",
+			"page": 296,
+			"pantheon": "Nonhuman",
+			"alignment": [
+				"C",
+				"E"
+			],
+			"title": "Orc god of storms and war",
+			"domains": [
+				"Tempest",
+				"War"
+			],
+			"symbol": "Unblinking eye"
+		},
+		{
+			"name": "Gruumsh",
+			"source": "SCAG",
+			"page": 24,
+			"pantheon": "Orc",
+			"alignment": [
+				"C",
+				"E"
+			],
+			"title": "God of storms and war",
+			"domains": [
+				"Tempest",
+				"War"
+			],
+			"symbol": "Unblinking eye"
 		},
 		{
 			"name": "Gwaeron Windstrom",
@@ -4542,8 +4542,8 @@
 				"C",
 				"G"
 			],
-			"category": "The Seldarine",
 			"title": "Goddess of love and beauty",
+			"category": "The Seldarine",
 			"domains": [
 				"Life"
 			],
@@ -6622,8 +6622,8 @@
 				"C",
 				"E"
 			],
-			"category": "The Dark Seldarine",
 			"title": "Goddess of necromancy",
+			"category": "The Dark Seldarine",
 			"domains": [
 				"Arcana",
 				"Death"
@@ -7419,8 +7419,8 @@
 				"C",
 				"G"
 			],
-			"category": "The Seldarine",
 			"title": "God of time, history, and philosophy",
+			"category": "The Seldarine",
 			"domains": [
 				"Arcana",
 				"Knowledge",
@@ -11374,6 +11374,21 @@
 		},
 		{
 			"name": "Rillifane Rallathil",
+			"source": "PHB",
+			"page": 296,
+			"pantheon": "Nonhuman",
+			"alignment": [
+				"C",
+				"G"
+			],
+			"title": "Wood elf god of nature",
+			"domains": [
+				"Nature"
+			],
+			"symbol": "Oak"
+		},
+		{
+			"name": "Rillifane Rallathil",
 			"source": "SCAG",
 			"page": 23,
 			"pantheon": "Elven",
@@ -11381,8 +11396,8 @@
 				"C",
 				"G"
 			],
-			"category": "The Seldarine",
 			"title": "God of nature",
+			"category": "The Seldarine",
 			"domains": [
 				"Nature"
 			],
@@ -11403,21 +11418,6 @@
 				},
 				"The druids of Rillifane consider trees to be symbolic of the connection between the mental and the physical, between what is illuminated and what remains mysterious. Trunks and branches reach high into the expanse of the mind and the realm of revelation, while roots sink deep, anchoring themselves in the known and enwrapping what remains hidden. When Rillifane's druids meditate at the site of a great tree, they can receive visions that afford them a new way of seeing the world. Often these flashes compel the devotee to undertake a quest to bring balance to the natural order by delivering a vital message or completing some other task."
 			]
-		},
-		{
-			"name": "Rillifane Rallathil",
-			"source": "PHB",
-			"page": 296,
-			"pantheon": "Nonhuman",
-			"alignment": [
-				"C",
-				"G"
-			],
-			"title": "Wood elf god of nature",
-			"domains": [
-				"Nature"
-			],
-			"symbol": "Oak"
 		},
 		{
 			"name": "Sargonnas",
@@ -11662,8 +11662,8 @@
 				"C",
 				"E"
 			],
-			"category": "The Dark Seldarine",
 			"title": "God of warriors",
+			"category": "The Dark Seldarine",
 			"domains": [
 				"War"
 			],
@@ -14915,8 +14915,8 @@
 				"C",
 				"E"
 			],
-			"category": "The Dark Seldarine",
 			"title": "God of thieves",
+			"category": "The Dark Seldarine",
 			"domains": [
 				"Trickery",
 				"War"
@@ -15086,6 +15086,28 @@
 		},
 		{
 			"name": "Yondalla",
+			"source": "PHB",
+			"page": 296,
+			"additionalSources": [
+				{
+					"source": "TCE",
+					"page": 34
+				}
+			],
+			"pantheon": "Nonhuman",
+			"alignment": [
+				"L",
+				"G"
+			],
+			"title": "Halfling goddess of fertility and protection",
+			"domains": [
+				"Life",
+				"Twilight"
+			],
+			"symbol": "Shield"
+		},
+		{
+			"name": "Yondalla",
 			"source": "SCAG",
 			"page": 23,
 			"additionalSources": [
@@ -15111,28 +15133,6 @@
 				"Yondalla created the first halfling villages and showed the people how to build, plant, and harvest. She knew that the bounty of a halfling village would be tempting plunder for any brigand or monster, so she used her powers to conceal their homes from easy discovery, blending them into the landscape so that most travelers would pass by without a second glance.",
 				"To the halflings, Yondalla is responsible for the spring in their step and the bubbly excitement they feel from knowing that luck is on their side. When a pumpkin grows to enormous size or a garden yields twice as many carrots as usual, credit goes to Yondalla. When a halfling trips, slides down a hillside, and lands on a nugget of gold, that's Yondalla turning bad luck into good."
 			]
-		},
-		{
-			"name": "Yondalla",
-			"source": "PHB",
-			"page": 296,
-			"additionalSources": [
-				{
-					"source": "TCE",
-					"page": 34
-				}
-			],
-			"pantheon": "Nonhuman",
-			"alignment": [
-				"L",
-				"G"
-			],
-			"title": "Halfling goddess of fertility and protection",
-			"domains": [
-				"Life",
-				"Twilight"
-			],
-			"symbol": "Shield"
 		},
 		{
 			"name": "Yurtrus",
