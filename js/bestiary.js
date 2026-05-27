@@ -973,7 +973,6 @@ const encounterShapesLookup = new EncounterBuilderShapesLookup();
 const encounterBuilderComp = new EncounterBuilderComponentBestiary({cache: encounterBuilderCache, partyComps});
 
 const rulesBaseArgs = {comp: encounterBuilderComp, cache: encounterBuilderCache, encounterShapesLookup, rendererWrapped};
-
 const rulesClassic = new EncounterBuilderRulesClassic({...rulesBaseArgs});
 const rulesOne = new EncounterBuilderRulesOne({...rulesBaseArgs});
 const rulesMcdmFleeMortals = new EncounterBuilderRulesMcdmFleeMortals({...rulesBaseArgs});
@@ -987,7 +986,6 @@ const encounterBuilder = new EncounterBuilderUiBestiary({
 		rulesMcdmFleeMortals,
 	],
 	partyComps,
-
 	encounterShapesLookup,
 	rendererWrapped,
 	bestiaryPage,

@@ -970,6 +970,18 @@
 					],
 					"source": "FTD"
 				}
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Black Dragon)",
+					"source": "MM",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -1085,6 +1097,18 @@
 					],
 					"source": "FTD"
 				}
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Blue Dragon)",
+					"source": "MM",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -1146,7 +1170,7 @@
 								{
 									"type": "item",
 									"name": "Animate Statues",
-									"entry": "The dragon chooses up to three statues in the lair that it can see. Each of these statues briefly animates and attacks one creature within 5 feet of it, with a +7 bonus to hit and dealing 10 ({@damage 3d6}) bludgeoning damage on a hit."
+									"entry": "The dragon chooses up to three statues in the lair that it can see. Each of these statues briefly animates and attacks one creature within 5 feet of it, with a {@hit 7} bonus to hit and dealing 10 ({@damage 3d6}) bludgeoning damage on a hit."
 								},
 								{
 									"type": "item",
@@ -1198,6 +1222,18 @@
 						}
 					],
 					"source": "FTD"
+				}
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Brass Dragon)",
+					"source": "MM",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
 				}
 			]
 		},
@@ -1318,6 +1354,18 @@
 					],
 					"source": "FTD"
 				}
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Bronze Dragon)",
+					"source": "MM",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -1427,6 +1475,18 @@
 					],
 					"source": "FTD"
 				}
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Copper Dragon)",
+					"source": "MM",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -1520,6 +1580,18 @@
 					]
 				},
 				"If the dragon dies, the animal population near the lair returns to normal levels over the course of {@dice 1d10} days. The increased Hit Die recovery ends immediately. The existing abundance of quartz crystals remains, but new crystals form at a normal rate."
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Crystal Dragon)",
+					"source": "FTD",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -1666,6 +1738,18 @@
 					]
 				},
 				"If the dragon dies, these effects fade over the course of {@dice 1d10} days."
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Deep Dragon)",
+					"source": "FTD",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -2091,6 +2175,18 @@
 					]
 				},
 				"If the dragon dies, the population of giant lizards near the lair returns to normal levels over the course of {@dice 1d10} days. Rocks immediately stop moving of their own accord. The existing abundance of crystals and emeralds remains, but new ones form at a normal rate."
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Emerald Dragon)",
+					"source": "FTD",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -2629,6 +2725,18 @@
 					],
 					"source": "FTD"
 				}
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Gold Dragon)",
+					"source": "MM",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -2855,7 +2963,7 @@
 								{
 									"type": "item",
 									"name": "Lashing Root",
-									"entry": "One large root or branch that is part of the lair makes a melee attack roll against a creature within 10 feet of it. It has a +7 bonus to hit and deals 10 ({@damage 3d6}) bludgeoning damage on a hit. If the target is a Medium or smaller creature, it must succeed on a {@dc 15} Strength saving throw or be knocked {@condition prone}."
+									"entry": "One large root or branch that is part of the lair makes a melee attack roll against a creature within 10 feet of it. It has a {@hit 7} bonus to hit and deals 10 ({@damage 3d6}) bludgeoning damage on a hit. If the target is a Medium or smaller creature, it must succeed on a {@dc 15} Strength saving throw or be knocked {@condition prone}."
 								}
 							]
 						}
@@ -2903,6 +3011,18 @@
 						}
 					],
 					"source": "FTD"
+				}
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Green Dragon)",
+					"source": "MM",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
 				}
 			]
 		},
@@ -3084,7 +3204,7 @@
 				{
 					"type": "list",
 					"items": [
-						"Hythonia briefly animates creatures that have been {@condition petrified} by her gaze. Each statue attacks one creature within 5 feet of it, with a +11 bonus to hit and dealing 10 ({@damage 3d6}) bludgeoning damage on a hit. If a Medium or smaller creature takes this damage, it is also {@condition grappled} (escape {@dc 15}).",
+						"Hythonia briefly animates creatures that have been {@condition petrified} by her gaze. Each statue attacks one creature within 5 feet of it, with a {@hit 11} bonus to hit and dealing 10 ({@damage 3d6}) bludgeoning damage on a hit. If a Medium or smaller creature takes this damage, it is also {@condition grappled} (escape {@dc 15}).",
 						"Hythonia causes spectral snakes to erupt from a point she can see within 150 feet of her. Each creature within 20 feet of that point must succeed on a {@dc 19} Constitution saving throw or take 5 ({@damage 2d4}) piercing damage and become {@condition poisoned} until the end of its next turn. While {@condition poisoned} in this way, the creature has disadvantage on Intelligence checks and Intelligence saving throws, and it behaves as if under the effect of the {@spell confusion} spell."
 					]
 				}
@@ -3664,6 +3784,18 @@
 					]
 				},
 				"If the dragon dies, the moaning stops, the moon devils dissipate, and the black frost disappears over the course of {@dice 1d10} days, allowing plant life in the area to recover."
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Lunar Dragon)",
+					"source": "BAM",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -3982,6 +4114,18 @@
 					]
 				},
 				"If the dragon dies, any portals near the lair close immediately."
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Moonstone Dragon)",
+					"source": "FTD",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -4153,7 +4297,7 @@
 						{
 							"type": "item",
 							"name": "Earthen Fist",
-							"entry": "A medium fist of packed earth rises from the floor in an unoccupied space that Murgaxor can see within 30 feet of him. The fist attacks when one creature of his choice is within 4 feet of the fist. The fist has a +11 bonus to hit, and on a hit, the target takes 13 ({@damage 3d8}) bludgeoning damage and is grappled (escape {@dc 15}). The fist disappears if the attack roll misses or if the grapple ends. When the fist disappears, this lair action recharges, allowing Murgaxor to use it again."
+							"entry": "A medium fist of packed earth rises from the floor in an unoccupied space that Murgaxor can see within 30 feet of him. The fist attacks when one creature of his choice is within 4 feet of the fist. The fist has a {@hit 11} bonus to hit, and on a hit, the target takes 13 ({@damage 3d8}) bludgeoning damage and is grappled (escape {@dc 15}). The fist disappears if the attack roll misses or if the grapple ends. When the fist disappears, this lair action recharges, allowing Murgaxor to use it again."
 						},
 						{
 							"type": "item",
@@ -4601,6 +4745,18 @@
 					],
 					"source": "FTD"
 				}
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Red Dragon)",
+					"source": "MM",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -4747,6 +4903,18 @@
 					]
 				},
 				"If the dragon dies, the population of giant spiders in the region returns to normal levels over the course of {@dice 1d10} days. The enhancement of telepathic abilities ends immediately. The existing abundance of crystals and sapphires remains, but new ones form at a normal rate."
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Sapphire Dragon)",
+					"source": "FTD",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -4772,6 +4940,18 @@
 						"{@creature Giant spider||Giant spiders} are attracted to the area within 6 miles of the lair and settle there in large numbers.",
 						"Natural stone within 6 miles of the lair grows plentiful crystal formations and sapphire gemstone veins, particularly underground.",
 						"Natural stone within 6 miles of the lair becomes a conduit for the dragon's psionic presence. As an action, the dragon can cast the {@spell clairvoyance} spell, requiring no components, targeting any natural stone formation in that region."
+					]
+				}
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Sapphire Dragon)",
+					"source": "SADS",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
 					]
 				}
 			]
@@ -5149,6 +5329,18 @@
 					]
 				},
 				"If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in {@dice 1d10} days."
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Silver Dragon)",
+					"source": "MM",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -5199,6 +5391,18 @@
 							"type": "item",
 							"name": "Stellar Incineration.",
 							"entry": "Any creature that enters the star or starts its turn inside it takes 132 ({@damage 24d10}) radiant damage."
+						}
+					]
+				}
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Solar Dragon)",
+					"source": "BAM",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
 						}
 					]
 				}
@@ -5540,6 +5744,18 @@
 					]
 				},
 				"If the dragon dies, these effects fade over the course of {@dice 1d10} days."
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Time Dragon)",
+					"source": "MPP",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -5599,6 +5815,18 @@
 					]
 				},
 				"If the dragon dies, the population of giant squid in the region returns to normal levels over the course of {@dice 1d10} days. The existing abundance of crystals and topazes remains, but new ones form at a normal rate."
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (Topaz Dragon)",
+					"source": "FTD",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
+				}
 			]
 		},
 		{
@@ -5917,6 +6145,18 @@
 						}
 					],
 					"source": "FTD"
+				}
+			],
+			"_versions": [
+				{
+					"name": "Shadow Dragon (White Dragon)",
+					"source": "MM",
+					"_templates": [
+						{
+							"name": "Shadow Dragon",
+							"source": "FTD"
+						}
+					]
 				}
 			]
 		},
