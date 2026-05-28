@@ -261,7 +261,7 @@
 						},
 						{
 							"mode": "replaceArr",
-							"replace": "Longsword",
+							"replace": "Flail",
 							"items": {
 								"name": "Flail",
 								"entries": [
@@ -271,7 +271,7 @@
 						},
 						{
 							"mode": "replaceArr",
-							"replace": "Javelin",
+							"replace": "Longsword",
 							"items": {
 								"name": "Matalotok (Warhammer)",
 								"entries": [
