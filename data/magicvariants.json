@@ -79,7 +79,6 @@
 			"name": "+1 Armor",
 			"referenceSources": [
 				"GotSF",
-				"LMoP",
 				"PaBTSO"
 			],
 			"edition": "classic",
@@ -209,7 +208,6 @@
 				"DIP",
 				"DoSI",
 				"GoS",
-				"LMoP",
 				"NRH-ASS",
 				"PaBTSO",
 				"QftIS",
