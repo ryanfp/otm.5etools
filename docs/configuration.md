@@ -200,7 +200,7 @@ To include Homebrew in your notes, specify the path to the homebrew json file in
 
 For example, if you wanted to use Benjamin Huffman's popular homebrewed [Pugilist class](https://www.dmsguild.com/product/184921/The-Pugilist-Class):
 
-1. Download a copy of the [Pugilist json file](https://github.com/ryanfp/otm.5etools-homebrew/blob/master/class/Benjamin%20Huffman%3B%20Pugilist.json).
+1. Download a copy of the [Pugilist json file](https://github.com/ryanfp/otm.5etools-homebrew/blob/main/class/Benjamin%20Huffman%3B%20Pugilist.json).
 
     Save this file to a well-known location on your computer. It is probably easiest if it sits next your 5eTools or Pf2eTools directory.
 
