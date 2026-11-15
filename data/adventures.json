@@ -5723,6 +5723,1601 @@
 			]
 		},
 		{
+			"name": "Tomb of Annihilation",
+			"id": "ToA",
+			"source": "ToA",
+			"group": "supplement",
+			"cover": {
+				"type": "internal",
+				"path": "covers/ToA.webp"
+			},
+			"published": "2017-09-19",
+			"author": "Wizards RPG Team",
+			"storyline": "Tomb of Annihilation",
+			"level": {
+				"start": 1,
+				"end": 11
+			},
+			"contents": [
+				{
+					"name": "Foreword",
+					"headers": [
+						"Dramatis Personae",
+						"Introduction",
+						"Story Overview",
+						"Running the Adventure",
+						"Starting the Adventure",
+						"Welcome to Chult"
+					]
+				},
+				{
+					"name": "Port Nyanzaru",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 1
+					},
+					"headers": [
+						"Arrival",
+						"Side Quests",
+						"Locations in the City",
+						{
+							"depth": 1,
+							"header": "1. Beggars' Palaces"
+						},
+						{
+							"depth": 1,
+							"header": "2. Executioner's Run"
+						},
+						{
+							"depth": 1,
+							"header": "3. Refuse Pit"
+						},
+						{
+							"depth": 1,
+							"header": "4. Goldenthrone"
+						},
+						{
+							"depth": 1,
+							"header": "5. Merchant Prince's Villa"
+						},
+						{
+							"depth": 1,
+							"header": "6. Grand Souk"
+						},
+						{
+							"depth": 1,
+							"header": "7. Temple of Savras"
+						},
+						{
+							"depth": 1,
+							"header": "8. Temple of Gond"
+						},
+						{
+							"depth": 1,
+							"header": "9. Temple of Sune"
+						},
+						{
+							"depth": 1,
+							"header": "10. Jewel Market"
+						},
+						{
+							"depth": 1,
+							"header": "11. Royal Docks"
+						},
+						{
+							"depth": 1,
+							"header": "12. Statue"
+						},
+						{
+							"depth": 1,
+							"header": "13. Harbormaster's Office"
+						},
+						{
+							"depth": 1,
+							"header": "14. Lighthouse"
+						},
+						{
+							"depth": 1,
+							"header": "15. Fort Nyanzaru"
+						},
+						{
+							"depth": 1,
+							"header": "16. Warehouse District"
+						},
+						{
+							"depth": 1,
+							"header": "17. Dry Dock"
+						},
+						{
+							"depth": 1,
+							"header": "18. Red Bazaar"
+						},
+						{
+							"depth": 1,
+							"header": "19. Fish Market"
+						},
+						{
+							"depth": 1,
+							"header": "20. Grand Coliseum"
+						},
+						{
+							"depth": 1,
+							"header": "21. Hall of Gold"
+						},
+						{
+							"depth": 1,
+							"header": "22. Public Bathhouse"
+						},
+						{
+							"depth": 1,
+							"header": "23. Dye Works"
+						},
+						{
+							"depth": 1,
+							"header": "24. Temple of Tymora"
+						},
+						{
+							"depth": 1,
+							"header": "25. Dinosaur Pens"
+						},
+						"City Denizens",
+						"Merchant Prince's Villa",
+						{
+							"depth": 1,
+							"header": "1. Entryway"
+						},
+						{
+							"depth": 1,
+							"header": "2. Sitting Area"
+						},
+						{
+							"depth": 1,
+							"header": "3. Grand Hall"
+						},
+						{
+							"depth": 1,
+							"header": "4. Guest Rooms"
+						},
+						{
+							"depth": 1,
+							"header": "5. Garden"
+						},
+						{
+							"depth": 1,
+							"header": "6. Dining Room"
+						},
+						{
+							"depth": 1,
+							"header": "7. Sauna"
+						},
+						{
+							"depth": 1,
+							"header": "8. Bath"
+						},
+						{
+							"depth": 1,
+							"header": "9. Kitchen"
+						},
+						{
+							"depth": 1,
+							"header": "10. Library"
+						},
+						{
+							"depth": 1,
+							"header": "11. Family Rooms"
+						},
+						{
+							"depth": 1,
+							"header": "12. Master Suite"
+						},
+						{
+							"depth": 1,
+							"header": "13. Guard Rooms"
+						},
+						{
+							"depth": 1,
+							"header": "14. Laundry Room"
+						},
+						{
+							"depth": 1,
+							"header": "15. Servants' Quarters"
+						},
+						{
+							"depth": 1,
+							"header": "16. Rain Traps"
+						},
+						"Factions and Their Representatives",
+						"Things to Do"
+					]
+				},
+				{
+					"name": "The Land of Chult",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 2
+					},
+					"headers": [
+						"The Expedition Begins",
+						"Locations in Chult",
+						"Aldani Basin",
+						"Ataaz Kahakla",
+						"Ataaz Muhahah",
+						"Ataaz Yklwazi",
+						"Bay of Chult",
+						"Camp Righteous",
+						{
+							"depth": 1,
+							"header": "1. Command Tents"
+						},
+						{
+							"depth": 1,
+							"header": "2. Soldiers' Tents"
+						},
+						{
+							"depth": 1,
+							"header": "3. Burned-Out Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "4. Animal Pens"
+						},
+						{
+							"depth": 1,
+							"header": "5. Latrines"
+						},
+						{
+							"depth": 1,
+							"header": "6. House of the Man and Crocodile"
+						},
+						{
+							"depth": 1,
+							"header": "6A. Concealed Pit Trap"
+						},
+						{
+							"depth": 1,
+							"header": "6B. Blade Trap"
+						},
+						{
+							"depth": 1,
+							"header": "6C. Puzzle Floor"
+						},
+						{
+							"depth": 1,
+							"header": "6D. Puzzle Door"
+						},
+						{
+							"depth": 1,
+							"header": "6E. Treasury"
+						},
+						"Camp Vengeance",
+						{
+							"depth": 1,
+							"header": "1. Boats"
+						},
+						{
+							"depth": 1,
+							"header": "2. Gatehouse"
+						},
+						{
+							"depth": 1,
+							"header": "3. Watchtowers"
+						},
+						{
+							"depth": 1,
+							"header": "4. Animal Pen"
+						},
+						{
+							"depth": 1,
+							"header": "5. Field Hospital Tents"
+						},
+						{
+							"depth": 1,
+							"header": "6. Command Tent"
+						},
+						{
+							"depth": 1,
+							"header": "7. Soldiers' Tents"
+						},
+						{
+							"depth": 1,
+							"header": "8. Latrines"
+						},
+						"The Cauldron",
+						"Dungrunglung",
+						{
+							"depth": 1,
+							"header": "1. Thorn Maze"
+						},
+						{
+							"depth": 1,
+							"header": "2. Main Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "3. Groak's Isle"
+						},
+						{
+							"depth": 1,
+							"header": "4. Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "5. Grung Hovels"
+						},
+						{
+							"depth": 1,
+							"header": "6. Lake Grunglung"
+						},
+						{
+							"depth": 1,
+							"header": "7. Prison Pit"
+						},
+						"Firefinger",
+						{
+							"depth": 1,
+							"header": "Level 1. Abandoned Cave"
+						},
+						{
+							"depth": 1,
+							"header": "Level 2. Stirge Cave"
+						},
+						{
+							"depth": 1,
+							"header": "Level 3. Pterafolk Nest"
+						},
+						{
+							"depth": 1,
+							"header": "Level 4. Pinnacle"
+						},
+						"Fort Beluarian",
+						{
+							"depth": 1,
+							"header": "1. West Gate"
+						},
+						{
+							"depth": 1,
+							"header": "2. Ore Gate"
+						},
+						{
+							"depth": 1,
+							"header": "3. Armorer/Weaponsmith"
+						},
+						{
+							"depth": 1,
+							"header": "4. Bazaar"
+						},
+						{
+							"depth": 1,
+							"header": "5. Temple of Helm"
+						},
+						{
+							"depth": 1,
+							"header": "6. Stables"
+						},
+						{
+							"depth": 1,
+							"header": "7. Jousting Field"
+						},
+						{
+							"depth": 1,
+							"header": "8. Flaming Fist Provisioner"
+						},
+						{
+							"depth": 1,
+							"header": "9. Flaming Fist Barracks"
+						},
+						{
+							"depth": 1,
+							"header": "10. Inner Bailey"
+						},
+						{
+							"depth": 1,
+							"header": "10A. Courtyard"
+						},
+						{
+							"depth": 1,
+							"header": "10B. Raptor Pen"
+						},
+						{
+							"depth": 1,
+							"header": "10C. Hall"
+						},
+						{
+							"depth": 1,
+							"header": "10D. Kitchen"
+						},
+						{
+							"depth": 1,
+							"header": "10E. Castellan"
+						},
+						{
+							"depth": 1,
+							"header": "10F. Bell Tower"
+						},
+						{
+							"depth": 1,
+							"header": "10G. Stores"
+						},
+						{
+							"depth": 1,
+							"header": "10H. Gauntlets' Room"
+						},
+						{
+							"depth": 1,
+							"header": "10I. Command Quarters"
+						},
+						{
+							"depth": 1,
+							"header": "10J. Guest Quarters"
+						},
+						"Heart of Ubtao",
+						{
+							"depth": 1,
+							"header": "1. Petrified Tree"
+						},
+						{
+							"depth": 1,
+							"header": "2. Staircase"
+						},
+						{
+							"depth": 1,
+							"header": "3. Cave Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "4. Valindra's Lair"
+						},
+						{
+							"depth": 1,
+							"header": "5. Undead Guardians"
+						},
+						{
+							"depth": 1,
+							"header": "6. Teleportation Circle"
+						},
+						"Hisari",
+						"Hrakhamar",
+						{
+							"depth": 1,
+							"header": "1. Magma Rift"
+						},
+						{
+							"depth": 1,
+							"header": "2. Smelter"
+						},
+						{
+							"depth": 1,
+							"header": "3. Armory"
+						},
+						{
+							"depth": 1,
+							"header": "4. Forge"
+						},
+						{
+							"depth": 1,
+							"header": "5. Stores"
+						},
+						{
+							"depth": 1,
+							"header": "6. Treasury"
+						},
+						{
+							"depth": 1,
+							"header": "7. Imix Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "8. Smoke-Filled Caverns"
+						},
+						{
+							"depth": 1,
+							"header": "9. Cells and Passage to Wyrmheart Mine"
+						},
+						{
+							"depth": 1,
+							"header": "10. Mine Cart Bay"
+						},
+						"Hvalspyd",
+						"Ishau",
+						"Jahaka Anchorage",
+						{
+							"depth": 1,
+							"header": "1. Jungle Gate"
+						},
+						{
+							"depth": 1,
+							"header": "2. Pier"
+						},
+						{
+							"depth": 1,
+							"header": "3. Officers' Quarters Ashore"
+						},
+						{
+							"depth": 1,
+							"header": "4. Warehouse"
+						},
+						{
+							"depth": 1,
+							"header": "5. The Cage"
+						},
+						{
+							"depth": 1,
+							"header": "6. Watchtower"
+						},
+						{
+							"depth": 1,
+							"header": "6A. Bosco's Bilge"
+						},
+						{
+							"depth": 1,
+							"header": "6B. Kitchen"
+						},
+						{
+							"depth": 1,
+							"header": "6C. Bosco's Bunk"
+						},
+						"Jahaka Bay",
+						"Kir Sabal",
+						{
+							"depth": 1,
+							"header": "1. Monastery"
+						},
+						{
+							"depth": 1,
+							"header": "2. Cleansing Chambers"
+						},
+						{
+							"depth": 1,
+							"header": "3. Elder's House"
+						},
+						{
+							"depth": 1,
+							"header": "4. Dwellings"
+						},
+						{
+							"depth": 1,
+							"header": "5. Royal House"
+						},
+						"Kitcher's Inlet",
+						"Lake Luo",
+						"Land of Ash and Smoke",
+						"Mbala",
+						"Mezro",
+						"Mistcliff",
+						"Nangalore",
+						{
+							"depth": 1,
+							"header": "1. Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "2. Terraces"
+						},
+						{
+							"depth": 1,
+							"header": "3. Spirit Domes"
+						},
+						{
+							"depth": 1,
+							"header": "4. Ruined Palace"
+						},
+						{
+							"depth": 1,
+							"header": "5. Hallucinogenic Plants"
+						},
+						{
+							"depth": 1,
+							"header": "6. Pagoda"
+						},
+						{
+							"depth": 1,
+							"header": "7. Flooded Garden"
+						},
+						{
+							"depth": 1,
+							"header": "8. Zalkoré's Lair"
+						},
+						"Needle's Bones",
+						"Nsi Wastes",
+						"Omu",
+						"Orolunga",
+						"Port Castigliar",
+						"Refuge Bay",
+						"River Olung",
+						"River Soshenstar",
+						"River Tath",
+						"River Tiryki",
+						"Shilku",
+						"Shilku Bay",
+						"Snapping Turtle Bay",
+						"Snout of Omgar",
+						"Valley of Dread",
+						"Valley of Embers",
+						"Valley of Lost Honor",
+						"Vorn",
+						"Wreck of the Narwhal",
+						"Wreck of the Star Goddess",
+						"Wyrmheart Mine",
+						{
+							"depth": 1,
+							"header": "1. Office"
+						},
+						{
+							"depth": 1,
+							"header": "2. Supply Shed"
+						},
+						{
+							"depth": 1,
+							"header": "3. Ore Cart"
+						},
+						{
+							"depth": 1,
+							"header": "4. Upper Shaft"
+						},
+						{
+							"depth": 1,
+							"header": "5. Haunted Forge"
+						},
+						{
+							"depth": 1,
+							"header": "6A. Ledge"
+						},
+						{
+							"depth": 1,
+							"header": "6B. Egg Nursery"
+						},
+						{
+							"depth": 1,
+							"header": "6C. Rolling Stone Trap"
+						},
+						{
+							"depth": 1,
+							"header": "7. Upper Landing"
+						},
+						{
+							"depth": 1,
+							"header": "8. Main Living Quarters"
+						},
+						{
+							"depth": 1,
+							"header": "9. Inventors' Quarters"
+						},
+						{
+							"depth": 1,
+							"header": "10. Big Smash"
+						},
+						{
+							"depth": 1,
+							"header": "11. Urds' Quarters"
+						},
+						{
+							"depth": 1,
+							"header": "12. Bottom of the Shaft"
+						},
+						{
+							"depth": 1,
+							"header": "13. Audience Chamber"
+						},
+						{
+							"depth": 1,
+							"header": "14. Tinder's Lair"
+						},
+						"Yellyark",
+						{
+							"depth": 1,
+							"header": "1. Canoes"
+						},
+						{
+							"depth": 1,
+							"header": "2. Larder"
+						},
+						{
+							"depth": 1,
+							"header": "3. Queen Grabstab's Hut"
+						},
+						{
+							"depth": 1,
+							"header": "4. Wooden Cage"
+						},
+						{
+							"depth": 1,
+							"header": "5. Ant Hills"
+						},
+						{
+							"depth": 1,
+							"header": "6. Launch Mechanism"
+						}
+					]
+				},
+				{
+					"name": "Dwellers of the Forbidden City",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 3
+					},
+					"headers": [
+						"Omu",
+						"Locations in the City",
+						{
+							"depth": 1,
+							"header": "1. City Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "2. Walled Compound"
+						},
+						{
+							"depth": 1,
+							"header": "3. Kubazan's Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "3A. Froghemoth Pool"
+						},
+						{
+							"depth": 1,
+							"header": "3B. Locked Gate"
+						},
+						{
+							"depth": 1,
+							"header": "3C. Chamber of Bravery"
+						},
+						{
+							"depth": 1,
+							"header": "4. Shagambi's Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "4A. Shrine Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "4B. Arena Gallery"
+						},
+						{
+							"depth": 1,
+							"header": "4C. Gladiator Cells"
+						},
+						{
+							"depth": 1,
+							"header": "4D. Gladiatorial Pit"
+						},
+						{
+							"depth": 1,
+							"header": "5. Great Rift"
+						},
+						{
+							"depth": 1,
+							"header": "6. Moa's Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "6A. Shrine Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "6B. Trapped Passage"
+						},
+						{
+							"depth": 1,
+							"header": "6C. Chamber of Deception"
+						},
+						{
+							"depth": 1,
+							"header": "6D. Western Secret Room"
+						},
+						{
+							"depth": 1,
+							"header": "6E. Eastern Secret Room"
+						},
+						{
+							"depth": 1,
+							"header": "7. Fallen Tree"
+						},
+						{
+							"depth": 1,
+							"header": "8. Unkh's Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "8A. Shrine Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "8B. Ruined Workshop"
+						},
+						{
+							"depth": 1,
+							"header": "8C. Chamber of Contemplation"
+						},
+						{
+							"depth": 1,
+							"header": "9. Adventurers' Camp"
+						},
+						{
+							"depth": 1,
+							"header": "10. I'jin's Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "10A. Shrine Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "10B. Puzzle Floor"
+						},
+						{
+							"depth": 1,
+							"header": "10C. Labyrinth"
+						},
+						{
+							"depth": 1,
+							"header": "10D. Puzzle Cube"
+						},
+						{
+							"depth": 1,
+							"header": "11. Chwinga Wagon"
+						},
+						{
+							"depth": 1,
+							"header": "12. Wongo's Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "12A. Cracked Obelisks"
+						},
+						{
+							"depth": 1,
+							"header": "12B. Test of Friendship"
+						},
+						{
+							"depth": 1,
+							"header": "12C. Viewing Corridors"
+						},
+						{
+							"depth": 1,
+							"header": "13. Amphitheater"
+						},
+						{
+							"depth": 1,
+							"header": "14. Tomb of the Nine Gods"
+						},
+						{
+							"depth": 1,
+							"header": "15. Ruined Bazaar"
+						},
+						{
+							"depth": 1,
+							"header": "16. Papazotl's Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "16A. Shrine Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "16B. Mosaic Floor"
+						},
+						{
+							"depth": 1,
+							"header": "16C. Chamber of Command"
+						},
+						{
+							"depth": 1,
+							"header": "16D. Hidden Room"
+						},
+						{
+							"depth": 1,
+							"header": "17. Waterfall"
+						},
+						{
+							"depth": 1,
+							"header": "18. Nangnang's Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "18A. Shrine Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "18B. Chamber of Greed"
+						},
+						{
+							"depth": 1,
+							"header": "18C. Puzzle Cube"
+						},
+						{
+							"depth": 1,
+							"header": "19. Obo'laka's Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "19A. Shrine Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "19B. Gallery of Carvings"
+						},
+						{
+							"depth": 1,
+							"header": "19C. Sun Pool"
+						},
+						{
+							"depth": 1,
+							"header": "19D. Moon Pool"
+						},
+						{
+							"depth": 1,
+							"header": "19E. Chamber of Sacraments"
+						},
+						{
+							"depth": 1,
+							"header": "19F. Secret Passage"
+						},
+						{
+							"depth": 1,
+							"header": "20. Royal Palace"
+						},
+						{
+							"depth": 1,
+							"header": "20A. Main Entrance to the Fane"
+						},
+						{
+							"depth": 1,
+							"header": "20B. Secret Entrance to the Fane"
+						}
+					]
+				},
+				{
+					"name": "Fane of the Night Serpent",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 4
+					},
+					"headers": [
+						"Schemes of the Yuan-ti",
+						"Getting Inside",
+						"Locations in the Temple",
+						{
+							"depth": 1,
+							"header": "1. Main Gate"
+						},
+						{
+							"depth": 1,
+							"header": "2. Hall of War"
+						},
+						{
+							"depth": 1,
+							"header": "3. Hall of Serpents"
+						},
+						{
+							"depth": 1,
+							"header": "4. Armory"
+						},
+						{
+							"depth": 1,
+							"header": "5. Fenthaza's Quarters"
+						},
+						{
+							"depth": 1,
+							"header": "6. Sacrificial Chamber"
+						},
+						{
+							"depth": 1,
+							"header": "7. Evil Oracle"
+						},
+						{
+							"depth": 1,
+							"header": "8. Prisoner Pits"
+						},
+						{
+							"depth": 1,
+							"header": "9. The Fane"
+						},
+						{
+							"depth": 1,
+							"header": "10. Harem"
+						},
+						{
+							"depth": 1,
+							"header": "11. Throne Room"
+						},
+						{
+							"depth": 1,
+							"header": "12. Ras Nsi's Lair"
+						},
+						{
+							"depth": 1,
+							"header": "13. Storeroom"
+						},
+						{
+							"depth": 1,
+							"header": "14. Venom Distillery"
+						},
+						{
+							"depth": 1,
+							"header": "15. Snake Pit"
+						},
+						{
+							"depth": 1,
+							"header": "16. Blood Baths"
+						},
+						{
+							"depth": 1,
+							"header": "17. Sauna"
+						},
+						{
+							"depth": 1,
+							"header": "18. Yuan-ti Nests"
+						},
+						{
+							"depth": 1,
+							"header": "19. Slave Grotto"
+						},
+						{
+							"depth": 1,
+							"header": "20. Underground River"
+						},
+						{
+							"depth": 1,
+							"header": "21. Hydra's Lair"
+						},
+						{
+							"depth": 1,
+							"header": "22. Fungi Cavern"
+						},
+						{
+							"depth": 1,
+							"header": "23. Secret Entrance"
+						}
+					]
+				},
+				{
+					"name": "Tomb of the Nine Gods",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 5
+					},
+					"headers": [
+						"History of the Tomb",
+						"Exploring the Tomb",
+						"Spirits of the Nine Trickster Gods",
+						"Level 1: Rotten Halls",
+						{
+							"depth": 1,
+							"header": "1. Acererak's Warning"
+						},
+						{
+							"depth": 1,
+							"header": "2. Gallery of Tricksters"
+						},
+						{
+							"depth": 1,
+							"header": "3. False Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "4. True Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "4A. First Puzzle Door"
+						},
+						{
+							"depth": 1,
+							"header": "4B. Second Puzzle Door"
+						},
+						{
+							"depth": 1,
+							"header": "5. Trapped Corridor"
+						},
+						{
+							"depth": 1,
+							"header": "5A. Poison Darts"
+						},
+						{
+							"depth": 1,
+							"header": "5B. Devil Face"
+						},
+						{
+							"depth": 1,
+							"header": "5C. Floor Hatch"
+						},
+						{
+							"depth": 1,
+							"header": "6. Crystal Window"
+						},
+						{
+							"depth": 1,
+							"header": "7. Grand Staircase"
+						},
+						{
+							"depth": 1,
+							"header": "7A. We Are Not Alone"
+						},
+						{
+							"depth": 1,
+							"header": "7B. Acererak's Second Warning"
+						},
+						{
+							"depth": 1,
+							"header": "7C. Acererak's Third Warning"
+						},
+						{
+							"depth": 1,
+							"header": "7D. Acererak's Fourth Warning"
+						},
+						{
+							"depth": 1,
+							"header": "8. Magical Attraction"
+						},
+						{
+							"depth": 1,
+							"header": "9. Magic Fountain"
+						},
+						{
+							"depth": 1,
+							"header": "10. Obo'laka's Tomb"
+						},
+						{
+							"depth": 1,
+							"header": "11. Gas Pocket"
+						},
+						{
+							"depth": 1,
+							"header": "12. Trapped Chest"
+						},
+						{
+							"depth": 1,
+							"header": "13. Stone Skull"
+						},
+						{
+							"depth": 1,
+							"header": "14. Moa's Tomb"
+						},
+						{
+							"depth": 1,
+							"header": "15. Wind Tunnel"
+						},
+						{
+							"depth": 1,
+							"header": "16. Wongo's Tomb"
+						},
+						{
+							"depth": 1,
+							"header": "17. Underground Waterfall"
+						},
+						"Level 2: Dungeon of Deception",
+						{
+							"depth": 1,
+							"header": "18. Devil Pit"
+						},
+						{
+							"depth": 1,
+							"header": "19. Gravity Ring"
+						},
+						{
+							"depth": 1,
+							"header": "20. False Tomb"
+						},
+						{
+							"depth": 1,
+							"header": "21. Zombie Door"
+						},
+						{
+							"depth": 1,
+							"header": "22. Papazotl's Tomb"
+						},
+						{
+							"depth": 1,
+							"header": "23. Bottled Genie"
+						},
+						{
+							"depth": 1,
+							"header": "24. Nangnang's Tomb"
+						},
+						{
+							"depth": 1,
+							"header": "25. Scrying Pool"
+						},
+						{
+							"depth": 1,
+							"header": "26. Spiral Staircase"
+						},
+						{
+							"depth": 1,
+							"header": "27. Forge of the Tomb Dwarves"
+						},
+						{
+							"depth": 1,
+							"header": "28. Withers's Office"
+						},
+						"Level 3: Vault of Reflection",
+						{
+							"depth": 1,
+							"header": "29. Jackal Mask"
+						},
+						{
+							"depth": 1,
+							"header": "30. Iron Barrier"
+						},
+						{
+							"depth": 1,
+							"header": "31. Reflected Hall"
+						},
+						{
+							"depth": 1,
+							"header": "31A. Hidden Alcoves"
+						},
+						{
+							"depth": 1,
+							"header": "31B. Curtain of Water"
+						},
+						{
+							"depth": 1,
+							"header": "32. Rotating Crawlways"
+						},
+						{
+							"depth": 1,
+							"header": "33. Chamber of Opposition"
+						},
+						{
+							"depth": 1,
+							"header": "34. Peephole"
+						},
+						{
+							"depth": 1,
+							"header": "35. I'jin's Tomb"
+						},
+						{
+							"depth": 1,
+							"header": "35A. Stone Block"
+						},
+						{
+							"depth": 1,
+							"header": "35B. Tomb"
+						},
+						{
+							"depth": 1,
+							"header": "36. Chamber of Respite"
+						},
+						{
+							"depth": 1,
+							"header": "37. Winds of Pandemonium"
+						},
+						{
+							"depth": 1,
+							"header": "38. Revolving Room Trap"
+						},
+						{
+							"depth": 1,
+							"header": "38A. Control Room"
+						},
+						{
+							"depth": 1,
+							"header": "38B. Access Tunnel"
+						},
+						{
+							"depth": 1,
+							"header": "38C. Revolving Drum"
+						},
+						{
+							"depth": 1,
+							"header": "39. Golem Pit"
+						},
+						{
+							"depth": 1,
+							"header": "40. Curse of the Golden Skull"
+						},
+						{
+							"depth": 1,
+							"header": "41. Tomb Guardians"
+						},
+						{
+							"depth": 1,
+							"header": "42. Kubazan's Tomb"
+						},
+						{
+							"depth": 1,
+							"header": "43. Veils of Fear"
+						},
+						{
+							"depth": 1,
+							"header": "44. Vault of the Beholder"
+						},
+						{
+							"depth": 1,
+							"header": "44A. Eyes of the Beholder"
+						},
+						{
+							"depth": 1,
+							"header": "44B. Inside the Vault"
+						},
+						"Level 4: Chambers of Horror",
+						{
+							"depth": 1,
+							"header": "45. Gargoyle Guardians"
+						},
+						{
+							"depth": 1,
+							"header": "46. Lizard Den"
+						},
+						{
+							"depth": 1,
+							"header": "47. Elemental Cells"
+						},
+						{
+							"depth": 1,
+							"header": "47A. Fire Cell"
+						},
+						{
+							"depth": 1,
+							"header": "47B. Water Cell"
+						},
+						{
+							"depth": 1,
+							"header": "47C. Air Cell"
+						},
+						{
+							"depth": 1,
+							"header": "47D. Earth Cell"
+						},
+						{
+							"depth": 1,
+							"header": "48. Shagambi's Tomb"
+						},
+						{
+							"depth": 1,
+							"header": "49. Maze of Death"
+						},
+						{
+							"depth": 1,
+							"header": "49A. Stone Slabs"
+						},
+						{
+							"depth": 1,
+							"header": "49B. Green Devil Face"
+						},
+						{
+							"depth": 1,
+							"header": "49C. Black Opal Crown"
+						},
+						{
+							"depth": 1,
+							"header": "50. Mirror of Life Trapping"
+						},
+						{
+							"depth": 1,
+							"header": "51. Ghastly Door"
+						},
+						{
+							"depth": 1,
+							"header": "52. Throne Room"
+						},
+						{
+							"depth": 1,
+							"header": "53. Crypt of the Sun Queen"
+						},
+						{
+							"depth": 1,
+							"header": "54. Rolling Doom"
+						},
+						{
+							"depth": 1,
+							"header": "54A. Treasure Chest"
+						},
+						{
+							"depth": 1,
+							"header": "54B. Granite Ball"
+						},
+						{
+							"depth": 1,
+							"header": "54C. Acid Pit"
+						},
+						{
+							"depth": 1,
+							"header": "55. Unkh's Tomb"
+						},
+						{
+							"depth": 1,
+							"header": "56. Grandfather Clock"
+						},
+						{
+							"depth": 1,
+							"header": "57. Oubliette"
+						},
+						"Level 5: Gears of Hate",
+						{
+							"depth": 1,
+							"header": "58. Cog of Rot"
+						},
+						{
+							"depth": 1,
+							"header": "59. Cog of Acid"
+						},
+						{
+							"depth": 1,
+							"header": "60. Cog of Blood"
+						},
+						{
+							"depth": 1,
+							"header": "61. Control Room"
+						},
+						{
+							"depth": 1,
+							"header": "62. Stone Juggernaut"
+						},
+						{
+							"depth": 1,
+							"header": "62A. \"Awaken Napaka!\""
+						},
+						{
+							"depth": 1,
+							"header": "62B. Sloped Hall"
+						},
+						{
+							"depth": 1,
+							"header": "62C. Broken Statue"
+						},
+						{
+							"depth": 1,
+							"header": "62D. Secret Room"
+						},
+						{
+							"depth": 1,
+							"header": "63. Gas-Filled Room"
+						},
+						{
+							"depth": 1,
+							"header": "64. Base of the Waterfall"
+						},
+						{
+							"depth": 1,
+							"header": "65. Underground Lake"
+						},
+						{
+							"depth": 1,
+							"header": "66. Door of Devouring"
+						},
+						{
+							"depth": 1,
+							"header": "67. Hall of the Golden Mastodon"
+						},
+						{
+							"depth": 1,
+							"header": "68. Hall of Decay"
+						},
+						{
+							"depth": 1,
+							"header": "69. Mechanus Chain"
+						},
+						{
+							"depth": 1,
+							"header": "70. Armillary Sphere"
+						},
+						"Level 6: Cradle of the Death God",
+						{
+							"depth": 1,
+							"header": "71. Lair of the Sewn Sisters"
+						},
+						{
+							"depth": 1,
+							"header": "72. Trial of the Triangle"
+						},
+						{
+							"depth": 1,
+							"header": "73. Trial of the Square"
+						},
+						{
+							"depth": 1,
+							"header": "74. Trial of the Pentagon"
+						},
+						{
+							"depth": 1,
+							"header": "75. Trial of the Hexagon"
+						},
+						{
+							"depth": 1,
+							"header": "76. Trial of the Octagon"
+						},
+						{
+							"depth": 1,
+							"header": "77. Death God's Nursery"
+						},
+						{
+							"depth": 1,
+							"header": "78. Chapel of Hate"
+						},
+						{
+							"depth": 1,
+							"header": "79. Hall of Finality"
+						},
+						{
+							"depth": 1,
+							"header": "80. Red Library"
+						},
+						{
+							"depth": 1,
+							"header": "81. Ebon Pool"
+						},
+						"Conclusion"
+					]
+				},
+				{
+					"name": "Character Backgrounds",
+					"ordinal": {
+						"type": "appendix",
+						"identifier": "A"
+					}
+				},
+				{
+					"name": "Random Encounters",
+					"headers": [
+						"Port Nyanzaru Encounters",
+						"Wilderness Encounters",
+						"Omu Encounters"
+					],
+					"ordinal": {
+						"type": "appendix",
+						"identifier": "B"
+					}
+				},
+				{
+					"name": "Discoveries",
+					"headers": [
+						"Flora and Fauna",
+						"Magic Items"
+					],
+					"ordinal": {
+						"type": "appendix",
+						"identifier": "C"
+					}
+				},
+				{
+					"name": "Monsters and NPCs",
+					"ordinal": {
+						"type": "appendix",
+						"identifier": "D"
+					}
+				},
+				{
+					"name": "Player Handouts",
+					"ordinal": {
+						"type": "appendix",
+						"identifier": "E"
+					},
+					"headers": [
+						"Handout 1: Players' Map of Chult",
+						"Guides",
+						"Handout 11: Puzzle Cubes",
+						"Handout 12: Players' Map of Omu",
+						"Handout 13: Lord Brixton's Letter",
+						"Handout 14: I'jin's Puzzle Floor",
+						"Handout 15: Papazotl's Riddle",
+						"Handout 16: Papazotl's Puzzle Key",
+						"Acererak's Warnings",
+						"Handout 21: Devlin's Journal Excerpt",
+						"Handout 22: Withers's Journal Excerpt",
+						"Handout 23: Hieroglyphic Floor",
+						"Handout 24: Control Panel"
+					]
+				},
+				{
+					"name": "Trickster Gods of Omu",
+					"ordinal": {
+						"type": "appendix",
+						"identifier": "F"
+					}
+				},
+				{
+					"name": "Credits"
+				},
+				{
+					"name": "Poster Map"
+				}
+			]
+		},
+		{
 			"name": "Waterdeep: Dragon Heist",
 			"id": "WDH",
 			"source": "WDH",
