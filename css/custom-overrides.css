@@ -18,7 +18,7 @@
   --otm-link-dice-muted: #cc8974;
   --otm-white: #e4e4e4;
   --otm-yellow-accent: #d29e34;
-  --otm-green-accent: #004d40;
+  --otm-green-accent: #094d00;
   --otm-red: #e53935;
   --otm-deco-gold: #e3c24a;
   --otm-deco-gold-light: #f0d87a;
@@ -404,9 +404,4 @@ Renderer H0 and H1 — chapter titles, statblock section heads (render-night.scs
   background: #232323;
 }
 
-.page__nav {
-	position: sticky;
-	top: 0;
-	z-index: 1030;
-}
 /*#endregion Structural Additions*/
