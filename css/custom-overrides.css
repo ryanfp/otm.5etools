@@ -18,7 +18,7 @@
   --otm-link-dice-muted: #cc8974;
   --otm-white: #e4e4e4;
   --otm-yellow-accent: #d29e34;
-  --otm-green-accent: #094d00;
+  --otm-primary-accent: #172950;
   --otm-red: #e53935;
   --otm-deco-gold: #e3c24a;
   --otm-deco-gold-light: #f0d87a;
@@ -149,7 +149,7 @@
 
 
 .rollbox .head-roll {
-  background-color: var(--otm-green-accent);
+  background-color: var(--otm-primary-accent);
   color: var(--otm-white);
   font-weight: bold;
   border-top-left-radius: 4px;
@@ -180,7 +180,7 @@
 }
 
 .ve-night-mode .rollbox-min {
-  background-color: var(--otm-green-accent);
+  background-color: var(--otm-primary-accent);
   color: var(--otm-white);
   font-weight: bold;
 }
@@ -281,10 +281,10 @@
 }
 /* 
 .home__h-player {
-  text-decoration-color: var(--otm-green-accent);
+  text-decoration-color: var(--otm-primary-accent);
 }
 .home__btn-player {
-  border-color: var(--otm-green-accent);
+  border-color: var(--otm-primary-accent);
   color: var(--color-primary);
 } */
 
@@ -301,13 +301,13 @@
     display: inline-block;
 }
 .page__header {
-    background-color: var(--otm-green-accent);
+    background-color: var(--otm-primary-accent);
 }
 
 /* Active Tab */
 .ve-night-mode .page__nav-inner > li.ve-active > a,
 .ve-night-mode .page__nav-inner > li.ve-active:hover > a {
-    background-color: var(--otm-green-accent);
+    background-color: var(--otm-primary-accent);
     color: #ffffff;
     font-weight: bold;
 }
