@@ -1335,6 +1335,1457 @@
 			]
 		},
 		{
+			"name": "Princes of the Apocalypse",
+			"id": "PotA",
+			"source": "PotA",
+			"group": "supplement",
+			"cover": {
+				"type": "internal",
+				"path": "covers/PotA.webp"
+			},
+			"published": "2015-04-07",
+			"author": "Wizards RPG Team",
+			"storyline": "Elemental Evil",
+			"level": {
+				"start": 1,
+				"end": 15
+			},
+			"contents": [
+				{
+					"name": "Rise of Elemental Evil",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 1
+					},
+					"headers": [
+						"Using This Source",
+						"Adventure Background",
+						"Adventure Synopsis",
+						"Elemental Cults",
+						"Running the Adventure"
+					]
+				},
+				{
+					"name": "The Dessarin Valley",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 2
+					},
+					"headers": [
+						"History",
+						"Current Events",
+						"Red Larch",
+						{
+							"depth": 1,
+							"header": "1. Allfaiths Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "2. The Swinging Sword"
+						},
+						{
+							"depth": 1,
+							"header": "3. The Helm at Highsun"
+						},
+						{
+							"depth": 1,
+							"header": "4. Mother Yalantha's"
+						},
+						{
+							"depth": 1,
+							"header": "5. Thelorn's Safe Journeys"
+						},
+						{
+							"depth": 1,
+							"header": "6. Chansyrl Fine Harness"
+						},
+						{
+							"depth": 1,
+							"header": "7. Helvur Tarnlar, Clothier"
+						},
+						{
+							"depth": 1,
+							"header": "8. Lorren's Bakery"
+						},
+						{
+							"depth": 1,
+							"header": "9. Tantur Smithy"
+						},
+						{
+							"depth": 1,
+							"header": "10. Drouth Fine Poultry"
+						},
+						{
+							"depth": 1,
+							"header": "11. Jalessa Ornra, Butcher"
+						},
+						{
+							"depth": 1,
+							"header": "12. Dornen Finestone"
+						},
+						{
+							"depth": 1,
+							"header": "13. Ironhead Arms"
+						},
+						{
+							"depth": 1,
+							"header": "14. Mhandyvver's Poultry"
+						},
+						{
+							"depth": 1,
+							"header": "15. Haeleeya's"
+						},
+						{
+							"depth": 1,
+							"header": "16. Waelvur's Wagonworks"
+						},
+						{
+							"depth": 1,
+							"header": "17. Gaelkur's"
+						},
+						{
+							"depth": 1,
+							"header": "18. Mellikho Stoneworks"
+						},
+						{
+							"depth": 1,
+							"header": "19. Luruth's Tannery"
+						},
+						{
+							"depth": 1,
+							"header": "20. Bethendur's Storage"
+						},
+						{
+							"depth": 1,
+							"header": "21. The Market"
+						},
+						{
+							"depth": 1,
+							"header": "22. Vallivoe's Sundries"
+						},
+						"Exploring the Valley",
+						"Valley Sites",
+						"The Uthgardt Tribes"
+					]
+				},
+				{
+					"name": "Secret of the Sumber Hills",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 3
+					},
+					"headers": [
+						"The Missing Delegation",
+						"Early Investigations",
+						"Cult Reprisals",
+						"Feathergale Spire",
+						{
+							"depth": 1,
+							"header": "S1. Stable Level"
+						},
+						{
+							"depth": 1,
+							"header": "S2. Front Hall"
+						},
+						{
+							"depth": 1,
+							"header": "S3. Weapons Locker"
+						},
+						{
+							"depth": 1,
+							"header": "S4. Central Stairs"
+						},
+						{
+							"depth": 1,
+							"header": "S5. Initiate Dormitory"
+						},
+						{
+							"depth": 1,
+							"header": "S6. Kitchen"
+						},
+						{
+							"depth": 1,
+							"header": "S7. Solarium"
+						},
+						{
+							"depth": 1,
+							"header": "S8. Great Hall"
+						},
+						{
+							"depth": 1,
+							"header": "S9. Knights' Cells"
+						},
+						{
+							"depth": 1,
+							"header": "S10. Merosska's Apartment"
+						},
+						{
+							"depth": 1,
+							"header": "S11. Pinnacle"
+						},
+						"Knights' Quest",
+						"Sighing Valley",
+						{
+							"depth": 1,
+							"header": "V1. Feathergale Spire"
+						},
+						{
+							"depth": 1,
+							"header": "V2. Dead Rocks"
+						},
+						{
+							"depth": 1,
+							"header": "V3. Knifepoint Gully"
+						},
+						{
+							"depth": 1,
+							"header": "V4. The Lost River"
+						},
+						{
+							"depth": 1,
+							"header": "V5. Howling Plateau"
+						},
+						{
+							"depth": 1,
+							"header": "V6. The Lost River"
+						},
+						{
+							"depth": 1,
+							"header": "V7. Griffon Roost"
+						},
+						{
+							"depth": 1,
+							"header": "V8. Aarakocra Camp"
+						},
+						{
+							"depth": 1,
+							"header": "V9. Manticore Lair"
+						},
+						"Rivergard Keep",
+						{
+							"depth": 1,
+							"header": "K1. Front Gate"
+						},
+						{
+							"depth": 1,
+							"header": "K2. Gatehouse"
+						},
+						{
+							"depth": 1,
+							"header": "K3. Gatehouse Upper Floor"
+						},
+						{
+							"depth": 1,
+							"header": "K4. Castle Yard"
+						},
+						{
+							"depth": 1,
+							"header": "K5. Ruined Stable"
+						},
+						{
+							"depth": 1,
+							"header": "K6. Armory"
+						},
+						{
+							"depth": 1,
+							"header": "K7. Bathhouse"
+						},
+						{
+							"depth": 1,
+							"header": "K8. Barracks"
+						},
+						{
+							"depth": 1,
+							"header": "K9. Water Tower"
+						},
+						{
+							"depth": 1,
+							"header": "K10. Landing"
+						},
+						{
+							"depth": 1,
+							"header": "K11. Water Gate"
+						},
+						{
+							"depth": 1,
+							"header": "K12. Moored Keelboat"
+						},
+						{
+							"depth": 1,
+							"header": "K13. Dark Stream"
+						},
+						{
+							"depth": 1,
+							"header": "K14. North Tower"
+						},
+						{
+							"depth": 1,
+							"header": "K15. Chapel"
+						},
+						{
+							"depth": 1,
+							"header": "K16. Great Hall"
+						},
+						{
+							"depth": 1,
+							"header": "K17. Servants' Quarters"
+						},
+						{
+							"depth": 1,
+							"header": "K18. Kitchens"
+						},
+						{
+							"depth": 1,
+							"header": "K19. Old Library"
+						},
+						{
+							"depth": 1,
+							"header": "K20. Keep Guardroom"
+						},
+						{
+							"depth": 1,
+							"header": "K21. Lord's Chambers"
+						},
+						{
+							"depth": 1,
+							"header": "K22. Secret Landing"
+						},
+						"Sacred Stone Monastery",
+						{
+							"depth": 1,
+							"header": "M1. Passage of Stone"
+						},
+						{
+							"depth": 1,
+							"header": "M2. Basalt Hall"
+						},
+						{
+							"depth": 1,
+							"header": "M3. South Dormitory"
+						},
+						{
+							"depth": 1,
+							"header": "M4. Guest Quarters"
+						},
+						{
+							"depth": 1,
+							"header": "M5. West Dormitory"
+						},
+						{
+							"depth": 1,
+							"header": "M6. Refectory"
+						},
+						{
+							"depth": 1,
+							"header": "M7. Kitchen"
+						},
+						{
+							"depth": 1,
+							"header": "M8. Sandstone Court"
+						},
+						{
+							"depth": 1,
+							"header": "M9. Shrine of Stone"
+						},
+						{
+							"depth": 1,
+							"header": "M10. Scriptorium"
+						},
+						{
+							"depth": 1,
+							"header": "M11. Stairs"
+						},
+						{
+							"depth": 1,
+							"header": "M12. Abbess's Chambers"
+						},
+						{
+							"depth": 1,
+							"header": "M13. Distilling Room"
+						},
+						{
+							"depth": 1,
+							"header": "M14. Garden of Stone"
+						},
+						{
+							"depth": 1,
+							"header": "M15. Dojo"
+						},
+						{
+							"depth": 1,
+							"header": "M16. Renwick's Tower"
+						},
+						{
+							"depth": 1,
+							"header": "M17. Lich's Quarters"
+						},
+						{
+							"depth": 1,
+							"header": "M18. Mine Guardroom"
+						},
+						{
+							"depth": 1,
+							"header": "M19. Slave Pens"
+						},
+						{
+							"depth": 1,
+							"header": "M20. The Haunted Crypt"
+						},
+						{
+							"depth": 1,
+							"header": "M21. Hall of Thirsting Stone"
+						},
+						{
+							"depth": 1,
+							"header": "M22. Mines"
+						},
+						{
+							"depth": 1,
+							"header": "M23. Hidden Tunnel"
+						},
+						{
+							"depth": 1,
+							"header": "M24. The Ancient Stair"
+						},
+						"Scarlet Moon Hall",
+						{
+							"depth": 1,
+							"header": "H1. Courtyard"
+						},
+						{
+							"depth": 1,
+							"header": "H2. Wicker Giant"
+						},
+						{
+							"depth": 1,
+							"header": "H3. Kennel"
+						},
+						{
+							"depth": 1,
+							"header": "H4. Scaffolding"
+						},
+						{
+							"depth": 1,
+							"header": "H5. Upper Entry Chamber"
+						},
+						{
+							"depth": 1,
+							"header": "H6. The Downward Path"
+						},
+						{
+							"depth": 1,
+							"header": "H7. Cultist Barracks"
+						},
+						{
+							"depth": 1,
+							"header": "H8. Elizar's Chamber"
+						},
+						{
+							"depth": 1,
+							"header": "H9. Bats in the Attic"
+						}
+					]
+				},
+				{
+					"name": "Air, Earth, Fire, and Water",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 4
+					},
+					"headers": [
+						"Rooting Out Evil",
+						"Cult Retaliation",
+						"Temple of Howling Hatred",
+						{
+							"depth": 1,
+							"header": "A1. Palace Quarter Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "A2. Gatehouse"
+						},
+						{
+							"depth": 1,
+							"header": "A3. Machine Chamber"
+						},
+						{
+							"depth": 1,
+							"header": "A4. Plaza of the Muses"
+						},
+						{
+							"depth": 1,
+							"header": "A5. Tyar-Besil Shops"
+						},
+						{
+							"depth": 1,
+							"header": "A6. Plaza of Vergadain"
+						},
+						{
+							"depth": 1,
+							"header": "A7. Plaza of Moradin"
+						},
+						{
+							"depth": 1,
+							"header": "A8. Ruined Villa"
+						},
+						{
+							"depth": 1,
+							"header": "A9. Tombs"
+						},
+						{
+							"depth": 1,
+							"header": "A10. Palace Plaza"
+						},
+						{
+							"depth": 1,
+							"header": "A11. Moat"
+						},
+						{
+							"depth": 1,
+							"header": "A12. Moradin's Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "A13. Vergadain's Hall"
+						},
+						{
+							"depth": 1,
+							"header": "A14. Living Quarters"
+						},
+						{
+							"depth": 1,
+							"header": "A15. Plaza of Fallen Spires"
+						},
+						{
+							"depth": 1,
+							"header": "A16. Obelisk Row"
+						},
+						{
+							"depth": 1,
+							"header": "A17. The Palace Way"
+						},
+						{
+							"depth": 1,
+							"header": "A18. Grand Hall"
+						},
+						{
+							"depth": 1,
+							"header": "A19. Temple of Elemental Air"
+						},
+						{
+							"depth": 1,
+							"header": "A20. Worm's Tunnel"
+						},
+						"Temple of the Crushing Wave",
+						{
+							"depth": 1,
+							"header": "C1. Lake Landing"
+						},
+						{
+							"depth": 1,
+							"header": "C2. Canals"
+						},
+						{
+							"depth": 1,
+							"header": "C3. Whisper Lake"
+						},
+						{
+							"depth": 1,
+							"header": "C4. Drowning Chambers"
+						},
+						{
+							"depth": 1,
+							"header": "C5. Gaol"
+						},
+						{
+							"depth": 1,
+							"header": "C6. Victory Bridge"
+						},
+						{
+							"depth": 1,
+							"header": "C7. Reaver Barracks"
+						},
+						{
+							"depth": 1,
+							"header": "C8. Ancient Silos"
+						},
+						{
+							"depth": 1,
+							"header": "C9. North Guard Post"
+						},
+						{
+							"depth": 1,
+							"header": "C10. Gargoyle Fountain"
+						},
+						{
+							"depth": 1,
+							"header": "C11. Court of the Merfolk"
+						},
+						{
+							"depth": 1,
+							"header": "C12. Troll Hole"
+						},
+						{
+							"depth": 1,
+							"header": "C13. Blackmaw Den"
+						},
+						{
+							"depth": 1,
+							"header": "C14. Hag Lair"
+						},
+						{
+							"depth": 1,
+							"header": "C15. Dragon Bridge"
+						},
+						{
+							"depth": 1,
+							"header": "C16. Thunderhammer Brewery"
+						},
+						{
+							"depth": 1,
+							"header": "C17. Morbeoth's Workshop"
+						},
+						{
+							"depth": 1,
+							"header": "C18. West Guard Post"
+						},
+						{
+							"depth": 1,
+							"header": "C19. Cavern Lakeshore"
+						},
+						{
+							"depth": 1,
+							"header": "C20. Gated Passage"
+						},
+						{
+							"depth": 1,
+							"header": "C21. Starry Lake"
+						},
+						{
+							"depth": 1,
+							"header": "C22. Market Hall"
+						},
+						{
+							"depth": 1,
+							"header": "C23. Galley"
+						},
+						{
+							"depth": 1,
+							"header": "C24. Bridge of Heroes"
+						},
+						{
+							"depth": 1,
+							"header": "C25. Temple of Elemental Water"
+						},
+						{
+							"depth": 1,
+							"header": "C26. Vault"
+						},
+						{
+							"depth": 1,
+							"header": "C27. Priests' Quarters"
+						},
+						{
+							"depth": 1,
+							"header": "C28. Caravan Stairs"
+						},
+						"Temple of Black Earth",
+						{
+							"depth": 1,
+							"header": "B1. Gargoyle Chasm"
+						},
+						{
+							"depth": 1,
+							"header": "B2. North Chasm"
+						},
+						{
+							"depth": 1,
+							"header": "B3. Ruined Gates"
+						},
+						{
+							"depth": 1,
+							"header": "B4. Hall of the Gate"
+						},
+						{
+							"depth": 1,
+							"header": "B5. East Guardroom"
+						},
+						{
+							"depth": 1,
+							"header": "B6. Yarsha's Burrow"
+						},
+						{
+							"depth": 1,
+							"header": "B7. Gatewarden's Quarters"
+						},
+						{
+							"depth": 1,
+							"header": "B8. Mud Sorcerer's Lab"
+						},
+						{
+							"depth": 1,
+							"header": "B9. Broken Hall"
+						},
+						{
+							"depth": 1,
+							"header": "B10. Long Chasm"
+						},
+						{
+							"depth": 1,
+							"header": "B11. South Passage"
+						},
+						{
+							"depth": 1,
+							"header": "B12. Broog-Norb's Lair"
+						},
+						{
+							"depth": 1,
+							"header": "B13. Hunting Hall"
+						},
+						{
+							"depth": 1,
+							"header": "B14. Torture Chamber"
+						},
+						{
+							"depth": 1,
+							"header": "B15. Stone Forge"
+						},
+						{
+							"depth": 1,
+							"header": "B16. Armory"
+						},
+						{
+							"depth": 1,
+							"header": "B17. Chasm Staircase"
+						},
+						{
+							"depth": 1,
+							"header": "B18. Barracks"
+						},
+						{
+							"depth": 1,
+							"header": "B19. Statue of Ogrémoch"
+						},
+						{
+							"depth": 1,
+							"header": "B20. Mess Hall"
+						},
+						{
+							"depth": 1,
+							"header": "B21. Screaming Statues"
+						},
+						{
+							"depth": 1,
+							"header": "B22. Earth Prophet's Sanctum"
+						},
+						{
+							"depth": 1,
+							"header": "B23. Shrine of Bleeding Stone"
+						},
+						{
+							"depth": 1,
+							"header": "B24. Sentinel's Hall"
+						},
+						"Temple of Eternal Flame",
+						{
+							"depth": 1,
+							"header": "E1. Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "E2. Columned Chamber"
+						},
+						{
+							"depth": 1,
+							"header": "E3. Niche Hall"
+						},
+						{
+							"depth": 1,
+							"header": "E4. Hidden Vault"
+						},
+						{
+							"depth": 1,
+							"header": "E5. Crumbling Barricades"
+						},
+						{
+							"depth": 1,
+							"header": "E6. Bastian's Quarters"
+						},
+						{
+							"depth": 1,
+							"header": "E7. Barracks"
+						},
+						{
+							"depth": 1,
+							"header": "E8. Priests' Room"
+						},
+						{
+							"depth": 1,
+							"header": "E9. Ogre Den"
+						},
+						{
+							"depth": 1,
+							"header": "E10. Hobgoblin Lair"
+						},
+						{
+							"depth": 1,
+							"header": "E11. Cellblock"
+						},
+						{
+							"depth": 1,
+							"header": "E12. Lava Chasm"
+						},
+						{
+							"depth": 1,
+							"header": "E13. Foundry"
+						},
+						{
+							"depth": 1,
+							"header": "E14. Shaft to the Fire Node"
+						},
+						{
+							"depth": 1,
+							"header": "E15. Ancient Armory"
+						},
+						{
+							"depth": 1,
+							"header": "E16. Well"
+						},
+						{
+							"depth": 1,
+							"header": "E17. Mechanical Room"
+						},
+						{
+							"depth": 1,
+							"header": "E18. Library"
+						},
+						{
+							"depth": 1,
+							"header": "E19. Kennel"
+						},
+						{
+							"depth": 1,
+							"header": "E22. Display Hall"
+						},
+						{
+							"depth": 1,
+							"header": "E23. Barracks"
+						},
+						{
+							"depth": 1,
+							"header": "E24. Ignatia's Abode"
+						},
+						{
+							"depth": 1,
+							"header": "E25. Supplicants' Room"
+						},
+						{
+							"depth": 1,
+							"header": "E26. Fire Temple"
+						},
+						{
+							"depth": 1,
+							"header": "E27. Barricades"
+						},
+						{
+							"depth": 1,
+							"header": "E28. Barracks"
+						},
+						{
+							"depth": 1,
+							"header": "E29. Lyzzie's Quarters"
+						},
+						{
+							"depth": 1,
+							"header": "E30. Chimera Lair"
+						},
+						{
+							"depth": 1,
+							"header": "E31. Vanifer's Chamber"
+						}
+					]
+				},
+				{
+					"name": "Temple of the Elder Elemental Eye",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 5
+					},
+					"headers": [
+						"Wrath of the Elements",
+						"Fighting the Prophets",
+						"Saving the Delegates",
+						"Fane of the Eye",
+						{
+							"depth": 1,
+							"header": "F1. Worm's Stair"
+						},
+						{
+							"depth": 1,
+							"header": "F2. Howling Pit"
+						},
+						{
+							"depth": 1,
+							"header": "F3. Wind Prison"
+						},
+						{
+							"depth": 1,
+							"header": "F4. Harpy Nest"
+						},
+						{
+							"depth": 1,
+							"header": "F5. Rust Monster Pit"
+						},
+						{
+							"depth": 1,
+							"header": "F6. Swift Stream"
+						},
+						{
+							"depth": 1,
+							"header": "F7. Blackmaw Throne"
+						},
+						{
+							"depth": 1,
+							"header": "F8. The Plunge"
+						},
+						{
+							"depth": 1,
+							"header": "F9. Fungal Swamp"
+						},
+						{
+							"depth": 1,
+							"header": "F10. Foebreaker's Crypt"
+						},
+						{
+							"depth": 1,
+							"header": "F11. Foot of the Obelisk"
+						},
+						{
+							"depth": 1,
+							"header": "F12. Abandoned Mine"
+						},
+						{
+							"depth": 1,
+							"header": "F13. Hall of Black Crystal"
+						},
+						{
+							"depth": 1,
+							"header": "F14. Zegdar's Lair"
+						},
+						{
+							"depth": 1,
+							"header": "F15. Fiery Throat"
+						},
+						{
+							"depth": 1,
+							"header": "F16. Emberhorn Den"
+						},
+						{
+							"depth": 1,
+							"header": "F17. Ancient Conjury"
+						},
+						{
+							"depth": 1,
+							"header": "F18. Drow Tomb"
+						},
+						{
+							"depth": 1,
+							"header": "F19. That Which Lurks"
+						},
+						{
+							"depth": 1,
+							"header": "F20. Hall of Battle"
+						},
+						{
+							"depth": 1,
+							"header": "F21. Temple of the Elder Elemental Eye"
+						},
+						"The Howling Caves",
+						{
+							"depth": 1,
+							"header": "N1. Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "N2. Deadly Pool"
+						},
+						{
+							"depth": 1,
+							"header": "N3. Oubliette"
+						},
+						{
+							"depth": 1,
+							"header": "N4. Storm Chasm"
+						},
+						{
+							"depth": 1,
+							"header": "N5. Svirfneblin Settlement"
+						},
+						{
+							"depth": 1,
+							"header": "N6. Breathless Cave"
+						},
+						{
+							"depth": 1,
+							"header": "N7. The Floating Ones"
+						},
+						{
+							"depth": 1,
+							"header": "N8. Wind Chorus"
+						},
+						{
+							"depth": 1,
+							"header": "N9. Mushroom Forest"
+						},
+						{
+							"depth": 1,
+							"header": "N10. Stalagmite Garden"
+						},
+						{
+							"depth": 1,
+							"header": "N11. Hero's Tomb"
+						},
+						{
+							"depth": 1,
+							"header": "N12. Glowing Mere"
+						},
+						{
+							"depth": 1,
+							"header": "N14. Air Node's Doorstep"
+						},
+						{
+							"depth": 1,
+							"header": "N15. Windhuggers"
+						},
+						{
+							"depth": 1,
+							"header": "N16. Tortured Cavern"
+						},
+						{
+							"depth": 1,
+							"header": "N17. Sacrifices"
+						},
+						{
+							"depth": 1,
+							"header": "N18. Royal Guard"
+						},
+						{
+							"depth": 1,
+							"header": "N19. Air Portal"
+						},
+						"The Plunging Torrents",
+						{
+							"depth": 1,
+							"header": "P1. Waterfall Basin"
+						},
+						{
+							"depth": 1,
+							"header": "P2. Plunging Passage"
+						},
+						{
+							"depth": 1,
+							"header": "P3. Nets"
+						},
+						{
+							"depth": 1,
+							"header": "P4. Temple Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "P5. Shrine of Yngukulub"
+						},
+						{
+							"depth": 1,
+							"header": "P6. Yngukulub the Devourer"
+						},
+						{
+							"depth": 1,
+							"header": "P7. Quipper Pit"
+						},
+						{
+							"depth": 1,
+							"header": "P8. Sloping Cave"
+						},
+						{
+							"depth": 1,
+							"header": "P9. Crushing Wave Outpost"
+						},
+						{
+							"depth": 1,
+							"header": "P10. Trial by Water"
+						},
+						{
+							"depth": 1,
+							"header": "P11. Hunter's Den"
+						},
+						{
+							"depth": 1,
+							"header": "P12. Feeding Cave"
+						},
+						{
+							"depth": 1,
+							"header": "P13. The Hungry"
+						},
+						{
+							"depth": 1,
+							"header": "P14. Eye of Anguish"
+						},
+						{
+							"depth": 1,
+							"header": "P15. Reflection Chamber"
+						},
+						{
+							"depth": 1,
+							"header": "P16. Hut of the Dark Tide"
+						},
+						{
+							"depth": 1,
+							"header": "P17. Elemental Guardian"
+						},
+						{
+							"depth": 1,
+							"header": "P18. Wrecks"
+						},
+						{
+							"depth": 1,
+							"header": "P20. Water Portal"
+						},
+						"The Black Geode",
+						{
+							"depth": 1,
+							"header": "G1. Hall of the Guardians"
+						},
+						{
+							"depth": 1,
+							"header": "G2. Keltar and Gorx"
+						},
+						{
+							"depth": 1,
+							"header": "G3. Roper Den"
+						},
+						{
+							"depth": 1,
+							"header": "G4. Bewildering Crystals"
+						},
+						{
+							"depth": 1,
+							"header": "G5. Underdark Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "G6. Mudflow Falls"
+						},
+						{
+							"depth": 1,
+							"header": "G7. Empty Cave"
+						},
+						{
+							"depth": 1,
+							"header": "G8. Cavern of the Lost Crown"
+						},
+						{
+							"depth": 1,
+							"header": "G9. Narrow Stone Bridge"
+						},
+						{
+							"depth": 1,
+							"header": "G10. Clickety Clack"
+						},
+						{
+							"depth": 1,
+							"header": "G11. Elemental Mud Pool"
+						},
+						{
+							"depth": 1,
+							"header": "G12. Hall of Meditation"
+						},
+						{
+							"depth": 1,
+							"header": "G13. Bulette Kennels"
+						},
+						{
+							"depth": 1,
+							"header": "G14. Rorgrin's Cave"
+						},
+						{
+							"depth": 1,
+							"header": "G15. Arcane Foundry"
+						},
+						{
+							"depth": 1,
+							"header": "G16. Cathedral of Stone"
+						},
+						{
+							"depth": 1,
+							"header": "G17. Earth Portal"
+						},
+						"The Weeping Colossus",
+						{
+							"depth": 1,
+							"header": "W1. Volcanic Shaft"
+						},
+						{
+							"depth": 1,
+							"header": "W2. Sentry Chamber"
+						},
+						{
+							"depth": 1,
+							"header": "W3. Causeway"
+						},
+						{
+							"depth": 1,
+							"header": "W4. Pool of Lava"
+						},
+						{
+							"depth": 1,
+							"header": "W5. Chamber of Skulls"
+						},
+						{
+							"depth": 1,
+							"header": "W6. Prison"
+						},
+						{
+							"depth": 1,
+							"header": "W7. Breeding Chamber"
+						},
+						{
+							"depth": 1,
+							"header": "W8. Fire Shrine"
+						},
+						{
+							"depth": 1,
+							"header": "W9. Efreeti Lair"
+						},
+						{
+							"depth": 1,
+							"header": "W10. Vanifer's Chamber"
+						},
+						{
+							"depth": 1,
+							"header": "W11. Flowing Lava"
+						},
+						{
+							"depth": 1,
+							"header": "W12. Fire Portal"
+						},
+						"Concluding the Campaign"
+					]
+				},
+				{
+					"name": "Alarums and Excursions",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 6
+					},
+					"headers": [
+						"Trouble in Red Larch",
+						"Into the Wilderness",
+						"Necromancer's Cave",
+						{
+							"depth": 1,
+							"header": "L1. Entry Cave"
+						},
+						{
+							"depth": 1,
+							"header": "L2. Guard Cave"
+						},
+						{
+							"depth": 1,
+							"header": "L3. Corpse Cave"
+						},
+						{
+							"depth": 1,
+							"header": "L4. Dancing Dead"
+						},
+						{
+							"depth": 1,
+							"header": "L5. Workshop"
+						},
+						{
+							"depth": 1,
+							"header": "L6. Study"
+						},
+						"Tomb of Moving Stones",
+						{
+							"depth": 1,
+							"header": "T1. Entry Cavern"
+						},
+						{
+							"depth": 1,
+							"header": "T2. Stone Sentinels"
+						},
+						{
+							"depth": 1,
+							"header": "T3. Cage Trap"
+						},
+						{
+							"depth": 1,
+							"header": "T4. Antechamber"
+						},
+						{
+							"depth": 1,
+							"header": "T5. Charnel Chamber"
+						},
+						{
+							"depth": 1,
+							"header": "T6. Hovering Stone"
+						},
+						{
+							"depth": 1,
+							"header": "T7. Dwarf Statue"
+						},
+						{
+							"depth": 1,
+							"header": "T8. Approach"
+						},
+						{
+							"depth": 1,
+							"header": "T9. Chamber of Moving Stones"
+						},
+						"Side Treks",
+						"New Management",
+						"Iceshield Orcs",
+						"The Long Road",
+						"Curse of the Fire Witch",
+						"Vale of Dancing Waters",
+						{
+							"depth": 1,
+							"header": "D1. Switchbacks"
+						},
+						{
+							"depth": 1,
+							"header": "D2. Shrine Entrance"
+						},
+						{
+							"depth": 1,
+							"header": "D3. Courtyard"
+						},
+						{
+							"depth": 1,
+							"header": "D4. Dormitory"
+						},
+						{
+							"depth": 1,
+							"header": "D5. Chapel"
+						},
+						{
+							"depth": 1,
+							"header": "D6. Hall of Vows"
+						},
+						{
+							"depth": 1,
+							"header": "D7. Temple"
+						},
+						"Dark Dealings in Yartar",
+						"Rundreth Manor",
+						"Halls of the Hunting Axe",
+						"The Ruins",
+						{
+							"depth": 1,
+							"header": "X1. Owlbear Greetings"
+						},
+						{
+							"depth": 1,
+							"header": "X2. Crumbling Arch"
+						},
+						{
+							"depth": 1,
+							"header": "X3. Watchtower"
+						},
+						{
+							"depth": 1,
+							"header": "X4. Ancient Hall"
+						},
+						{
+							"depth": 1,
+							"header": "X5. Cistern"
+						},
+						{
+							"depth": 1,
+							"header": "X6. Amphitheater"
+						},
+						{
+							"depth": 1,
+							"header": "X7. Entrance to the Crypts"
+						},
+						{
+							"depth": 1,
+							"header": "X8. Hall of the Fallen"
+						},
+						{
+							"depth": 1,
+							"header": "X9. False Crypt"
+						},
+						{
+							"depth": 1,
+							"header": "X10. False Tomb"
+						},
+						{
+							"depth": 1,
+							"header": "X11. The True Tomb of King Torhild Flametongue"
+						}
+					]
+				},
+				{
+					"name": "Monsters and Magic Items",
+					"ordinal": {
+						"type": "chapter",
+						"identifier": 7
+					},
+					"headers": [
+						"Monsters",
+						"Princes of Elemental Evil",
+						"Magic Items"
+					]
+				},
+				{
+					"name": "Genasi",
+					"ordinal": {
+						"type": "appendix",
+						"identifier": "A"
+					},
+					"headers": [
+						"Heirs to Elemental Power",
+						"Wild and Confident",
+						"Genasi Lands",
+						"Genasi Names",
+						"Genasi Traits"
+					]
+				},
+				{
+					"name": "Spells",
+					"ordinal": {
+						"type": "appendix",
+						"identifier": "B"
+					},
+					"headers": [
+						"Spell Lists",
+						"Spell Descriptions"
+					]
+				},
+				{
+					"name": "Adapting to Other Worlds",
+					"ordinal": {
+						"type": "appendix",
+						"identifier": "C"
+					},
+					"headers": [
+						"Dark Sun",
+						"Dragonlance",
+						"Greyhawk",
+						"Eberron",
+						"Your Own World"
+					]
+				},
+				{
+					"name": "Afterword"
+				},
+				{
+					"name": "Credits"
+				}
+			]
+		},
+		{
 			"name": "Storm King's Thunder",
 			"id": "SKT",
 			"source": "SKT",
