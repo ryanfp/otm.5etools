@@ -127,8 +127,7 @@
 				"QftIS",
 				"SatO",
 				"ToA",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Aboleth|XMM"
@@ -313,8 +312,7 @@
 				"CM",
 				"EGW",
 				"IDRotF",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Abominable Yeti|XMM"
@@ -469,7 +467,6 @@
 				"IDRotF",
 				"JttRC",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -887,8 +884,7 @@
 			"referenceSources": [
 				"CM",
 				"JttRC",
-				"SatO",
-				"WDMM"
+				"SatO"
 			],
 			"reprintedAs": [
 				"Dracolich|XMM"
@@ -1707,8 +1703,7 @@
 				"JttRC",
 				"PotA",
 				"SDW",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Adult Bronze Dragon|XMM"
@@ -2951,11 +2946,9 @@
 				"GoS",
 				"LRDT",
 				"MOT",
-				"OotA",
 				"RoT",
 				"TftYP",
-				"TftYP-AtG",
-				"WDMM"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Adult Red Dragon|XMM"
@@ -3239,8 +3232,7 @@
 			"srd": true,
 			"referenceSources": [
 				"GoS",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Adult Silver Dragon|XMM"
@@ -3553,8 +3545,7 @@
 				"GoS",
 				"HotDQ",
 				"RoT",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Adult White Dragon|XMM"
@@ -3862,8 +3853,7 @@
 				"TftYP-WPM",
 				"ToA",
 				"VEoR",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Air Elemental|XMM"
@@ -7399,7 +7389,6 @@
 				"GoS",
 				"IDRotF",
 				"KftGV",
-				"OotA",
 				"PaBTSO",
 				"QftIS",
 				"RoT",
@@ -7413,8 +7402,7 @@
 				"ToA",
 				"VEoR",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Animated Armor|XMM"
@@ -7796,8 +7784,7 @@
 				"PaBTSO",
 				"SatO",
 				"TCE",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Arcanaloth|XMM"
@@ -8102,7 +8089,6 @@
 				"KftGV",
 				"LoX",
 				"MOT",
-				"OotA",
 				"OoW",
 				"QftIS",
 				"SatO",
@@ -8110,8 +8096,7 @@
 				"ToA",
 				"ToFW",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Archmage|XMM"
@@ -8379,7 +8364,6 @@
 				"JttRC",
 				"KftGV",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PotA",
 				"RoT",
@@ -8391,8 +8375,7 @@
 				"ToA",
 				"ToFW",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Assassin|XMM"
@@ -8543,7 +8526,6 @@
 				"SCC-CK",
 				"SKT",
 				"WBtW",
-				"WDMM",
 				"XMtS"
 			],
 			"reprintedAs": [
@@ -8636,8 +8618,7 @@
 				"SCC-HfMT",
 				"SKT",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Awakened Tree|XMM"
@@ -8793,8 +8774,7 @@
 				"CoA",
 				"FRAiF",
 				"KftGV",
-				"PotA",
-				"WDMM"
+				"PotA"
 			],
 			"reprintedAs": [
 				"Azer Sentinel|XMM"
@@ -9069,7 +9049,6 @@
 				"CoA",
 				"CRCotN",
 				"EGW",
-				"OotA",
 				"TCE",
 				"ToFW"
 			],
@@ -9282,7 +9261,6 @@
 				"JttRC",
 				"KftGV",
 				"LoX",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -9293,8 +9271,7 @@
 				"SLW",
 				"ToA",
 				"ToR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Bandit|XMM"
@@ -9416,7 +9393,6 @@
 				"LLK",
 				"LoX",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PotA",
 				"QftIS",
@@ -9426,8 +9402,7 @@
 				"ToA",
 				"ToFW",
 				"ToR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Bandit Captain|XMM"
@@ -9566,8 +9541,7 @@
 				"QftIS",
 				"RtG",
 				"TCE",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Banshee|XMM"
@@ -9727,8 +9701,7 @@
 				"TCE",
 				"ToA",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Barbed Devil|XMM"
@@ -9906,14 +9879,12 @@
 				"CoA",
 				"CRCotN",
 				"KftGV",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
 				"SatO",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Barlgura|XMM"
@@ -10101,13 +10072,11 @@
 				"DitLCoT",
 				"IDRotF",
 				"MOT",
-				"OotA",
 				"PaBTSO",
 				"QftIS",
 				"SCC-CK",
 				"SCC-HfMT",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Basilisk|XMM"
@@ -10202,8 +10171,7 @@
 				"IDRotF",
 				"SKT",
 				"ToA",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Bat|XMM"
@@ -10474,15 +10442,13 @@
 				"EGW",
 				"JttRC",
 				"KftGV",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"QftIS",
 				"TftYP",
 				"TftYP-DiT",
 				"ToFW",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Behir|XMM"
@@ -10624,15 +10590,13 @@
 				"JttRC",
 				"KftGV",
 				"LoX",
-				"OotA",
 				"PaBTSO",
 				"SatO",
 				"TCE",
 				"TftYP-DiT",
 				"ToA",
 				"ToFW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Beholder|XMM"
@@ -10849,8 +10813,7 @@
 				"RtG",
 				"ToFW",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Beholder Zombie|XMM"
@@ -11017,7 +10980,6 @@
 				"IDRotF",
 				"LLK",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -11025,8 +10987,7 @@
 				"SLW",
 				"ToA",
 				"ToFW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Berserker|XMM"
@@ -11139,8 +11100,7 @@
 				"QftIS",
 				"SatO",
 				"SKT",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Black Bear|XMM"
@@ -11444,7 +11404,6 @@
 				"JttRC",
 				"KftGV",
 				"LRDT",
-				"OotA",
 				"PotA",
 				"QftIS",
 				"RtG",
@@ -11457,8 +11416,7 @@
 				"TftYP-DiT",
 				"TftYP-WPM",
 				"ToFW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Black Pudding|XMM"
@@ -11581,8 +11539,7 @@
 				"SatO",
 				"TCE",
 				"VEoR",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Blink Dog|XMM"
@@ -11975,8 +11932,7 @@
 				"SatO",
 				"SCC-CK",
 				"SCC-HfMT",
-				"SCC-TMM",
-				"WDMM"
+				"SCC-TMM"
 			],
 			"reprintedAs": [
 				"Blue Slaad|XMM"
@@ -12127,8 +12083,7 @@
 				"QftIS",
 				"SKT",
 				"ToA",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Boar|XMM"
@@ -12227,8 +12182,7 @@
 				"LLK",
 				"RoT",
 				"SatO",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Bone Devil|XMM"
@@ -12422,8 +12376,7 @@
 			"source": "MM",
 			"page": 233,
 			"referenceSources": [
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Bone Naga|XMM"
@@ -12566,8 +12519,7 @@
 			"referenceSources": [
 				"BMT",
 				"DSotDQ",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Bone Naga|XMM"
@@ -13172,8 +13124,7 @@
 				"SKT",
 				"TftYP",
 				"TftYP-TFoF",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Brown Bear|XMM"
@@ -13280,7 +13231,6 @@
 				"IDRotF",
 				"KftGV",
 				"LMoP",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -13293,8 +13243,7 @@
 				"TftYP-TSC",
 				"TftYP-WPM",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Bugbear Warrior|XMM"
@@ -13561,8 +13510,7 @@
 				"PotA",
 				"QftIS",
 				"SCC-ARiR",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Bulette|XMM"
@@ -13666,8 +13614,7 @@
 				"OoW",
 				"SCC-ARiR",
 				"US",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Bullywug Warrior|XMM"
@@ -14092,14 +14039,12 @@
 				"BMT",
 				"DIP",
 				"IDRotF",
-				"OotA",
 				"OoW",
 				"QftIS",
 				"TftYP",
 				"TftYP-AtG",
 				"ToA",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Carrion Crawler|XMM"
@@ -14309,8 +14254,7 @@
 			"referenceSources": [
 				"SKT",
 				"TftYP",
-				"TftYP-AtG",
-				"WDMM"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Polar Bear|XMM"
@@ -14704,9 +14648,7 @@
 				"CoA",
 				"CRCotN",
 				"KftGV",
-				"OotA",
-				"QftIS",
-				"WDMM"
+				"QftIS"
 			],
 			"reprintedAs": [
 				"Chasme|XMM"
@@ -14867,8 +14809,7 @@
 				"SDW",
 				"SKT",
 				"TftYP",
-				"TftYP-AtG",
-				"WDMM"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Chimera|XMM"
@@ -14994,13 +14935,11 @@
 				"CRCotN",
 				"DitLCoT",
 				"GoS",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
-				"RoT",
-				"WDMM"
+				"RoT"
 			],
 			"reprintedAs": [
 				"Chuul|XMM"
@@ -15143,8 +15082,7 @@
 				"SCC-ARiR",
 				"TftYP",
 				"TftYP-DiT",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Clay Golem|XMM"
@@ -15303,15 +15241,13 @@
 				"EGW",
 				"JttRC",
 				"KftGV",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
 				"RtG",
 				"SCC-ARiR",
 				"SCC-TMM",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Cloaker|XMM"
@@ -15466,8 +15402,7 @@
 				"SatO",
 				"SKT",
 				"TftYP",
-				"TftYP-AtG",
-				"WDMM"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Cloud Giant|XMM"
@@ -15774,7 +15709,6 @@
 				"LMoP",
 				"LoX",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -15798,8 +15732,7 @@
 				"ToR",
 				"VEoR",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Commoner|XMM"
@@ -15890,8 +15823,7 @@
 			"referenceSources": [
 				"TftYP",
 				"TftYP-THSoT",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Constrictor Snake|XMM"
@@ -16189,8 +16121,7 @@
 				"TftYP",
 				"TftYP-THSoT",
 				"ToA",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Couatl|XMM"
@@ -16476,7 +16407,6 @@
 				"JttRC",
 				"KftGV",
 				"LoX",
-				"OotA",
 				"OoW",
 				"PotA",
 				"RtG",
@@ -16701,7 +16631,6 @@
 				"VEoR",
 				"VNotEE",
 				"WDH",
-				"WDMM",
 				"XMtS"
 			],
 			"reprintedAs": [
@@ -16881,7 +16810,6 @@
 				"LLK",
 				"LMoP",
 				"MOT",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
@@ -16892,8 +16820,7 @@
 				"US",
 				"VEoR",
 				"VNotEE",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Cultist|XMM"
@@ -17123,8 +17050,7 @@
 				"RoT",
 				"SatO",
 				"TCE",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Dao|XMM"
@@ -17382,11 +17308,9 @@
 			"srd": true,
 			"referenceSources": [
 				"KftGV",
-				"OotA",
 				"OoW",
 				"PotA",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Darkmantle|XMM"
@@ -17489,11 +17413,9 @@
 			"referenceSources": [
 				"LoX",
 				"MOT",
-				"OotA",
 				"OoW",
 				"SKT",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Death Dog|XMM"
@@ -17599,8 +17521,7 @@
 				"GoS",
 				"SatO",
 				"TCE",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Death Knight|XMM"
@@ -17819,11 +17740,9 @@
 				"DSotDQ",
 				"EGW",
 				"GoS",
-				"OotA",
 				"SCC-CK",
 				"TCE",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Death Slaad|XMM"
@@ -18045,9 +17964,7 @@
 			"referenceSources": [
 				"BMT",
 				"CM",
-				"OotA",
-				"SatO",
-				"WDMM"
+				"SatO"
 			],
 			"reprintedAs": [
 				"Death Tyrant|XMM"
@@ -18267,12 +18184,10 @@
 			"srd": true,
 			"referenceSources": [
 				"KftGV",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Scout|XMM"
@@ -18505,8 +18420,7 @@
 				"TftYP",
 				"TftYP-DiT",
 				"TftYP-ToH",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Demilich|XMM"
@@ -18767,8 +18681,7 @@
 				"SatO",
 				"TftYP-DiT",
 				"ToFW",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Deva|XMM"
@@ -19054,8 +18967,7 @@
 				"TftYP",
 				"TftYP-DiT",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Displacer Beast|XMM"
@@ -19424,7 +19336,6 @@
 				"JttRC",
 				"KftGV",
 				"LMoP",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -19435,8 +19346,7 @@
 				"TftYP-THSoT",
 				"ToA",
 				"ToFW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Doppelganger|XMM"
@@ -19783,7 +19693,6 @@
 				"CoS",
 				"EGW",
 				"GoS",
-				"OotA",
 				"SatO",
 				"WBtW"
 			],
@@ -19909,10 +19818,8 @@
 			"srd": true,
 			"referenceSources": [
 				"CRCotN",
-				"OotA",
 				"SatO",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Drider|XMM"
@@ -20168,13 +20075,11 @@
 				"DD",
 				"DIP",
 				"EGW",
-				"OotA",
 				"PaBTSO",
 				"TftYP",
 				"TftYP-AtG",
 				"US",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Priest Acolyte|XMM"
@@ -20385,14 +20290,12 @@
 				"DC",
 				"DIP",
 				"IDRotF",
-				"OotA",
 				"PaBTSO",
 				"SKT",
 				"SLW",
 				"TftYP",
 				"TftYP-AtG",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Gladiator|XMM"
@@ -20632,7 +20535,6 @@
 				"DC",
 				"DIP",
 				"IDRotF",
-				"OotA",
 				"PotA",
 				"SKT",
 				"TftYP",
@@ -20640,8 +20542,7 @@
 				"ToA",
 				"VEoR",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Bandit Deceiver|XMM"
@@ -20859,10 +20760,8 @@
 			"page": 129,
 			"referenceSources": [
 				"GoS",
-				"OotA",
 				"TftYP",
-				"TftYP-AtG",
-				"WDMM"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Fiend Cultist|XMM"
@@ -21149,7 +21048,6 @@
 				"JttRC",
 				"LoX",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PotA",
 				"QftIS",
@@ -21486,15 +21384,13 @@
 				"EGW",
 				"IDRotF",
 				"KftGV",
-				"OotA",
 				"OoW",
 				"PotA",
 				"QftIS",
 				"RtG",
 				"TftYP",
 				"TftYP-TFoF",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Spy|XMM"
@@ -21632,7 +21528,6 @@
 			"page": 225,
 			"referenceSources": [
 				"KftGV",
-				"OotA",
 				"OoW",
 				"QftIS",
 				"SCC-CK",
@@ -21774,7 +21669,6 @@
 			"page": 215,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
@@ -22019,7 +21913,6 @@
 				"CRCotN",
 				"DitLCoT",
 				"MOT",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
@@ -22177,8 +22070,7 @@
 				"TftYP",
 				"TftYP-DiT",
 				"TftYP-ToH",
-				"TftYP-WPM",
-				"WDMM"
+				"TftYP-WPM"
 			],
 			"reprintedAs": [
 				"Efreeti|XMM"
@@ -22503,8 +22395,7 @@
 				"IDRotF",
 				"PotA",
 				"QftIS",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Elk|XMM"
@@ -22595,8 +22486,7 @@
 				"SatO",
 				"TftYP",
 				"TftYP-AtG",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Empyrean|XMM"
@@ -23048,8 +22938,7 @@
 				"SatO",
 				"SKT",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Ettercap|XMM"
@@ -23200,7 +23089,6 @@
 			"srd": true,
 			"referenceSources": [
 				"JttRC",
-				"OotA",
 				"PotA",
 				"RoT",
 				"SCC-HfMT",
@@ -23208,8 +23096,7 @@
 				"TftYP",
 				"TftYP-AtG",
 				"ToFW",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Ettin|XMM"
@@ -24158,8 +24045,7 @@
 				"EGW",
 				"FS",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Faerie Dragon Adult|XMM"
@@ -24496,7 +24382,6 @@
 				"CM",
 				"EGW",
 				"MOT",
-				"OotA",
 				"PotA",
 				"RoT",
 				"SKT",
@@ -24504,8 +24389,7 @@
 				"TftYP",
 				"TftYP-DiT",
 				"ToA",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Fire Elemental|XMM"
@@ -24649,8 +24533,7 @@
 				"SatO",
 				"SKT",
 				"TftYP",
-				"TftYP-AtG",
-				"WDMM"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Fire Giant|XMM"
@@ -24795,7 +24678,6 @@
 				"CoA",
 				"DoSI",
 				"JttRC",
-				"OotA",
 				"PotA",
 				"SCC-CK",
 				"TftYP",
@@ -24945,8 +24827,7 @@
 				"ToA",
 				"VEoR",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Flameskull|XMM"
@@ -25151,8 +25032,7 @@
 				"TftYP-WPM",
 				"ToA",
 				"ToFW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Flesh Golem|XMM"
@@ -25298,10 +25178,8 @@
 			"referenceSources": [
 				"BMT",
 				"LoX",
-				"OotA",
 				"OoW",
-				"PaBTSO",
-				"WDMM"
+				"PaBTSO"
 			],
 			"reprintedAs": [
 				"Flumph|XMM"
@@ -25426,7 +25304,6 @@
 			"referenceSources": [
 				"IDRotF",
 				"KftGV",
-				"OotA",
 				"SKT",
 				"ToA",
 				"WDH"
@@ -25535,8 +25412,7 @@
 				"TftYP-ToH",
 				"ToA",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Animated Flying Sword|XMM"
@@ -25651,14 +25527,12 @@
 				"CoA",
 				"DitLCoT",
 				"JttRC",
-				"OotA",
 				"PaBTSO",
 				"QftIS",
 				"SatO",
 				"ToFW",
 				"VEoR",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Fomorian|XMM"
@@ -26000,15 +25874,13 @@
 			"referenceSources": [
 				"KftGV",
 				"LLK",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
 				"RtG",
 				"SCC-HfMT",
 				"TCE",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Galeb Duhr|XMM"
@@ -26150,7 +26022,6 @@
 				"HotDQ",
 				"IDRotF",
 				"JttRC",
-				"OotA",
 				"OoW",
 				"PotA",
 				"QftIS",
@@ -26160,8 +26031,7 @@
 				"TftYP-DiT",
 				"TftYP-WPM",
 				"ToA",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Gargoyle|XMM"
@@ -26287,12 +26157,10 @@
 			"source": "MM",
 			"page": 138,
 			"referenceSources": [
-				"OotA",
 				"QftIS",
 				"TftYP",
 				"TftYP-THSoT",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Gas Spore Fungus|XMM"
@@ -26407,12 +26275,10 @@
 				"IDRotF",
 				"LLK",
 				"LRDT",
-				"OotA",
 				"QftIS",
 				"TftYP",
 				"TftYP-DiT",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Gelatinous Cube|XMM"
@@ -26532,8 +26398,7 @@
 				"SCC-ARiR",
 				"SDW",
 				"ToA",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Ghast|XMM"
@@ -26673,7 +26538,6 @@
 				"JttRC",
 				"KftGV",
 				"LoX",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -26693,8 +26557,7 @@
 				"ToFW",
 				"VEoR",
 				"VNotEE",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Ghost|XMM"
@@ -26865,7 +26728,6 @@
 				"JttRC",
 				"KftGV",
 				"LMoP",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -26880,8 +26742,7 @@
 				"TftYP-WPM",
 				"ToA",
 				"VEoR",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Ghoul|XMM"
@@ -27070,8 +26931,7 @@
 			"referenceSources": [
 				"JttRC",
 				"PaBTSO",
-				"QftIS",
-				"WDMM"
+				"QftIS"
 			],
 			"reprintedAs": [
 				"Giant Badger|XMM"
@@ -27172,7 +27032,6 @@
 				"RtG",
 				"TCE",
 				"TftYP-THSoT",
-				"WDMM",
 				"XMtS"
 			],
 			"reprintedAs": [
@@ -27360,7 +27219,6 @@
 				"TCE",
 				"TftYP",
 				"TftYP-DiT",
-				"WDMM",
 				"XMtS"
 			],
 			"reprintedAs": [
@@ -27552,7 +27410,6 @@
 				"TftYP-WPM",
 				"ToR",
 				"VEoR",
-				"WDMM",
 				"XMtS"
 			],
 			"reprintedAs": [
@@ -27974,13 +27831,11 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"OotA",
 				"QftIS",
 				"TftYP",
 				"TftYP-AtG",
 				"TftYP-THSoT",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Giant Fire Beetle|XMM"
@@ -28078,8 +27933,7 @@
 				"TftYP-THSoT",
 				"TftYP-TSC",
 				"ToA",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Giant Frog|XMM"
@@ -28365,14 +28219,12 @@
 				"IDRotF",
 				"JttRC",
 				"KftGV",
-				"OotA",
 				"QftIS",
 				"TftYP",
 				"TftYP-AtG",
 				"TftYP-TFoF",
 				"ToA",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Giant Lizard|XMM"
@@ -28509,7 +28361,6 @@
 				"FS",
 				"GoS",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -28743,8 +28594,7 @@
 				"SKT",
 				"TCE",
 				"ToA",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Giant Venomous Snake|XMM"
@@ -28830,7 +28680,6 @@
 				"EGW",
 				"GoS",
 				"IDRotF",
-				"OotA",
 				"OoW",
 				"PotA",
 				"QftIS",
@@ -28838,8 +28687,7 @@
 				"SKT",
 				"TftYP",
 				"TftYP-TSC",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Giant Rat|XMM"
@@ -29275,7 +29123,6 @@
 				"LMoP",
 				"LRDT",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"QftIS",
@@ -29289,8 +29136,7 @@
 				"ToA",
 				"US",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Giant Spider|XMM"
@@ -29421,8 +29267,7 @@
 				"QftIS",
 				"TCE",
 				"US",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Giant Toad|XMM"
@@ -29644,8 +29489,7 @@
 				"EGW",
 				"GoS",
 				"OoW",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Giant Wasp|XMM"
@@ -29805,7 +29649,6 @@
 				"CoS",
 				"GoS",
 				"LRDT",
-				"OotA",
 				"TCE",
 				"TftYP",
 				"TftYP-THSoT",
@@ -29928,7 +29771,6 @@
 				"JttRC",
 				"KftGV",
 				"LLK",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"QftIS",
@@ -29936,8 +29778,7 @@
 				"TftYP",
 				"TftYP-DiT",
 				"TftYP-THSoT",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Gibbering Mouther|XMM"
@@ -30052,8 +29893,7 @@
 				"PaBTSO",
 				"QftIS",
 				"SatO",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Githyanki Knight|XMM"
@@ -30179,8 +30019,7 @@
 				"LoX",
 				"PaBTSO",
 				"QftIS",
-				"SatO",
-				"WDMM"
+				"SatO"
 			],
 			"reprintedAs": [
 				"Githyanki Warrior|XMM"
@@ -30420,8 +30259,7 @@
 			"page": 161,
 			"referenceSources": [
 				"SatO",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Githzerai Zerth|XMM"
@@ -30566,8 +30404,7 @@
 				"TftYP",
 				"TftYP-DiT",
 				"TftYP-ToH",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Glabrezu|XMM"
@@ -30921,7 +30758,6 @@
 				"ERLW",
 				"GoS",
 				"IDRotF",
-				"OotA",
 				"OoW",
 				"PotA",
 				"SatO",
@@ -31049,7 +30885,6 @@
 				"BGDIA",
 				"BMT",
 				"IDRotF",
-				"OotA",
 				"SatO",
 				"ToFW"
 			],
@@ -31178,7 +31013,6 @@
 				"BGDIA",
 				"BMT",
 				"GoS",
-				"OotA",
 				"PotA",
 				"ToFW"
 			],
@@ -31324,8 +31158,7 @@
 				"RoT",
 				"SKT",
 				"ToA",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Goat|XMM"
@@ -31424,7 +31257,6 @@
 				"HftT",
 				"IDRotF",
 				"LMoP",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -31437,8 +31269,7 @@
 				"ToA",
 				"US",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Goblin Warrior|XMM"
@@ -31557,13 +31388,11 @@
 				"GoS",
 				"IDRotF",
 				"KftGV",
-				"OotA",
 				"PaBTSO",
 				"SKT",
 				"TCE",
 				"ToA",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Goblin Boss|XMM"
@@ -31937,8 +31766,7 @@
 				"TftYP",
 				"TftYP-AtG",
 				"TftYP-DiT",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Gorgon|XMM"
@@ -32228,7 +32056,6 @@
 				"GoS",
 				"HotDQ",
 				"KftGV",
-				"OotA",
 				"PaBTSO",
 				"SCC-CK",
 				"TftYP",
@@ -32237,8 +32064,7 @@
 				"TftYP-TFoF",
 				"TftYP-WPM",
 				"VNotEE",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Gray Ooze|XMM",
@@ -32395,8 +32221,7 @@
 				"SCC-CK",
 				"ToA",
 				"ToFW",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Gray Slaad|XMM"
@@ -32820,7 +32645,6 @@
 				"GoS",
 				"JttRC",
 				"MOT",
-				"OotA",
 				"SatO",
 				"SCC-TMM",
 				"TCE",
@@ -33130,12 +32954,10 @@
 				"BMT",
 				"DSotDQ",
 				"IDRotF",
-				"OotA",
 				"SatO",
 				"SCC-CK",
 				"ToFW",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Green Slaad|XMM"
@@ -33345,7 +33167,6 @@
 				"CoA",
 				"IDRotF",
 				"KftGV",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
@@ -33353,8 +33174,7 @@
 				"TftYP",
 				"TftYP-DiT",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Grell|XMM"
@@ -33477,14 +33297,12 @@
 				"DSotDQ",
 				"KftGV",
 				"LMoP",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
 				"TftYP",
 				"TftYP-DiT",
-				"TftYP-TFoF",
-				"WDMM"
+				"TftYP-TFoF"
 			],
 			"reprintedAs": [
 				"Grick|XMM"
@@ -33604,10 +33422,8 @@
 			"referenceSources": [
 				"CM",
 				"DSotDQ",
-				"OotA",
 				"PaBTSO",
-				"SCC-HfMT",
-				"WDMM"
+				"SCC-HfMT"
 			],
 			"reprintedAs": [
 				"Grick Ancient|XMM"
@@ -33843,10 +33659,8 @@
 			"srd": true,
 			"referenceSources": [
 				"CoA",
-				"OotA",
 				"PaBTSO",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Grimlock|XMM"
@@ -33977,7 +33791,6 @@
 				"KftGV",
 				"LoX",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PotA",
 				"QftIS",
@@ -34975,8 +34788,7 @@
 				"SLW",
 				"TftYP",
 				"TftYP-AtG",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Hell Hound|XMM"
@@ -35110,8 +34922,7 @@
 				"TftYP-DiT",
 				"TftYP-THSoT",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Helmed Horror|XMM"
@@ -35253,15 +35064,13 @@
 				"CoA",
 				"CRCotN",
 				"EGW",
-				"OotA",
 				"PotA",
 				"QftIS",
 				"TftYP",
 				"TftYP-DiT",
 				"TftYP-ToH",
 				"VEoR",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Hezrou|XMM"
@@ -35674,8 +35483,7 @@
 				"TftYP",
 				"TftYP-TSC",
 				"US",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Hobgoblin Warrior|XMM"
@@ -35792,8 +35600,7 @@
 				"HotDQ",
 				"OoW",
 				"PotA",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Hobgoblin Captain|XMM"
@@ -35923,8 +35730,7 @@
 				"DSotDQ",
 				"QftIS",
 				"SatO",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Hobgoblin Warlord|XMM"
@@ -36084,8 +35890,7 @@
 				"CM",
 				"ERLW",
 				"MOT",
-				"PaBTSO",
-				"WDMM"
+				"PaBTSO"
 			],
 			"reprintedAs": [
 				"Homunculus|XMM"
@@ -36185,13 +35990,11 @@
 				"CoA",
 				"KftGV",
 				"LoX",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
 				"TftYP",
-				"TftYP-DiT",
-				"WDMM"
+				"TftYP-DiT"
 			],
 			"reprintedAs": [
 				"Hook Horror|XMM"
@@ -36592,8 +36395,7 @@
 				"SLW",
 				"TftYP",
 				"TftYP-AtG",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Hydra|XMM"
@@ -36713,7 +36515,6 @@
 			"referenceSources": [
 				"BMT",
 				"CM",
-				"OotA",
 				"PotA"
 			],
 			"reprintedAs": [
@@ -36796,8 +36597,7 @@
 				"CoA",
 				"SatO",
 				"TCE",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Ice Devil|XMM"
@@ -37348,12 +37148,10 @@
 				"EGW",
 				"ERLW",
 				"KftGV",
-				"OotA",
 				"TCE",
 				"ToA",
 				"ToFW",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Incubus|XMM"
@@ -37512,12 +37310,10 @@
 			"referenceSources": [
 				"CoA",
 				"ERLW",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"QftIS",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Intellect Devourer|XMM"
@@ -37667,8 +37463,7 @@
 				"TftYP-WPM",
 				"ToA",
 				"VEoR",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Invisible Stalker|XMM"
@@ -37812,8 +37607,7 @@
 				"OoW",
 				"SatO",
 				"SKT",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Iron Golem|XMM"
@@ -38207,8 +38001,7 @@
 				"LLK",
 				"PotA",
 				"ToFW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Kenku|XMM"
@@ -38437,7 +38230,6 @@
 				"JttRC",
 				"KftGV",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PotA",
 				"QftIS",
@@ -38588,15 +38380,13 @@
 				"ERLW",
 				"GoS",
 				"HotDQ",
-				"OotA",
 				"RoT",
 				"SKT",
 				"TftYP",
 				"TftYP-AtG",
 				"TftYP-TSC",
 				"ToA",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Kobold Warrior|XMM"
@@ -38944,14 +38734,12 @@
 			"referenceSources": [
 				"EGW",
 				"GoS",
-				"OotA",
 				"PotA",
 				"RtG",
 				"SatO",
 				"TftYP",
 				"TftYP-DiT",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Kuo-toa|XMM"
@@ -39105,10 +38893,8 @@
 			"page": 200,
 			"referenceSources": [
 				"CoA",
-				"OotA",
 				"PotA",
-				"RtG",
-				"WDMM"
+				"RtG"
 			],
 			"reprintedAs": [
 				"Kuo-toa Archpriest|XMM"
@@ -39316,7 +39102,6 @@
 			"referenceSources": [
 				"CoA",
 				"GoS",
-				"OotA",
 				"PotA"
 			],
 			"reprintedAs": [
@@ -39460,10 +39245,8 @@
 			"page": 200,
 			"referenceSources": [
 				"GoS",
-				"OotA",
 				"PotA",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Kuo-toa Whip|XMM"
@@ -39907,8 +39690,7 @@
 				"SatO",
 				"TCE",
 				"ToA",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Lich|XMM"
@@ -40683,8 +40465,7 @@
 				"TCE",
 				"ToA",
 				"ToFW",
-				"US",
-				"WDMM"
+				"US"
 			],
 			"reprintedAs": [
 				"Scout|XMM"
@@ -41015,7 +40796,6 @@
 				"KftGV",
 				"LoX",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -41033,8 +40813,7 @@
 				"ToR",
 				"VEoR",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Mage|XMM"
@@ -41225,11 +41004,9 @@
 			"referenceSources": [
 				"EGW",
 				"GoS",
-				"OotA",
 				"PotA",
 				"SKT",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Magma Mephit|XMM"
@@ -41390,7 +41167,6 @@
 			"srd": true,
 			"referenceSources": [
 				"BGDIA",
-				"OotA",
 				"PotA",
 				"SatO",
 				"SKT",
@@ -41602,7 +41378,6 @@
 				"CoA",
 				"CRCotN",
 				"GoS",
-				"OotA",
 				"TftYP",
 				"TftYP-DiT",
 				"WBtW"
@@ -41715,8 +41490,7 @@
 				"TftYP",
 				"TftYP-AtG",
 				"TftYP-WPM",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Manticore|XMM"
@@ -41844,8 +41618,7 @@
 				"SatO",
 				"SLW",
 				"TCE",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Marid|XMM"
@@ -42112,8 +41885,7 @@
 				"EGW",
 				"GoS",
 				"TCE",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Marilith|XMM"
@@ -42407,11 +42179,9 @@
 				"ERLW",
 				"GoS",
 				"LLK",
-				"OotA",
 				"PaBTSO",
 				"SatO",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Medusa|XMM"
@@ -42646,7 +42416,6 @@
 				"DSotDQ",
 				"GoS",
 				"IDRotF",
-				"OotA",
 				"PotA",
 				"QftIS",
 				"RoT",
@@ -42775,8 +42544,7 @@
 				"PotA",
 				"RoT",
 				"ToA",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Mezzoloth|XMM"
@@ -42993,7 +42761,6 @@
 				"IDRotF",
 				"KftGV",
 				"LRDT",
-				"OotA",
 				"OoW",
 				"QftIS",
 				"RMBRE",
@@ -43002,8 +42769,7 @@
 				"ToA",
 				"VEoR",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Mimic|XMM"
@@ -43139,7 +42905,6 @@
 				"IDRotF",
 				"KftGV",
 				"LoX",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"QftIS",
@@ -43150,8 +42915,7 @@
 				"TftYP-ToH",
 				"TftYP-TSC",
 				"ToFW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Mind Flayer|XMM"
@@ -43317,8 +43081,7 @@
 			"page": 222,
 			"referenceSources": [
 				"LLK",
-				"SatO",
-				"WDMM"
+				"SatO"
 			],
 			"reprintedAs": [
 				"Mind Flayer Arcanist|XMM"
@@ -43552,13 +43315,11 @@
 				"EGW",
 				"ERLW",
 				"MOT",
-				"OotA",
 				"PotA",
 				"QftIS",
 				"SatO",
 				"ToA",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Minotaur of Baphomet|XMM"
@@ -43686,12 +43447,10 @@
 				"DSotDQ",
 				"GoS",
 				"KftGV",
-				"OotA",
 				"SDW",
 				"ToA",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Minotaur Skeleton|XMM"
@@ -43815,7 +43574,6 @@
 				"CM",
 				"KftGV",
 				"LLK",
-				"OotA",
 				"OoW",
 				"SatO",
 				"ToA",
@@ -43950,12 +43708,10 @@
 			"referenceSources": [
 				"GoS",
 				"JttRC",
-				"OotA",
 				"PotA",
 				"SCC-ARiR",
 				"ToA",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Mud Mephit|XMM"
@@ -44092,8 +43848,7 @@
 				"CoS",
 				"GoS",
 				"KftGV",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Mule|XMM"
@@ -44180,15 +43935,13 @@
 				"DSotDQ",
 				"GoS",
 				"IDRotF",
-				"OotA",
 				"PaBTSO",
 				"QftIS",
 				"RoT",
 				"RtG",
 				"TCE",
 				"ToA",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Mummy|XMM"
@@ -44327,8 +44080,7 @@
 				"SatO",
 				"SKT",
 				"TCE",
-				"TftYP-ToH",
-				"WDMM"
+				"TftYP-ToH"
 			],
 			"reprintedAs": [
 				"Mummy Lord|XMM"
@@ -44615,9 +44367,7 @@
 				"DoSI",
 				"GoS",
 				"KftGV",
-				"OotA",
-				"OoW",
-				"WDMM"
+				"OoW"
 			],
 			"reprintedAs": [
 				"Myconid Adult|XMM"
@@ -44690,42 +44440,6 @@
 					]
 				}
 			],
-			"variant": [
-				{
-					"type": "variant",
-					"name": "Zuggtomoy's Empowerment",
-					"entries": [
-						"Myconids that embrace {@creature Zuggtmoy|MPMM} can develop new, more destructive kinds of spores. Myconid adults can have two of the following spore effects.",
-						{
-							"type": "entries",
-							"name": "Caustic Spores (1/Day)",
-							"entries": [
-								"The myconid releases spores in a 30-foot cone. Each creature inside the cone must succeed on a {@dc 11} Dexterity saving throw or take 3 ({@damage 1d6}) acid damage at the start of each of the myconid's turns. A creature can repeat the saving throw at the end of its turn, ending the effect on itself on a success. The save DC is 8 + the myconid's Constitution modifier + the myconid's proficiency bonus."
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Infestation Spores (1/Day)",
-							"entries": [
-								"The myconid releases spores that burst out in a cloud that fills a 10-foot-radius sphere centered on it, and the cloud lingers for 1 minute. Any flesh-and-blood creature in the cloud when it appears, or that enters it later, must make a {@dc 11} Constitution saving throw. The save DC is 8 + the myconid's Constitution modifier + the myconid's proficiency bonus. On a successful save, the creature can't be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the spores of Zuggtmoy) and also gains a random form of indefinite madness (determined by rolling on the Madness of {@creature Zuggtmoy|MPMM} table) that lasts until the creature is cured of the disease or dies. While infected in this way, the creature can't be reinfected, and it must repeat the saving throw at the end of every 24 hours, ending the infection on a success. On a failure, the infected creature's body is slowly taken over by fungal growth, and after three such failed saves, the creature dies and is reanimated as a spore servant if it's a humanoid or a Large or smaller beast."
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Euphoria Spores (1/Day)",
-							"entries": [
-								"The myconid releases a cloud of spores in a 20-foot-radius sphere centered on itself. Other creatures in that area must each succeed on a {@dc 11} Constitution saving throw or become {@condition poisoned} for 1 minute. The save DC is 8 + the myconid's Constitution modifier + the myconid's proficiency bonus. A creature can repeat the saving throw at the end of each of its turns, ending the effect early on itself on a success. When the effect ends on it, the creature gains one level of {@condition exhaustion}."
-							]
-						}
-					],
-					"_version": {
-						"name": "Myconid Adult (Additional Spore Effects)",
-						"addHeadersAs": "action"
-					},
-					"source": "OotA",
-					"page": 228
-				}
-			],
 			"environment": [
 				"underdark"
 			],
@@ -44767,9 +44481,7 @@
 				"GoS",
 				"IDRotF",
 				"KftGV",
-				"OotA",
-				"QftIS",
-				"WDMM"
+				"QftIS"
 			],
 			"reprintedAs": [
 				"Myconid Sovereign|XMM"
@@ -44860,42 +44572,6 @@
 					]
 				}
 			],
-			"variant": [
-				{
-					"type": "variant",
-					"name": "Zuggtomoy's Empowerment",
-					"entries": [
-						"Myconids that embrace {@creature Zuggtmoy|MPMM} can develop new, more destructive kinds of spores. Myconid sovereigns have all these spore effects.",
-						{
-							"type": "entries",
-							"name": "Caustic Spores (1/Day)",
-							"entries": [
-								"The myconid releases spores in a 30-foot cone. Each creature inside the cone must succeed on a {@dc 12} Dexterity saving throw or take 3 ({@damage 1d6}) acid damage at the start of each of the myconid's turns. A creature can repeat the saving throw at the end of its turn, ending the effect on itself on a success. The save DC is 8 + the myconid's Constitution modifier + the myconid's proficiency bonus."
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Infestation Spores (1/Day)",
-							"entries": [
-								"The myconid releases spores that burst out in a cloud that fills a 10-foot-radius sphere centered on it, and the cloud lingers for 1 minute. Any flesh-and-blood creature in the cloud when it appears, or that enters it later, must make a {@dc 12} Constitution saving throw. The save DC is 8 + the myconid's Constitution modifier + the myconid's proficiency bonus. On a successful save, the creature can't be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the spores of Zuggtmoy) and also gains a random form of indefinite madness (determined by rolling on the Madness of {@creature Zuggtmoy|MPMM} table) that lasts until the creature is cured of the disease or dies. While infected in this way, the creature can't be reinfected, and it must repeat the saving throw at the end of every 24 hours, ending the infection on a success. On a failure, the infected creature's body is slowly taken over by fungal growth, and after three such failed saves, the creature dies and is reanimated as a spore servant if it's a humanoid or a Large or smaller beast."
-							]
-						},
-						{
-							"type": "entries",
-							"name": "Euphoria Spores (1/Day)",
-							"entries": [
-								"The myconid releases a cloud of spores in a 20-foot-radius sphere centered on itself. Other creatures in that area must each succeed on a {@dc 12} Constitution saving throw or become {@condition poisoned} for 1 minute. The save DC is 8 + the myconid's Constitution modifier + the myconid's proficiency bonus. A creature can repeat the saving throw at the end of each of its turns, ending the effect early on itself on a success. When the effect ends on it, the creature gains one level of {@condition exhaustion}."
-							]
-						}
-					],
-					"_version": {
-						"name": "Myconid Sovereign (Additional Spore Effects)",
-						"addHeadersAs": "action"
-					},
-					"source": "OotA",
-					"page": 228
-				}
-			],
 			"environment": [
 				"underdark"
 			],
@@ -44941,9 +44617,7 @@
 				"BMT",
 				"DoSI",
 				"LRDT",
-				"OotA",
-				"OoW",
-				"WDMM"
+				"OoW"
 			],
 			"reprintedAs": [
 				"Myconid Sprout|XMM"
@@ -45037,13 +44711,11 @@
 				"BMT",
 				"CM",
 				"CoA",
-				"OotA",
 				"QftIS",
 				"TftYP",
 				"TftYP-ToH",
 				"ToA",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Nalfeshnee|XMM"
@@ -45331,8 +45003,7 @@
 				"SatO",
 				"TCE",
 				"ToA",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Night Hag|XMM"
@@ -45803,7 +45474,6 @@
 				"JttRC",
 				"KftGV",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PotA",
 				"QftIS",
@@ -45818,8 +45488,7 @@
 				"ToFW",
 				"VEoR",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Noble|XMM"
@@ -45926,15 +45595,13 @@
 				"KftGV",
 				"LMoP",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
 				"RMBRE",
 				"ToA",
 				"ToFW",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Nothic|XMM"
@@ -46062,8 +45729,7 @@
 				"SatO",
 				"TCE",
 				"ToA",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Nycaloth|XMM"
@@ -46276,7 +45942,6 @@
 				"HftT",
 				"JttRC",
 				"LMoP",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
@@ -46285,8 +45950,7 @@
 				"SCC-HfMT",
 				"TftYP",
 				"TftYP-THSoT",
-				"TftYP-ToH",
-				"WDMM"
+				"TftYP-ToH"
 			],
 			"reprintedAs": [
 				"Ochre Jelly|XMM"
@@ -46521,7 +46185,6 @@
 				"IDRotF",
 				"KftGV",
 				"LMoP",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -46536,8 +46199,7 @@
 				"TftYP-TFoF",
 				"TftYP-WPM",
 				"US",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Ogre|XMM"
@@ -46651,8 +46313,7 @@
 				"TftYP",
 				"TftYP-DiT",
 				"ToA",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Ogre Zombie|XMM"
@@ -46763,8 +46424,7 @@
 				"TftYP-THSoT",
 				"TftYP-WPM",
 				"ToFW",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Oni|XMM"
@@ -46945,7 +46605,6 @@
 				"HotDQ",
 				"IDRotF",
 				"LMoP",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"RMBRE",
@@ -47082,7 +46741,6 @@
 			"referenceSources": [
 				"EGW",
 				"IDRotF",
-				"OotA",
 				"PotA",
 				"SKT",
 				"TftYP",
@@ -47252,8 +46910,7 @@
 				"IDRotF",
 				"SKT",
 				"ToA",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Tough Boss|XMM"
@@ -47399,14 +47056,12 @@
 			"referenceSources": [
 				"EGW",
 				"GoS",
-				"OotA",
 				"PotA",
 				"SKT",
 				"TftYP",
 				"TftYP-AtG",
 				"TftYP-TFoF",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Berserker|XMM"
@@ -47537,7 +47192,6 @@
 			"referenceSources": [
 				"HotDQ",
 				"JttRC",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"RoT",
@@ -47548,8 +47202,7 @@
 				"TftYP",
 				"TftYP-DiT",
 				"ToA",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Otyugh|XMM"
@@ -47788,8 +47441,7 @@
 				"TftYP",
 				"TftYP-DiT",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Owlbear|XMM"
@@ -48384,8 +48036,7 @@
 				"MOT",
 				"PaBTSO",
 				"QftIS",
-				"SDW",
-				"WDMM"
+				"SDW"
 			],
 			"reprintedAs": [
 				"Phase Spider|XMM"
@@ -48498,13 +48149,11 @@
 			"page": 252,
 			"referenceSources": [
 				"IDRotF",
-				"OotA",
 				"PotA",
 				"SKT",
 				"TftYP",
 				"TftYP-AtG",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Piercer|XMM"
@@ -48606,8 +48255,7 @@
 				"SatO",
 				"TCE",
 				"ToFW",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Pit Fiend|XMM"
@@ -48968,8 +48616,7 @@
 				"CoA",
 				"CRCotN",
 				"JttRC",
-				"SatO",
-				"WDMM"
+				"SatO"
 			],
 			"reprintedAs": [
 				"Planetar|XMM"
@@ -49338,12 +48985,10 @@
 				"CoA",
 				"EGW",
 				"IDRotF",
-				"OotA",
 				"RoT",
 				"SKT",
 				"TftYP-AtG",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Polar Bear|XMM"
@@ -49443,7 +49088,6 @@
 				"HoL",
 				"IDRotF",
 				"KftGV",
-				"OotA",
 				"QftIS",
 				"RtG",
 				"ToFW"
@@ -49672,7 +49316,6 @@
 				"IDRotF",
 				"JttRC",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PotA",
 				"QftIS",
@@ -49690,7 +49333,6 @@
 				"US",
 				"VEoR",
 				"WDH",
-				"WDMM",
 				"XMtS"
 			],
 			"reprintedAs": [
@@ -49843,8 +49485,7 @@
 				"GoS",
 				"IDRotF",
 				"RoT",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Pseudodragon|XMM"
@@ -50086,11 +49727,9 @@
 				"EGW",
 				"JttRC",
 				"LoX",
-				"OotA",
 				"PaBTSO",
 				"ToFW",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Purple Worm|XMM"
@@ -50217,8 +49856,7 @@
 				"SatO",
 				"SCC-CK",
 				"ToA",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Modron Quadrone|XMM"
@@ -50360,9 +49998,7 @@
 			"referenceSources": [
 				"IDRotF",
 				"LoX",
-				"OotA",
-				"PaBTSO",
-				"WDMM"
+				"PaBTSO"
 			],
 			"reprintedAs": [
 				"Quaggoth|XMM"
@@ -50472,9 +50108,7 @@
 			"source": "MM",
 			"page": 230,
 			"referenceSources": [
-				"IDRotF",
-				"OotA",
-				"WDMM"
+				"IDRotF"
 			],
 			"reprintedAs": [
 				"Myconid Spore Servant|XMM"
@@ -50564,8 +50198,7 @@
 			"source": "MM",
 			"page": 256,
 			"referenceSources": [
-				"IDRotF",
-				"WDMM"
+				"IDRotF"
 			],
 			"reprintedAs": [
 				"Quaggoth Thonot|XMM"
@@ -50715,15 +50348,13 @@
 				"EGW",
 				"KftGV",
 				"LLK",
-				"OotA",
 				"PaBTSO",
 				"TCE",
 				"TftYP",
 				"TftYP-DiT",
 				"TftYP-TSC",
 				"VEoR",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Quasit|XMM"
@@ -50984,8 +50615,7 @@
 				"TftYP",
 				"TftYP-AtG",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Rakshasa|XMM"
@@ -51157,8 +50787,7 @@
 				"TftYP",
 				"TftYP-TFoF",
 				"ToA",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Rat|XMM"
@@ -51243,8 +50872,7 @@
 				"IDRotF",
 				"KftGV",
 				"VEoR",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Raven|XMM"
@@ -51327,9 +50955,7 @@
 			"referenceSources": [
 				"BGDIA",
 				"CoS",
-				"DSotDQ",
-				"OotA",
-				"WDMM"
+				"DSotDQ"
 			],
 			"reprintedAs": [
 				"Red Dragon Wyrmling|XMM"
@@ -51782,8 +51408,7 @@
 				"PaBTSO",
 				"SKT",
 				"TftYP",
-				"TftYP-AtG",
-				"WDMM"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Remorhaz|XMM"
@@ -51901,8 +51526,7 @@
 				"PaBTSO",
 				"PotA",
 				"SatO",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Revenant|XMM"
@@ -52354,7 +51978,6 @@
 				"CRCotN",
 				"HotDQ",
 				"JttRC",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
@@ -52363,8 +51986,7 @@
 				"TftYP-AtG",
 				"TftYP-TFoF",
 				"TftYP-THSoT",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Roper|XMM"
@@ -52620,14 +52242,12 @@
 			"referenceSources": [
 				"EGW",
 				"IDRotF",
-				"OotA",
 				"PotA",
 				"QftIS",
 				"SatO",
 				"SKT",
 				"TftYP-ToH",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Rust Monster|XMM"
@@ -52976,8 +52596,7 @@
 				"JttRC",
 				"SatO",
 				"TftYP",
-				"TftYP-DiT",
-				"WDMM"
+				"TftYP-DiT"
 			],
 			"reprintedAs": [
 				"Sahuagin Baron|XMM"
@@ -53305,7 +52924,6 @@
 				"DoSI",
 				"JttRC",
 				"KftGV",
-				"OotA",
 				"PotA",
 				"SKT",
 				"TftYP",
@@ -53757,9 +53375,6 @@
 			"page": 337,
 			"srd": true,
 			"basicRules": true,
-			"referenceSources": [
-				"WDMM"
-			],
 			"reprintedAs": [
 				"Scorpion|XMM"
 			],
@@ -53849,7 +53464,6 @@
 				"JttRC",
 				"KftGV",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PotA",
 				"QftIS",
@@ -53865,7 +53479,6 @@
 				"ToR",
 				"VNotEE",
 				"WBtW",
-				"WDMM",
 				"XMtS"
 			],
 			"reprintedAs": [
@@ -54002,8 +53615,7 @@
 				"SLW",
 				"TftYP",
 				"TftYP-DiT",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Sea Hag|XMM"
@@ -54344,7 +53956,6 @@
 				"HoL",
 				"IDRotF",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PotA",
 				"QftIS",
@@ -54357,8 +53968,7 @@
 				"VEoR",
 				"VNotEE",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Shadow|XMM"
@@ -54496,14 +54106,12 @@
 				"JttRC",
 				"KftGV",
 				"MOT",
-				"OotA",
 				"PotA",
 				"SatO",
 				"SCC-ARiR",
 				"SKT",
 				"ToA",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Shadow Demon|XMM"
@@ -54655,15 +54263,13 @@
 				"JttRC",
 				"KftGV",
 				"MOT",
-				"OotA",
 				"QftIS",
 				"SCC-TMM",
 				"TftYP",
 				"TftYP-DiT",
 				"ToA",
 				"VEoR",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Shambling Mound|XMM"
@@ -54797,7 +54403,6 @@
 				"GoS",
 				"IDRotF",
 				"KftGV",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"RtG",
@@ -54805,8 +54410,7 @@
 				"SKT",
 				"ToA",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Shield Guardian|XMM"
@@ -54939,12 +54543,10 @@
 			"referenceSources": [
 				"CoA",
 				"GoS",
-				"OotA",
 				"PaBTSO",
 				"QftIS",
 				"SCC-ARiR",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Shrieker Fungus|XMM"
@@ -55251,7 +54853,6 @@
 				"LLK",
 				"LMoP",
 				"LRDT",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -55271,7 +54872,6 @@
 				"VEoR",
 				"WBtW",
 				"WDH",
-				"WDMM",
 				"XMtS"
 			],
 			"reprintedAs": [
@@ -55381,8 +54981,7 @@
 				"KftGV",
 				"PaBTSO",
 				"RtG",
-				"SatO",
-				"WDMM"
+				"SatO"
 			],
 			"reprintedAs": [
 				"Slaad Tadpole|XMM"
@@ -55480,8 +55079,7 @@
 				"PotA",
 				"SKT",
 				"ToA",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Smoke Mephit|XMM"
@@ -55878,14 +55476,12 @@
 				"IDRotF",
 				"KftGV",
 				"LMoP",
-				"OotA",
 				"PaBTSO",
 				"QftIS",
 				"RMBRE",
 				"SCC-ARiR",
 				"ToFW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Spectator|XMM"
@@ -56057,7 +55653,6 @@
 				"JttRC",
 				"KftGV",
 				"MOT",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
@@ -56072,8 +55667,7 @@
 				"ToA",
 				"ToFW",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Specter|XMM"
@@ -56210,10 +55804,8 @@
 			"referenceSources": [
 				"GoS",
 				"KftGV",
-				"OotA",
 				"OoW",
-				"PotA",
-				"WDMM"
+				"PotA"
 			],
 			"reprintedAs": [
 				"Spider|XMM"
@@ -56475,12 +56067,10 @@
 				"GoS",
 				"JttRC",
 				"MOT",
-				"OotA",
 				"PaBTSO",
 				"TftYP",
 				"TftYP-DiT",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Spirit Naga|XMM"
@@ -56805,7 +56395,6 @@
 				"JttRC",
 				"KftGV",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PotA",
 				"QftIS",
@@ -56816,8 +56405,7 @@
 				"ToA",
 				"ToFW",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Spy|XMM"
@@ -57097,7 +56685,6 @@
 				"KftGV",
 				"LLK",
 				"LMoP",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
@@ -57107,8 +56694,7 @@
 				"TftYP-TFoF",
 				"ToA",
 				"US",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Stirge|XMM"
@@ -57192,13 +56778,11 @@
 			"referenceSources": [
 				"HotDQ",
 				"MOT",
-				"OotA",
 				"QftIS",
 				"SKT",
 				"TftYP",
 				"TftYP-AtG",
-				"TftYP-DiT",
-				"WDMM"
+				"TftYP-DiT"
 			],
 			"reprintedAs": [
 				"Stone Giant|XMM"
@@ -57377,7 +56961,6 @@
 				"JttRC",
 				"KftGV",
 				"LLK",
-				"OotA",
 				"OoW",
 				"PotA",
 				"QftIS",
@@ -57387,8 +56970,7 @@
 				"SLW",
 				"TftYP-THSoT",
 				"ToA",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Stone Golem|XMM"
@@ -57735,7 +57317,6 @@
 				"CRCotN",
 				"EGW",
 				"ERLW",
-				"OotA",
 				"RoT",
 				"SatO",
 				"SKT",
@@ -57909,15 +57490,13 @@
 				"FS",
 				"HotDQ",
 				"LLK",
-				"OotA",
 				"PotA",
 				"QftIS",
 				"TftYP",
 				"TftYP-THSoT",
 				"ToA",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Swarm of Bats|XMM"
@@ -58129,9 +57708,7 @@
 			"referenceSources": [
 				"CoS",
 				"HotDQ",
-				"OotA",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Swarm of Insects|XMM"
@@ -58237,12 +57814,10 @@
 				"EGW",
 				"GoS",
 				"LoX",
-				"OotA",
 				"OoW",
 				"SKT",
 				"ToA",
-				"US",
-				"WDMM"
+				"US"
 			],
 			"reprintedAs": [
 				"Swarm of Insects|XMM"
@@ -58468,13 +58043,11 @@
 				"GoS",
 				"JttRC",
 				"KftGV",
-				"OotA",
 				"PotA",
 				"QftIS",
 				"SDW",
 				"ToA",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Swarm of Piranhas|XMM"
@@ -58593,8 +58166,7 @@
 				"TftYP",
 				"TftYP-THSoT",
 				"TftYP-TSC",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Swarm of Rats|XMM"
@@ -58811,8 +58383,7 @@
 				"QftIS",
 				"RtG",
 				"SKT",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Swarm of Insects|XMM"
@@ -58939,8 +58510,7 @@
 				"GoS",
 				"QftIS",
 				"ToA",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Swarm of Insects|XMM"
@@ -59508,7 +59078,6 @@
 				"LLK",
 				"LoX",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PotA",
 				"SKT",
@@ -59517,8 +59086,7 @@
 				"ToA",
 				"ToFW",
 				"ToR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Tough|XMM"
@@ -60101,7 +59669,6 @@
 				"BMT",
 				"CoA",
 				"KftGV",
-				"OotA",
 				"OoW",
 				"QftIS"
 			],
@@ -60243,7 +59810,6 @@
 				"BMT",
 				"HftT",
 				"HotDQ",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
@@ -60253,8 +59819,7 @@
 				"TftYP-DiT",
 				"TftYP-TFoF",
 				"TftYP-ToH",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Troglodyte|XMM"
@@ -60353,10 +59918,6 @@
 			},
 			"altArt": [
 				{
-					"name": "Warren Troglodyte",
-					"source": "WDMM"
-				},
-				{
 					"name": "Troglodyte",
 					"source": "HftT"
 				}
@@ -60402,7 +59963,6 @@
 				"EGW",
 				"GoS",
 				"HotDQ",
-				"OotA",
 				"PotA",
 				"QftIS",
 				"RoT",
@@ -60417,8 +59977,7 @@
 				"TftYP-ToH",
 				"TftYP-TSC",
 				"ToA",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Troll|XMM"
@@ -60905,8 +60464,7 @@
 			"referenceSources": [
 				"BGDIA",
 				"EGW",
-				"JttRC",
-				"WDMM"
+				"JttRC"
 			],
 			"reprintedAs": [
 				"Ultroloth|XMM"
@@ -61147,12 +60705,10 @@
 				"IDRotF",
 				"LLK",
 				"LoX",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
-				"SatO",
-				"WDMM"
+				"SatO"
 			],
 			"reprintedAs": [
 				"Umber Hulk|XMM"
@@ -61502,8 +61058,7 @@
 				"TftYP-THSoT",
 				"TftYP-WPM",
 				"ToFW",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Vampire|XMM"
@@ -61757,8 +61312,7 @@
 				"TftYP",
 				"TftYP-DiT",
 				"TftYP-THSoT",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Vampire Spawn|XMM"
@@ -62513,7 +62067,6 @@
 				"KftGV",
 				"LoX",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PotA",
 				"QftIS",
@@ -62532,8 +62085,7 @@
 				"ToR",
 				"US",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Warrior Veteran|XMM"
@@ -62776,7 +62328,6 @@
 				"DoSI",
 				"GoS",
 				"HotDQ",
-				"OotA",
 				"PotA",
 				"SCC-CK"
 			],
@@ -62877,7 +62428,6 @@
 				"CoS",
 				"CRCotN",
 				"GoS",
-				"OotA",
 				"PotA",
 				"SatO",
 				"SCC-ARiR",
@@ -62886,7 +62436,6 @@
 				"TftYP-DiT",
 				"TftYP-ToH",
 				"VEoR",
-				"WDMM",
 				"XMtS"
 			],
 			"reprintedAs": [
@@ -63627,7 +63176,6 @@
 				"JttRC",
 				"LK",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -63640,8 +63188,7 @@
 				"TftYP-THSoT",
 				"ToA",
 				"VEoR",
-				"VNotEE",
-				"WDMM"
+				"VNotEE"
 			],
 			"reprintedAs": [
 				"Water Weird|XMM"
@@ -64188,14 +63735,12 @@
 				"DIP",
 				"EGW",
 				"GoS",
-				"OotA",
 				"OoW",
 				"QftIS",
 				"SatO",
 				"TftYP",
 				"TftYP-AtG",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Wererat|XMM"
@@ -64941,8 +64486,7 @@
 				"TftYP-ToH",
 				"TftYP-WPM",
 				"ToA",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Wight|XMM"
@@ -65114,8 +64658,7 @@
 				"TftYP-THSoT",
 				"ToA",
 				"VEoR",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Will-o'-Wisp|XMM"
@@ -65270,7 +64813,6 @@
 				"DoSI",
 				"GoS",
 				"HotDQ",
-				"OotA",
 				"ToA"
 			],
 			"reprintedAs": [
@@ -65647,8 +65189,7 @@
 				"IDRotF",
 				"PotA",
 				"SCC-CK",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Worg|XMM"
@@ -65765,7 +65306,6 @@
 				"KftGV",
 				"LLK",
 				"MOT",
-				"OotA",
 				"PaBTSO",
 				"QftIS",
 				"RoT",
@@ -65778,8 +65318,7 @@
 				"TftYP",
 				"TftYP-DiT",
 				"ToA",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Wraith|XMM"
@@ -65928,8 +65467,7 @@
 				"QftIS",
 				"SKT",
 				"SLW",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Wyvern|XMM"
@@ -66036,12 +65574,10 @@
 				"CoA",
 				"DitLCoT",
 				"LLK",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
-				"SatO",
-				"WDMM"
+				"SatO"
 			],
 			"reprintedAs": [
 				"Xorn|XMM"
@@ -66316,10 +65852,8 @@
 			"referenceSources": [
 				"CRCotN",
 				"EGW",
-				"OotA",
 				"PaBTSO",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Yochlol|XMM"
@@ -66775,8 +66309,7 @@
 				"LK",
 				"MOT",
 				"QftIS",
-				"RoT",
-				"WDMM"
+				"RoT"
 			],
 			"reprintedAs": [
 				"Young Blue Dragon|XMM"
@@ -67985,8 +67518,7 @@
 				"PaBTSO",
 				"RMBRE",
 				"RoT",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Young Green Dragon|XMM"
@@ -68226,8 +67758,7 @@
 				"QftIS",
 				"RoT",
 				"SatO",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Young Red Dragon|XMM"
@@ -69242,8 +68773,7 @@
 				"DIP",
 				"RoT",
 				"SLW",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Yuan-ti Abomination|XMM"
@@ -70205,7 +69735,6 @@
 				"JttRC",
 				"KftGV",
 				"LMoP",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -70224,8 +69753,7 @@
 				"ToFW",
 				"VEoR",
 				"VNotEE",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Zombie|XMM"

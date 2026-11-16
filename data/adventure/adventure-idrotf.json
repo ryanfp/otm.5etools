@@ -43835,7 +43835,7 @@
 												"{@b Chest 2} holds a gold mask shaped like the visage of a male drow (750 gp), lying on a bed of 350 gp.",
 												"{@b Chest 3} contains a silver chalice shaped in the likeness of a spider and inlaid with eight obsidian eyes (250 gp).",
 												"{@b Chest 4} holds a bundled-up gray spider silk robe sewn with darkmantle eyes, wrapped inside which is a {@item wand of web}.",
-												"{@b Chest 5} contains a folded {@item Piwafwi (Cloak of Elvenkind)|OotA|piwafwi}\u2014a dark spider silk cloak made by drow. This item has the properties of a {@item cloak of elvenkind} but loses its magic if it's exposed to sunlight for 1 hour without interruption.",
+												"{@b Chest 5} contains a folded {@item cloak of elvenkind|DMG|piwafwi}\u2014a dark spider silk cloak made by drow. This item has the properties of a {@item cloak of elvenkind} but loses its magic if it's exposed to sunlight for 1 hour without interruption.",
 												"{@b Chest 6} holds an amber headdress set with three large purple pearls (2,500 gp).",
 												"{@b Chest 7} contains a 2-foot-tall stone statuette of Demogorgon that weighs 50 pounds. Anyone who looks into the statue's eyes must succeed on a {@dc 14} Charisma saving throw or contract a random form of short-term madness (see \"{@variantrule Madness}\" in the {@book Dungeon Master's Guide|DMG}). A creature can be affected only once by the statue, after which it becomes immune to the effect.",
 												"{@b Chest 8} houses an inanimate svirfneblin skeleton encrusted with {@hazard yellow mold} (see \"{@book Dungeon Hazards|DMG|5|Dungeon Hazards}\" in the {@book Dungeon Master's Guide|DMG}). The mold releases its spores as soon as the chest's lid is opened. Embedded in one of the skull's eye sockets is a false eye made of moonstone (75 gp)."
@@ -44636,7 +44636,7 @@
 								"\"Using divination magic, the Arcane Brotherhood has learned that the city is buried deep inside the Reghed Glacier. But the glacier can be cracked open at a place where a waterfall once flowed down its side but has since frozen. We have already found the waterfall. All we need now is the magic to break open the glacier.\""
 							]
 						},
-						"Vellynne learned a few things from her {@item professor orb|WDMM} (see {@adventure appendix D|IDRotF|22}) before it was stolen from her. She shares the following information with characters who want to know more about Netheril:",
+						"Vellynne learned a few things from her {@item Professor Skant|IDRotF|professor orb} (see {@adventure appendix D|IDRotF|22}) before it was stolen from her. She shares the following information with characters who want to know more about Netheril:",
 						{
 							"type": "list",
 							"items": [
@@ -44661,7 +44661,7 @@
 							"page": 195,
 							"id": "523",
 							"entries": [
-								"Before beginning their search for Ythryn, Vellynne and the characters need two objects: {@item The Codicil of White|IDRotF} and Vellynne's {@item professor orb|WDMM}, which she calls {@item Professor Skant|IDRotF}. Vellynne has every reason to believe that both items are currently on an island in the Sea of Moving Ice.",
+								"Before beginning their search for Ythryn, Vellynne and the characters need two objects: {@item The Codicil of White|IDRotF} and Vellynne's professor orb, which she calls {@item Professor Skant|IDRotF}. Vellynne has every reason to believe that both items are currently on an island in the Sea of Moving Ice.",
 								{
 									"type": "entries",
 									"name": "The Codicil",
@@ -44685,7 +44685,7 @@
 									"page": 195,
 									"id": "526",
 									"entries": [
-										"Vellynne's family has a private collection of magic items. The {@item professor orb|WDMM} known as {@item Professor Skant|IDRotF} was part of that collection, and Vellynne wants it back for both practical and sentimental reasons:",
+										"Vellynne's family has a private collection of magic items. The professor orb known as {@item Professor Skant|IDRotF} was part of that collection, and Vellynne wants it back for both practical and sentimental reasons:",
 										{
 											"type": "insetReadaloud",
 											"id": "527",
@@ -44745,7 +44745,7 @@
 					"id": "52a",
 					"entries": [
 						"Be sure to review the \"{@adventure Auril the Frostmaiden|IDRotF|21}\" section in appendix C before running this chapter, since Auril is no ordinary villain.",
-						"The characters can locate and obtain both {@item The Codicil of White|IDRotF} and {@creature Vellynne Harpell|IDRotF}'s stolen {@item professor orb|WDMM} without confronting the Frostmaiden. But if the characters want to end the Everlasting Rime right here, right now, they can do so by slaying Iskra, the Frostmaiden's roc (without which Auril can't cast her nightly spell that keeps the sun at bay), or by facing Auril in battle and defeating all three of the Frostmaiden's forms sequentially.",
+						"The characters can locate and obtain both {@item The Codicil of White|IDRotF} and {@creature Vellynne Harpell|IDRotF}'s stolen {@item Professor Skant|IDRotF|professor orb} without confronting the Frostmaiden. But if the characters want to end the Everlasting Rime right here, right now, they can do so by slaying Iskra, the Frostmaiden's roc (without which Auril can't cast her nightly spell that keeps the sun at bay), or by facing Auril in battle and defeating all three of the Frostmaiden's forms sequentially.",
 						{
 							"type": "entries",
 							"name": "Character Advancement",
@@ -45385,7 +45385,7 @@
 									"page": 200,
 									"id": "538",
 									"entries": [
-										"Nass Lantomir outsmarted her rivals in the Arcane Brotherhood by partnering with a pirate captain before leaving Luskan for Icewind Dale. After stealing {@creature Vellynne Harpell|IDRotF}'s {@item professor orb|WDMM}, Nass fled to the coast to make her rendezvous with the pirate captain's galleon, the {@i Wicked Eddy}. The ship found Auril's island the hard way: by crashing into the ice shelf that runs beneath it. As the vessel took on water, Nass alone swam to shore, only to die of frostbite on a snow-covered bluff overlooking the {@i Wicked Eddy}'s sunken hulk.",
+										"Nass Lantomir outsmarted her rivals in the Arcane Brotherhood by partnering with a pirate captain before leaving Luskan for Icewind Dale. After stealing {@creature Vellynne Harpell|IDRotF}'s {@item Professor Skant|IDRotF|professor orb}, Nass fled to the coast to make her rendezvous with the pirate captain's galleon, the {@i Wicked Eddy}. The ship found Auril's island the hard way: by crashing into the ice shelf that runs beneath it. As the vessel took on water, Nass alone swam to shore, only to die of frostbite on a snow-covered bluff overlooking the {@i Wicked Eddy}'s sunken hulk.",
 										"Characters who search the northwest arm of the island find Nass's frostbitten corpse and much more:",
 										{
 											"type": "insetReadaloud",
@@ -58581,7 +58581,7 @@
 													"page": 255,
 													"id": "6b6",
 													"entries": [
-														"In this adventure, we learn the secret of the obelisks that have appeared in other fifth edition adventures published by Wizards of the Coast, including {@adventure Tomb of Annihilation|ToA} and {@adventure Waterdeep: Dungeon of the Mad Mage|WDMM}.",
+														"In this adventure, we learn the secret of the obelisks that have appeared in other fifth edition adventures published by Wizards of the Coast, including {@adventure Tomb of Annihilation|ToA} and {@i Waterdeep: Dungeon of the Mad Mage}.",
 														"The first group of these magical obelisks was crafted by a secret society of spellcasters called the Weavers. These obelisks could alter reality on a grand scale, sending a region or an entire world back to an earlier time (effectively erasing part of history). The obelisks were constructed to counteract the effects of calamitous spells and cataclysmic events.",
 														"An evil wizard named Vecna stole one such obelisk and used it to erase the obelisk's creators from existence. Vecna also stole the knowledge needed to create new ones. That knowledge later came into the possession of Netherese wizards, who built similar obelisks of their own. They believed that if some catastrophe destroyed their empire, these obelisks could help restore it. Unfortunately for them, most of the obelisks built to protect Netheril were stolen or otherwise lost over time, as were records of their purpose and information about how to activate them."
 													]
@@ -59844,7 +59844,6 @@
 								"{@item Cauldron of Plenty|IDRotF}",
 								"{@item Hook of Fisher's Delight|IDRotF}",
 								"{@item Lantern of Tracking|IDRotF}",
-								"{@item Professor Orb|WDMM}",
 								"{@item Professor Skant|IDRotF}",
 								"{@item Psi Crystal|IDRotF}",
 								"{@item Scroll of Tarrasque Summoning|IDRotF}",
@@ -60164,7 +60163,7 @@
 								"James, Brian R. and Ed Greenwood. {@i The Grand History of the Realms}. 2007.",
 								"Perkins, Christopher. {@adventure Storm King's Thunder|SKT}. 2016.",
 								"Perkins, Christopher, Will Doyle, and Steve Winter. {@adventure Tomb of Annihilation|ToA}. 2017.",
-								"Perkins, Christopher and others. {@adventure Waterdeep: Dungeon of the Mad Mage|WDMM}. 2018.",
+								"Perkins, Christopher and others. {@i Waterdeep: Dungeon of the Mad Mage}. 2018.",
 								"Salvatore, R.A., Jeffrey Ludwig, James Wyatt, and Matthew Sernett. {@i Legacy of the Crystal Shard.} 2013.",
 								"slade with Jim Butler. {@i Netheril: Empire of Magic}. 1996."
 							]

@@ -25,8 +25,7 @@
 				"RtG",
 				"SCC-ARiR",
 				"TftYP-TSC",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Alchemist's Supplies|XPHB"
@@ -619,8 +618,7 @@
 			"basicRules": true,
 			"referenceSources": [
 				"PaBTSO",
-				"QftIS",
-				"WDMM"
+				"QftIS"
 			],
 			"reprintedAs": [
 				"Breastplate|XPHB"
@@ -2289,8 +2287,7 @@
 				"IDRotF",
 				"PaBTSO",
 				"RMBRE",
-				"TftYP-AtG",
-				"WDMM"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Greataxe|XPHB"
@@ -2730,9 +2727,6 @@
 			"page": 144,
 			"srd": true,
 			"basicRules": true,
-			"referenceSources": [
-				"WDMM"
-			],
 			"reprintedAs": [
 				"Hide Armor|XPHB"
 			],
@@ -2761,24 +2755,6 @@
 			"ac": 12,
 			"armor": true,
 			"hasFluffImages": true
-		},
-		{
-			"name": "Hooked Shortspear",
-			"source": "OotA",
-			"page": 224,
-			"type": "M",
-			"rarity": "unknown",
-			"weight": 2,
-			"weaponCategory": "martial",
-			"property": [
-				"L"
-			],
-			"dmg1": "1d4",
-			"dmgType": "P",
-			"weapon": true,
-			"entries": [
-				"On a hit with this weapon, the wielder can forgo dealing damage and attempt to trip the target, in which case the target must succeed on a Strength saving throw or fall {@condition prone}. The DC is 8 + the wielder's Strength modifier + the wielder's proficiency bonus."
-			]
 		},
 		{
 			"name": "Hoopak",
@@ -3270,8 +3246,7 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"DSotDQ",
-				"WDMM"
+				"DSotDQ"
 			],
 			"reprintedAs": [
 				"Leather Armor|XPHB"
@@ -3536,28 +3511,6 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Light Repeating Crossbow",
-			"source": "OotA",
-			"page": 224,
-			"type": "R",
-			"rarity": "unknown",
-			"weight": 5,
-			"weaponCategory": "simple",
-			"property": [
-				"A",
-				"2H"
-			],
-			"range": "40/160",
-			"dmg1": "1d8",
-			"dmgType": "P",
-			"crossbow": true,
-			"weapon": true,
-			"entries": [
-				"This crossbow is fitted with a cartridge that can hold up to six crossbow bolts. It automatically reloads after firing until the cartridge runs out of ammunition. Reloading the cartridge takes an action."
-			],
-			"ammoType": "crossbow bolt|phb"
-		},
-		{
 			"name": "Longbow",
 			"source": "PHB",
 			"page": 149,
@@ -3649,8 +3602,7 @@
 				"TftYP-TSC",
 				"US",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Longsword|XPHB"
@@ -4045,9 +3997,6 @@
 			"name": "Modern Bullet",
 			"source": "DMG",
 			"page": 268,
-			"referenceSources": [
-				"WDMM"
-			],
 			"edition": "classic",
 			"type": "AF|DMG",
 			"rarity": "none",
@@ -4927,9 +4876,6 @@
 			"name": "Revolver",
 			"source": "DMG",
 			"page": 268,
-			"referenceSources": [
-				"WDMM"
-			],
 			"reprintedAs": [
 				"Revolver|XDMG"
 			],
@@ -5357,8 +5303,7 @@
 				"KftGV",
 				"PaBTSO",
 				"US",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Shortsword|XPHB"
@@ -6038,8 +5983,7 @@
 				"PaBTSO",
 				"QftIS",
 				"RtG",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Tinker's Tools|XPHB"

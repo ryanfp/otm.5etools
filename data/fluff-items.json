@@ -2512,21 +2512,6 @@
 			]
 		},
 		{
-			"name": "Dawnbringer",
-			"source": "OotA",
-			"images": [
-				{
-					"type": "image",
-					"href": {
-						"type": "internal",
-						"path": "items/OotA/Dawnbringer.webp"
-					},
-					"width": 674,
-					"height": 1000
-				}
-			]
-		},
-		{
 			"name": "Decanter of Endless Water",
 			"source": "DMG",
 			"images": [
@@ -8219,21 +8204,6 @@
 			]
 		},
 		{
-			"name": "Piwafwi (Cloak of Elvenkind)",
-			"source": "OotA",
-			"images": [
-				{
-					"type": "image",
-					"href": {
-						"type": "internal",
-						"path": "items/OotA/Piwafwi (Cloak of Elvenkind).webp"
-					},
-					"width": 700,
-					"height": 1000
-				}
-			]
-		},
-		{
 			"name": "Plate Armor",
 			"source": "XPHB",
 			"images": [
@@ -11673,21 +11643,6 @@
 					},
 					"width": 711,
 					"height": 850
-				}
-			]
-		},
-		{
-			"name": "Stonespeaker Crystal",
-			"source": "OotA",
-			"images": [
-				{
-					"type": "image",
-					"href": {
-						"type": "internal",
-						"path": "items/OotA/Stonespeaker Crystal.webp"
-					},
-					"width": 654,
-					"height": 1000
 				}
 			]
 		},

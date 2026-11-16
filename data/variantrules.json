@@ -8422,10 +8422,6 @@
 					"page": 242
 				},
 				{
-					"source": "WDMM",
-					"page": 317
-				},
-				{
 					"source": "VRGR",
 					"page": 237
 				}
@@ -8479,15 +8475,6 @@
 							"page": 242,
 							"entries": [
 								"A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the wereraven's bite are based on whichever is higher of the character's Strength and Dexterity. The bite of a wereraven in raven form deals 1 piercing damage (no ability modifier applies to this damage) and carries the curse of lycanthropy."
-							]
-						},
-						{
-							"type": "entries",
-							"name": "{@creature Werebat|WDMM}",
-							"source": "WDMM",
-							"page": 317,
-							"entries": [
-								"A player character who becomes a werebat gains a Dexterity of 17 if their score isn't already higher. Attack and damage rolls for the werebat's bite attack are based on the character's Strength or Dexterity score, whichever is higher."
 							]
 						},
 						{

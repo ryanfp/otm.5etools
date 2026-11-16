@@ -1081,17 +1081,6 @@
 			"script": "Istarian"
 		},
 		{
-			"name": "Ixitxachitl",
-			"source": "OotA",
-			"page": 225,
-			"typicalSpeakers": [
-				"{@creature ixitxachitl|OotA}",
-				"{@creature Ixitxachitl Cleric|OotA|ixitxachitl clerics}",
-				"{@creature vampiric ixitxachitl|OotA}",
-				"{@creature Vampiric Ixitxachitl Cleric|OotA|vampiric ixitxachitl clerics}"
-			]
-		},
-		{
 			"name": "Kenderspeak",
 			"source": "DSotDQ",
 			"page": 9,

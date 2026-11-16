@@ -21375,12 +21375,6 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Tangler Grenade",
-			"source": "WDMM",
-			"type": "consumable",
-			"migrationVersion": 3
-		},
-		{
 			"name": "Tentacle Rod",
 			"source": "XDMG",
 			"activities": [

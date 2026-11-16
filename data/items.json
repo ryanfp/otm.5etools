@@ -260,8 +260,7 @@
 				"IDRotF",
 				"PotA",
 				"SKT",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"+1 Wand of the War Mage|XDMG"
@@ -1531,8 +1530,7 @@
 				"SDW",
 				"SLW",
 				"TftYP-TFoF",
-				"TftYP-TSC",
-				"WDMM"
+				"TftYP-TSC"
 			],
 			"reprintedAs": [
 				"Alchemist's Fire|XPHB"
@@ -2168,8 +2166,7 @@
 				"QftIS",
 				"SKT",
 				"VEoR",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Amulet of Proof against Detection and Location|XDMG"
@@ -4309,7 +4306,6 @@
 				"KftGV",
 				"LLK",
 				"LRDT",
-				"OotA",
 				"PotA",
 				"QftIS",
 				"RoT",
@@ -5509,8 +5505,7 @@
 			"referenceSources": [
 				"CoA",
 				"PaBTSO",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Bead of Force|XDMG"
@@ -6323,31 +6318,6 @@
 			]
 		},
 		{
-			"name": "Black Crystal Tablet",
-			"source": "WDMM",
-			"page": 284,
-			"rarity": "legendary",
-			"reqAttune": "by a creature that has proficiency in the {@skill Arcana} skill",
-			"reqAttuneTags": [
-				{
-					"skillProficiency": "arcana"
-				}
-			],
-			"wondrous": true,
-			"entries": [
-				"Any creature that attunes to the tablet must make a {@dc 20} Wisdom saving throw at the end of its next long rest. On a failed save, the creature becomes afflicted with a random form of long-term madness (see \"{@book Madness|dmg|8|Madness}\" in chapter 8 of the {@book Dungeon Master's Guide|dmg}).",
-				"As an action, a creature attuned to the Black Crystal Tablet can use it to cast {@spell eyebite} or {@spell gate} (the portal created by this spell links to the Far Realm only). After the tablet is used to cast a spell, it cannot be used again until the next dawn."
-			],
-			"attachedSpells": {
-				"daily": {
-					"1": [
-						"eyebite",
-						"gate"
-					]
-				}
-			}
-		},
-		{
 			"name": "Black Dragon Mask",
 			"source": "HotDQ",
 			"page": 94,
@@ -7141,29 +7111,6 @@
 			"entries": [
 				"While wrapped in a blanket, you have {@variantrule Advantage|XPHB} on saving throws against {@hazard extreme cold|XDMG} (see the {@book Dungeon Master's Guide|XDMG})."
 			]
-		},
-		{
-			"name": "Blast Scepter",
-			"source": "WDMM",
-			"page": 310,
-			"type": "RD|DMG",
-			"scfType": "arcane",
-			"rarity": "very rare",
-			"reqAttune": true,
-			"focus": [
-				"Sorcerer",
-				"Warlock",
-				"Wizard"
-			],
-			"entries": [
-				"The Blast Scepter can be used as an arcane focus.",
-				"Whoever is attuned to the Blast Scepter gains resistance to fire and lightning damage and can, as an action, use it to cast {@spell thunderwave} as a 4th-level spell (save {@dc 16}) without expending a spell slot."
-			],
-			"attachedSpells": {
-				"will": [
-					"thunderwave#4"
-				]
-			}
 		},
 		{
 			"name": "Blasted Goggles",
@@ -8241,8 +8188,7 @@
 				"QftIS",
 				"TftYP-AtG",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Boots of Elvenkind|XDMG"
@@ -8309,9 +8255,6 @@
 			"name": "Boots of False Tracks",
 			"source": "XGE",
 			"page": 136,
-			"referenceSources": [
-				"WDMM"
-			],
 			"reprintedAs": [
 				"Boots of False Tracks|XDMG"
 			],
@@ -8382,9 +8325,6 @@
 			"source": "DMG",
 			"page": 155,
 			"srd": true,
-			"referenceSources": [
-				"OotA"
-			],
 			"reprintedAs": [
 				"Boots of Speed|XDMG"
 			],
@@ -9787,8 +9727,7 @@
 			"referenceSources": [
 				"BGDIA",
 				"CM",
-				"TftYP-TSC",
-				"WDMM"
+				"TftYP-TSC"
 			],
 			"reprintedAs": [
 				"Caltrops|XPHB"
@@ -9915,8 +9854,7 @@
 			"srd": true,
 			"referenceSources": [
 				"DSotDQ",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Candle of Invocation|XDMG"
@@ -10129,9 +10067,6 @@
 			"name": "Candle of the Deep",
 			"source": "XGE",
 			"page": 136,
-			"referenceSources": [
-				"WDMM"
-			],
 			"reprintedAs": [
 				"Candle of the Deep|XDMG"
 			],
@@ -11108,17 +11043,6 @@
 			}
 		},
 		{
-			"name": "Chest of Preserving",
-			"source": "WDMM",
-			"page": 139,
-			"rarity": "common",
-			"wondrous": true,
-			"weight": 25,
-			"entries": [
-				"Food and other perishable items do not age or decay while inside a Chest of Preserving. The chest is 2½ feet long, 1½ feet wide, and 1 foot tall with a half-barrel lid. The chest has a lock, which can be picked with {@item thieves' tools|PHB} and a successful {@dc 15} Dexterity check. Smashing the lock or any other part of the chest renders it nonmagical."
-			]
-		},
-		{
 			"name": "Chicken",
 			"source": "PHB",
 			"page": 157,
@@ -11167,8 +11091,7 @@
 				"AitFR-AVT",
 				"CM",
 				"IDRotF",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Chime of Opening|XDMG"
@@ -11348,8 +11271,7 @@
 			"referenceSources": [
 				"BGDIA",
 				"DC",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Circlet of Blasting|XDMG"
@@ -11394,22 +11316,6 @@
 				"Arcana - Uncommon|XDMG"
 			],
 			"hasFluffImages": true
-		},
-		{
-			"name": "Circlet of Human Perfection",
-			"source": "WDMM",
-			"page": 30,
-			"type": "OTH",
-			"rarity": "uncommon",
-			"reqAttune": "by a humanoid",
-			"reqAttuneTags": [
-				{
-					"creatureType": "humanoid"
-				}
-			],
-			"entries": [
-				"The Circlet of Human Perfection transforms its attuned wearer into an attractive human of average height and weight. The circlet chooses the physical characteristics of the form, such as age, gender, skin color, hair color, and voice. Except for size, the wearer's statistics and racial traits don't change, nor do items worn or carried by the wearer. Removing the circlet ends the effect."
-			]
 		},
 		{
 			"name": "Citrine",
@@ -11751,8 +11657,7 @@
 				"QftIS",
 				"SCC-ARiR",
 				"SCC-HfMT",
-				"TftYP-AtG",
-				"WDMM"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Cloak of Elvenkind|XDMG"
@@ -11949,9 +11854,6 @@
 			"source": "DMG",
 			"page": 159,
 			"srd": true,
-			"referenceSources": [
-				"WDMM"
-			],
 			"reprintedAs": [
 				"Cloak of the Bat|XDMG"
 			],
@@ -12014,8 +11916,7 @@
 				"JttRC",
 				"OoW",
 				"SDW",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Cloak of the Manta Ray|XDMG"
@@ -13437,7 +13338,6 @@
 			"page": 159,
 			"referenceSources": [
 				"CM",
-				"OotA",
 				"SDW",
 				"ToFW"
 			],
@@ -13943,7 +13843,6 @@
 			"srd": "Instant Fortress",
 			"referenceSources": [
 				"CoS",
-				"OotA",
 				"PaBTSO"
 			],
 			"reprintedAs": [
@@ -13984,50 +13883,6 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Dagger of Blindsight",
-			"source": "WDMM",
-			"page": 86,
-			"baseItem": "dagger|phb",
-			"type": "M",
-			"rarity": "rare",
-			"reqAttune": true,
-			"weight": 1,
-			"weaponCategory": "simple",
-			"property": [
-				"F",
-				"L",
-				"T"
-			],
-			"range": "20/60",
-			"dmg1": "1d4",
-			"dmgType": "P",
-			"entries": [
-				"This rare magic item requires attunement. A creature attuned to it gains {@sense blindsight} out to a range of 30 feet. The dagger has a saw-toothed edge and a black pearl nested in its pommel."
-			]
-		},
-		{
-			"name": "Dagger of Guitar Solos",
-			"source": "WDMM",
-			"page": 228,
-			"baseItem": "dagger|phb",
-			"type": "M",
-			"rarity": "unknown (magic)",
-			"weight": 1,
-			"value": 75000,
-			"weaponCategory": "simple",
-			"property": [
-				"F",
-				"L",
-				"T"
-			],
-			"range": "20/60",
-			"dmg1": "1d4",
-			"dmgType": "P",
-			"entries": [
-				"This drow-made dagger is decorated with silver web filigree. It magically plays a fragment of a guitar solo when struck or used to strike a foe."
-			]
-		},
-		{
 			"name": "Dagger of Venom",
 			"source": "DMG",
 			"page": 161,
@@ -14041,8 +13896,7 @@
 				"PaBTSO",
 				"SLW",
 				"TftYP-DiT",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Dagger of Venom|XDMG"
@@ -14436,73 +14290,6 @@
 			]
 		},
 		{
-			"name": "Dawnbringer",
-			"source": "OotA",
-			"page": 222,
-			"baseItem": "longsword|phb",
-			"type": "M",
-			"rarity": "legendary",
-			"reqAttune": "by a creature of non-evil alignment",
-			"reqAttuneTags": [
-				{
-					"alignment": [
-						"L",
-						"NX",
-						"C",
-						"G",
-						"NY"
-					]
-				}
-			],
-			"sentient": true,
-			"weight": 3,
-			"weaponCategory": "martial",
-			"property": [
-				"F",
-				"V"
-			],
-			"dmg1": "1d8",
-			"dmgType": "R",
-			"dmg2": "1d10",
-			"bonusWeapon": "+2",
-			"entries": [
-				"Lost for ages in the Underdark, Dawnbringer appears to be a gilded longsword hilt. While grasping the hilt, you can use a bonus action to make a blade of pure radiance spring from the hilt, or cause the blade to disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with {@item shortsword|phb|shortswords} or {@item longsword|phb|longswords}, you are proficient with Dawnbringer.",
-				"You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra {@damage 1d8} radiant damage.",
-				"The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.",
-				"While holding the weapon, you can use an action to touch a creature with the blade and cast {@spell lesser restoration} on that creature. Once used, this ability can't be used again until the next dawn.",
-				{
-					"name": "Sentience",
-					"type": "entries",
-					"entries": [
-						"Dawnbringer is a sentient neutral good weapon with an Intelligence of 12, a Wisdom of 15, and a Charisma of 14. It has hearing and {@sense darkvision} out to a range of 120 feet.",
-						"The sword can speak, read, and understand Common, and it can communicate with its wielder telepathically. Its voice is kind and feminine. It knows every language you know while attuned to it."
-					]
-				},
-				{
-					"name": "Personality",
-					"type": "entries",
-					"entries": [
-						"Forged by ancient sun worshippers, Dawnbringer is meant to bring light into darkness and to fight creatures of darkness. It is kind and compassionate to those in need, but fierce and destructive to its enemies.",
-						"Long years lost in darkness have made Dawnbringer frightened of both the dark and abandonment. It prefers that its blade always be present and shedding light in areas of darkness, and it strongly resists being parted from its wielder for any length of time."
-					]
-				}
-			],
-			"light": [
-				{
-					"bright": 15,
-					"dim": 30
-				}
-			],
-			"attachedSpells": {
-				"daily": {
-					"1e": [
-						"lesser restoration"
-					]
-				}
-			},
-			"hasFluffImages": true
-		},
-		{
 			"name": "Deathdance",
 			"source": "FRAiF",
 			"page": 237,
@@ -14530,8 +14317,7 @@
 				"GoS",
 				"JttRC",
 				"KftGV",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Decanter of Endless Water|XDMG"
@@ -18968,62 +18754,6 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Dodecahedron of Doom",
-			"source": "WDMM",
-			"page": 284,
-			"rarity": "rare",
-			"wondrous": true,
-			"entries": [
-				"This twelve-sided metal die is 12 inches across and bears the numbers 1 through 12 engraved on its pentagonal sides. The dodecahedron contains arcane clockwork mechanisms that whir and click whenever the die is cast.",
-				"The dodecahedron can be hurled up to 60 feet as an action. A random magical effect occurs when the die comes to rest after rolling across the ground for at least 10 feet. If an effect requires a target and no eligible target is within range, nothing happens. Spells cast by the dodecahedron require no components. Roll a {@dice d12} and consult the following table to determine the effect:",
-				{
-					"type": "table",
-					"colLabels": [
-						"d12",
-						"effect"
-					],
-					"colStyles": [
-						"col-2 text-center",
-						"col-10"
-					],
-					"rows": [
-						[
-							"1\u20132",
-							"The dodecahedron explodes and is destroyed. Each creature within 20 feet of the exploding die must make a {@dc 13} Dexterity saving throw, taking 40 ({@damage 9d8}) force damage on a failed save, or half as much damage on a successful one."
-						],
-						[
-							"3\u20134",
-							"The dodecahedron casts {@spell light} on itself. The effect lasts until a creature touches the die."
-						],
-						[
-							"5\u20136",
-							"The dodecahedron casts {@spell ray of frost} ({@hit 5} to hit), targeting a random creature within 60 feet of it that doesn't have {@quickref Cover||3||total cover} against the attack."
-						],
-						[
-							"7\u20138",
-							"The dodecahedron casts {@spell shocking grasp} ({@hit 5} to hit) on the next creature that touches it."
-						],
-						[
-							"9\u201310",
-							"The dodecahedron casts {@spell darkness} on itself. The effect has a duration of 10 minutes."
-						],
-						[
-							"11\u201312",
-							"The next creature to touch the dodecahedron gains {@dice 1d10} temporary hit points that last for 1 hour."
-						]
-					]
-				}
-			],
-			"attachedSpells": {
-				"other": [
-					"darkness",
-					"light",
-					"ray of frost",
-					"shocking grasp"
-				]
-			}
-		},
-		{
 			"name": "Dogsled",
 			"source": "IDRotF",
 			"page": 20,
@@ -19467,8 +19197,7 @@
 			"page": 137,
 			"referenceSources": [
 				"DIP",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Dread Helm|XDMG"
@@ -19509,8 +19238,7 @@
 				"SCC-CK",
 				"ToFW",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Driftglobe|XDMG"
@@ -19571,10 +19299,6 @@
 			"source": "DMG",
 			"page": 258,
 			"srd": true,
-			"referenceSources": [
-				"OotA",
-				"WDMM"
-			],
 			"reprintedAs": [
 				"Lolth's Sting|XDMG"
 			],
@@ -19858,11 +19582,9 @@
 				"DIP",
 				"JttRC",
 				"KftGV",
-				"OotA",
 				"PotA",
 				"TftYP-THSoT",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Dust of Disappearance|XDMG"
@@ -20028,8 +19750,7 @@
 			"page": 167,
 			"srd": true,
 			"referenceSources": [
-				"PotA",
-				"WDMM"
+				"PotA"
 			],
 			"reprintedAs": [
 				"Dwarven Thrower|XDMG"
@@ -22579,17 +22300,6 @@
 			]
 		},
 		{
-			"name": "Falkir's Helm of Pigheadedness",
-			"source": "WDMM",
-			"page": 141,
-			"type": "OTH",
-			"rarity": "unknown (magic)",
-			"curse": true,
-			"entries": [
-				"This steel helm is shaped like the head of a boar. Once you don the helm, it can't be removed until you die or until a {@spell remove curse} spell or similar magic is cast on it. If you wear the helm and are a humanoid, you gain the following flaw until the helm is removed: \"I'm exceedingly stubborn and think I'm right all the time.\" (This flaw supersedes any conflicting flaw.)"
-			]
-		},
-		{
 			"name": "Fane-Eater",
 			"source": "BGDIA",
 			"page": 223,
@@ -24776,10 +24486,8 @@
 				"DIP",
 				"KftGV",
 				"LMoP",
-				"OotA",
 				"PaBTSO",
-				"TftYP-AtG",
-				"WDMM"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Gauntlets of Ogre Power|XDMG"
@@ -24908,13 +24616,11 @@
 				"DSotDQ",
 				"EFR",
 				"KftGV",
-				"OotA",
 				"PaBTSO",
 				"QftIS",
 				"SCC-CK",
 				"ToA",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Gem of Brightness|XDMG"
@@ -25006,13 +24712,11 @@
 			"referenceSources": [
 				"CoA",
 				"DSotDQ",
-				"OotA",
 				"OoW",
 				"QftIS",
 				"TftYP-AtG",
 				"TftYP-ToH",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Gem of Seeing|XDMG"
@@ -25304,8 +25008,7 @@
 			"page": 172,
 			"srd": true,
 			"referenceSources": [
-				"TftYP-THSoT",
-				"WDMM"
+				"TftYP-THSoT"
 			],
 			"reprintedAs": [
 				"Gloves of Missile Snaring|XDMG"
@@ -25550,7 +25253,6 @@
 				"CRCotN",
 				"DD",
 				"DIP",
-				"OotA",
 				"TftYP-WPM",
 				"WBtW"
 			],
@@ -26089,16 +25791,6 @@
 			"bonusWeapon": "+1",
 			"entries": [
 				"You gain a +1 bonus to attack and damage rolls made with this magic whip. When you hit a creature or object that is Large or smaller with this whip, you can pull that creature or object 5 feet toward you instead of dealing damage."
-			]
-		},
-		{
-			"name": "Gravenhollow Compass Ring",
-			"source": "OotA",
-			"page": 141,
-			"type": "OTH",
-			"rarity": "unknown (magic)",
-			"entries": [
-				"This gold ring is fitted with a star ruby worth 1,000 gp. A {@spell detect magic} spell reveals that the gem radiates a faint aura of divination magic. The gem's star-shaped core is a magical compass that guides the ring's wearer along the safest, shortest route to Gravenhollow."
 			]
 		},
 		{
@@ -27387,7 +27079,6 @@
 				"DC",
 				"IDRotF",
 				"JttRC",
-				"OotA",
 				"TftYP-THSoT",
 				"ToFW",
 				"VNotEE",
@@ -27752,8 +27443,7 @@
 				"BGDIA",
 				"CM",
 				"CoA",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Headband of Intellect|XDMG"
@@ -27822,8 +27512,7 @@
 				"SLW",
 				"TftYP-TSC",
 				"ToA",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Healer's Kit|XPHB"
@@ -27900,9 +27589,6 @@
 			"name": "Heartstone",
 			"source": "MM",
 			"page": 179,
-			"referenceSources": [
-				"WDMM"
-			],
 			"type": "OTH",
 			"rarity": "very rare",
 			"entries": [
@@ -28504,59 +28190,6 @@
 							"Thassa",
 							"{@spell identify}"
 						]
-					]
-				}
-			]
-		},
-		{
-			"name": "Helm of the Scavenger",
-			"source": "WDMM",
-			"page": 297,
-			"rarity": "legendary",
-			"reqAttune": "by a spellcaster",
-			"reqAttuneTags": [
-				{
-					"spellcasting": true
-				}
-			],
-			"wondrous": true,
-			"entries": [
-				"This ornate chair is designed to propel and maneuver a ship through space.",
-				{
-					"type": "entries",
-					"name": "Passive Properties",
-					"entries": [
-						"The following properties of the helm come into play even when no creature is attuned to it:",
-						{
-							"type": "list",
-							"items": [
-								"When placed aboard a vessel weighing between 1 and 100 tons, the helm generates an envelope of fresh air around the ship while it is in the void of space (but not underwater). This envelope extends out from the edges of the hull in all directions for a distance equal in length to the vessel's beam, so that creatures aboard and near the ship can breathe normally in space. The temperature within the air envelope is 70 degrees Fahrenheit.",
-								"When placed aboard a vessel weighing between 1 and 100 tons, the helm generates an artificial gravity field while the ship is in the void of space, so that creatures can walk on the ship's decks as they normally would. Creatures and objects that fall overboard bob in a gravity plane that extends out from the main deck for a distance equal in length to the vessel's beam."
-							]
-						}
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Active Properties",
-					"entries": [
-						"The sensation of being attuned to the helm is akin to being immersed in warm water. While attuned to the helm, you gain the following abilities while you sit in it:",
-						{
-							"type": "list",
-							"items": [
-								"You can use the helm to propel the vessel across or through water and other liquids at a maximum speed in miles per hour equal to your highest-level unexpended spell slot.",
-								"You can use the helm to propel the vessel through air or space at a maximum speed in miles per hour equal to your highest-level unexpended spell slot × 10.",
-								"Provided you have at least one unexpended spell slot, you can steer the vessel, albeit in a somewhat clumsy fashion, in much the same way that oars or a rudder can maneuver a seafaring ship.",
-								"Whenever you like, you can see what's happening on and around the vessel as though you were standing in a location of your choice aboard it."
-							]
-						}
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Drawback",
-					"entries": [
-						"While attuned to the helm, you cannot expend your own spell slots."
 					]
 				}
 			]
@@ -29258,8 +28891,7 @@
 				"RoT",
 				"SCC-CK",
 				"TftYP-TFoF",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Holy Water|XPHB"
@@ -29513,22 +29145,6 @@
 			]
 		},
 		{
-			"name": "Horn of the Endless Maze",
-			"source": "WDMM",
-			"page": 163,
-			"_copy": {
-				"name": "Horn of Valhalla, Brass",
-				"source": "DMG"
-			},
-			"baseItem": "horn|phb",
-			"type": "INS",
-			"entries": [
-				"You can use an action to blow this horn. In response, warrior spirits from the Abyss appear within 60 feet of you. These spirits look like minotaurs, and use the {@creature berserker} statistics. They return to Abyss after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.",
-				"The horn summons {@dice 3d4 + 3} {@creature berserker||berserkers}. To use the horn, you must be proficient with all simple weapons.",
-				"If you blow the horn without meeting its requirement, the summoned {@creature berserker||berserkers} attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands."
-			]
-		},
-		{
 			"name": "Horn of Valhalla, Brass",
 			"source": "DMG",
 			"page": 175,
@@ -29710,17 +29326,6 @@
 				"Relics - Rare|XDMG"
 			],
 			"hasFluffImages": true
-		},
-		{
-			"name": "Horned Ring",
-			"source": "WDMM",
-			"page": 108,
-			"type": "RG|DMG",
-			"rarity": "very rare",
-			"reqAttune": true,
-			"entries": [
-				"Allows an attuned wearer to ignore Undermountain's magical restrictions (see \"Alterations to Magic\")."
-			]
 		},
 		{
 			"name": "Horror Trinket",
@@ -31996,8 +31601,7 @@
 			"srd": true,
 			"referenceSources": [
 				"DSotDQ",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Ioun Stone, Insight|XDMG"
@@ -33211,24 +32815,6 @@
 			"value": 750000
 		},
 		{
-			"name": "Jade Serpent Staff",
-			"source": "WDMM",
-			"page": 92,
-			"type": "OTH",
-			"rarity": "unknown (magic)",
-			"entries": [
-				"This staff is broken into five pieces, each worth 100 gp for the jade alone. The entire staff can be restored with {@spell mending} cantrips; each casting of the spell repairs one break in the staff. If the staff is made whole, it transforms from an object into an animated jade serpent that has the statistics of a {@creature giant poisonous snake}, with these changes:",
-				{
-					"type": "list",
-					"items": [
-						"The serpent is a construct that understands and obeys whoever was holding the staff when it transformed.",
-						"It has immunity to poison damage and the {@condition poisoned} condition. It doesn't require air, food, drink, or sleep.",
-						"When it drops to 0 hit points, roll a {@dice d6}. On a roll of 1, the snake turns to dust and is destroyed. On any other roll, it changes back into a staff and breaks into {@dice 1d4 + 1} pieces that must be magically mended before the staff can be used again."
-					]
-				}
-			]
-		},
-		{
 			"name": "Jakarion's Staff of Frost",
 			"source": "CoS",
 			"page": 187,
@@ -33802,7 +33388,6 @@
 			"basicRules": true,
 			"referenceSources": [
 				"JttRC",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"QftIS",
@@ -35940,8 +35525,7 @@
 			"referenceSources": [
 				"CoA",
 				"SCC-TMM",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Mace of Smiting|XDMG"
@@ -36214,22 +35798,6 @@
 			"bonusWeapon": "+1",
 			"entries": [
 				"You have a +1 bonus to attack and damage rolls made with this longsword, which is made of laminated wood, and inset with jagged teeth of obsidian. It deals an extra {@damage 2d6} damage to any creature of the plant type."
-			]
-		},
-		{
-			"name": "Maddgoth's Helm",
-			"source": "WDMM",
-			"page": 103,
-			"type": "OTH",
-			"rarity": "very rare",
-			"reqAttune": "by a humanoid",
-			"reqAttuneTags": [
-				{
-					"creatureType": "humanoid"
-				}
-			],
-			"entries": [
-				"While you wear this helm and are inside Maddgoth's castle, on its roof, or in its courtyard, you have immunity to all damage. If the helm is taken from the castle, it turns to dust and is destroyed."
 			]
 		},
 		{
@@ -36580,8 +36148,7 @@
 			"srd": true,
 			"referenceSources": [
 				"CoA",
-				"QftIS",
-				"WDMM"
+				"QftIS"
 			],
 			"reprintedAs": [
 				"Manual of Gainful Exercise|XDMG"
@@ -37353,8 +36920,7 @@
 			"referenceSources": [
 				"BGDIA",
 				"KftGV",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Midnight Tears|XDMG"
@@ -37661,16 +37227,6 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Mind Flayer Skull",
-			"source": "WDMM",
-			"page": 197,
-			"type": "OTH",
-			"rarity": "unknown (magic)",
-			"entries": [
-				"While you have the skull in your possession, you are {@condition invisible} to mind flayers, as is anything you are wearing or carrying."
-			]
-		},
-		{
 			"name": "Mind Lash",
 			"source": "MPMM",
 			"page": 81,
@@ -37771,8 +37327,7 @@
 				"CoA",
 				"JttRC",
 				"LoX",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Mirror of Life Trapping|XDMG"
@@ -38899,7 +38454,6 @@
 			"srd": true,
 			"referenceSources": [
 				"JttRC",
-				"OotA",
 				"QftIS",
 				"VEoR"
 			],
@@ -38956,13 +38510,11 @@
 				"DIP",
 				"IDRotF",
 				"KftGV",
-				"OotA",
 				"TftYP-AtG",
 				"ToA",
 				"ToFW",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Necklace of Fireballs|XDMG"
@@ -39580,8 +39132,7 @@
 				"JttRC",
 				"LLK",
 				"TftYP-AtG",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Nolzur's Marvelous Pigments|XDMG"
@@ -39865,7 +39416,6 @@
 				"CoS",
 				"KftGV",
 				"LoX",
-				"OotA",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -39917,10 +39467,8 @@
 				"CoA",
 				"GoS",
 				"KftGV",
-				"OotA",
 				"SCC-HfMT",
-				"TftYP-AtG",
-				"WDMM"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Oil of Slipperiness|XDMG"
@@ -40309,8 +39857,7 @@
 			"page": 138,
 			"referenceSources": [
 				"LLK",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Orb of Direction|XDMG"
@@ -40517,17 +40064,6 @@
 				}
 			},
 			"hasFluffImages": true
-		},
-		{
-			"name": "Orb of Gonging",
-			"source": "WDMM",
-			"page": 174,
-			"rarity": "common",
-			"wondrous": true,
-			"weight": 5,
-			"entries": [
-				"This common wondrous item is a hollow, 5-inch-diameter orb that weighs 5 pounds. Its outer shell is composed of notched bronze rings, which can be turned so that the notches line up. Aligning the notches requires an action, and doing so causes the orb to gong loudly until the notches are no longer aligned. The sounds are spaced 6 seconds apart and can be heard out to a range of 600 feet."
-			]
 		},
 		{
 			"name": "Orb of Skoraeus",
@@ -41440,17 +40976,6 @@
 			]
 		},
 		{
-			"name": "Pearl of Undead Detection",
-			"source": "WDMM",
-			"page": 76,
-			"type": "OTH",
-			"rarity": "unknown (magic)",
-			"value": 50000,
-			"entries": [
-				"This black pearl glows faintly when undead are within 120 feet of it."
-			]
-		},
-		{
 			"name": "Pennant of the Vind Rune",
 			"source": "SKT",
 			"page": 235,
@@ -41853,7 +41378,6 @@
 			"page": 184,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
 				"TftYP-AtG"
 			],
 			"reprintedAs": [
@@ -41944,8 +41468,7 @@
 			"source": "XGE",
 			"page": 138,
 			"referenceSources": [
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Pipe of Smoke Monsters|XDMG"
@@ -42119,35 +41642,6 @@
 			"rarity": "none",
 			"weight": 0.25,
 			"value": 5
-		},
-		{
-			"name": "Piwafwi (Cloak of Elvenkind)",
-			"source": "OotA",
-			"page": 222,
-			"referenceSources": [
-				"IDRotF",
-				"WDMM"
-			],
-			"rarity": "uncommon",
-			"reqAttune": true,
-			"wondrous": true,
-			"entries": [
-				"This dark spider silk cloak is made by {@creature drow}. It is a {@item cloak of elvenkind}. It loses its magic if exposed to sunlight for 1 hour without interruption.",
-				"While you wear this cloak with its hood up, Wisdom ({@skill Perception}) checks made to see you have disadvantage. and you have advantage on Dexterity ({@skill Stealth}) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action."
-			],
-			"hasFluffImages": true
-		},
-		{
-			"name": "Piwafwi of Fire Resistance",
-			"source": "OotA",
-			"page": 222,
-			"rarity": "rare",
-			"reqAttune": true,
-			"wondrous": true,
-			"entries": [
-				"This dark spider silk cloak is made by {@creature drow}. It is a {@item cloak of elvenkind}. It also grants resistance to fire damage while you wear it. It loses its magic if exposed to sunlight for 1 hour without interruption.",
-				"While you wear this cloak with its hood up, Wisdom ({@skill Perception}) checks made to see you have disadvantage. and you have advantage on Dexterity ({@skill Stealth}) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action."
-			]
 		},
 		{
 			"name": "Pixie Dust",
@@ -42544,8 +42038,7 @@
 				"KftGV",
 				"OoW",
 				"SCC-HfMT",
-				"TftYP-TSC",
-				"WDMM"
+				"TftYP-TSC"
 			],
 			"reprintedAs": [
 				"Poisoner's Kit|XPHB"
@@ -42711,9 +42204,6 @@
 			"name": "Pole of Angling",
 			"source": "XGE",
 			"page": 138,
-			"referenceSources": [
-				"WDMM"
-			],
 			"reprintedAs": [
 				"Pole of Angling|XDMG"
 			],
@@ -42797,8 +42287,7 @@
 				"KftGV",
 				"LLK",
 				"LoX",
-				"RMBRE",
-				"WDMM"
+				"RMBRE"
 			],
 			"reprintedAs": [
 				"Portable Hole|XDMG"
@@ -42901,9 +42390,6 @@
 			"name": "Pot of Awakening",
 			"source": "XGE",
 			"page": 138,
-			"referenceSources": [
-				"WDMM"
-			],
 			"reprintedAs": [
 				"Pot of Awakening|XDMG"
 			],
@@ -42922,8 +42408,7 @@
 			"srd": true,
 			"referenceSources": [
 				"LRDT",
-				"OoW",
-				"WDMM"
+				"OoW"
 			],
 			"reprintedAs": [
 				"Potion of Acid Resistance|XDMG"
@@ -42992,8 +42477,7 @@
 				"QftIS",
 				"ToA",
 				"ToR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Potion of Animal Friendship|XDMG"
@@ -43304,22 +42788,6 @@
 		},
 		{
 			"name": "Potion of Comprehension",
-			"source": "WDMM",
-			"page": 62,
-			"reprintedAs": [
-				"Potion of Comprehension|XDMG"
-			],
-			"type": "P",
-			"rarity": "common",
-			"entries": [
-				"When you drink this potion, you gain the effect of a {@spell comprehend languages} spell for 1 hour. This liquid is a clear concoction with bits of salt and soot swirling in it."
-			],
-			"miscTags": [
-				"CNS"
-			]
-		},
-		{
-			"name": "Potion of Comprehension",
 			"source": "XDMG",
 			"page": 287,
 			"type": "P|XPHB",
@@ -43358,8 +42826,7 @@
 				"TftYP-ToH",
 				"ToA",
 				"VEoR",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Potion of Diminution|XDMG"
@@ -43425,11 +42892,9 @@
 				"BGDIA",
 				"CoA",
 				"DSotDQ",
-				"OotA",
 				"PotA",
 				"RoT",
-				"TftYP-TSC",
-				"WDMM"
+				"TftYP-TSC"
 			],
 			"reprintedAs": [
 				"Potion of Fire Breath|XDMG"
@@ -43538,8 +43003,7 @@
 				"SKT",
 				"TftYP-AtG",
 				"TftYP-TSC",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Potion of Fire Resistance|XDMG"
@@ -43589,7 +43053,6 @@
 				"CoA",
 				"JttRC",
 				"LMoP",
-				"OotA",
 				"PaBTSO",
 				"PotA",
 				"RMBRE",
@@ -43763,12 +43226,10 @@
 				"HotDQ",
 				"IDRotF",
 				"KftGV",
-				"OotA",
 				"OoW",
 				"PotA",
 				"SKT",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Potion of Gaseous Form|XDMG"
@@ -43847,7 +43308,6 @@
 				"HotDQ",
 				"KftGV",
 				"LRDT",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -43863,8 +43323,7 @@
 				"ToA",
 				"VEoR",
 				"VNotEE",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Potion of Greater Healing|XDMG"
@@ -44018,7 +43477,6 @@
 				"LoX",
 				"LRDT",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -44043,8 +43501,7 @@
 				"ToR",
 				"US",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Potion of Healing|XDMG"
@@ -44239,7 +43696,6 @@
 				"GoS",
 				"IDRotF",
 				"LMoP",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -44252,8 +43708,7 @@
 				"TftYP-THSoT",
 				"VEoR",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Potion of Invisibility|XDMG"
@@ -44432,10 +43887,8 @@
 				"CoA",
 				"IDRotF",
 				"JttRC",
-				"OotA",
 				"PotA",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Potion of Longevity|XDMG"
@@ -44546,15 +43999,13 @@
 			"referenceSources": [
 				"CM",
 				"CoA",
-				"OotA",
 				"SCC-CK",
 				"TftYP-AtG",
 				"TftYP-DiT",
 				"TftYP-WPM",
 				"US",
 				"VEoR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Potion of Mind Reading|XDMG"
@@ -44656,7 +44107,6 @@
 				"CoA",
 				"CoS",
 				"KftGV",
-				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
@@ -44805,9 +44255,6 @@
 			"source": "DMG",
 			"page": 188,
 			"srd": true,
-			"referenceSources": [
-				"OotA"
-			],
 			"reprintedAs": [
 				"Potion of Psychic Resistance|XDMG"
 			],
@@ -45100,8 +44547,7 @@
 				"RtG",
 				"TftYP-AtG",
 				"TftYP-DiT",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Potion of Superior Healing|XDMG"
@@ -45148,13 +44594,11 @@
 				"CoA",
 				"DC",
 				"JttRC",
-				"OotA",
 				"PaBTSO",
 				"SKT",
 				"ToA",
 				"ToFW",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Potion of Supreme Healing|XDMG"
@@ -45248,12 +44692,10 @@
 				"IDRotF",
 				"KftGV",
 				"LMoP",
-				"OotA",
 				"QftIS",
 				"SLW",
 				"ToA",
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Potion of Vitality|XDMG"
@@ -45294,19 +44736,6 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Potion of Watchful Rest",
-			"source": "WDMM",
-			"page": 62,
-			"type": "P",
-			"rarity": "common",
-			"entries": [
-				"When you drink this potion, you gain the following benefits for the next 8 hours: magic can't put you to sleep, and you can remain awake during a long rest and still gain its benefits. This sweet, amber-colored brew has no effect on creatures that don't require sleep, such as elves."
-			],
-			"miscTags": [
-				"CNS"
-			]
-		},
-		{
 			"name": "Potion of Water Breathing",
 			"source": "DMG",
 			"page": 188,
@@ -45319,7 +44748,6 @@
 				"GoS",
 				"IDRotF",
 				"KftGV",
-				"OotA",
 				"OoW",
 				"PotA",
 				"SDW",
@@ -45330,8 +44758,7 @@
 				"ToA",
 				"ToFW",
 				"ToR",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Potion of Water Breathing|XDMG"
@@ -45881,39 +45308,15 @@
 			]
 		},
 		{
-			"name": "Professor Orb",
-			"source": "WDMM",
-			"page": 131,
-			"referenceSources": [
-				"IDRotF"
-			],
+			"name": "Professor Skant",
+			"source": "IDRotF",
+			"page": 315,
 			"rarity": "rare",
 			"wondrous": true,
 			"sentient": true,
 			"weight": 5,
 			"entries": [
-				"Each professor orb takes the form of a smooth, solid, 5-pound sphere of smoky gray quartz about the size of a grapefruit. Close examination reveals two or more pinpricks of silver light deep inside the sphere.",
-				"A Professor Orb is sentient and has the personality of a scholar. Its alignment is determined by rolling on the alignment table in the \"{@book Sentient Magic Items|DMG|7|Sentient Magic Items}\" section in chapter 7 of the {@book Dungeon Master's Guide|dmg}. Regardless of its disposition, the orb has an Intelligence of 18, and Wisdom and Charisma scores determined by rolling {@dice 3d6} for each ability. The orb speaks, reads, and understands four languages, and can see and hear normally out to a range of 60 feet. Unlike most sentient items, the orb has no will of its own and can't initiate a conflict with the creature in possession of it.",
-				"A Professor Orb has extensive knowledge of four narrow academic subjects. When making an Intelligence check to recall lore from any of its areas of expertise, the orb has a +9 bonus to its roll (including its Intelligence modifier).",
-				"In addition to the knowledge it possesses, a professor orb can cast the {@spell mage hand} cantrip at will. It uses the spell only to transport itself. Its spellcasting ability is Intelligence."
-			],
-			"attachedSpells": {
-				"will": [
-					"mage hand"
-				],
-				"ability": "int"
-			}
-		},
-		{
-			"name": "Professor Skant",
-			"source": "IDRotF",
-			"page": 315,
-			"_copy": {
-				"name": "Professor Orb",
-				"source": "WDMM"
-			},
-			"entries": [
-				"The {@item professor orb|WDMM} owned by Vellynne Harpell and stolen by Nass Lantomir calls itself Professor Skant. It is lawful good, and it has a Wisdom of 11 and a Charisma of 9 {@note (as a professor orb, it has an Intelligence of 18)}. It speaks and reads Common, Draconic, Elvish, and Loross (the dead language of the Empire of Netheril). Professor Skant is a chatterbox and assumes all humanoids are dunderheads. When elaborating on its areas of expertise, it adopts an unintentionally patronizing tone. It has the following four areas of expertise:",
+				"The professor orb owned by Vellynne Harpell and stolen by Nass Lantomir calls itself Professor Skant. It is lawful good, and it has a Wisdom of 11 and a Charisma of 9 {@note (as a professor orb, it has an Intelligence of 18)}. It speaks and reads Common, Draconic, Elvish, and Loross (the dead language of the Empire of Netheril). Professor Skant is a chatterbox and assumes all humanoids are dunderheads. When elaborating on its areas of expertise, it adopts an unintentionally patronizing tone. It has the following four areas of expertise:",
 				{
 					"type": "list",
 					"items": [
@@ -45927,24 +45330,13 @@
 				"Professor Skant takes the form of a smooth, solid, 5-pound sphere of smoky gray quartz about the size of a grapefruit. Close examination reveals two or more pinpricks of silver light deep inside the sphere.",
 				"Professor Skant can see and hear normally out to a range of 60 feet. Unlike most sentient items, the orb has no will of its own and can't initiate a conflict with the creature in possession of it.",
 				"In addition to the knowledge it possesses, Professor Skant can cast the {@spell mage hand} cantrip at will. It uses the spell only to transport itself. Its spellcasting ability is Intelligence."
-			]
-		},
-		{
-			"name": "Propeller Helm",
-			"source": "WDMM",
-			"page": 251,
-			"rarity": "uncommon",
-			"reqAttune": "by a small humanoid",
-			"reqAttuneTags": [
-				{
-					"creatureType": "humanoid",
-					"size": "S"
-				}
 			],
-			"wondrous": true,
-			"entries": [
-				"While worn, the helm allows its wearer to use an action to cast the {@spell levitate} spell, requiring no components. The helm's propeller spins and whirs loudly until the spell ends. Each time the spell ends, there is a {@chance 50} chance that the helm loses its magic and becomes nonmagical."
-			]
+			"attachedSpells": {
+				"will": [
+					"mage hand"
+				],
+				"ability": "int"
+			}
 		},
 		{
 			"name": "Prosthetic Limb",
@@ -46220,9 +45612,6 @@
 			"source": "DMG",
 			"page": 258,
 			"srd": true,
-			"referenceSources": [
-				"OotA"
-			],
 			"reprintedAs": [
 				"Purple Worm Poison|XDMG"
 			],
@@ -47947,9 +47336,6 @@
 			"source": "DMG",
 			"page": 190,
 			"srd": true,
-			"referenceSources": [
-				"OotA"
-			],
 			"reprintedAs": [
 				"Ring of Elemental Command (Earth)|XDMG"
 			],
@@ -48586,7 +47972,6 @@
 			"referenceSources": [
 				"CRCotN",
 				"GoS",
-				"OotA",
 				"OoW"
 			],
 			"reprintedAs": [
@@ -48956,7 +48341,6 @@
 				"CoA",
 				"HftT",
 				"LMoP",
-				"OotA",
 				"QftIS",
 				"RMBRE",
 				"SKT",
@@ -49459,8 +48843,7 @@
 				"CM",
 				"CRCotN",
 				"GoS",
-				"PotA",
-				"WDMM"
+				"PotA"
 			],
 			"reprintedAs": [
 				"Ring of Swimming|XDMG"
@@ -49870,7 +49253,6 @@
 			"page": 193,
 			"srd": true,
 			"referenceSources": [
-				"OotA",
 				"SLW"
 			],
 			"reprintedAs": [
@@ -50023,8 +49405,7 @@
 			"srd": true,
 			"referenceSources": [
 				"BGDIA",
-				"TftYP-WPM",
-				"WDMM"
+				"TftYP-WPM"
 			],
 			"reprintedAs": [
 				"Ring of X-ray Vision|XDMG"
@@ -50120,9 +49501,7 @@
 			"referenceSources": [
 				"CM",
 				"CoA",
-				"OotA",
-				"RtG",
-				"WDMM"
+				"RtG"
 			],
 			"reprintedAs": [
 				"Robe of Eyes|XDMG"
@@ -50917,8 +50296,7 @@
 			"page": 196,
 			"srd": true,
 			"referenceSources": [
-				"BGDIA",
-				"WDMM"
+				"BGDIA"
 			],
 			"reprintedAs": [
 				"Rod of Lordly Might|XDMG"
@@ -51190,8 +50568,7 @@
 			"page": 197,
 			"srd": true,
 			"referenceSources": [
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Rod of Rulership|XDMG"
@@ -51496,8 +50873,7 @@
 			"page": 197,
 			"srd": true,
 			"referenceSources": [
-				"VEoR",
-				"WDMM"
+				"VEoR"
 			],
 			"reprintedAs": [
 				"Rope of Climbing|XDMG"
@@ -52822,7 +52198,6 @@
 			"srd": true,
 			"referenceSources": [
 				"LRDT",
-				"OotA",
 				"QftIS",
 				"SDW"
 			],
@@ -53706,8 +53081,7 @@
 				"KftGV",
 				"LoX",
 				"SKT",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Sending Stones|XDMG"
@@ -53808,8 +53182,7 @@
 			"referenceSources": [
 				"CRCotN",
 				"LRDT",
-				"OoW",
-				"WDMM"
+				"OoW"
 			],
 			"reprintedAs": [
 				"Sentinel Shield|XDMG"
@@ -54770,59 +54143,6 @@
 				}
 			],
 			"hasFluffImages": true
-		},
-		{
-			"name": "Shield of the Uven Rune",
-			"source": "WDMM",
-			"page": 299,
-			"type": "S",
-			"immune": [
-				"cold"
-			],
-			"rarity": "very rare",
-			"reqAttune": true,
-			"weight": 6,
-			"ac": 2,
-			"bonusWeapon": "+1",
-			"entries": [
-				"This shield is made from the scale of an ancient white dragon. It has a rune burned into its outward-facing side. A character who examines the rune and succeeds on a {@dc 20} Intelligence ({@skill History}) check recognizes it as an uven (\"enemy\" in Giant) rune that confers great power.",
-				"While holding the shield, you benefit from the following properties.",
-				{
-					"type": "entries",
-					"name": "Winter's Friend",
-					"entries": [
-						"You are immune to cold damage."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Deadly Rebuke",
-					"entries": [
-						"Immediately after a creature hits you with a melee attack, you can use your reaction to deal {@damage 3d6} necrotic damage to that creature."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Bane",
-					"entries": [
-						"You can cast the {@spell bane} spell from the shield (save {@dc 17}). The spell does not require {@status concentration} and lasts for 1 minute. Once you cast the spell from the shield, you can't do so again until you finish a short or long rest."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Gift of Vengeance",
-					"entries": [
-						"You can transfer the shield's magic to a nonmagical weapon by tracing the uven rune on the weapon with one finger. The transfer takes 8 hours of work that requires the two items to be within 5 feet of each other. At the end, the shield is destroyed, and the rune is etched or burned into the chosen weapon. This weapon becomes a rare magic item that requires attunement. It has the properties of a +1 weapon. The bonus increases to +3 when the weapon is used against one of the following creature types, chosen by you at the time of the magic weapon's creation: aberrations, celestials, constructs, dragons, elementals, fey, fiends, giants, or undead."
-					]
-				}
-			],
-			"attachedSpells": {
-				"rest": {
-					"1e": [
-						"bane"
-					]
-				}
-			}
 		},
 		{
 			"name": "Shiftweave",
@@ -56034,8 +55354,7 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"type": "G",
 			"rarity": "none",
@@ -56159,10 +55478,8 @@
 				"GoS",
 				"IDRotF",
 				"JttRC",
-				"OotA",
 				"ToA",
-				"WBtW",
-				"WDMM"
+				"WBtW"
 			],
 			"reprintedAs": [
 				"Sovereign Glue|XDMG"
@@ -56533,166 +55850,6 @@
 				"If you're holding the empty bottle when you see a creature casting a spell within 60 feet of you, you can open the bottle as a reaction in an attempt to interrupt the spell. If the creature is casting a spell of 3rd level or lower, the spell has no effect, and it is stored in the bottle. If it is casting a spell of 4th level or higher, make an Intelligence check. The DC equals 10 + the spell's level. On a success, the spell has no effect, and it is stored in the bottle."
 			],
 			"hasFluffImages": true
-		},
-		{
-			"name": "Spell Gem (Amber)",
-			"source": "OotA",
-			"page": 223,
-			"rarity": "very rare",
-			"reqAttune": "optional",
-			"wondrous": true,
-			"entries": [
-				"An amber spell gem can contain one spell from any class's spell list. You become aware of the spell when you learn the gem's properties. While holding the gem, you can cast the spell from it as an action if you know the spell or if the spell is on your class's spell list. Doing so doesn't require any components, and doesn't require attunement. The spell then disappears from the gem.",
-				"If the spell is of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the gem with no other effect.",
-				"An amber spell gem can store up to 4th level spells. Spells cast from the spell gem have a save DC of 15 and an attack bonus of {@hit 9}.",
-				"You can imbue the gem with a spell if you're attuned to it and it's empty. To do so, you cast the spell while holding the gem. The spell is stored in the gem instead of having any effect. Casting the spell must require either 1 action or 1 minute or longer, and the spell's level must be no higher than the gem's maximum. If the spell belongs to the school of abjuration and requires material components that are consumed, you must provide them, but they can be worth half as much as normal.",
-				"Once imbued with a spell, the gem can't be imbued again until the next dawn.",
-				"Deep gnomes created these magic gemstones and keep the creation process a secret."
-			]
-		},
-		{
-			"name": "Spell Gem (Bloodstone)",
-			"source": "OotA",
-			"page": 223,
-			"rarity": "rare",
-			"reqAttune": "optional",
-			"wondrous": true,
-			"entries": [
-				"A bloodstone spell gem can contain one spell from any class's spell list. You become aware of the spell when you learn the gem's properties. While holding the gem, you can cast the spell from it as an action if you know the spell or if the spell is on your class's spell list. Doing so doesn't require any components, and doesn't require attunement. The spell then disappears from the gem.",
-				"If the spell is of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the gem with no other effect.",
-				"A bloodstone spell gem can store up to 3rd level spells. Spells cast from the spell gem have a save DC of 15 and an attack bonus of {@hit 7}.",
-				"You can imbue the gem with a spell if you're attuned to it and it's empty. To do so, you cast the spell while holding the gem. The spell is stored in the gem instead of having any effect. Casting the spell must require either 1 action or 1 minute or longer, and the spell's level must be no higher than the gem's maximum. If the spell belongs to the school of abjuration and requires material components that are consumed, you must provide them, but they can be worth half as much as normal.",
-				"Once imbued with a spell, the gem can't be imbued again until the next dawn.",
-				"Deep gnomes created these magic gemstones and keep the creation process a secret."
-			]
-		},
-		{
-			"name": "Spell Gem (Diamond)",
-			"source": "OotA",
-			"page": 223,
-			"rarity": "legendary",
-			"reqAttune": "optional",
-			"wondrous": true,
-			"entries": [
-				"A diamond spell gem can contain one spell from any class's spell list. You become aware of the spell when you learn the gem's properties. While holding the gem, you can cast the spell from it as an action if you know the spell or if the spell is on your class's spell list. Doing so doesn't require any components, and doesn't require attunement. The spell then disappears from the gem.",
-				"If the spell is of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the gem with no other effect.",
-				"A diamond spell gem can store up to 9th level spells. Spells cast from the spell gem have a save DC of 19 and an attack bonus of {@hit 11}.",
-				"You can imbue the gem with a spell if you're attuned to it and it's empty. To do so, you cast the spell while holding the gem. The spell is stored in the gem instead of having any effect. Casting the spell must require either 1 action or 1 minute or longer, and the spell's level must be no higher than the gem's maximum. If the spell belongs to the school of abjuration and requires material components that are consumed, you must provide them, but they can be worth half as much as normal.",
-				"Once imbued with a spell, the gem can't be imbued again until the next dawn.",
-				"Deep gnomes created these magic gemstones and keep the creation process a secret."
-			]
-		},
-		{
-			"name": "Spell Gem (Jade)",
-			"source": "OotA",
-			"page": 223,
-			"rarity": "very rare",
-			"reqAttune": "optional",
-			"wondrous": true,
-			"entries": [
-				"A jade spell gem can contain one spell from any class's spell list. You become aware of the spell when you learn the gem's properties. While holding the gem, you can cast the spell from it as an action if you know the spell or if the spell is on your class's spell list. Doing so doesn't require any components, and doesn't require attunement. The spell then disappears from the gem.",
-				"If the spell is of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the gem with no other effect.",
-				"A jade spell gem can store up to 5th level spells. Spells cast from the spell gem have a save DC of 17 and an attack bonus of {@hit 9}.",
-				"You can imbue the gem with a spell if you're attuned to it and it's empty. To do so, you cast the spell while holding the gem. The spell is stored in the gem instead of having any effect. Casting the spell must require either 1 action or 1 minute or longer, and the spell's level must be no higher than the gem's maximum. If the spell belongs to the school of abjuration and requires material components that are consumed, you must provide them, but they can be worth half as much as normal.",
-				"Once imbued with a spell, the gem can't be imbued again until the next dawn.",
-				"Deep gnomes created these magic gemstones and keep the creation process a secret."
-			]
-		},
-		{
-			"name": "Spell Gem (Lapis lazuli)",
-			"source": "OotA",
-			"page": 223,
-			"rarity": "uncommon",
-			"reqAttune": "optional",
-			"wondrous": true,
-			"entries": [
-				"A lapis lazuli spell gem can contain one spell from any class's spell list. You become aware of the spell when you learn the gem's properties. While holding the gem, you can cast the spell from it as an action if you know the spell or if the spell is on your class's spell list. Doing so doesn't require any components, and doesn't require attunement. The spell then disappears from the gem.",
-				"If the spell is of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the gem with no other effect.",
-				"A lapis lazuli spell gem can store up to 1st level spells. Spells cast from the spell gem have a save DC of 13 and an attack bonus of {@hit 5}.",
-				"You can imbue the gem with a spell if you're attuned to it and it's empty. To do so, you cast the spell while holding the gem. The spell is stored in the gem instead of having any effect. Casting the spell must require either 1 action or 1 minute or longer, and the spell's level must be no higher than the gem's maximum. If the spell belongs to the school of abjuration and requires material components that are consumed, you must provide them, but they can be worth half as much as normal.",
-				"Once imbued with a spell, the gem can't be imbued again until the next dawn.",
-				"Deep gnomes created these magic gemstones and keep the creation process a secret."
-			]
-		},
-		{
-			"name": "Spell Gem (Obsidian)",
-			"source": "OotA",
-			"page": 223,
-			"rarity": "uncommon",
-			"reqAttune": "optional",
-			"wondrous": true,
-			"entries": [
-				"An obsidian spell gem can contain one cantrip from any class's spell list. You become aware of the spell when you learn the gem's properties. While holding the gem, you can cast the spell from it as an action if you know the spell or if the spell is on your class's spell list. Doing so doesn't require any components, and doesn't require attunement. The spell then disappears from the gem.",
-				"If the spell is of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the gem with no other effect.",
-				"An obsidian spell gem can only store cantrips. Cantrips cast from the spell gem have a save DC of 13 and an attack bonus of {@hit 5}.",
-				"You can imbue the gem with a spell if you're attuned to it and it's empty. To do so, you cast the spell while holding the gem. The spell is stored in the gem instead of having any effect. Casting the spell must require either 1 action or 1 minute or longer, and the spell's level must be no higher than the gem's maximum. If the spell belongs to the school of abjuration and requires material components that are consumed, you must provide them, but they can be worth half as much as normal.",
-				"Once imbued with a spell, the gem can't be imbued again until the next dawn.",
-				"Deep gnomes created these magic gemstones and keep the creation process a secret."
-			]
-		},
-		{
-			"name": "Spell Gem (Quartz)",
-			"source": "OotA",
-			"page": 223,
-			"rarity": "rare",
-			"reqAttune": "optional",
-			"wondrous": true,
-			"entries": [
-				"A quartz spell gem can contain one spell from any class's spell list. You become aware of the spell when you learn the gem's properties. While holding the gem, you can cast the spell from it as an action if you know the spell or if the spell is on your class's spell list. Doing so doesn't require any components, and doesn't require attunement. The spell then disappears from the gem.",
-				"If the spell is of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the gem with no other effect.",
-				"A quartz spell gem can store up to 2nd level spells. Spells cast from the spell gem have a save DC of 13 and an attack bonus of {@hit 5}.",
-				"You can imbue the gem with a spell if you're attuned to it and it's empty. To do so, you cast the spell while holding the gem. The spell is stored in the gem instead of having any effect. Casting the spell must require either 1 action or 1 minute or longer, and the spell's level must be no higher than the gem's maximum. If the spell belongs to the school of abjuration and requires material components that are consumed, you must provide them, but they can be worth half as much as normal.",
-				"Once imbued with a spell, the gem can't be imbued again until the next dawn.",
-				"Deep gnomes created these magic gemstones and keep the creation process a secret."
-			]
-		},
-		{
-			"name": "Spell Gem (Ruby)",
-			"source": "OotA",
-			"page": 223,
-			"rarity": "legendary",
-			"reqAttune": "optional",
-			"wondrous": true,
-			"entries": [
-				"A ruby spell gem can contain one spell from any class's spell list. You become aware of the spell when you learn the gem's properties. While holding the gem, you can cast the spell from it as an action if you know the spell or if the spell is on your class's spell list. Doing so doesn't require any components, and doesn't require attunement. The spell then disappears from the gem.",
-				"If the spell is of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the gem with no other effect.",
-				"A ruby spell gem can store up to 8th level spells. Spells cast from the spell gem have a save DC of 18 and an attack bonus of {@hit 10}.",
-				"You can imbue the gem with a spell if you're attuned to it and it's empty. To do so, you cast the spell while holding the gem. The spell is stored in the gem instead of having any effect. Casting the spell must require either 1 action or 1 minute or longer, and the spell's level must be no higher than the gem's maximum. If the spell belongs to the school of abjuration and requires material components that are consumed, you must provide them, but they can be worth half as much as normal.",
-				"Once imbued with a spell, the gem can't be imbued again until the next dawn.",
-				"Deep gnomes created these magic gemstones and keep the creation process a secret."
-			]
-		},
-		{
-			"name": "Spell Gem (Star ruby)",
-			"source": "OotA",
-			"page": 223,
-			"rarity": "legendary",
-			"reqAttune": "optional",
-			"wondrous": true,
-			"entries": [
-				"A star ruby spell gem can contain one spell from any class's spell list. You become aware of the spell when you learn the gem's properties. While holding the gem, you can cast the spell from it as an action if you know the spell or if the spell is on your class's spell list. Doing so doesn't require any components, and doesn't require attunement. The spell then disappears from the gem.",
-				"If the spell is of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the gem with no other effect.",
-				"A star ruby spell gem can store up to 7th level spells. Spells cast from the spell gem have a save DC of 18 and an attack bonus of {@hit 10}.",
-				"You can imbue the gem with a spell if you're attuned to it and it's empty. To do so, you cast the spell while holding the gem. The spell is stored in the gem instead of having any effect. Casting the spell must require either 1 action or 1 minute or longer, and the spell's level must be no higher than the gem's maximum. If the spell belongs to the school of abjuration and requires material components that are consumed, you must provide them, but they can be worth half as much as normal.",
-				"Once imbued with a spell, the gem can't be imbued again until the next dawn.",
-				"Deep gnomes created these magic gemstones and keep the creation process a secret."
-			]
-		},
-		{
-			"name": "Spell Gem (Topaz)",
-			"source": "OotA",
-			"page": 223,
-			"rarity": "very rare",
-			"reqAttune": "optional",
-			"wondrous": true,
-			"entries": [
-				"A topaz spell gem can contain one spell from any class's spell list. You become aware of the spell when you learn the gem's properties. While holding the gem, you can cast the spell from it as an action if you know the spell or if the spell is on your class's spell list. Doing so doesn't require any components, and doesn't require attunement. The spell then disappears from the gem.",
-				"If the spell is of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell's level. On a failed check, the spell disappears from the gem with no other effect.",
-				"A topaz spell gem can store up to 6th level spells. Spells cast from the spell gem have a save DC of 17 and an attack bonus of {@hit 10}.",
-				"You can imbue the gem with a spell if you're attuned to it and it's empty. To do so, you cast the spell while holding the gem. The spell is stored in the gem instead of having any effect. Casting the spell must require either 1 action or 1 minute or longer, and the spell's level must be no higher than the gem's maximum. If the spell belongs to the school of abjuration and requires material components that are consumed, you must provide them, but they can be worth half as much as normal.",
-				"Once imbued with a spell, the gem can't be imbued again until the next dawn.",
-				"Deep gnomes created these magic gemstones and keep the creation process a secret."
-			]
 		},
 		{
 			"name": "Spell Scroll (1st Level)",
@@ -58705,8 +57862,7 @@
 				"IDRotF",
 				"JttRC",
 				"LRDT",
-				"TftYP-AtG",
-				"WDMM"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Staff of Frost|XDMG"
@@ -59031,8 +58187,7 @@
 				"IDRotF",
 				"KftGV",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Staff of Power|XDMG"
@@ -60414,9 +59569,6 @@
 			"source": "DMG",
 			"page": 204,
 			"srd": true,
-			"referenceSources": [
-				"WDMM"
-			],
 			"reprintedAs": [
 				"Staff of Thunder and Lightning|XDMG"
 			],
@@ -60922,8 +60074,7 @@
 			"page": 205,
 			"srd": true,
 			"referenceSources": [
-				"JttRC",
-				"OotA"
+				"JttRC"
 			],
 			"reprintedAs": [
 				"Stone of Controlling Earth Elementals|XDMG"
@@ -61283,37 +60434,6 @@
 			}
 		},
 		{
-			"name": "Stonespeaker Crystal",
-			"source": "OotA",
-			"page": 223,
-			"rarity": "rare",
-			"reqAttune": true,
-			"wondrous": true,
-			"recharge": "dawn",
-			"rechargeAmount": "{@dice 1d6 + 4}",
-			"charges": 10,
-			"entries": [
-				"Created by the stone giant librarians of Gravenhollow, this nineteen-inch-long shard of quartz grants you advantage on Intelligence ({@skill Investigation}) checks while it is on your person.",
-				"The crystal has 10 charges. While holding it, you can use an action to expend some of its charges to cast one of the following spells from it: {@spell speak with animals} (2 charges), {@spell speak with dead} (4 charges), or {@spell speak with plants} (3 charges).",
-				"When you cast a {@filter divination|spells|school=D} spell, you can use the crystal in place of one material component that would normally be consumed by the spell, at a cost of 1 charge per level of the spell. The crystal is not consumed when used in this way.",
-				"The crystal regains {@dice 1d6 + 4} expended charges daily at dawn. If you expend the crystal's last charge, roll a {@dice d20}. On a 1, the crystal vanishes, lost forever."
-			],
-			"attachedSpells": {
-				"charges": {
-					"2": [
-						"speak with animals"
-					],
-					"3": [
-						"speak with plants"
-					],
-					"4": [
-						"speak with dead"
-					]
-				}
-			},
-			"hasFluffImages": true
-		},
-		{
 			"name": "Stonky's ring",
 			"source": "CM",
 			"page": 132,
@@ -61507,8 +60627,7 @@
 			"referenceSources": [
 				"CM",
 				"CoA",
-				"JttRC",
-				"WDMM"
+				"JttRC"
 			],
 			"reprintedAs": [
 				"Sun Blade|XDMG"
@@ -62928,16 +62047,6 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Tangler Grenade",
-			"source": "WDMM",
-			"page": 244,
-			"type": "OTH",
-			"rarity": "none",
-			"entries": [
-				"A tangler grenade is an alchemical, nonmagical item with an ovoid resin shell that shatters on impact. An as action, a creature can throw a tangler grenade at a point up to 60 feet away. Each creature within 10 feet of a shattered tangler grenade must succeed on a {@dc 15} Dexterity saving throw or be {@condition restrained} by sticky white webs. As an action, a creature can try to free itself or another creature within its reach from the webs, doing so with a successful {@dc 20} Strength ({@skill Athletics}) check. A gallon of alcohol dissolves the webs produced by a single tangler grenade. Otherwise, the webs dissolve on their own after 1 hour, freeing any creatures {@condition restrained} by them."
-			]
-		},
-		{
 			"name": "Tankard",
 			"source": "PHB",
 			"page": 153,
@@ -63028,75 +62137,6 @@
 				"Tasha's Creeping Keelboat|DitLCoT"
 			],
 			"hasFluffImages": true
-		},
-		{
-			"name": "Tearulai",
-			"source": "WDMM",
-			"page": 70,
-			"baseItem": "longsword|phb",
-			"type": "M",
-			"rarity": "very rare",
-			"reqAttune": true,
-			"sentient": true,
-			"weight": 3,
-			"weaponCategory": "martial",
-			"property": [
-				"V"
-			],
-			"dmg1": "1d8",
-			"dmgType": "S",
-			"dmg2": "1d10",
-			"recharge": "dawn",
-			"rechargeAmount": "{@dice 1d4 + 2}",
-			"charges": 6,
-			"entries": [
-				"The longsword, Tearulai, is a sentient, neutral good {@item sword of sharpness} with an emerald-colored blade and precious gemstones embedded in its hilt and pommel. The sword's magical properties are suppressed until it is removed from Valdemar's skull.",
-				"Evil creatures can't attune to Tearulai; any evil creature that tries to do so takes 20 psychic damage. The weapon's emerald blade can't be damaged or dulled, and the sword can't be teleported anywhere without its wielder while the two are attuned to one another.",
-				{
-					"type": "entries",
-					"name": "Spells",
-					"entries": [
-						"The sword has 6 charges and regains {@dice 1d4 + 2} expended charges daily at dawn. A creature attuned to the sword can use an action and expend 1 or more charges to cast one of the following spells from it without material components: {@spell fly} (2 charges), {@spell polymorph} (3 charges), or {@spell transport via plants} (4 charges)."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Sentience",
-					"entries": [
-						"The sword has an Intelligence of 17, a Wisdom of 12, and a Charisma of 20. It has hearing and {@sense truesight} out to a range of 120 feet. It communicates telepathically with its attuned wielder and can speak, read, and understand Common, Draconic, Elvish, and Sylvan. In addition, the sword can ascertain the true value of any gemstone brought within 5 feet of it."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Personality",
-					"entries": [
-						"Tearulai admires great beauty, music, fine art, and poetry. Vain, the weapon strives to improve its appearance. It craves gemstones and seeks out better ones with which to adorn itself. Most of all, it longs to return to the forests around Myth Drannor, where it was created. If its wielder's goals run counter to its own, Tearulai attempts to take control of its wielder and escape Undermountain, whereupon it can use its {@spell transport via plants} spell to return whence it came."
-					]
-				},
-				"When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.",
-				"When you attack a creature with this weapon and roll a 20 on the attack roll, that target takes an extra 14 slashing damage. Then roll another {@dice d20}. If you roll a 20, you lop off one of the target's limbs, with the effect of such loss determined by the DM. If the creature has no limb to sever, you lop off a portion of its body instead.",
-				"{@note Note: According to the SRD, it is an extra {@damage 4d6} slashing damage, although {@link this is incorrect|https://rpg.stackexchange.com/a/174522/53884}}.",
-				"In addition, you can speak the sword's command to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light."
-			],
-			"light": [
-				{
-					"bright": 10,
-					"dim": 20
-				}
-			],
-			"attachedSpells": {
-				"charges": {
-					"2": [
-						"fly"
-					],
-					"3": [
-						"polymorph"
-					],
-					"4": [
-						"transport via plants"
-					]
-				}
-			}
 		},
 		{
 			"name": "Teeth of Dahlver-Nar",
@@ -63414,7 +62454,6 @@
 			"page": 208,
 			"referenceSources": [
 				"GoS",
-				"OotA",
 				"PotA",
 				"TftYP-AtG"
 			],
@@ -63711,7 +62750,6 @@
 				"SLW",
 				"ToA",
 				"WDH",
-				"WDMM",
 				"XMtS"
 			],
 			"reprintedAs": [
@@ -64202,8 +63240,7 @@
 				"CoA",
 				"LRDT",
 				"QftIS",
-				"TftYP-AtG",
-				"WDMM"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Tome of Clear Thought|XDMG"
@@ -65401,8 +64438,7 @@
 				"BGDIA",
 				"CM",
 				"ToFW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Trinket|XPHB"
@@ -66639,8 +65675,7 @@
 			"page": 209,
 			"srd": true,
 			"referenceSources": [
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Universal Solvent|XDMG"
@@ -66681,22 +65716,6 @@
 			"rarity": "unknown (magic)",
 			"entries": [
 				"This battle-worn but unbroken standard bears the insignia of one of the forces of the Legion of Dusk. A creature that holds the vanquisher's banner can use a bonus action to grant an ally advantage on the ally's next attack roll, saving throw, or ability check."
-			]
-		},
-		{
-			"name": "Vanrak's Mithral Shirt",
-			"source": "WDMM",
-			"page": 237,
-			"baseItem": "chain shirt|phb",
-			"type": "MA",
-			"rarity": "uncommon",
-			"weight": 20,
-			"ac": 13,
-			"strength": null,
-			"stealth": false,
-			"entries": [
-				"Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity ({@skill Stealth}) checks or has a Strength requirement, the mithral version of the armor doesn't.",
-				"While you wear this armor, you gain {@sense darkvision} out to a range of 60 feet."
 			]
 		},
 		{
@@ -66936,19 +65955,6 @@
 			],
 			"miscTags": [
 				"CNS"
-			]
-		},
-		{
-			"name": "Vial of Stardust",
-			"source": "WDMM",
-			"page": 251,
-			"type": "OTH",
-			"rarity": "unknown",
-			"entries": [
-				"Any creature that sprinkles the contents of a Vial of Stardust over itself gains the ability to cast the {@spell dream} spell once as an action (spell save {@dc 15}), requiring no components."
-			],
-			"attachedSpells": [
-				"dream"
 			]
 		},
 		{
@@ -67350,9 +66356,6 @@
 			"name": "Wand of Conducting",
 			"source": "XGE",
 			"page": 140,
-			"referenceSources": [
-				"WDMM"
-			],
 			"reprintedAs": [
 				"Wand of Conducting|XDMG"
 			],
@@ -67586,8 +66589,7 @@
 			"referenceSources": [
 				"CoA",
 				"OoW",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Wand of Fireballs|XDMG"
@@ -67757,8 +66759,7 @@
 				"PaBTSO",
 				"QftIS",
 				"SDW",
-				"US",
-				"WDMM"
+				"US"
 			],
 			"reprintedAs": [
 				"Wand of Magic Detection|XDMG"
@@ -67912,8 +66913,7 @@
 			"source": "DMG",
 			"page": 227,
 			"referenceSources": [
-				"IDRotF",
-				"OotA"
+				"IDRotF"
 			],
 			"reprintedAs": [
 				"Wand of Orcus|XDMG"
@@ -68404,8 +67404,7 @@
 				"SCC-TMM",
 				"ToA",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Wand of Secrets|XDMG"
@@ -68475,24 +67474,6 @@
 			"entries": [
 				"This wand has 3 charges. While holding it, you can use an action to expend 1 of its charges and target a humanoid you can see within 30 feet of you. The target must succeed on a {@dc 10} Charisma saving throw or be forced to smile for 1 minute.",
 				"The wand regains all expended charges daily at dawn. If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand transforms into a {@item wand of scowls|xge}."
-			]
-		},
-		{
-			"name": "Wand of Viscid Globs",
-			"source": "OotA",
-			"page": 223,
-			"type": "WD|DMG",
-			"rarity": "rare",
-			"reqAttune": true,
-			"weight": 1,
-			"recharge": "midnight",
-			"rechargeAmount": "{@dice 1d6 + 1}",
-			"charges": 7,
-			"entries": [
-				"Crafted by the {@creature drow}, this slim black wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cause a small glob of viscous material to launch from the tip at one creature within 60 feet of you. Make a ranged attack roll against the target, with a bonus equal to your spellcasting modifier (or your Intelligence modifier, if you don't have a spellcasting modifier) plus your proficiency bonus. On a hit, the glob expands and dries on the target, which is {@condition restrained} for 1 hour. After that time, the viscous material cracks and falls away.",
-				"Applying a pint or more of alcohol to the {@condition restrained} creature dissolves the glob instantly, as does the application of {@item oil of etherealness} or {@item universal solvent}. The glob also dissolves instantly if exposed to sunlight. No other nonmagical process can remove the viscous material until it deteriorates on its own.",
-				"The wand regains {@dice 1d6 + 1} expended charges daily at midnight. If you expend the wands last charge, roll a {@dice d20}. On a 1, the wand melts into harmless slime and is destroyed.",
-				"A wand of viscous globs is destroyed if exposed to sunlight for 1 hour without interruption."
 			]
 		},
 		{
@@ -68627,8 +67608,7 @@
 				"CoA",
 				"CRCotN",
 				"ToA",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Wand of Wonder|XDMG"
@@ -69127,8 +68107,7 @@
 			"referenceSources": [
 				"DIP",
 				"TftYP-TSC",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Waterskin|XPHB"
@@ -70744,22 +69723,6 @@
 			]
 		},
 		{
-			"name": "Wyllow's Staff of Flowers",
-			"source": "WDMM",
-			"page": 75,
-			"_copy": {
-				"name": "Staff of Flowers",
-				"source": "XGE",
-				"_mod": {
-					"entries": {
-						"mode": "appendArr",
-						"items": "Wyllow's staff is peculiar in that it can't create roses, which the archdruid dislikes. If a rose is chosen, a daisy grows instead."
-					}
-				}
-			},
-			"reqAttune": true
-		},
-		{
 			"name": "Wyrmreaver Gauntlets",
 			"source": "BGG",
 			"page": 117,
@@ -71336,8 +70299,7 @@
 			"source": "DMG",
 			"page": 162,
 			"referenceSources": [
-				"RoT",
-				"WDMM"
+				"RoT"
 			],
 			"reprintedAs": [
 				"Armor of Resistance|XDMG"
@@ -72166,9 +71128,7 @@
 			"page": 167,
 			"referenceSources": [
 				"DSotDQ",
-				"OotA",
-				"RoT",
-				"WDMM"
+				"RoT"
 			],
 			"reprintedAs": [
 				"Elemental Gem|XDMG"
@@ -72723,8 +71683,7 @@
 			"referenceSources": [
 				"PotA",
 				"RtG",
-				"SKT",
-				"WDMM"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Figurine of Wondrous Power|XDMG"
@@ -72988,8 +71947,7 @@
 			"source": "DMG",
 			"page": 175,
 			"referenceSources": [
-				"TftYP-AtG",
-				"WDMM"
+				"TftYP-AtG"
 			],
 			"reprintedAs": [
 				"Horn of Valhalla|XDMG"
@@ -73165,8 +72123,7 @@
 			"referenceSources": [
 				"CoS",
 				"SKT",
-				"ToA",
-				"WDMM"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Instrument of the Bards|XDMG"
@@ -73701,9 +72658,6 @@
 			"name": "Potion of Giant Strength",
 			"source": "DMG",
 			"page": 187,
-			"referenceSources": [
-				"WDMM"
-			],
 			"reprintedAs": [
 				"Potion of Giant Strength|XDMG"
 			],
@@ -73795,8 +72749,7 @@
 				"DoSI",
 				"IDRotF",
 				"KftGV",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Potion of Resistance|XDMG"
@@ -73973,8 +72926,7 @@
 			"page": 188,
 			"referenceSources": [
 				"GoS",
-				"ToFW",
-				"WDMM"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Quaal's Feather Token|XDMG"
@@ -74510,7 +73462,6 @@
 			"page": 199,
 			"referenceSources": [
 				"CoS",
-				"OotA",
 				"RoT",
 				"TftYP-AtG",
 				"TftYP-THSoT",
@@ -74844,26 +73795,6 @@
 			]
 		},
 		{
-			"name": "Spell Gem",
-			"source": "OotA",
-			"page": 223,
-			"rarity": "varies",
-			"reqAttune": "optional",
-			"wondrous": true,
-			"items": [
-				"Spell Gem (Amber)|OotA",
-				"Spell Gem (Bloodstone)|OotA",
-				"Spell Gem (Diamond)|OotA",
-				"Spell Gem (Jade)|OotA",
-				"Spell Gem (Lapis lazuli)|OotA",
-				"Spell Gem (Obsidian)|OotA",
-				"Spell Gem (Quartz)|OotA",
-				"Spell Gem (Ruby)|OotA",
-				"Spell Gem (Star ruby)|OotA",
-				"Spell Gem (Topaz)|OotA"
-			]
-		},
-		{
 			"name": "Spell Scroll",
 			"source": "DMG",
 			"page": 200,
@@ -74890,7 +73821,6 @@
 				"LoX",
 				"LRDT",
 				"MOT",
-				"OotA",
 				"OoW",
 				"PotA",
 				"QftIS",
@@ -74913,8 +73843,7 @@
 				"VEoR",
 				"VNotEE",
 				"WBtW",
-				"WDH",
-				"WDMM"
+				"WDH"
 			],
 			"reprintedAs": [
 				"Spell Scroll|XPHB",

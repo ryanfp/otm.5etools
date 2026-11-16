@@ -123,17 +123,6 @@
 			]
 		},
 		{
-			"name": "Deep Delver",
-			"source": "OotA",
-			"page": 221,
-			"optionType": [
-				"RF:B"
-			],
-			"entries": [
-				"You have a knack for making your way in the deep places of the world. You can recall the twists and turns of passageways and tunnels such that you can always retrace your steps underground. You're also well acquainted with foraging and survival in the Underdark, and can determine when sources of food and water are safe to consume. You can always find sufficient food and water for yourself and up to five other people in the Underdark, as long as sustenance is available in the area."
-			]
-		},
-		{
 			"name": "Doppelganger",
 			"source": "IDRotF",
 			"page": 264,
@@ -1730,17 +1719,6 @@
 			],
 			"entries": [
 				"You come from somewhere else, a place others couldn't begin to understand. Perhaps your home is a unique corner of the Land of the Mists or another world entirely. In any case, you and other travelers have shared experiences. You can find a place to hide, rest, or recuperate among sympathetic trading caravans, itinerant families, or displaced groups, so long as you don't present yourself as a danger. Such groups will hide you from the law or anyone searching for you, though they won't risk their lives for you. Additionally, you can tell whether an object you can see and touch is from your homeland with near perfect accuracy."
-			]
-		},
-		{
-			"name": "Underdark Experience",
-			"source": "OotA",
-			"page": 221,
-			"optionType": [
-				"RF:B"
-			],
-			"entries": [
-				"You are no casual visitor to the Underdark, but instead have spent considerable time there learning its ways. You are familiar with the various races, civilizations, and settlements of the Underdark, as well as its major routes for travel. If you fail an Intelligence check to recall some piece of Underdark lore, you know a source you can consult for the answer unless the DM rules that the lore is unknown."
 			]
 		},
 		{

@@ -367,12 +367,12 @@
 								{
 									"type": "item",
 									"name": "8: Treasure",
-									"entry": "8: Treasure. Jennifer draws the {@card Gem|Deck of Many More Things|DMTCRG} card for the adventure's reward, which indicates precious gemstones or a magical gem. She decides a treasury in the gatehouse has a store of precious gemstones; she uses the tables in the Dungeon Master's Guide to generate a treasure hoard of gems appropriate for the characters. She also adds a {@item Spell Gem|OotA} (a magic item described in Out of the Abyss) to make the treasure more memorable."
+									"entry": "8: Treasure. Jennifer draws the {@card Gem|Deck of Many More Things|DMTCRG} card for the adventure's reward, which indicates precious gemstones or a magical gem. She decides a treasury in the gatehouse has a store of precious gemstones; she uses the tables in the Dungeon Master's Guide to generate a treasure hoard of gems appropriate for the characters. She also adds a spell gem (a magic item described in Out of the Abyss) to make the treasure more memorable."
 								},
 								{
 									"type": "item",
 									"name": "9: Guardian",
-									"entry": "For the Guardian card. Jennifer draws the {@card Balance|Deck of Many More Things|DMTCRG} card, suggesting an impartial enemy like a Construct or Beast. After a quick search of the Monster Manual, Jennifer decides that a {@creature helmed horror|MM} is perfect for her party. She decides the goblins must've fought the helmed horror's creator, and now the Construct is rampaging through the gatehouse to satisfy its creator's final command: \"Avenge me!\" Jennifer places the {@item Spell Gem|OotA} in the helmed horror's helmet; the Construct can use this gem, but without its creator to recharge it, that's a trick that works only once, If the heroes defeat the helmed horror, they can claim the {@item Spell Gem|OotA} for themselves."
+									"entry": "For the Guardian card. Jennifer draws the {@card Balance|Deck of Many More Things|DMTCRG} card, suggesting an impartial enemy like a Construct or Beast. After a quick search of the Monster Manual, Jennifer decides that a {@creature helmed horror|MM} is perfect for her party. She decides the goblins must've fought the helmed horror's creator, and now the Construct is rampaging through the gatehouse to satisfy its creator's final command: \"Avenge me!\" Jennifer places the spell gem in the helmed horror's helmet; the Construct can use this gem, but without its creator to recharge it, that's a trick that works only once, If the heroes defeat the helmed horror, they can claim the spell gem for themselves."
 								}
 							]
 						},

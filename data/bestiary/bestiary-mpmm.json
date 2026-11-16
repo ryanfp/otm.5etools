@@ -1707,12 +1707,6 @@
 			"name": "Archdruid",
 			"source": "MPMM",
 			"page": 48,
-			"otherSources": [
-				{
-					"source": "WDMM",
-					"page": 311
-				}
-			],
 			"size": [
 				"M"
 			],
@@ -16455,12 +16449,6 @@
 			"name": "Githyanki Gish",
 			"source": "MPMM",
 			"page": 140,
-			"otherSources": [
-				{
-					"source": "WDMM",
-					"page": 312
-				}
-			],
 			"referenceSources": [
 				"BMT"
 			],
@@ -26048,12 +26036,6 @@
 			"name": "Neothelid",
 			"source": "MPMM",
 			"page": 193,
-			"otherSources": [
-				{
-					"source": "WDMM",
-					"page": 315
-				}
-			],
 			"size": [
 				"G"
 			],
@@ -34733,12 +34715,6 @@
 			"name": "Ulitharid",
 			"source": "MPMM",
 			"page": 249,
-			"otherSources": [
-				{
-					"source": "WDMM",
-					"page": 316
-				}
-			],
 			"size": [
 				"L"
 			],

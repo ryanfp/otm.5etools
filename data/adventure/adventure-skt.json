@@ -19057,7 +19057,7 @@
 							"id": "1b3",
 							"entries": [
 								"Once a great city and a bastion of the empire of Delzoun, this dwarven stronghold stood abandoned for centuries beneath the mountains. Recently, an army of shield dwarves led by Bruenor Battlehammer reclaimed it, ousting drow squatters and sending them scurrying back into the Underdark. Bruenor now sits on Gauntlgrym's throne as king.",
-								"The \"heart\" of Gauntlgrym is its legendary forge, within which is trapped a fire primordial known as {@creature Maegera the Dawn Titan|SKT}. For more information on Gauntlgrym and its inhabitants, see the {@book Sword Coast Adventurer's Guide|SCAG} and the adventure {@adventure Out of the Abyss|OotA}.",
+								"The \"heart\" of Gauntlgrym is its legendary forge, within which is trapped a fire primordial known as {@creature Maegera the Dawn Titan|SKT}. For more information on Gauntlgrym and its inhabitants, see the {@book Sword Coast Adventurer's Guide|SCAG} and the adventure {@i Out of the Abyss}.",
 								{
 									"type": "entries",
 									"name": "Suggested Encounter",

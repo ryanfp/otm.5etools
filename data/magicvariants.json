@@ -3875,7 +3875,6 @@
 		{
 			"name": "Flame Tongue",
 			"referenceSources": [
-				"OotA",
 				"QftIS",
 				"TftYP-ToH",
 				"ToA",
@@ -4758,8 +4757,7 @@
 		{
 			"name": "Luck Blade",
 			"referenceSources": [
-				"CoS",
-				"WDMM"
+				"CoS"
 			],
 			"edition": "classic",
 			"type": "GV|DMG",
@@ -4906,8 +4904,7 @@
 		{
 			"name": "Mariner's Armor",
 			"referenceSources": [
-				"PotA",
-				"WDMM"
+				"PotA"
 			],
 			"edition": "classic",
 			"type": "GV|DMG",
@@ -4996,8 +4993,7 @@
 				"CoA",
 				"GoS",
 				"IDRotF",
-				"KftGV",
-				"WDMM"
+				"KftGV"
 			],
 			"edition": "classic",
 			"type": "GV|DMG",
@@ -5301,8 +5297,7 @@
 		{
 			"name": "Nine Lives Stealer",
 			"referenceSources": [
-				"CoA",
-				"WDMM"
+				"CoA"
 			],
 			"edition": "classic",
 			"type": "GV|DMG",
@@ -6391,8 +6386,7 @@
 		{
 			"name": "Sword of Sharpness",
 			"referenceSources": [
-				"LRDT",
-				"WDMM"
+				"LRDT"
 			],
 			"edition": "classic",
 			"type": "GV|DMG",
