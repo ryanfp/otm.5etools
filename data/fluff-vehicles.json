@@ -850,43 +850,6 @@
 			]
 		},
 		{
-			"name": "Mechanical Beholder",
-			"source": "AI",
-			"entries": [
-				{
-					"type": "entries",
-					"entries": [
-						{
-							"type": "entries",
-							"entries": [
-								"{@i When you hear the mechanical beholder click to life, it sounds like death itself snapping its fingers.}",
-								"A mechanical beholder takes the form of an oversized eye tyrant whose central eye is a viewport window. Part conveyance, part laboratory, and part siege engine, the vehicle can transport up to six humanoids through any terrain or medium, including underwater and through solid stone. A complex and often dangerous manipulation of gears, levers, and buttons controlled the original mechanical beholders, but more recent models feature magical controls that respond to voice commands\u2014though not always accurately.",
-								{
-									"type": "entries",
-									"name": "Equipment and Options",
-									"entries": [
-										"The mechanical beholder can be outfitted with a variety of sensors, probes, and gauges, allowing for functions as varied as determining alchemical composition, picking up on magical auras, or making masterfully dry martinis. Its range of armaments includes a disintegration ray modeled after that of its monstrous namesake (which for reasons of liability is advertised as being designed exclusively for waste removal). Portholes and hatches allow characters inside the beholder to make ranged and magical attacks from within it."
-									]
-								}
-							]
-						}
-					]
-				}
-			],
-			"images": [
-				{
-					"type": "image",
-					"href": {
-						"type": "internal",
-						"path": "vehicles/AI/mechanical-beholder.webp"
-					},
-					"credit": "Chris Walton",
-					"width": 841,
-					"height": 1000
-				}
-			]
-		},
-		{
 			"name": "Nautiloid",
 			"source": "AAG",
 			"entries": [

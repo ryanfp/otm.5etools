@@ -553,23 +553,6 @@
 			}
 		},
 		{
-			"name": "Eldrazi",
-			"source": "PSZ",
-			"page": 38,
-			"apply": {
-				"_mod": {
-					"immune": {
-						"mode": "appendIfNotExistsArr",
-						"items": "psychic"
-					},
-					"conditionImmune": {
-						"mode": "appendIfNotExistsArr",
-						"items": "charmed"
-					}
-				}
-			}
-		},
-		{
 			"name": "Firbolg",
 			"source": "MPMM",
 			"page": 15,

@@ -759,9 +759,6 @@
 			"name": "Charm Monster",
 			"source": "XGE",
 			"page": 151,
-			"referenceSources": [
-				"LR"
-			],
 			"reprintedAs": [
 				"Charm Monster|XPHB"
 			],
@@ -4580,9 +4577,6 @@
 			"name": "Summon Greater Demon",
 			"source": "XGE",
 			"page": 166,
-			"referenceSources": [
-				"IMR"
-			],
 			"level": 4,
 			"school": "C",
 			"time": [
@@ -4643,9 +4637,6 @@
 			"name": "Summon Lesser Demons",
 			"source": "XGE",
 			"page": 167,
-			"referenceSources": [
-				"IMR"
-			],
 			"level": 3,
 			"school": "C",
 			"time": [
@@ -5613,7 +5604,6 @@
 				}
 			],
 			"referenceSources": [
-				"LR",
 				"PotA"
 			],
 			"level": 4,

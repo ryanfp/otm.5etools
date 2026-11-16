@@ -9688,70 +9688,6 @@
 			]
 		},
 		{
-			"name": "Quicksmithing",
-			"source": "PSK",
-			"page": 13,
-			"prerequisite": [
-				{
-					"ability": [
-						{
-							"int": 13
-						}
-					]
-				}
-			],
-			"toolProficiencies": [
-				{
-					"anyArtisansTool": 1
-				}
-			],
-			"additionalSpells": [
-				{
-					"ability": "int",
-					"innate": {
-						"_": {
-							"daily": {
-								"1": [
-									{
-										"choose": "level=1|components & miscellaneous=ritual",
-										"count": 2
-									}
-								]
-							}
-						}
-					}
-				}
-			],
-			"entries": [
-				"You have mastered the art of on-the-fly invention, improvement, and jury-rigging. You can use your talents to create immediate, short-term magical effects similar to spells, given time and an adequate supply of aether.",
-				"When you choose this feat, you master two magical effects, each of which recreates the effect of a 1st-level spell that has the ritual tag. These spells can come from any class list, but Intelligence is your spellcasting ability for them.",
-				"If you come across a schematic geared toward quicksmithing or study with another quicksmith, you might be able to add another spell to the effects you have mastered. The spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of mastering the spell takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents aether you use as you experiment with the spell effect to master it.",
-				"In addition, you have proficiency with {@item artisan's tools|PHB} (quicksmith's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours unless you spend 1 hour repairing it to keep it functioning. You can use your action to dismantle the device, at which point you can reclaim the materials used to create it. You can have up to three such devices active at a time.",
-				"When you create a device, choose one of the following options:",
-				{
-					"type": "entries",
-					"name": "Clockwork Toy",
-					"entries": [
-						"This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Fire Starter",
-					"entries": [
-						"This device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Music Box",
-					"entries": [
-						"When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed."
-					]
-				}
-			]
-		},
-		{
 			"name": "Rebuke",
 			"source": "ABH",
 			"page": 10,
@@ -10589,37 +10525,6 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "Servo Crafting",
-			"source": "PSK",
-			"page": 13,
-			"prerequisite": [
-				{
-					"ability": [
-						{
-							"int": 13
-						}
-					]
-				}
-			],
-			"additionalSpells": [
-				{
-					"innate": {
-						"_": {
-							"ritual": [
-								"find familiar"
-							]
-						}
-					}
-				}
-			],
-			"entries": [
-				"You are skilled in the creation of {@creature servo|psk|servos}\u2014tiny constructs that function as personal assistants. You can cast the {@spell find familiar} spell as a ritual, creating a {@creature servo|psk} to serve as your familiar instead of an animal. A {@creature servo|psk}'s statistics appear in the \"Artifact Creatures\" section of this document. In every other way, a servo familiar functions as described in the {@spell find familiar} spell.",
-				"You can communicate telepathically with your servo familiar and perceive through its senses as long as you are on the same plane of existence. You can speak through your servo in your own voice.",
-				"Additionally, when you take the {@action Attack} action, you can forgo one of your own attacks to allow your servo familiar to make one attack of its own."
-			],
-			"hasFluffImages": true
 		},
 		{
 			"name": "Shadow Touched",
@@ -12972,23 +12877,6 @@
 						"The DM determines the fate of your former vampire master. While you and your former vampire master are on the same plane of existence, the vampire can communicate with you telepathically, and you can choose to allow the vampire to perceive through your senses."
 					]
 				}
-			]
-		},
-		{
-			"name": "Vampiric Exultation",
-			"source": "PSX",
-			"page": 14,
-			"prerequisite": [
-				{
-					"race": [
-						{
-							"name": "Vampire (Ixalan)"
-						}
-					]
-				}
-			],
-			"entries": [
-				"As an action, you can transform the lower half of your body into an inky black vapor, allowing you to float through the air. While transformed, you have a flying speed of 30 feet. You can maintain this form for up to 10 minutes. Once you use this ability, you can't use it again until you finish a short or long rest."
 			]
 		},
 		{

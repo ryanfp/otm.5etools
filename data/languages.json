@@ -91,14 +91,6 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Aven",
-			"source": "PSD",
-			"page": 6,
-			"typicalSpeakers": [
-				"{@race Aven|PSD}"
-			]
-		},
-		{
 			"name": "Blink Dog",
 			"source": "MM",
 			"page": 318,
@@ -248,21 +240,6 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Coalition Pidgin",
-			"source": "PSX",
-			"page": 6,
-			"typicalSpeakers": [
-				"Brazen Coalition",
-				"{@race Human (Ixalan)|PSX|Humans}",
-				"{@race Orc (Ixalan)|PSX|Orcs}",
-				"{@race Siren|PSX|Sirens}",
-				"{@race Goblin (Ixalan)|PSX|Goblins}"
-			],
-			"entries": [
-				"The humans of the Brazen Coalition speak a different language\u2014a pidgin of Orc, Siren, and a native human language that is similar to {@language Vampire|PSX} (about as closely related as Italian is to Spanish). Orcs, sirens, and goblins also speak this Brazen Coalition pidgin."
-			]
-		},
-		{
 			"name": "Common",
 			"source": "DSotDQ",
 			"page": 9,
@@ -322,18 +299,6 @@
 		},
 		{
 			"name": "Common",
-			"source": "PSI",
-			"page": 9,
-			"typicalSpeakers": [
-				"{@race Human (Innistrad)|PSI|Humans}",
-				"Members of the Church",
-				"{@creature Vampire Neonate|PSI|Vampires}",
-				"{@creature Werewolf (Krallenhorde)|PSI|Werewolves}",
-				"{@creature Geist|PSI|Geists}"
-			]
-		},
-		{
-			"name": "Common",
 			"source": "XPHB",
 			"page": 37,
 			"srd52": true,
@@ -349,24 +314,6 @@
 			"basicRules2024": true,
 			"type": "standard",
 			"origin": "Sigil"
-		},
-		{
-			"name": "Common Trade Pidgin",
-			"source": "PSX",
-			"page": 6,
-			"typicalSpeakers": [
-				"Sun Empire",
-				"River Heralds",
-				"Legion of Dusk",
-				"Brazen Coalition",
-				"{@race Human (Ixalan)|PSX|Humans}",
-				"{@race Orc (Ixalan)|PSX|Orcs}",
-				"{@race Siren|PSX|Sirens}",
-				"{@race Goblin (Ixalan)|PSX|Goblins}"
-			],
-			"entries": [
-				"A trade pidgin used in circumstances where members of different peoples do interact with each other. But this language is almost impossible to use for discussions of matters of any depth."
-			]
 		},
 		{
 			"name": "Daelkyr",
@@ -430,14 +377,6 @@
 			]
 		},
 		{
-			"name": "Deep Crow",
-			"source": "AI",
-			"page": 210,
-			"typicalSpeakers": [
-				"{@creature Deep Crow|AI|deep crows}"
-			]
-		},
-		{
 			"name": "Deep Speech",
 			"source": "PHB",
 			"page": 123,
@@ -461,15 +400,6 @@
 			"basicRules2024": true,
 			"type": "rare",
 			"origin": "Aberrations"
-		},
-		{
-			"name": "Demonic",
-			"source": "PSI",
-			"page": 9,
-			"typicalSpeakers": [
-				"{@filter Demons|bestiary|source=|tag=demon}",
-				"{@filter Devils|bestiary|source=|tag=devil}"
-			]
 		},
 		{
 			"name": "Draconic",
@@ -536,14 +466,6 @@
 				"Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants."
 			],
 			"hasFluffImages": true
-		},
-		{
-			"name": "Draconic",
-			"source": "PSI",
-			"page": 9,
-			"typicalSpeakers": [
-				"{@filter Dragons|bestiary|source=PSI|type=dragon}"
-			]
 		},
 		{
 			"name": "Draconic",
@@ -1064,14 +986,6 @@
 			]
 		},
 		{
-			"name": "Homarid",
-			"source": "PSD",
-			"page": 15,
-			"typicalSpeakers": [
-				"{@creature Homarid|PSD|homarids}"
-			]
-		},
-		{
 			"name": "Hook Horror",
 			"source": "MM",
 			"page": 189,
@@ -1167,15 +1081,6 @@
 			"script": "Istarian"
 		},
 		{
-			"name": "Itzocan",
-			"source": "PSX",
-			"page": 6,
-			"typicalSpeakers": [
-				"Sun Empire",
-				"{@race Human (Ixalan)|PSX|Humans}"
-			]
-		},
-		{
 			"name": "Ixitxachitl",
 			"source": "OotA",
 			"page": 225,
@@ -1184,14 +1089,6 @@
 				"{@creature Ixitxachitl Cleric|OotA|ixitxachitl clerics}",
 				"{@creature vampiric ixitxachitl|OotA}",
 				"{@creature Vampiric Ixitxachitl Cleric|OotA|vampiric ixitxachitl clerics}"
-			]
-		},
-		{
-			"name": "Keldon",
-			"source": "PSD",
-			"page": 19,
-			"typicalSpeakers": [
-				"{@race Human (Keldon)|PSD|Keldons}"
 			]
 		},
 		{
@@ -1215,14 +1112,6 @@
 				"Tarsis"
 			],
 			"script": "Common"
-		},
-		{
-			"name": "Khenra",
-			"source": "PSA",
-			"page": 18,
-			"typicalSpeakers": [
-				"{@race Khenra|PSA}"
-			]
 		},
 		{
 			"name": "Khur",
@@ -1307,15 +1196,6 @@
 			"type": "standard",
 			"typicalSpeakers": [
 				"{@filter merfolk|bestiary|source=GGR|tag=any race;merfolk}"
-			],
-			"script": "Merfolk"
-		},
-		{
-			"name": "Merfolk",
-			"source": "PSX",
-			"page": 6,
-			"typicalSpeakers": [
-				"River Heralds"
 			],
 			"script": "Merfolk"
 		},
@@ -1409,14 +1289,6 @@
 				}
 			],
 			"hasFluffImages": true
-		},
-		{
-			"name": "Naga",
-			"source": "PSA",
-			"page": 18,
-			"typicalSpeakers": [
-				"{@race Naga|PSA|}"
-			]
 		},
 		{
 			"name": "Naush",
@@ -1591,14 +1463,6 @@
 		},
 		{
 			"name": "Primordial",
-			"source": "PSI",
-			"page": 9,
-			"typicalSpeakers": [
-				"Elementals"
-			]
-		},
-		{
-			"name": "Primordial",
 			"dialects": [
 				"Auran",
 				"Aquan",
@@ -1759,14 +1623,6 @@
 				}
 			],
 			"hasFluffImages": true
-		},
-		{
-			"name": "Siren",
-			"source": "PSX",
-			"page": 17,
-			"typicalSpeakers": [
-				"{@race Siren|PSX|Sirens}"
-			]
 		},
 		{
 			"name": "Slaad",
@@ -2119,23 +1975,9 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Vampire",
-			"source": "PSX",
-			"page": 6,
-			"typicalSpeakers": [
-				"Legion of Dusk"
-			]
-		},
-		{
 			"name": "Vedalken",
 			"source": "GGR",
 			"page": 9,
-			"additionalSources": [
-				{
-					"source": "PSK",
-					"page": 23
-				}
-			],
 			"type": "standard",
 			"typicalSpeakers": [
 				"{@race Vedalken|ggr}"

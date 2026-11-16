@@ -127,9 +127,6 @@
 			"page": 239,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BD"
-			],
 			"level": 1,
 			"school": "A",
 			"time": [
@@ -433,9 +430,6 @@
 			"page": 240,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TWoO"
-			],
 			"level": 3,
 			"school": "N",
 			"time": [
@@ -828,9 +822,6 @@
 			"page": 242,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"level": 2,
 			"school": "A",
 			"time": [
@@ -1949,7 +1940,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-TDoN",
 				"UtHftLH"
 			],
 			"level": 1,
@@ -2851,9 +2841,6 @@
 			"page": 250,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TFV"
-			],
 			"level": 3,
 			"school": "D",
 			"time": [
@@ -3060,9 +3047,6 @@
 			"page": 251,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"level": 1,
 			"school": "I",
 			"time": [
@@ -4221,9 +4205,6 @@
 			"page": 256,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"BQGT"
-			],
 			"level": 2,
 			"school": "V",
 			"time": [
@@ -4559,7 +4540,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-TDoN",
 				"UtHftLH"
 			],
 			"level": 3,
@@ -4636,10 +4616,6 @@
 			"page": 258,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BD",
-				"DrDe-BtS"
-			],
 			"level": 1,
 			"school": "T",
 			"time": [
@@ -5092,9 +5068,6 @@
 			"page": 260,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"level": 2,
 			"school": "T",
 			"time": [
@@ -5429,8 +5402,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-TDoN",
-				"DrDe-TWoO",
 				"UtHftLH"
 			],
 			"level": 1,
@@ -5625,9 +5596,6 @@
 			"page": 262,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BD"
-			],
 			"level": 1,
 			"school": "I",
 			"time": [
@@ -5802,10 +5770,6 @@
 			"page": 264,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-ACfaS",
-				"DrDe-SD"
-			],
 			"level": 3,
 			"school": "A",
 			"time": [
@@ -7411,9 +7375,6 @@
 			"page": 271,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"level": 1,
 			"school": "N",
 			"time": [
@@ -7511,7 +7472,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-TDoN",
 				"UtHftLH"
 			],
 			"level": 1,
@@ -8059,7 +8019,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-SD",
 				"FFotR",
 				"HotB",
 				"UtHftLH"
@@ -9256,9 +9215,6 @@
 			"page": 280,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-SD"
-			],
 			"level": 1,
 			"school": "C",
 			"time": [
@@ -9465,10 +9421,6 @@
 			"page": 281,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BD",
-				"DrDe-DotSC"
-			],
 			"level": 5,
 			"school": "A",
 			"time": [
@@ -9764,8 +9716,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-ACfaS",
-				"DrDe-SD",
 				"UtHftLH"
 			],
 			"level": 2,
@@ -11055,8 +11005,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-DotSC",
-				"DrDe-TDoN",
 				"FRAiF"
 			],
 			"level": 1,
@@ -11424,8 +11372,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-TDoN",
-				"DrDe-TFV",
 				"UtHftLH"
 			],
 			"level": 2,
@@ -11607,11 +11553,6 @@
 			"page": 290,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BD",
-				"DrDe-FWtVC",
-				"DrDe-TDoN"
-			],
 			"level": 2,
 			"school": "T",
 			"time": [
@@ -11981,7 +11922,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-SD",
 				"UtHftLH"
 			],
 			"level": 3,
@@ -12226,7 +12166,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-TDoN",
 				"UtHftLH"
 			],
 			"level": 1,
@@ -12456,7 +12395,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-TDoN",
 				"UtHftLH"
 			],
 			"level": 1,
@@ -12513,9 +12451,6 @@
 			"page": 295,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BD"
-			],
 			"level": 2,
 			"school": "I",
 			"time": [
@@ -12972,9 +12907,6 @@
 			"page": 297,
 			"srd52": "Acid Arrow",
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"level": 2,
 			"school": "V",
 			"time": [
@@ -13029,10 +12961,6 @@
 			"page": 297,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"BQGT",
-				"DrDe-ACfaS"
-			],
 			"level": 0,
 			"school": "T",
 			"time": [
@@ -13906,9 +13834,6 @@
 			"page": 302,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-DotSC"
-			],
 			"level": 6,
 			"school": "T",
 			"time": [
@@ -14327,7 +14252,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-TDoN",
 				"UtHftLH"
 			],
 			"level": 2,
@@ -15550,9 +15474,6 @@
 			"page": 309,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"level": 1,
 			"school": "A",
 			"time": [
@@ -16806,9 +16727,6 @@
 			"page": 314,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"level": 3,
 			"school": "D",
 			"time": [
@@ -16845,10 +16763,6 @@
 			"page": 315,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-ACfaS",
-				"DrDe-TFV"
-			],
 			"level": 7,
 			"school": "T",
 			"time": [
@@ -17722,7 +17636,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-BD",
 				"UtHftLH"
 			],
 			"level": 1,
@@ -17770,12 +17683,6 @@
 			"page": 318,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-ACfaS",
-				"DrDe-BtS",
-				"DrDe-TDoN",
-				"DrDe-TFV"
-			],
 			"level": 3,
 			"school": "N",
 			"time": [
@@ -17878,9 +17785,6 @@
 			"page": 319,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BD"
-			],
 			"level": 2,
 			"school": "T",
 			"time": [
@@ -18281,8 +18185,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-BD",
-				"DrDe-TFV",
 				"UtHftLH"
 			],
 			"level": 3,
@@ -19767,9 +19669,6 @@
 			"page": 332,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-FWtVC"
-			],
 			"level": 5,
 			"school": "C",
 			"time": [
@@ -20712,7 +20611,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-TDoN",
 				"FRAiF"
 			],
 			"level": 1,
@@ -20763,9 +20661,6 @@
 			"page": 337,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"level": 3,
 			"school": "N",
 			"time": [
@@ -21371,9 +21266,6 @@
 			"page": 340,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-DaS"
-			],
 			"level": 2,
 			"school": "C",
 			"time": [
@@ -21587,7 +21479,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-SD",
 				"UtHftLH"
 			],
 			"level": 9,

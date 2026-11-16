@@ -201,7 +201,6 @@
 			"page": 197,
 			"referenceSources": [
 				"CoS",
-				"SjA",
 				"TftYP-THSoT"
 			],
 			"reprintedAs": [
@@ -1503,9 +1502,6 @@
 			"page": 222,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-DaS"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"weight": 1,
@@ -1536,7 +1532,6 @@
 				"SLW",
 				"TftYP-TFoF",
 				"TftYP-TSC",
-				"TTP",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -1946,22 +1941,6 @@
 			]
 		},
 		{
-			"name": "Amber Runestone",
-			"source": "NRH-TLT",
-			"page": 6,
-			"rarity": "uncommon",
-			"wondrous": true,
-			"entries": [
-				"This piece of polished amber is engraved with many tiny runes. As a bonus action, you can mentally command the stone to shed bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. While the light persists, you can also use a bonus action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each."
-			],
-			"light": [
-				{
-					"bright": 15,
-					"dim": 30
-				}
-			]
-		},
-		{
 			"name": "Amethyst",
 			"source": "DMG",
 			"page": 134,
@@ -2096,14 +2075,6 @@
 			]
 		},
 		{
-			"name": "Amulet of dinosaur feathers (Sun Empire)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 2500
-		},
-		{
 			"name": "Amulet of Duplicity",
 			"source": "CoA",
 			"page": 267,
@@ -2121,27 +2092,6 @@
 						"An {@spell Identify} spell or similar reveals only that the amulet can prevent death. Once you attune to the amulet, you can't describe its ability to any other creature, and if unattuned, you immediately forget what the amulet does. A {@spell Remove Curse} spell reveals the details of the curse but does not remove it from the amulet."
 					]
 				}
-			]
-		},
-		{
-			"name": "Amulet of Harmony",
-			"source": "NRH-AT",
-			"page": 8,
-			"rarity": "legendary",
-			"reqAttune": true,
-			"wondrous": true,
-			"entries": [
-				"The amulet is a golden disk about 4 inches across. There are symbols etched into its surface and there are six bezels that hold the Gems of Power.",
-				"The Amulet of Harmony has the following properties:",
-				{
-					"type": "list",
-					"items": [
-						"While attuned to this amulet, you feel a pull in the direction of the Prismatic Well.",
-						"If the Prismatic Well is dormant, you can restore its power by expending your own energy. You must be within 10-feet of the well to restore its power and you must say the words, \"I invoke the power of the Prismatic Well and restore the colors of Harmony for all.\" If you do so, roll a {@dice d6}. On a 2-6, the power of the well is restored. On a 1, the well is restored but you fall into a deep, magical slumber for 1 year and cannot be roused except by a remove curse spell or similar magic.",
-						"You can turn off the power of the Prismatic Well, plunging all of Harmony into a polarized world where everything is horribly black and white. To do this, you must be within 10-feet of the well and you must say the words, \"I revoke the power of the Prismatic Well and withhold the colors of Harmony to all.\" If you do so, roll a {@dice d6}. On a 3-6, the well is turned off. On 1-2, the power of the well remains and you turn into a statue of black stone."
-					]
-				},
-				"Only a wish spell can undo this effect."
 			]
 		},
 		{
@@ -2243,9 +2193,6 @@
 			"page": 228,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TFV"
-			],
 			"rarity": "uncommon",
 			"reqAttune": true,
 			"wondrous": true,
@@ -2519,9 +2466,6 @@
 			"page": 229,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-DotSC"
-			],
 			"baseItem": "shield|xphb",
 			"type": "S|XPHB",
 			"rarity": "very rare",
@@ -2571,7 +2515,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-DaS",
 				"HotB"
 			],
 			"type": "G|XPHB",
@@ -2622,7 +2565,6 @@
 			"referenceSources": [
 				"CoA",
 				"GoS",
-				"IMR",
 				"KftGV",
 				"LLK",
 				"SKT",
@@ -3936,9 +3878,6 @@
 			"name": "Baba Yaga's Dancing Broom",
 			"source": "XDMG",
 			"page": 232,
-			"referenceSources": [
-				"DrDe-BD"
-			],
 			"rarity": "uncommon",
 			"reqAttune": true,
 			"wondrous": true,
@@ -4094,7 +4033,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"BQGT",
 				"FFotR"
 			],
 			"type": "G|XPHB",
@@ -4144,7 +4082,6 @@
 			"referenceSources": [
 				"BGDIA",
 				"IDRotF",
-				"IMR",
 				"JttRC",
 				"WBtW"
 			],
@@ -4339,9 +4276,6 @@
 			"page": 234,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-FWtVC"
-			],
 			"rarity": "very rare",
 			"wondrous": true,
 			"entries": [
@@ -4380,7 +4314,6 @@
 				"QftIS",
 				"RoT",
 				"SCC-CK",
-				"SjA",
 				"SKT",
 				"TftYP-AtG",
 				"TftYP-ToH",
@@ -4422,9 +4355,6 @@
 			"page": 234,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-FWtVC"
-			],
 			"rarity": "uncommon",
 			"wondrous": true,
 			"weight": 5,
@@ -4593,8 +4523,7 @@
 			"page": 154,
 			"srd": true,
 			"referenceSources": [
-				"KftGV",
-				"NRH-TLT"
+				"KftGV"
 			],
 			"reprintedAs": [
 				"Bag of Tricks, Rust|XDMG"
@@ -5075,9 +5004,6 @@
 			"page": 153,
 			"srd": true,
 			"basicRules": true,
-			"referenceSources": [
-				"SjA"
-			],
 			"reprintedAs": [
 				"Barrel|XPHB"
 			],
@@ -5617,7 +5543,6 @@
 				}
 			],
 			"referenceSources": [
-				"DrDe-SD",
 				"ScoEE"
 			],
 			"rarity": "rare",
@@ -5641,9 +5566,6 @@
 			"page": 235,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"rarity": "common",
 			"wondrous": true,
 			"entries": [
@@ -5680,9 +5602,6 @@
 			"name": "Bead of Refreshment",
 			"source": "XDMG",
 			"page": 235,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"rarity": "common",
 			"wondrous": true,
 			"entries": [
@@ -5772,14 +5691,6 @@
 			"value": 750000
 		},
 		{
-			"name": "Bejeweled ivory drinking horn with gold inlay (Brazen Coalition)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 750000
-		},
-		{
 			"name": "Belashyrra's Beholder Crown",
 			"source": "ERLW",
 			"page": 276,
@@ -5855,9 +5766,6 @@
 			"page": 224,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"value": 100,
@@ -6690,7 +6598,6 @@
 			"source": "DMG",
 			"page": 216,
 			"referenceSources": [
-				"IMR",
 				"TftYP-WPM",
 				"ToFW"
 			],
@@ -7227,9 +7134,6 @@
 			"page": 224,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"weight": 3,
@@ -7390,61 +7294,6 @@
 						}
 					]
 				}
-			]
-		},
-		{
-			"name": "Blood of the Lycanthrope",
-			"source": "IMR",
-			"page": 93,
-			"rarity": "none",
-			"poison": true,
-			"entries": [
-				"This poison is created from blood harvested from a dead or {@condition incapacitated} lycanthrope in its animal or hybrid form. A creature subjected to this poison must succeed on a {@dc 12} Constitution saving throw or be cursed with lycanthropy (see the Monster Manual). The curse lasts until removed by the {@spell remove curse} spell or similar magic.",
-				"The type of lycanthropy depends on the lycanthrope used to create the poison. To determine the type of lycanthropy randomly, roll a {@dice d6}:",
-				{
-					"type": "table",
-					"colLabels": [
-						"d6",
-						"Lycanthropy"
-					],
-					"colStyles": [
-						"col-2 text-center",
-						"col-10"
-					],
-					"rows": [
-						[
-							"1-3",
-							"{@creature Wererat}"
-						],
-						[
-							"4-5",
-							"{@creature Werewolf}"
-						],
-						[
-							"6",
-							"{@creature Wereboar}"
-						]
-					]
-				}
-			],
-			"poisonTypes": [
-				"injury"
-			],
-			"miscTags": [
-				"CNS"
-			]
-		},
-		{
-			"name": "Blood of the Lycanthrope Antidote",
-			"source": "IMR",
-			"page": 94,
-			"type": "P",
-			"rarity": "uncommon",
-			"entries": [
-				"This clear potion has dark red flecks within, resembling clotted blood. When you drink this potion, it removes the curse of lycanthropy from you if that curse was imposed by a lycanthrope's bite or similar effect."
-			],
-			"miscTags": [
-				"CNS"
 			]
 		},
 		{
@@ -8594,7 +8443,6 @@
 			"basicRules": true,
 			"referenceSources": [
 				"GoS",
-				"IMR",
 				"KftGV",
 				"LLK",
 				"PaBTSO",
@@ -8710,9 +8558,6 @@
 			"page": 240,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-SD"
-			],
 			"resist": [
 				"cold"
 			],
@@ -8850,7 +8695,6 @@
 			"page": 156,
 			"srd": true,
 			"referenceSources": [
-				"LR",
 				"ToA"
 			],
 			"reprintedAs": [
@@ -9311,24 +9155,6 @@
 			]
 		},
 		{
-			"name": "Bridle of Capturing",
-			"source": "IMR",
-			"page": 94,
-			"rarity": "rare",
-			"wondrous": true,
-			"entries": [
-				"This fine leather bridle tugs at the hand when first held, as though it longs to reach out for a beast nearby. When you hold one end of the bridle, you can use an action to speak its command word, causing the other end to lash out at a beast you can see within 20 feet of you. The target must succeed on a {@dc 17} Charisma saving throw or have the bridle tie itself around its neck, then fall under your command as if subjected to the {@spell dominate beast} spell. Once the targeted is affected, you do not need to hold the other end of the bridle to command it. With a successful saving throw, the target becomes immune to the bridle's power until the next dawn.",
-				"A creature controlled by the bridle can be released by the creature that bound it as a bonus action. A creature controlled by the bridle can make a {@dc 17} Charisma check each day at dawn. On a success, the creature is no longer affected by the bridle."
-			],
-			"attachedSpells": {
-				"daily": {
-					"1e": [
-						"dominate beast"
-					]
-				}
-			}
-		},
-		{
 			"name": "Bright Fungal Cloak",
 			"source": "FRHoF",
 			"page": 132,
@@ -9418,14 +9244,6 @@
 				"{#itemEntry Dragon Scale Mail|XDMG}"
 			],
 			"hasFluffImages": true
-		},
-		{
-			"name": "Bronze spyglass (Brazen Coalition)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 25000
 		},
 		{
 			"name": "Brooch of Living Essence",
@@ -10025,7 +9843,6 @@
 			"basicRules": true,
 			"referenceSources": [
 				"KftGV",
-				"TTP",
 				"WDH"
 			],
 			"reprintedAs": [
@@ -10053,9 +9870,6 @@
 			"page": 224,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"value": 1,
@@ -10371,9 +10185,6 @@
 			"name": "Canoe",
 			"source": "ToA",
 			"page": 31,
-			"referenceSources": [
-				"TTP"
-			],
 			"type": "SHP",
 			"rarity": "none",
 			"weight": 100,
@@ -10838,76 +10649,6 @@
 			"value": 1500
 		},
 		{
-			"name": "Cartographer's Map Case",
-			"source": "AI",
-			"page": 20,
-			"rarity": "common",
-			"wondrous": true,
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Map of Shortcuts",
-					"entries": [
-						"At rank 3, your map case becomes a common magic item. In addition to storing normal maps, your cartographer's map case can be used to generate a special map identifying a shortcut. You can use your action to make a {@dc 15} Wisdom ({@skill Perception}) check, with a success revealing a map buried in your cartographer's map case noting a relevant shortcut. Your travel time is reduced by half while you follow that route. If you succeed at the check by 5 or more, the map includes notes on the terrain, granting you advantage on the next ability check you make to travel through the mapped area in the next hour. Once you use this feature, you cannot use it again until you finish a long rest."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Map of the Moment",
-					"entries": [
-						"Starting at rank 3, you can use an action to make a {@dc 15} Wisdom ({@skill Perception}) check and search your cartographer's map case to find a map either related to your current mission or inspiring a new one. On a success, you find a map with a prominent landmark. The map has information on the natural terrain within one mile of the landmark. Once you use this feature, you cannot use it again until dawn seven days later.",
-						{
-							"type": "table",
-							"caption": "Possible Map Mission Landmarks",
-							"colLabels": [
-								"d8",
-								"Landmark"
-							],
-							"colStyles": [
-								"col-2 text-center",
-								"col-10"
-							],
-							"rows": [
-								[
-									"1",
-									"The Ancient Sarcophagus of Gerald Smith"
-								],
-								[
-									"2",
-									"A tree labeled \"This tree\""
-								],
-								[
-									"3",
-									"\"The Last Resting Place of My Rich Brother that is Also a Bear Cave\""
-								],
-								[
-									"4",
-									"A range of peaks known as the Slightly Wobbly Spires"
-								],
-								[
-									"5",
-									"An ever-flowing, nonmagical spigot of pure, clear water in the middle of nowhere"
-								],
-								[
-									"6",
-									"A cave filled with screaming bioluminescent worms"
-								],
-								[
-									"7",
-									"The most haunted forest for ten miles in any direction"
-								],
-								[
-									"8",
-									"A huge pile of rocks with no other rocks within sight"
-								]
-							]
-						}
-					]
-				}
-			],
-			"hasFluffImages": true
-		},
-		{
 			"name": "Carved bone statuette",
 			"source": "DMG",
 			"page": 134,
@@ -10953,14 +10694,6 @@
 			"source": "XDMG",
 			"page": 215,
 			"type": "$A|XDMG",
-			"rarity": "none",
-			"value": 25000
-		},
-		{
-			"name": "Carved jade statuette (River Heralds)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
 			"rarity": "none",
 			"value": 25000
 		},
@@ -11136,14 +10869,6 @@
 			"type": "$A|XDMG",
 			"rarity": "none",
 			"value": 750000
-		},
-		{
-			"name": "Ceremonial silver dagger with gold pommel and black pearl (Legion of Dusk)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 75000
 		},
 		{
 			"name": "Chain",
@@ -11345,7 +11070,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"SjA",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -11400,9 +11124,6 @@
 			"page": 157,
 			"srd": true,
 			"basicRules": true,
-			"referenceSources": [
-				"TTP"
-			],
 			"reprintedAs": [
 				"Chicken|XDMG"
 			],
@@ -11530,42 +11251,6 @@
 			],
 			"attachedSpells": [
 				"demiplane"
-			]
-		},
-		{
-			"name": "Chronolometer",
-			"source": "AI",
-			"page": 220,
-			"referenceSources": [
-				"OoW"
-			],
-			"rarity": "very rare",
-			"reqAttune": true,
-			"wondrous": true,
-			"bonusSavingThrow": "+1",
-			"entries": [
-				"While attuned to this device, you have a +1 bonus to Intelligence saving throws. The first time you attune to the chronolometer, you choose one language you don't know. You subsequently know that language while attuned to the device.",
-				{
-					"type": "entries",
-					"name": "Time Bandit",
-					"entries": [
-						"At the start of your turn, roll a {@dice d6} (no action required). On a 1\u20133, you slow down time, gaining an additional action on your turn and doubling your speed until the end of the turn. On a 4\u20136, you go forward in time to warn yourself of what is to come. The next time you fail a saving throw, attack roll, or ability check, you can reroll the check and take either result. Once you use this feature of the chronolometer, it cannot be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Fate Swap",
-					"entries": [
-						"As a reaction when a creature you can see within 30 feet of you takes damage, that creature gains an additional action if it is the creature's turn, or can take an action immediately even though it isn't the creature's turn. Once you use this feature of the chronolometer, it cannot be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Part of a Whole",
-					"entries": [
-						"While this component is not installed in the {@item Orrery of the Wanderer|AI}, its magic might function sporadically or with unpredictable side effects, as determined by the DM."
-					]
-				}
 			]
 		},
 		{
@@ -11788,15 +11473,6 @@
 			"name": "Claws of the Umber Hulk",
 			"source": "PotA",
 			"page": 222,
-			"otherSources": [
-				{
-					"source": "IMR",
-					"page": 94
-				}
-			],
-			"referenceSources": [
-				"IMR"
-			],
 			"rarity": "rare",
 			"reqAttune": true,
 			"wondrous": true,
@@ -11834,9 +11510,7 @@
 			"basicRules": true,
 			"referenceSources": [
 				"CoS",
-				"SjA",
-				"ToA",
-				"TTP"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Climber's Kit|XPHB"
@@ -12178,9 +11852,6 @@
 			"name": "Cloak of Many Fashions",
 			"source": "XDMG",
 			"page": 245,
-			"referenceSources": [
-				"DrDe-FWtVC"
-			],
 			"rarity": "common",
 			"wondrous": true,
 			"entries": [
@@ -12402,7 +12073,6 @@
 			"source": "XDMG",
 			"page": 245,
 			"referenceSources": [
-				"DrDe-FWtVC",
 				"FRAiF",
 				"HotB"
 			],
@@ -12462,14 +12132,6 @@
 			"source": "XDMG",
 			"page": 215,
 			"type": "$A|XDMG",
-			"rarity": "none",
-			"value": 2500
-		},
-		{
-			"name": "Cloth-of-gold vestments (Legion of Dusk)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
 			"rarity": "none",
 			"value": 2500
 		},
@@ -12566,54 +12228,6 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "Coin of Decisionry",
-			"source": "AI",
-			"page": 22,
-			"rarity": "varies",
-			"wondrous": true,
-			"entries": [
-				"Starting at rank 2, your coin of decisionry becomes a common magic item. When you flip the coin, it always lands with the Acquisitions Incorporated sigil face down, and a message appears on the \"tails\" face. Roll a {@dice d4} on the following table to determine the message.",
-				{
-					"type": "table",
-					"colStyles": [
-						"col-2 text-center",
-						"col-10"
-					],
-					"colLabels": [
-						"d4",
-						"Decision"
-					],
-					"rows": [
-						[
-							"1",
-							"Lucrative"
-						],
-						[
-							"2",
-							"Brand Appeal"
-						],
-						[
-							"3",
-							"Indeterminate"
-						],
-						[
-							"4",
-							"Ruinous"
-						]
-					]
-				},
-				"The coin has absolutely no divination abilities, and its results when you use it are random. But nobody else knows that. When a creature within 10 feet of you flips the coin (after having had its powerful prognostication powers dutifully explained), you can exert your will to control its operation as a bonus action, choosing the result that appears after it lands as a means of gently coercing the user toward a specific course of action. The creature flipping the coin can detect your manipulation with a successful {@dc 13} Wisdom ({@skill Insight}) check.",
-				{
-					"type": "entries",
-					"name": "Better Odds",
-					"entries": [
-						"When you reach rank 3, your coin of decisionry gains a measure of actual divination power and becomes an uncommon magic item. In addition to its normal function, you can use an action to flip the coin of decisionry twice while pondering a specific plan or objective, noting both random results. If you succeed on a {@dc 15} Intelligence ({@skill Arcana}) check, you learn which of the two results is more applicable to the course of action. This property of the coin can't be used again until the next dawn."
-					]
-				}
-			],
-			"hasFluffImages": true
 		},
 		{
 			"name": "Coin of Delving",
@@ -12771,17 +12385,6 @@
 				"In addition to knocking out a killer polka, a creature playing the concertina can use an action to cause an area of mist or water up to 30 feet in diameter and 6 inches deep to freeze solid.",
 				"Once used, this feature of the concertina can't be used again until the next dawn.",
 				"Any creatures touching the floor must succeed on a {@dc 20} Dexterity saving throw or be {@condition restrained} by the ice. As an action, a {@condition restrained} creature can attempt to free itself or another creature within its reach from the ice, doing so with a successful {@dc 20} Strength ({@skill Athletics}) check. A character freed from the ice is no longer {@condition restrained} by it. The ice melts in an hour."
-			]
-		},
-		{
-			"name": "Conch of Safe Rest",
-			"source": "TTP",
-			"page": 17,
-			"type": "OTH",
-			"rarity": "unknown (magic)",
-			"weight": 2,
-			"entries": [
-				"You can use an action to blow this pearlescent conch like a {@item horn|PHB}, creating an effect identical with that of a {@spell Leomund's tiny hut} spell. The conch disappears once the spell takes effect. The effect ends if you leave the spell's area."
 			]
 		},
 		{
@@ -12995,14 +12598,6 @@
 				"{#itemEntry Dragon Scale Mail|XDMG}"
 			],
 			"hasFluffImages": true
-		},
-		{
-			"name": "Copper stein with silver filigree (Brazen Coalition)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 2500
 		},
 		{
 			"name": "Copper Zib",
@@ -13361,9 +12956,6 @@
 			"page": 225,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TFV"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"weight": 5,
@@ -13550,17 +13142,6 @@
 				}
 			],
 			"hasFluffImages": true
-		},
-		{
-			"name": "Crown of the Forest",
-			"source": "IMR",
-			"page": 7,
-			"rarity": "uncommon",
-			"wondrous": true,
-			"entries": [
-				"While wearing this crown, a character automatically fails any Intelligence ({@skill Investigation}) check made to see through an illusion. An illusion that is touched still has its true nature revealed. However, a character wearing a crown has such a strong sense that the illusion is real that they might not know which of their senses to believe.",
-				"If this crown is closely examined by a character who succeeds on a {@dc 20} Intelligence ({@skill Nature}) or Wisdom ({@skill Perception}) check, or with a {@spell detect magic} spell cast using a 3rd-level or higher spell slot, the nature of its magic is discovered."
-			]
 		},
 		{
 			"name": "Crown of the Wrath Bringer",
@@ -13951,7 +13532,6 @@
 			"page": 159,
 			"srd": true,
 			"referenceSources": [
-				"LR",
 				"TftYP-WPM",
 				"VEoR"
 			],
@@ -14135,9 +13715,6 @@
 			"name": "Cube of Summoning",
 			"source": "XDMG",
 			"page": 247,
-			"referenceSources": [
-				"DrDe-TFV"
-			],
 			"rarity": "rare",
 			"wondrous": true,
 			"entries": [
@@ -18988,42 +18565,6 @@
 			]
 		},
 		{
-			"name": "Dimensional Loop",
-			"source": "AI",
-			"page": 220,
-			"referenceSources": [
-				"OoW"
-			],
-			"rarity": "very rare",
-			"reqAttune": true,
-			"wondrous": true,
-			"bonusSavingThrow": "+1",
-			"entries": [
-				"While attuned to this device, you have a +1 bonus to Strength saving throws, and you have {@sense darkvision} out to a range of 60 feet. If you already have {@sense darkvision}, its range increases by 30 feet.",
-				{
-					"type": "entries",
-					"name": "Dimensional Cloak",
-					"entries": [
-						"As a bonus action, you send your body out of phase with the material world for 1 minute, granting you advantage on Dexterity ({@skill Stealth}) checks made to hide, and imposing disadvantage on attack rolls against you. Once you use this feature of the dimensional loop, it cannot be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Fold Space",
-					"entries": [
-						"Choose a space you can see within 60 feet of you (no action required). You treat that space as if it were within 5 feet of you until the end of your turn. This allows you to move immediately to that space without provoking opportunity attacks, or to interact with objects or creatures in that space as though they were next to you (including allowing you to make melee attacks into that space). Once you use this feature of the dimensional loop, it cannot be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Part of a Whole",
-					"entries": [
-						"While this component is not installed in the {@item Orrery of the Wanderer|AI}, its magic might function sporadically or with unpredictable side effects, as determined by the DM."
-					]
-				}
-			]
-		},
-		{
 			"name": "Dimensional Shackles",
 			"source": "DMG",
 			"page": 165,
@@ -19122,9 +18663,6 @@
 			"page": 151,
 			"srd": true,
 			"basicRules": true,
-			"referenceSources": [
-				"TTP"
-			],
 			"reprintedAs": [
 				"Diplomat's Pack|XPHB"
 			],
@@ -19426,42 +18964,6 @@
 					"detect evil and good",
 					"detect magic"
 				]
-			},
-			"hasFluffImages": true
-		},
-		{
-			"name": "Documancy Satchel",
-			"source": "AI",
-			"page": 24,
-			"referenceSources": [
-				"OoW"
-			],
-			"rarity": "varies",
-			"wondrous": true,
-			"entries": [
-				"At rank 2, your documancy satchel becomes a common magic item, allowing you to magically send and receive documents to and from Head Office through a special pouch. Your documancy satchel magically produces prewritten and signature-ready contracts at your request, covering most common contractual needs. It also occasionally produces sticky notes printed with useful information and inspirational quotes from Head Office.",
-				{
-					"type": "entries",
-					"name": "Satchel of Holding",
-					"entries": [
-						"At rank 3, your documancy satchel gains additional features and becomes an uncommon magic item. One of the satchel's pouches now functions as a {@item bag of holding}.",
-						"Additionally, you can use an action to draw forth from the documancy satchel a {@item spell scroll} of {@spell comprehend languages}. The scroll vanishes when used, or ten minutes after it appears. This property of the bag can't be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Scroll Humidor",
-					"entries": [
-						"At rank 4, your documancy satchel gains additional power and becomes a rare magic item. Within the satchel, a dedicated extradimensional space can hold up to thirty documents or {@item spell scroll||spell scrolls}. Placing a single document into the scroll humidor is an action. Drawing forth a desired scroll is a bonus action."
-					]
-				}
-			],
-			"attachedSpells": {
-				"daily": {
-					"1e": [
-						"comprehend languages"
-					]
-				}
 			},
 			"hasFluffImages": true
 		},
@@ -20006,7 +19508,6 @@
 				"RoT",
 				"SCC-CK",
 				"ToFW",
-				"TTP",
 				"VEoR",
 				"WDH",
 				"WDMM"
@@ -20164,7 +19665,6 @@
 			"basicRules": true,
 			"referenceSources": [
 				"SCC-ARiR",
-				"TTP",
 				"US"
 			],
 			"reprintedAs": [
@@ -20387,10 +19887,6 @@
 			"page": 255,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BD",
-				"DrDe-DaS"
-			],
 			"rarity": "uncommon",
 			"wondrous": true,
 			"entries": [
@@ -20492,25 +19988,6 @@
 				"Implements - Uncommon|XDMG"
 			],
 			"hasFluffImages": true
-		},
-		{
-			"name": "Dust of the Mummy",
-			"source": "IMR",
-			"page": 93,
-			"referenceSources": [
-				"WBtW"
-			],
-			"rarity": "none",
-			"poison": true,
-			"entries": [
-				"This poison is created during a mummy's embalming process, distilled from the dead creature's removed organs. A creature subjected to this poison must succeed on a {@dc 12} Constitution saving throw or be cursed with mummy rot. The cursed creature can't regain hit points, and its hit point maximum decreases by 10 ({@dice 3d6}) for every 24 hours that elapse. If the curse reduces the creature's hit point maximum to 0, the creature dies, and its body turns to dust. The curse lasts until removed by the {@spell remove curse} spell or similar magic."
-			],
-			"poisonTypes": [
-				"inhaled"
-			],
-			"miscTags": [
-				"CNS"
-			]
 		},
 		{
 			"name": "Dwarven Plate",
@@ -20870,9 +20347,6 @@
 			"page": 256,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-DotSC"
-			],
 			"rarity": "very rare",
 			"wondrous": true,
 			"entries": [
@@ -20946,16 +20420,6 @@
 				"Magic Item Table I"
 			],
 			"hasFluffImages": true
-		},
-		{
-			"name": "Elder Cartographer's Glossography",
-			"source": "AI",
-			"page": 20,
-			"rarity": "uncommon",
-			"wondrous": true,
-			"entries": [
-				"When you attain rank 4, you gain a small tome that is an uncommon magic item. The elder cartographer's glossography grants advantage on Intelligence or Wisdom checks related to geographical features or locations."
-			]
 		},
 		{
 			"name": "Eldritch Claw Tattoo",
@@ -21259,9 +20723,6 @@
 			"page": 257,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BtS"
-			],
 			"rarity": "uncommon",
 			"wondrous": true,
 			"entries": [
@@ -21357,7 +20818,6 @@
 			"referenceSources": [
 				"BGDIA",
 				"IDRotF",
-				"IMR",
 				"OoW"
 			],
 			"reprintedAs": [
@@ -22425,7 +21885,6 @@
 			"srd": true,
 			"referenceSources": [
 				"BGDIA",
-				"KKW",
 				"QftIS",
 				"ToFW"
 			],
@@ -22470,9 +21929,6 @@
 			"page": 157,
 			"srd": true,
 			"basicRules": true,
-			"referenceSources": [
-				"TTP"
-			],
 			"reprintedAs": [
 				"Exotic Saddle|XPHB"
 			],
@@ -22558,9 +22014,6 @@
 			"page": 225,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-ACfaS"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"weight": 55,
@@ -22878,14 +22331,6 @@
 			"value": 250000
 		},
 		{
-			"name": "Eye patch with a mock eye set in blue sapphire and moonstone (Brazen Coalition)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 250000
-		},
-		{
 			"name": "Eyes of Charming",
 			"source": "DMG",
 			"page": 168,
@@ -23134,39 +22579,6 @@
 			]
 		},
 		{
-			"name": "Failed Experiment Wand",
-			"source": "AI",
-			"page": 162,
-			"referenceSources": [
-				"OoW"
-			],
-			"type": "WD|DMG",
-			"rarity": "rare",
-			"reqAttune": "by a spellcaster",
-			"reqAttuneTags": [
-				{
-					"spellcasting": true
-				}
-			],
-			"weight": 1,
-			"recharge": "dawn",
-			"rechargeAmount": "{@dice 1d6 + 1}",
-			"charges": 2,
-			"entries": [
-				"This wand has 2 charges. While holding it, you can use an action to expend 1 or more of its charges to cast either a green-flamed {@spell fireball} or a blue {@spell lightning bolt} at random from it (save {@dc 15}).",
-				"For 1 charge, you cast the 3rd-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.",
-				"The wand regains {@dice 1d6 + 1} expended charges daily at dawn. If you expend the wand's last charge, roll a {@dice d20}. On a 1, the wand crumbles into ashes and is destroyed."
-			],
-			"attachedSpells": {
-				"charges": {
-					"1": [
-						"fireball",
-						"lightning bolt"
-					]
-				}
-			}
-		},
-		{
 			"name": "Falkir's Helm of Pigheadedness",
 			"source": "WDMM",
 			"page": 141,
@@ -23212,50 +22624,6 @@
 				"Fane-Eater is a battleaxe belonging to {@creature Arkhan the Cruel|BGDIA}.",
 				"You gain a +3 bonus to attack and damage rolls with Fane-Eater. If you attack a creature with this weapon and roll a 20 on the attack roll, the creature takes an extra {@damage 2d8} necrotic damage, and you regain a number of hit points equal to the necrotic damage taken."
 			]
-		},
-		{
-			"name": "Far Gear",
-			"source": "AI",
-			"page": 221,
-			"referenceSources": [
-				"OoW"
-			],
-			"rarity": "very rare",
-			"reqAttune": true,
-			"wondrous": true,
-			"bonusSavingThrow": "+1",
-			"entries": [
-				"While attuned to this device, you have a +1 bonus to Charisma saving throws, and you have advantage on Charisma ({@skill Intimidation}) checks.",
-				{
-					"type": "entries",
-					"name": "Aberrant Ally",
-					"entries": [
-						"You can conjure an aberrant creature from the chaos of the multiverse to serve you. This functions as the {@spell conjure celestial} spell (no {@status concentration} required), except the creature you summon is an aberration of challenge rating 4 or lower. Once you use this feature of the far gear, it cannot be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Unnatural Bane",
-					"entries": [
-						"You can cast the {@spell bane} spell (save {@dc 15}), which affects any number of creatures within range for 1 minute. Once you use this feature of the far gear, it cannot be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Part of a Whole",
-					"entries": [
-						"While this component is not installed in the {@item Orrery of the Wanderer|AI}, its magic might function sporadically or with unpredictable side effects, as determined by the DM."
-					]
-				}
-			],
-			"attachedSpells": {
-				"daily": {
-					"1e": [
-						"bane",
-						"conjure celestial"
-					]
-				}
-			}
 		},
 		{
 			"name": "Far Realm Shard",
@@ -23371,14 +22739,6 @@
 			"entries": [
 				"This small metal disk is inscribed with the image of a feather. When you fall at least 20 feet while the token is on your person, you descend 60 feet per round and take no damage from falling. The token's magic is expended after you land, whereupon the disk becomes nonmagical."
 			]
-		},
-		{
-			"name": "Feathered mantle with emerald clasp (Sun Empire)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 250000
 		},
 		{
 			"name": "Feed (per day)",
@@ -24275,9 +23635,6 @@
 			"page": 261,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-ACfaS"
-			],
 			"rarity": "rare",
 			"wondrous": true,
 			"entries": [
@@ -24501,30 +23858,6 @@
 			"value": 250000
 		},
 		{
-			"name": "Fine gold chain with fire opals (Legion of Dusk)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 250000
-		},
-		{
-			"name": "Fine robe with dinosaur feathers and silver embroidery (Sun Empire)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 25000
-		},
-		{
-			"name": "Fine steel rapier with gold filigree hilt (Legion of Dusk)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 75000
-		},
-		{
 			"name": "Fine Wine (bottle)",
 			"source": "PHB",
 			"page": 158,
@@ -24552,14 +23885,6 @@
 			"miscTags": [
 				"CNS"
 			]
-		},
-		{
-			"name": "Finely articulated jade glove (River Heralds)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 250000
 		},
 		{
 			"name": "Fire Absorbing Tattoo",
@@ -24624,8 +23949,7 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"IDRotF",
-				"TTP"
+				"IDRotF"
 			],
 			"type": "G",
 			"rarity": "none",
@@ -24887,7 +24211,6 @@
 			"referenceSources": [
 				"DitLCoT",
 				"GoS",
-				"IMR",
 				"LLK",
 				"QftIS",
 				"ToA"
@@ -24917,9 +24240,6 @@
 			"page": 263,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"rarity": "rare",
 			"wondrous": true,
 			"weight": 4,
@@ -25001,9 +24321,6 @@
 					"source": "XGE",
 					"page": 81
 				}
-			],
-			"referenceSources": [
-				"IMR"
 			],
 			"reprintedAs": [
 				"Forgery Kit|XPHB"
@@ -25457,7 +24774,6 @@
 			"referenceSources": [
 				"CoA",
 				"DIP",
-				"IMR",
 				"KftGV",
 				"LMoP",
 				"OotA",
@@ -25690,8 +25006,6 @@
 			"referenceSources": [
 				"CoA",
 				"DSotDQ",
-				"LR",
-				"NRH-TCMC",
 				"OotA",
 				"OoW",
 				"QftIS",
@@ -25971,9 +25285,6 @@
 			"page": 224,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"weight": 2,
@@ -26099,7 +25410,6 @@
 			"page": 172,
 			"referenceSources": [
 				"KftGV",
-				"NRH-TCMC",
 				"WBtW"
 			],
 			"reprintedAs": [
@@ -26241,7 +25551,6 @@
 				"DD",
 				"DIP",
 				"OotA",
-				"SjA",
 				"TftYP-WPM",
 				"WBtW"
 			],
@@ -26371,14 +25680,6 @@
 			}
 		},
 		{
-			"name": "Gold basin with rubies (Legion of Dusk)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 750000
-		},
-		{
 			"name": "Gold bird cage with electrum filigree",
 			"source": "DMG",
 			"page": 135,
@@ -26430,22 +25731,6 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "Gold chalice (Legion of Dusk)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 75000
-		},
-		{
-			"name": "Gold chalice set with emeralds (Legion of Dusk)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 750000
 		},
 		{
 			"name": "Gold circlet set with four aquamarines",
@@ -26580,14 +25865,6 @@
 			"value": 750000
 		},
 		{
-			"name": "Gold jewelry box with platinum filigree (Brazen Coalition)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 750000
-		},
-		{
 			"name": "Gold locket with a painted portrait inside",
 			"source": "DMG",
 			"page": 134,
@@ -26603,14 +25880,6 @@
 			"source": "XDMG",
 			"page": 215,
 			"type": "$A|XDMG",
-			"rarity": "none",
-			"value": 2500
-		},
-		{
-			"name": "Gold locket with a painted portrait inside (Legion of Dusk)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
 			"rarity": "none",
 			"value": 2500
 		},
@@ -26634,22 +25903,6 @@
 			"value": 250000
 		},
 		{
-			"name": "Gold music box (Brazen Coalition)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 250000
-		},
-		{
-			"name": "Gold pendant with black onyx (Legion of Dusk)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 25000
-		},
-		{
 			"name": "Gold ring set with bloodstones",
 			"source": "DMG",
 			"page": 135,
@@ -26669,14 +25922,6 @@
 			"value": 25000
 		},
 		{
-			"name": "Gold ring with turquoise (Legion of Dusk)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 2500
-		},
-		{
 			"name": "Gold statuette set with rubies",
 			"source": "XDMG",
 			"page": 215,
@@ -26691,22 +25936,6 @@
 			"type": "$C",
 			"rarity": "none",
 			"value": 100
-		},
-		{
-			"name": "Gold-plated ceremonial helmet and pauldrons (Legion of Dusk)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 250000
-		},
-		{
-			"name": "Gold-plated sextant with topaz (Brazen Coalition)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 75000
 		},
 		{
 			"name": "Golgari Guild Signet",
@@ -27625,9 +26854,6 @@
 			"page": 150,
 			"srd": true,
 			"basicRules": true,
-			"referenceSources": [
-				"SjA"
-			],
 			"type": "G",
 			"rarity": "none",
 			"weight": 3,
@@ -27708,11 +26934,6 @@
 			"name": "Hammerhead Ship",
 			"source": "AAG",
 			"page": 32,
-			"otherSources": [
-				{
-					"source": "SjA"
-				}
-			],
 			"type": "SPC|AAG",
 			"rarity": "none",
 			"value": 4000000,
@@ -28596,14 +27817,12 @@
 				"IDRotF",
 				"KftGV",
 				"LoX",
-				"LR",
 				"PaBTSO",
 				"QftIS",
 				"SLW",
 				"TftYP-TSC",
 				"ToA",
 				"ToFW",
-				"TTP",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -28625,8 +27844,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-DaS",
-				"DrDe-TDoN",
 				"HotB"
 			],
 			"type": "G|XPHB",
@@ -29348,15 +28565,6 @@
 			"name": "Helm of Underwater Action",
 			"source": "GoS",
 			"page": 229,
-			"otherSources": [
-				{
-					"source": "IMR",
-					"page": 94
-				}
-			],
-			"referenceSources": [
-				"IMR"
-			],
 			"rarity": "uncommon",
 			"reqAttune": true,
 			"wondrous": true,
@@ -29404,8 +28612,7 @@
 				"CoS",
 				"CRCotN",
 				"DSotDQ",
-				"GoS",
-				"TTP"
+				"GoS"
 			],
 			"reprintedAs": [
 				"Rope|XPHB"
@@ -29433,7 +28640,6 @@
 			"referenceSources": [
 				"BGDIA",
 				"IDRotF",
-				"IMR",
 				"OoW",
 				"RtG",
 				"SCC-HfMT",
@@ -29683,7 +28889,6 @@
 			"page": 174,
 			"srd": "Handy Haversack",
 			"referenceSources": [
-				"IMR",
 				"JttRC",
 				"KftGV",
 				"PaBTSO",
@@ -30110,8 +29315,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-DaS",
-				"DrDe-TDoN",
 				"HotB"
 			],
 			"type": "G|XPHB",
@@ -30254,9 +29457,6 @@
 			"page": 270,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TFV"
-			],
 			"baseItem": "horn|xphb",
 			"type": "INS|XPHB",
 			"rarity": "rare",
@@ -31805,10 +31005,6 @@
 			"page": 226,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-SD",
-				"DrDe-TDoN"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"value": 1000,
@@ -31857,10 +31053,6 @@
 			"page": 226,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-SD",
-				"DrDe-TDoN"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"value": 2,
@@ -32239,8 +31431,7 @@
 			"source": "DMG",
 			"page": 176,
 			"referenceSources": [
-				"CoS",
-				"NRH-CoI"
+				"CoS"
 			],
 			"reprintedAs": [
 				"Instrument of the Bards, Doss Lute|XDMG"
@@ -32286,9 +31477,6 @@
 			"name": "Instrument of the Bards, Doss Lute",
 			"source": "XDMG",
 			"page": 272,
-			"referenceSources": [
-				"DrDe-TFV"
-			],
 			"baseItem": "lute|xphb",
 			"type": "INS|XPHB",
 			"rarity": "uncommon",
@@ -32529,9 +31717,6 @@
 			"name": "Instrument of the Bards, Ollamh Harp",
 			"source": "XDMG",
 			"page": 272,
-			"referenceSources": [
-				"DrDe-ACfaS"
-			],
 			"rarity": "legendary",
 			"reqAttune": "by a bard",
 			"reqAttuneTags": [
@@ -32561,21 +31746,6 @@
 				"Implements - Legendary|XDMG"
 			],
 			"hasFluffImages": true
-		},
-		{
-			"name": "Ioun Stone of Vitality",
-			"source": "IMR",
-			"page": 94,
-			"rarity": "very rare",
-			"reqAttune": true,
-			"wondrous": true,
-			"bonusSavingThrow": "+1",
-			"entries": [
-				"An {@italic Ioun stone} is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of {@italic Ioun stone} exist, each type a distinct combination of shape and color.",
-				"When you use an action to toss one of these stones into the air, the stone orbits your head at a distance of {@dice 1d3} feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful {@dc 24} Dexterity ({@skill Acrobatics}) check. You can use an action to seize and stow the stone, ending its effect.",
-				"A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head.",
-				"You gain a +1 bonus to death saving throws while this luminous green-and-blue marbled sphere orbits your head."
-			]
 		},
 		{
 			"name": "Ioun Stone, Absorption",
@@ -33418,7 +32588,6 @@
 			"srd": true,
 			"referenceSources": [
 				"BGDIA",
-				"IMR",
 				"JttRC",
 				"LLK",
 				"QftIS",
@@ -34023,22 +33192,6 @@
 			]
 		},
 		{
-			"name": "Jade bowl (River Heralds)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 25000
-		},
-		{
-			"name": "Jade breastplate (River Heralds)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 750000
-		},
-		{
 			"name": "Jade game board with gold playing pieces",
 			"source": "XDMG",
 			"page": 215,
@@ -34058,14 +33211,6 @@
 			"value": 750000
 		},
 		{
-			"name": "Jade headpiece (River Heralds)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 25000
-		},
-		{
 			"name": "Jade Serpent Staff",
 			"source": "WDMM",
 			"page": 92,
@@ -34082,22 +33227,6 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "Jade sword with amber (River Heralds)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 75000
-		},
-		{
-			"name": "Jade totem with diamond eyes (River Heralds)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 750000
 		},
 		{
 			"name": "Jakarion's Staff of Frost",
@@ -34502,14 +33631,6 @@
 			"value": 250000
 		},
 		{
-			"name": "Jeweled anklet (Brazen Coalition)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 250000
-		},
-		{
 			"name": "Jeweled gold crown",
 			"source": "DMG",
 			"page": 135,
@@ -34680,7 +33801,6 @@
 			"srd": "Restorative Ointment",
 			"basicRules": true,
 			"referenceSources": [
-				"IMR",
 				"JttRC",
 				"OotA",
 				"OoW",
@@ -34708,10 +33828,6 @@
 			"source": "XDMG",
 			"page": 275,
 			"srd52": "Restorative Ointment",
-			"referenceSources": [
-				"DrDe-DaS",
-				"DrDe-TDoN"
-			],
 			"rarity": "uncommon",
 			"wondrous": true,
 			"entries": [
@@ -35203,9 +34319,6 @@
 			"page": 226,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TWoO"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"weight": 25,
@@ -35484,36 +34597,12 @@
 			"value": 25000
 		},
 		{
-			"name": "Large gold bracelet (Legion of Dusk)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 25000
-		},
-		{
-			"name": "Large jade totem (River Heralds)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 75000
-		},
-		{
 			"name": "Large well-made tapestry",
 			"source": "DMG",
 			"page": 135,
 			"reprintedAs": [
 				"Well-made tapestry that is 10 feet by 10 feet|XDMG"
 			],
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 25000
-		},
-		{
-			"name": "Large well-made tapestry (Legion of Dusk)",
-			"source": "PSX",
-			"page": 24,
 			"type": "$A|DMG",
 			"rarity": "none",
 			"value": 25000
@@ -35955,110 +35044,6 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "Living Loot Satchel",
-			"source": "AI",
-			"page": 25,
-			"referenceSources": [
-				"OoW"
-			],
-			"rarity": "varies",
-			"wondrous": true,
-			"entries": [
-				"As a rank 2 hoardsperson, you are granted the use of a living loot satchel, which is an uncommon magic item. It functions as a {@item bag of holding} and is available in a variety of colors and styles.",
-				{
-					"type": "table",
-					"caption": "Class-Based Living Loot Satchel",
-					"colStyles": [
-						"col-2",
-						"col-10"
-					],
-					"colLabels": [
-						"Class",
-						"Satchel"
-					],
-					"rows": [
-						[
-							"Barbarian",
-							"Broad belt with a dozen hanging pockets"
-						],
-						[
-							"Bard",
-							"Lute case"
-						],
-						[
-							"Cleric",
-							"Hollowed-out holy tome"
-						],
-						[
-							"Druid",
-							"Made from natural, organic, locally sourced woven fibers"
-						],
-						[
-							"Fighter",
-							"A thick, battle-scarred iron lockbox"
-						],
-						[
-							"Paladin",
-							"A metal case with fine engraving and scrollwork"
-						],
-						[
-							"Ranger",
-							"A fur-lined bindle"
-						],
-						[
-							"Rogue",
-							"A nondescript coin pouch"
-						],
-						[
-							"Sorcerer",
-							"A battered leather satchel, prone to spitting out multicolored sparks at the seams"
-						],
-						[
-							"Warlock",
-							"A patchwork monster-leather satchel with a \"purely decorative\" fanged mouth."
-						],
-						[
-							"Wizard",
-							"A pocket dimension hidden up your sleeve or inside your hat"
-						]
-					]
-				},
-				"The living loot satchel is a kind of magical being that safeguards the franchise's funds and valuables. Its innards are connected to a secure coffer within Head Office's vault in Waterdeep, to which the satchel periodically transfers the franchise's wealth. As an action, you can transfer any amount of your franchise funds back to your satchel with a successful {@dc 15} Dexterity ({@skill Sleight of Hand}) check.",
-				{
-					"type": "entries",
-					"name": "Secret Satchel",
-					"entries": [
-						"As a rank 3 hoardsperson, your living loot satchel gets an upgrade to function as the replica chest used for the {@spell Leomund's secret chest} spell, becoming a rare magic item. You can open the secret chest through your living loot satchel to deposit or withdraw items\u2014even items that wouldn't normally fit in your satchel, but which fit within the chest. Thanks to Head Office striking deals you don't want to know about with extraplanar creatures you really don't want to know about, there is no chance for the spell to end."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "That Thing You Need",
-					"entries": [
-						"At rank 3, you can use a bonus action to reach into your living loot satchel and make a {@dc 15} Dexterity ({@skill Sleight of Hand}) check. On a success, you draw forth an item of your choice on the Adventuring Gear table in chapter 5 of the Player's Handbook. The item must be of a size that can fit into your secret chest and be worth no more than 15 gp. Once you attempt to draw five items from your satchel, you cannot draw forth any more items until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Portable Hole Satchel",
-					"entries": [
-						"At rank 4, your living loot satchel receives another upgrade, becoming a very rare magic item. The secret chest accessed by your satchel now has the storage capacity of a {@item portable hole}\u20146 feet in diameter and 10 feet deep. As before, you can place any appropriately sized object into the portable-hole-sized chest, even if it wouldn't normally fit into your satchel."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "That Expensive Thing You Need",
-					"entries": [
-						"Also at rank 4, when you use your That Thing You Need feature, you can requisition any item of up to 250 gp in value, as long as it would fit into the confines of your satchel's portable hole."
-					]
-				}
-			],
-			"attachedSpells": [
-				"Leomund's secret chest"
-			],
-			"hasFluffImages": true
 		},
 		{
 			"name": "Living Ship",
@@ -36781,15 +35766,6 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Lute crafted of exotic wood with mother-of-pearl inlay and zircon gems (Brazen Coalition)",
-			"source": "PSX",
-			"page": 24,
-			"baseItem": "lute|phb",
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 75000
-		},
-		{
 			"name": "Lute of Thunderous Thumping",
 			"source": "XDMG",
 			"page": 275,
@@ -36887,7 +35863,6 @@
 			"page": 179,
 			"srd": true,
 			"referenceSources": [
-				"NRH-AWoL",
 				"QftIS",
 				"WDH"
 			],
@@ -37738,9 +36713,6 @@
 			"source": "DMG",
 			"page": 180,
 			"srd": true,
-			"referenceSources": [
-				"IMR"
-			],
 			"reprintedAs": [
 				"Manual of Stone Golems|XDMG"
 			],
@@ -37834,14 +36806,6 @@
 					}
 				]
 			}
-		},
-		{
-			"name": "Marble font with gold inlay (Legion of Dusk)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 750000
 		},
 		{
 			"name": "Mask of Changed Appearance",
@@ -37986,14 +36950,6 @@
 				"A shield guardian's solitary focus is to protect the amulet's wearer. The amulet's wearer can command the guardian to attack its enemies or to guard the wielder against attack. If an attack threatens to injure the wearer, the construct can magically absorb the blow into its own body, even at a distance.",
 				"A spellcaster can store a single spell within a shield guardian, which can then cast the spell on command or under specific conditions. Many a wizard has been rendered helpless by enemies, only to surprise those foes when its shield guardian unleashes potent magical power."
 			]
-		},
-		{
-			"name": "Masterpiece painting in mahogany frame with gold inlay (Legion of Dusk)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 250000
 		},
 		{
 			"name": "Mastiff",
@@ -38282,7 +37238,6 @@
 			"referenceSources": [
 				"CoA",
 				"QftIS",
-				"TTP",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -38380,9 +37335,7 @@
 			"basicRules": true,
 			"referenceSources": [
 				"CoS",
-				"SjA",
-				"ToA",
-				"TTP"
+				"ToA"
 			],
 			"type": "G",
 			"rarity": "none",
@@ -38848,9 +37801,6 @@
 			"page": 278,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TFV"
-			],
 			"rarity": "very rare",
 			"wondrous": true,
 			"weight": 50,
@@ -39574,19 +38524,6 @@
 			"speed": 40
 		},
 		{
-			"name": "Mummy Rot Antidote",
-			"source": "IMR",
-			"page": 94,
-			"type": "P",
-			"rarity": "uncommon",
-			"entries": [
-				"White dust swirls constantly within this pale gray potion. When you drink the potion, it cures you of mummy rot."
-			],
-			"miscTags": [
-				"CNS"
-			]
-		},
-		{
 			"name": "Murgaxor's Elixir of Life",
 			"source": "SCC",
 			"page": 179,
@@ -39962,7 +38899,6 @@
 			"srd": true,
 			"referenceSources": [
 				"JttRC",
-				"NRH-AVitW",
 				"OotA",
 				"QftIS",
 				"VEoR"
@@ -40011,14 +38947,6 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Necklace of electrum medallions with red and blue tourmalines (Brazen Coalition)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 75000
-		},
-		{
 			"name": "Necklace of Fireballs",
 			"source": "DMG",
 			"page": 182,
@@ -40028,8 +38956,6 @@
 				"DIP",
 				"IDRotF",
 				"KftGV",
-				"NRH-ASS",
-				"NRH-TLT",
 				"OotA",
 				"TftYP-AtG",
 				"ToA",
@@ -40085,14 +39011,6 @@
 				"Arcana - Rare|XDMG"
 			],
 			"hasFluffImages": true
-		},
-		{
-			"name": "Necklace of jade and pink pearls (River Heralds)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 250000
 		},
 		{
 			"name": "Necklace of Prayer Beads",
@@ -40659,7 +39577,6 @@
 			"referenceSources": [
 				"CRCotN",
 				"GoS",
-				"IMR",
 				"JttRC",
 				"LLK",
 				"TftYP-AtG",
@@ -40821,132 +39738,11 @@
 			"value": 75000
 		},
 		{
-			"name": "Obviator's Lenses",
-			"source": "AI",
-			"page": 30,
-			"rarity": "varies",
-			"wondrous": true,
-			"entries": [
-				"Also at rank 2, you gain the use of an uncommon magic item taking the form of a pair of spectacles, a spyglass, a monocle, or any other device with one or two lenses. When you look through the obviator's lenses, you use a bonus action to make them function as {@item eyes of minute seeing} or {@item eyes of the eagle}. Once you make this choice, it cannot be changed until the next dawn.",
-				{
-					"type": "entries",
-					"name": "Enhanced Lenses",
-					"entries": [
-						"At rank 4, your obviator's lenses gain additional power and become a rare magic item. The lenses now function as both {@item eyes of the eagle} and {@item eyes of minute seeing}.",
-						"Additionally, you can focus the power of the lenses to gain accuracy in combat, gaining advantage on a weapon attack roll (no action required). If that attack hits, roll one additional weapon damage die. This property of the lenses can't be used again until the next dawn."
-					]
-				}
-			]
-		},
-		{
-			"name": "Occultant Abacus",
-			"source": "AI",
-			"page": 31,
-			"rarity": "varies",
-			"reqAttune": true,
-			"wondrous": true,
-			"entries": [
-				"Head office grants you the use of a unique item known as an occultant abacus (sometimes just referred to as an occultant), whose beads resemble tiny skulls.",
-				{
-					"type": "entries",
-					"name": "Read the Kill",
-					"entries": [
-						"Also at rank 1, your occultant abacus not only tracks your franchise's kills, it helps you determine the impact of those kills on the franchise's fate. Over a period of 1 minute, you can study a creature killed by someone in your franchise within the last 24 hours, then grant the character who slew it a {@dice d10}. Once within the next hour, that character can add the {@dice d10} to an attack roll, ability check, or saving throw. If it's not clear who administered the killing blow, you grant this benefit to a random creature involved in the fight. Once you use this feature, you can't use it again until you finish a long rest.",
-						{
-							"type": "table",
-							"colLabels": [
-								"d6",
-								"Reading"
-							],
-							"colStyles": [
-								"col-2 text-center",
-								"col-10"
-							],
-							"rows": [
-								[
-									"1",
-									"Using a tiny bellows to pump one last breath into a corpse."
-								],
-								[
-									"2",
-									"Reading the entrails with special reading-the-entrails glasses."
-								],
-								[
-									"3",
-									"Burning a small piece of the body and looking for shapes in the smoke."
-								],
-								[
-									"4",
-									"A cautious, reasoned, professional guesstimate."
-								],
-								[
-									"5",
-									"Careful measurements. The distance between nostrils. The difference between the index finger and the middle finger. The elasticity of the ear lobe."
-								],
-								[
-									"6",
-									"You take a long, careful look, and then decide based on which fellow franchisee has been nice to you lately."
-								]
-							]
-						}
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Eldritch Occultant",
-					"entries": [
-						"Starting at rank 2, your occultant abacus becomes an uncommon magic item that can track lives both eliminated and saved. While holding your occultant abacus within 5 feet of a creature killed within the past 24 hours, you can cast the {@spell augury} spell. The course of action you inquire about with the spell does not need to have any connection to the dead creature. This property of the occultant abacus can't be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Bring Out Your Dead",
-					"entries": [
-						"Also at rank 2, you regain the use of your Read the Kill feature after you finish a short or long rest."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Bead of Instant Karma",
-					"entries": [
-						"At rank 3, one of the beads on your occultant abacus channels the power of instant karma, turning the occultant abacus into a rare magic item. As a reaction, you can target one creature you can see that is about to attempt an ability check, attack roll, or saving throw, either granting advantage or imposing disadvantage on the roll. The bead crumbles to dust when used, reappearing on your occultant abacus at the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Bead of Diverted Karma",
-					"entries": [
-						"At rank 4, one of the beads on your occultant abacus allows you to divert karma to where it's needed, turning the occultant abacus into a very rare magic item. While the bead is unused, you know automatically when any creature you can see is about to make an ability check, attack roll, or saving throw with disadvantage. When such a roll is made, you can use a reaction to grant a {@dice d10} to a different creature you can see. That creature can add the {@dice d10} to any ability check, attack roll, or saving throw it makes within the next minute. The bead crumbles to dust when used, reappearing on your occultant abacus at the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Correct the Balance",
-					"entries": [
-						"As a rank 4 occultant, you learn that sometimes the death of a creature has unintended consequences. Within seven days of a creature's death, you can use your occultant abacus to divine ways to reverse or mitigate events resulting from that death. As an action, make a {@dc 15} Intelligence ({@skill Religion}) check. On a success, you learn the relevant information based on the nature of the creature and its place in the world.",
-						"If you fail the check, this property of the occultant abacus can't be used again until the next dawn. If you succeed on the check, this property can't be used again until dawn seven days later."
-					]
-				}
-			],
-			"attachedSpells": {
-				"daily": {
-					"1e": [
-						"augury"
-					]
-				}
-			},
-			"hasFluffImages": true
-		},
-		{
 			"name": "Oil",
 			"source": "XPHB",
 			"page": 227,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-DaS",
-				"DrDe-TDoN"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"weight": 1,
@@ -41095,9 +39891,6 @@
 			"page": 282,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BtS"
-			],
 			"type": "P|XPHB",
 			"rarity": "very rare",
 			"weight": 0.5,
@@ -42066,97 +40859,6 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Orrery of the Wanderer",
-			"source": "AI",
-			"page": 220,
-			"referenceSources": [
-				"OoW"
-			],
-			"type": "OTH",
-			"rarity": "artifact",
-			"reqAttune": true,
-			"wondrous": true,
-			"bonusAc": "+1",
-			"recharge": "dawn",
-			"rechargeAmount": "{@dice 1d4 + 4}",
-			"charges": 7,
-			"entries": [
-				"This delicate and exquisitely crafted clockwork orrery features multiple geared components whose sweeping hands and dials represent the complex interplay of planar and magical realms. Standing two feet high, the orrery housing is a wondrous device imbued with magic of its own, but the power of its six clockwork components makes the artifact even more potent.",
-				"The Orrery of the Wanderer was created by a renowned clockwork mage known only as Lottie. She crafted the relic as a means of tapping into the power of the planes, and to channel the divination and foretelling powers of the stars. But Lottie soon realized that her creation was far more powerful than she had intended. As it tapped into planar magic, the orrery began to manifest the darkness and malevolence inherent to some of the planes. Eventually, it would impress upon its owner a desire to open portals into the most cursed and dangerous worlds, including the Far Realm.",
-				"To prevent the orrery from ever being so used, Lottie scattered the components that powered it, secreting them across the world. But the orrery's instinct for survival is strong, and its components have a way of inexorably coming together over decades or centuries, found by treasure hunters, stolen by monsters, found and stolen again\u2014and moving closer to each other all the time.",
-				"Random Properties. The orrery has the following randomly determined properties:",
-				{
-					"type": "list",
-					"items": [
-						"2 {@table Artifact Properties; Minor Beneficial Properties|dmg|minor beneficial properties}",
-						"1 {@table Artifact Properties; Major Beneficial Properties|dmg|major beneficial property}",
-						"1 {@table Artifact Properties; Major Detrimental Properties|dmg|major detrimental properties}"
-					]
-				},
-				"The random properties of the orrery might function only when all its components are installed, or might function sporadically if any components are missing.",
-				{
-					"type": "entries",
-					"name": "The Sum of Its Parts",
-					"entries": [
-						"Each of the six components that powers the Orrery of the Wanderer is a powerful magic relic in its own right:",
-						{
-							"type": "list",
-							"style": "list-no-bullets",
-							"items": [
-								"The {@item chronolometer|AI}",
-								"The {@item dimensional loop|AI}",
-								"The {@item far gear|AI}",
-								"The {@item rotor of return|AI}",
-								"The {@item timepiece of travel|AI}",
-								"The {@item wheel of stars|AI}"
-							]
-						},
-						"Creatures can attune to the orrery's components individually. If attuned to an individual component, a creature must hold the component to make use of its features. A creature can also attune to the orrery and all the components installed in it. Attuning to an installed component doesn't count against the number of magic items you can normally attune to.",
-						"While a component is not installed in the orrery, its magic might function sporadically or with unpredictable side effects, as determined by the DM."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Future Echoes",
-					"entries": [
-						"With or without its components, the orrery lets you catch momentary glimpses of the future that warn you of danger. As long as the orrery is within 30 feet of you, you gain a +1 bonus to AC."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Into the Void",
-					"entries": [
-						"With or without its components, the attuned orrery infuses your spirit with the tumultuous energy of the planes. Over time, your alignment changes to chaotic neutral, and you are compelled to engage with and explore the most dangerous planar realms."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Master of Travel",
-					"entries": [
-						"While all six components of the Orrery of the Wanderer are installed, the artifact has 7 charges. While touching the orrery, you can use an action and expend 1 or more charges to cast one of the following spells (save {@dc 17}): {@spell contact other plane} (3 charges), {@spell demiplane} (6 charges), {@spell gate} (7 charges), {@spell plane shift} (5 charges), or {@spell teleportation circle} (3 charges). The orrery regains {@dice 1d4 + 4} expended charges daily at dawn."
-					]
-				}
-			],
-			"attachedSpells": {
-				"charges": {
-					"3": [
-						"contact other plane",
-						"teleportation circle"
-					],
-					"5": [
-						"plane shift"
-					],
-					"6": [
-						"demiplane"
-					],
-					"7": [
-						"gate"
-					]
-				}
-			},
-			"hasFluffImages": true
-		},
-		{
 			"name": "Orzhov Guild Signet",
 			"source": "GGR",
 			"page": 178,
@@ -42477,14 +41179,6 @@
 			"value": 2500
 		},
 		{
-			"name": "Pair of engraved bone dice (Brazen Coalition)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 2500
-		},
-		{
 			"name": "Pale Tincture",
 			"source": "DMG",
 			"page": 258,
@@ -42561,15 +41255,6 @@
 			"name": "Paper Bird",
 			"source": "WDH",
 			"page": 191,
-			"otherSources": [
-				{
-					"source": "IMR",
-					"page": 94
-				}
-			],
-			"referenceSources": [
-				"IMR"
-			],
 			"rarity": "uncommon",
 			"wondrous": true,
 			"entries": [
@@ -42607,10 +41292,6 @@
 			"page": 227,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-SD",
-				"DrDe-TDoN"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"value": 10,
@@ -42985,7 +41666,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-TFV",
 				"WttHC"
 			],
 			"rarity": "uncommon",
@@ -43061,7 +41741,6 @@
 			"page": 184,
 			"srd": true,
 			"referenceSources": [
-				"LR",
 				"TftYP-THSoT",
 				"ToFW"
 			],
@@ -43090,9 +41769,6 @@
 			"page": 284,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BtS"
-			],
 			"rarity": "uncommon",
 			"reqAttune": true,
 			"wondrous": true,
@@ -43172,14 +41848,6 @@
 			]
 		},
 		{
-			"name": "Pewter mug with green spinels (Brazen Coalition)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 25000
-		},
-		{
 			"name": "Philter of Love",
 			"source": "DMG",
 			"page": 184,
@@ -43222,31 +41890,6 @@
 			],
 			"miscTags": [
 				"CNS"
-			]
-		},
-		{
-			"name": "Piercer",
-			"source": "AI",
-			"page": 121,
-			"referenceSources": [
-				"OoW"
-			],
-			"baseItem": "shortsword|phb",
-			"type": "M",
-			"rarity": "rare",
-			"reqAttune": true,
-			"weight": 2,
-			"weaponCategory": "martial",
-			"property": [
-				"F",
-				"L"
-			],
-			"dmg1": "1d6",
-			"dmgType": "P",
-			"bonusWeapon": "+1",
-			"entries": [
-				"You have a +1 bonus to attack and damage rolls made with this magic weapon.",
-				"A character attuned to the sword regains the maximum possible number of hit points from expended Hit Dice. However, the attuned character must eat twice as much food each day (a minimum of 2 pounds) to avoid {@condition exhaustion} (see \"The Environment\" in chapter 8 of the Player's Handbook.)"
 			]
 		},
 		{
@@ -43472,9 +42115,6 @@
 			"page": 150,
 			"srd": true,
 			"basicRules": true,
-			"referenceSources": [
-				"SjA"
-			],
 			"type": "G",
 			"rarity": "none",
 			"weight": 0.25,
@@ -43764,22 +42404,6 @@
 			"value": 250000
 		},
 		{
-			"name": "Platinum headdress with topaz sun symbol (Sun Empire)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 250000
-		},
-		{
-			"name": "Platinum ring with yellow sapphire (Sun Empire)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 750000
-		},
-		{
 			"name": "Platinum Scarf",
 			"source": "FTD",
 			"page": 24,
@@ -43813,14 +42437,6 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "Platinum staff topped with amber (Sun Empire)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 750000
 		},
 		{
 			"name": "Playing Card Set",
@@ -44070,9 +42686,6 @@
 			"page": 150,
 			"srd": true,
 			"basicRules": true,
-			"referenceSources": [
-				"TTP"
-			],
 			"reprintedAs": [
 				"Pole|XPHB"
 			],
@@ -44270,36 +42883,6 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Portfolio Keeper",
-			"source": "AI",
-			"page": 33,
-			"rarity": "varies",
-			"wondrous": true,
-			"entries": [
-				"At rank 2, you gain the use of a weathered leather pouch that is an uncommon magic item. The portfolio keeper holds and organizes notes, brochures, and business cards bearing your contact information. It also has an inexhaustible supply of brochures related to your franchise's current branding scheme.",
-				"When you meet someone for the first time, their details and a rough sketch are magically stored on a small parchment card in the portfolio keeper. You can access the details of any such stored card as a bonus action.",
-				{
-					"type": "entries",
-					"name": "Cards of Sending",
-					"entries": [
-						"At rank 3, the power of your portfolio keeper becomes more potent, making it a rare magic item. When you give out a business card stored in your portfolio keeper, you can choose to have the card allow its recipient to contact you through your {@item sending stone|AI} as if they had cast a {@spell sending} spell. A business card loses this power seven days after it has been given out, and no more than five cards can have this power at one time.",
-						"You can also use your {@item sending stone|AI} to cast {@spell sending} and contact anyone who has one of your business cards. Once you use this feature of the stone, you cannot use it again until dawn seven days later."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Charming Introduction",
-					"entries": [
-						"Also at rank 4, you are able to make a focused effort to keep a potential customer's attention. When you provide a humanoid with a business card from your portfolio keeper, you can cast {@spell charm person} on them (save {@dc 15}). The spell ends prematurely if the character loses the business card."
-					]
-				}
-			],
-			"attachedSpells": [
-				"charm person",
-				"sending"
-			]
-		},
-		{
 			"name": "Pot of Awakening",
 			"source": "XDMG",
 			"page": 289,
@@ -44318,14 +42901,7 @@
 			"name": "Pot of Awakening",
 			"source": "XGE",
 			"page": 138,
-			"otherSources": [
-				{
-					"source": "IMR",
-					"page": 95
-				}
-			],
 			"referenceSources": [
-				"IMR",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -44746,9 +43322,6 @@
 			"name": "Potion of Comprehension",
 			"source": "XDMG",
 			"page": 287,
-			"referenceSources": [
-				"DrDe-FWtVC"
-			],
 			"type": "P|XPHB",
 			"rarity": "common",
 			"weight": 0.5,
@@ -44903,8 +43476,7 @@
 			"srd": true,
 			"referenceSources": [
 				"CM",
-				"CoA",
-				"GotSF"
+				"CoA"
 			],
 			"reprintedAs": [
 				"Potion of Fire Giant Strength|XDMG"
@@ -45015,8 +43587,6 @@
 			"referenceSources": [
 				"BGDIA",
 				"CoA",
-				"GotSF",
-				"IMR",
 				"JttRC",
 				"LMoP",
 				"OotA",
@@ -45275,7 +43845,6 @@
 				"DSotDQ",
 				"GoS",
 				"HotDQ",
-				"IMR",
 				"KftGV",
 				"LRDT",
 				"OotA",
@@ -45321,7 +43890,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-BtS",
 				"FFotR",
 				"HotB"
 			],
@@ -45399,9 +43967,6 @@
 			"page": 288,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-SD"
-			],
 			"type": "P|XPHB",
 			"rarity": "uncommon",
 			"weight": 0.5,
@@ -45453,13 +44018,6 @@
 				"LoX",
 				"LRDT",
 				"MOT",
-				"NRH-ASS",
-				"NRH-AT",
-				"NRH-AVitW",
-				"NRH-AWoL",
-				"NRH-CoI",
-				"NRH-TCMC",
-				"NRH-TLT",
 				"OotA",
 				"OoW",
 				"PaBTSO",
@@ -45472,7 +44030,6 @@
 				"SCC-HfMT",
 				"SCC-TMM",
 				"SDW",
-				"SjA",
 				"SKT",
 				"SLW",
 				"TftYP-AtG",
@@ -45484,7 +44041,6 @@
 				"ToA",
 				"ToFW",
 				"ToR",
-				"TTP",
 				"US",
 				"WBtW",
 				"WDH",
@@ -45521,9 +44077,6 @@
 				}
 			],
 			"referenceSources": [
-				"DrDe-DaS",
-				"DrDe-FWtVC",
-				"DrDe-SD",
 				"FRAiF",
 				"HotB",
 				"UtHftLH",
@@ -45593,10 +44146,6 @@
 			"page": 288,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BtS",
-				"DrDe-TFV"
-			],
 			"type": "P|XPHB",
 			"rarity": "rare",
 			"weight": 0.5,
@@ -45729,7 +44278,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-DotSC",
 				"HotB"
 			],
 			"type": "P|XPHB",
@@ -45911,9 +44459,6 @@
 			"page": 288,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-DotSC"
-			],
 			"type": "P|XPHB",
 			"rarity": "very rare",
 			"weight": 0.5,
@@ -46110,7 +44655,6 @@
 			"referenceSources": [
 				"CoA",
 				"CoS",
-				"IMR",
 				"KftGV",
 				"OotA",
 				"OoW",
@@ -46402,9 +44946,6 @@
 			"page": 289,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-DotSC"
-			],
 			"type": "P|XPHB",
 			"rarity": "very rare",
 			"weight": 0.5,
@@ -47340,16 +45881,6 @@
 			]
 		},
 		{
-			"name": "Prismatic Well",
-			"source": "NRH-AT",
-			"page": 8,
-			"rarity": "legendary",
-			"wondrous": true,
-			"entries": [
-				"This well enhances the colors of the city of Harmony and invigorates the population. When the well is at full power, all good-aligned creatures that see the colors experience feelings of happiness and have advantage on all Charisma checks."
-			]
-		},
-		{
 			"name": "Professor Orb",
 			"source": "WDMM",
 			"page": 131,
@@ -47825,8 +46356,7 @@
 			"page": 188,
 			"srd": "Feather Token, Anchor",
 			"referenceSources": [
-				"OoW",
-				"TTP"
+				"OoW"
 			],
 			"reprintedAs": [
 				"Quaal's Feather Token, Anchor|XDMG"
@@ -47998,7 +46528,6 @@
 			"page": 188,
 			"srd": "Feather Token, Tree",
 			"referenceSources": [
-				"GotSF",
 				"TftYP-TSC"
 			],
 			"reprintedAs": [
@@ -48285,9 +46814,6 @@
 			"page": 228,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TWoO"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"weight": 1,
@@ -48610,9 +47136,6 @@
 			"page": 228,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"weight": 2,
@@ -48634,7 +47157,6 @@
 				"CRCotN",
 				"DIP",
 				"KftGV",
-				"SjA",
 				"TftYP-TSC",
 				"ToA",
 				"ToFW",
@@ -49119,8 +47641,7 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"CM",
-				"GotSF"
+				"CM"
 			],
 			"reprintedAs": [
 				"Ring of Acid Resistance|XDMG"
@@ -49144,9 +47665,6 @@
 			"page": 294,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BtS"
-			],
 			"type": "RG|XDMG",
 			"resist": [
 				"acid"
@@ -49855,9 +48373,6 @@
 			"page": 293,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BtS"
-			],
 			"type": "RG|XDMG",
 			"rarity": "rare",
 			"reqAttune": true,
@@ -50196,9 +48711,6 @@
 			"page": 293,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-FWtVC"
-			],
 			"type": "RG|XDMG",
 			"rarity": "uncommon",
 			"reqAttune": true,
@@ -50444,7 +48956,6 @@
 				"CoA",
 				"HftT",
 				"LMoP",
-				"NRH-ASS",
 				"OotA",
 				"QftIS",
 				"RMBRE",
@@ -51359,7 +49870,6 @@
 			"page": 193,
 			"srd": true,
 			"referenceSources": [
-				"IMR",
 				"OotA",
 				"SLW"
 			],
@@ -52705,9 +51215,6 @@
 			"page": 301,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-DotSC"
-			],
 			"type": "RD|XDMG",
 			"rarity": "rare",
 			"reqAttune": true,
@@ -52972,8 +51479,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"BQGT",
-				"DrDe-TWoO",
 				"HotB"
 			],
 			"type": "G|XPHB",
@@ -53111,42 +51616,6 @@
 			]
 		},
 		{
-			"name": "Rotor of Return",
-			"source": "AI",
-			"page": 221,
-			"referenceSources": [
-				"OoW"
-			],
-			"rarity": "very rare",
-			"reqAttune": true,
-			"wondrous": true,
-			"bonusSavingThrow": "+1",
-			"entries": [
-				"While attuned to this device, you have a +1 bonus to Constitution saving throws. You periodically receive flashbacks of old memories, and you can unerringly recall any event that took place within the previous 30 days.",
-				{
-					"type": "entries",
-					"name": "Borrow Object",
-					"entries": [
-						"You name a mundane item with a value of 50 gp or less and it appears in your hand or at your feet. This can be any item that appears in chapter 5, \"{@book Equipment|PHB|5},\" of the Player's Handbook, or any similar item selected with the DM's permission. The summoned item is transported to you from somewhere else in the world, but it is generic in nature, so that you might call for a longsword but you cannot borrow a specific creature's longsword. The item vanishes 10 minutes after it appears. Once you use this feature of the rotor of return, it cannot be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Recall Code",
-					"entries": [
-						"As an action, you can set your current location as a point of return locked to the rotor. Anytime thereafter, you can use a bonus action to teleport to the rotor's point of return as long as you are within 500 feet of that point. Once you use the rotor of return to teleport, this feature cannot be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Part of a Whole",
-					"entries": [
-						"While this component is not installed in the {@item Orrery of the Wanderer|AI}, its magic might function sporadically or with unpredictable side effects, as determined by the DM."
-					]
-				}
-			]
-		},
-		{
 			"name": "Rowboat",
 			"source": "DMG",
 			"page": 119,
@@ -53156,7 +51625,6 @@
 				"CoS",
 				"DoSI",
 				"RMBRE",
-				"TTP",
 				"WDH"
 			],
 			"reprintedAs": [
@@ -53184,9 +51652,6 @@
 			"page": 230,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"type": "SHP|XPHB",
 			"rarity": "none",
 			"weight": 100,
@@ -53585,80 +52050,6 @@
 			},
 			"bonusWeapon": "+3",
 			"hasFluffImages": true
-		},
-		{
-			"name": "Ruinblade",
-			"source": "IMR",
-			"page": 95,
-			"baseItem": "greatsword|phb",
-			"type": "M",
-			"rarity": "legendary",
-			"reqAttune": true,
-			"curse": true,
-			"sentient": true,
-			"weight": 6,
-			"weaponCategory": "martial",
-			"property": [
-				"H",
-				"2H"
-			],
-			"dmg1": "2d6",
-			"dmgType": "S",
-			"bonusWeapon": "+2",
-			"entries": [
-				"Ruinblade is a unique weapon possessed by {@creature Moghadam|IMR}, the architect of the Tomb of Horrors. A symbol of his authority, Moghadam carries the weapon during the time frame of the adventure to intimidate the tomb's workers. (In later years, after {@creature Acererak|ToA} trapped Moghadam in the completed tomb as an undead archwraith, Moghadam was able to use the weapon as his own phylactery.)",
-				"A small jade version of the green devil face of the Tomb of Horrors is fashioned into the hilt of the weapon, with the blade extending from its open mouth. The blade always appears ruined and rusting, and causes its surroundings to appear reflected in the blade as if in a state of decay.",
-				"You gain a +2 bonus to attack and damage rolls made with this magic weapon. When you hit an undead creature with it, the attack deals an extra {@damage 1d8} force damage.",
-				"In addition, the weapon has the following properties:",
-				{
-					"type": "entries",
-					"name": "Blighted Ruin",
-					"entries": [
-						"You can cast the {@spell blight} spell from the weapon ({@dc 15}). Once used, this property of the weapon can't be used until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Destructive Ruin",
-					"entries": [
-						"You can cast the {@spell disintegrate} spell from the weapon, but can target only a nonmagical object or a creation of magical force. Once used, this property of the weapon can't be used until dawn seven days later."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Curse",
-					"entries": [
-						"This weapon is cursed, and becoming attuned to it extends the curse to you. Until the curse is broken with a {@spell remove curse} spell or similar magic, you are unwilling to part with the weapon.",
-						"The weapon must take direct part in the destruction of 1,000 gp worth of materials and objects every seven days, or a conflict arises between you and the weapon at the end of the seventh day."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Sentience",
-					"entries": [
-						"Ruinblade is a sentient lawful evil weapon with an Intelligence of 15, a Wisdom of 8, and a Charisma of 16. It has hearing and {@sense darkvision} out to a range of 120 feet.",
-						"The weapon can speak, read, and understand Common, and can communicate with its wielder telepathically. Its voice is a rough, ruined echo. While you are attuned to it, Ruinblade also understands every language you know."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Personality",
-					"entries": [
-						"Ruinblade speaks either with a dolorous or frenetic tone, depending on its mood. That mood improves when the sword is actively engaged in acts of destruction, but worsens if the blade is left inactive too long.",
-						"The weapon's purpose is to ruin and unmake existing objects, so that its owner can rebuild the world from a blank slate. It thus encourages its wielder to engage in constant destruction, claiming that this will allow the creation of a more superior vision from the ruin of what came before."
-					]
-				}
-			],
-			"attachedSpells": {
-				"daily": {
-					"1e": [
-						"blight"
-					]
-				},
-				"other": [
-					"disintegrate"
-				]
-			}
 		},
 		{
 			"name": "Ruinous Flail",
@@ -54078,9 +52469,6 @@
 			"page": 230,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"type": "SHP|XPHB",
 			"rarity": "none",
 			"value": 1000000,
@@ -54899,9 +53287,6 @@
 			"name": "Scroll of Protection from Aberrations",
 			"source": "DMG",
 			"page": 199,
-			"referenceSources": [
-				"NRH-ASS"
-			],
 			"reprintedAs": [
 				"Scroll of Protection (Aberrations)|XDMG"
 			],
@@ -55309,81 +53694,6 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Sending Stone",
-			"source": "AI",
-			"page": 33,
-			"referenceSources": [
-				"CRCotN"
-			],
-			"rarity": "uncommon",
-			"wondrous": true,
-			"entries": [
-				"Also at rank 1, you are given use of an Acquisitions Incorporated sending stone, an uncommon magic item that resembles a gemstone in a bold setting. It functions like a normal sending stone, except that it has no matching stone and allows communication with Head Office, specific secretarians you know, and the secretarian nearest your location. You must succeed on a {@dc 15} Intelligence ({@skill Arcana}) check to establish contact. Once the stone is successfully used, it can't be used again until the next dawn.",
-				"Making contact with another secretarian assumes that they are in possession of their own sending stone.",
-				{
-					"type": "table",
-					"caption": "Quirks of Your Sending Stone",
-					"colLabels": [
-						"d8",
-						"quirk"
-					],
-					"colStyles": [
-						"col-2 text-center",
-						"col-10"
-					],
-					"rows": [
-						[
-							"1",
-							"It's a flip stone."
-						],
-						[
-							"2",
-							"It gets great reception everywhere except in your headquarters."
-						],
-						[
-							"3",
-							"It sometimes picks up other magical conversations."
-						],
-						[
-							"4",
-							"It's the perfect size, shape, and weight to be used as a skipping stone."
-						],
-						[
-							"5",
-							"It heats up when you use it, to the extent that it once burned through your gloves."
-						],
-						[
-							"6",
-							"It has an obnoxious ringtone that you can't work out how to change."
-						],
-						[
-							"7",
-							"It fails to notify you of incoming messages except for a faint pulsating glow."
-						],
-						[
-							"8",
-							"It's voice activated, so that every time you talk to someone, it tries to send a message to someone else."
-						]
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Rumor Mill",
-					"entries": [
-						"Also at rank 2, whenever your franchise begins a major quest or mission, make a {@dc 15} Intelligence ({@skill History}) check. On a success, you can learn up to three rumors related to creatures or organizations involved in the mission, which come to you through your sending stone. These rumors reflect current or historical knowledge possessed by Acquisitions Incorporated or the organization's many contacts."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Improved Rumor Mill",
-					"entries": [
-						"At rank 3, when you use your Rumor Mill feature, the DM provides you with a sense of which parts of a particular rumor are inaccurate, if any. You do not necessarily learn the truth behind those false rumors."
-					]
-				}
-			],
-			"hasFluffImages": true
-		},
-		{
 			"name": "Sending Stones",
 			"source": "DMG",
 			"page": 199,
@@ -55395,7 +53705,6 @@
 				"DIP",
 				"KftGV",
 				"LoX",
-				"SjA",
 				"SKT",
 				"ToA",
 				"WDMM"
@@ -55437,8 +53746,6 @@
 				}
 			],
 			"referenceSources": [
-				"DrDe-ACfaS",
-				"DrDe-TDoN",
 				"ScoEE"
 			],
 			"rarity": "uncommon",
@@ -56553,9 +54860,6 @@
 			"page": 228,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-DaS"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"weight": 5,
@@ -57038,22 +55342,6 @@
 			"value": 2500
 		},
 		{
-			"name": "Silver headdress with amber and red-coral feathers (Sun Empire)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 75000
-		},
-		{
-			"name": "Silver medallion (Sun Empire)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 2500
-		},
-		{
 			"name": "Silver necklace with a gemstone pendant",
 			"source": "DMG",
 			"page": 135,
@@ -57071,22 +55359,6 @@
 			"type": "$A|XDMG",
 			"rarity": "none",
 			"value": 25000
-		},
-		{
-			"name": "Silver necklace with an amber pendant (Sun Empire)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 25000
-		},
-		{
-			"name": "Silver shoulder piece with amber and garnet (Sun Empire)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 75000
 		},
 		{
 			"name": "Silver-plated steel longsword with jet set in hilt",
@@ -57353,9 +55625,6 @@
 			"page": 157,
 			"srd": true,
 			"basicRules": true,
-			"referenceSources": [
-				"TTP"
-			],
 			"reprintedAs": [
 				"Sled|XPHB"
 			],
@@ -58269,12 +56538,6 @@
 			"name": "Spell Gem (Amber)",
 			"source": "OotA",
 			"page": 223,
-			"otherSources": [
-				{
-					"source": "IMR",
-					"page": 95
-				}
-			],
 			"rarity": "very rare",
 			"reqAttune": "optional",
 			"wondrous": true,
@@ -58291,12 +56554,6 @@
 			"name": "Spell Gem (Bloodstone)",
 			"source": "OotA",
 			"page": 223,
-			"otherSources": [
-				{
-					"source": "IMR",
-					"page": 95
-				}
-			],
 			"rarity": "rare",
 			"reqAttune": "optional",
 			"wondrous": true,
@@ -58313,12 +56570,6 @@
 			"name": "Spell Gem (Diamond)",
 			"source": "OotA",
 			"page": 223,
-			"otherSources": [
-				{
-					"source": "IMR",
-					"page": 95
-				}
-			],
 			"rarity": "legendary",
 			"reqAttune": "optional",
 			"wondrous": true,
@@ -58335,12 +56586,6 @@
 			"name": "Spell Gem (Jade)",
 			"source": "OotA",
 			"page": 223,
-			"otherSources": [
-				{
-					"source": "IMR",
-					"page": 95
-				}
-			],
 			"rarity": "very rare",
 			"reqAttune": "optional",
 			"wondrous": true,
@@ -58357,15 +56602,6 @@
 			"name": "Spell Gem (Lapis lazuli)",
 			"source": "OotA",
 			"page": 223,
-			"otherSources": [
-				{
-					"source": "IMR",
-					"page": 95
-				}
-			],
-			"referenceSources": [
-				"IMR"
-			],
 			"rarity": "uncommon",
 			"reqAttune": "optional",
 			"wondrous": true,
@@ -58382,12 +56618,6 @@
 			"name": "Spell Gem (Obsidian)",
 			"source": "OotA",
 			"page": 223,
-			"otherSources": [
-				{
-					"source": "IMR",
-					"page": 95
-				}
-			],
 			"rarity": "uncommon",
 			"reqAttune": "optional",
 			"wondrous": true,
@@ -58404,15 +56634,6 @@
 			"name": "Spell Gem (Quartz)",
 			"source": "OotA",
 			"page": 223,
-			"otherSources": [
-				{
-					"source": "IMR",
-					"page": 95
-				}
-			],
-			"referenceSources": [
-				"IMR"
-			],
 			"rarity": "rare",
 			"reqAttune": "optional",
 			"wondrous": true,
@@ -58429,12 +56650,6 @@
 			"name": "Spell Gem (Ruby)",
 			"source": "OotA",
 			"page": 223,
-			"otherSources": [
-				{
-					"source": "IMR",
-					"page": 95
-				}
-			],
 			"rarity": "legendary",
 			"reqAttune": "optional",
 			"wondrous": true,
@@ -58451,12 +56666,6 @@
 			"name": "Spell Gem (Star ruby)",
 			"source": "OotA",
 			"page": 223,
-			"otherSources": [
-				{
-					"source": "IMR",
-					"page": 95
-				}
-			],
 			"rarity": "legendary",
 			"reqAttune": "optional",
 			"wondrous": true,
@@ -58473,12 +56682,6 @@
 			"name": "Spell Gem (Topaz)",
 			"source": "OotA",
 			"page": 223,
-			"otherSources": [
-				{
-					"source": "IMR",
-					"page": 95
-				}
-			],
 			"rarity": "very rare",
 			"reqAttune": "optional",
 			"wondrous": true,
@@ -59342,7 +57545,6 @@
 			"page": 201,
 			"srd": true,
 			"referenceSources": [
-				"IMR",
 				"TftYP-ToH",
 				"ToA",
 				"VEoR"
@@ -59742,7 +57944,6 @@
 				"CoS",
 				"KftGV",
 				"ToA",
-				"TTP",
 				"XMtS"
 			],
 			"reprintedAs": [
@@ -59762,9 +57963,6 @@
 			"page": 229,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"weight": 1,
@@ -59774,24 +57972,9 @@
 			]
 		},
 		{
-			"name": "Spyglass of Clairvoyance",
-			"source": "AI",
-			"page": 19,
-			"rarity": "common",
-			"wondrous": true,
-			"entries": [
-				"At rank 2, your Head Office-supplied spyglass becomes a common magic item. As an action, you can look through the spyglass of clairvoyance at a location within 1 mile of you that is obstructing your view, such as a mountain, castle, or forest. You must then succeed on a {@dc 15} Wisdom check using {@item cartographer's tools|phb} to map the natural terrain found within three miles of that chosen point. You do not gain any knowledge of creatures, structures, or anything other than natural terrain. This property of the spyglass cannot be used again until the next dawn."
-			]
-		},
-		{
 			"name": "Squid Ship",
 			"source": "AAG",
 			"page": 48,
-			"otherSources": [
-				{
-					"source": "SjA"
-				}
-			],
 			"type": "SPC|AAG",
 			"rarity": "none",
 			"value": 2500000,
@@ -61953,9 +60136,6 @@
 			"page": 311,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"type": "M|XPHB",
 			"rarity": "uncommon",
 			"reqAttune": true,
@@ -62773,9 +60953,6 @@
 			"page": 312,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-FWtVC"
-			],
 			"rarity": "rare",
 			"wondrous": true,
 			"entries": [
@@ -62980,9 +61157,6 @@
 			"page": 312,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BtS"
-			],
 			"rarity": "uncommon",
 			"reqAttune": true,
 			"wondrous": true,
@@ -63324,14 +61498,6 @@
 			"entries": [
 				"Platinum coin, twice as large as a {@item nib|wdh} (1 sun = 1,000 {@item nib|wdh|nibs})"
 			]
-		},
-		{
-			"name": "Sun amulet on a beaded chain (Sun Empire)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 2500
 		},
 		{
 			"name": "Sun Blade",
@@ -64604,7 +62770,6 @@
 			"page": 207,
 			"srd": true,
 			"referenceSources": [
-				"IMR",
 				"ToA",
 				"ToFW"
 			],
@@ -64719,9 +62884,6 @@
 			"name": "Talking Doll",
 			"source": "XDMG",
 			"page": 315,
-			"referenceSources": [
-				"DrDe-ACfaS"
-			],
 			"rarity": "common",
 			"reqAttune": true,
 			"wondrous": true,
@@ -64782,7 +62944,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"SjA",
 				"WDH"
 			],
 			"type": "G",
@@ -65491,630 +63652,6 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "The Infernal Machine of Lum the Mad",
-			"source": "IMR",
-			"page": 96,
-			"rarity": "artifact",
-			"reqAttune": true,
-			"wondrous": true,
-			"bonusWeaponAttack": "+1",
-			"modifySpeed": {
-				"static": {
-					"fly": 150
-				}
-			},
-			"entries": [
-				"This strange device was once thought to have been built by gods long forgotten and to have survived the eons since their passing, for it is incredibly ancient and crafted by means unlike anything known today. However, its true origins derive from a planar craft that crashed in the Barrier Peaks, for the Infernal Machine once functioned as this craft's central command console.",
-				"Explorers who discovered the crash site removed the command console and brought it back to civilization, not understanding its true purpose or powers. In later years, the console came into the possession of Baron Lum. By experimenting with its many controls, he was able to achieve astounding and destructive magical effects in the building of his empire, and so the artifact came to be known as the Infernal Machine of Lum the Mad. Yet with Lum's eventual defeat, his great machine was destroyed.",
-				"The Infernal Machine is a delicate, intricate, bulky, and heavy device, weighing some 5,500 pounds. It can be operated using a control panel containing sixty levers, forty dials, twenty switches, and a number of jeweled components. These controls generate all kinds of powers and effects, as noted below.",
-				{
-					"type": "entries",
-					"name": "Silver Wire",
-					"entries": [
-						"The Infernal Machine's great size makes it largely immobile. To make ongoing use of the machine (such as while adventuring), it can be connected to its attuned user by a silver wire, a supply of which can always be produced from the machine's inner workings. This silver wire shares the same general nature as the silvery cord of an {@spell astral projection} spell, connecting to the body of the user and trailing behind them. When so attached, the wire becomes {@condition invisible}, astral, and extends to virtually infinite length.",
-						"As long as the wire remains intact, the attuned user can make full use of the Infernal Machine's powers, with their effects centered around the user. If the wire is cut\u2014something that can happen only when an effect specifically states that it can cut an {@spell astral projection}'s silvery cord\u2014the user suffers a sudden burst of feedback from the machine that kills them instantly.",
-						"Any effect of the Infernal Machine that requires {@status concentration} can be concentrated on by a remote user. The Infernal Machine's effects have a spell save DC of 14 or the attuned user's spell save DC, whichever is higher."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Summon Monster",
-					"entries": [
-						"When first used by Baron Lum, the Infernal Machine was known for its ability to unleash terrible monsters within the world. Specific combinations of its controls can still recreate the effects of various spells of the conjuration school, as follows:",
-						{
-							"type": "list",
-							"style": "list-hang-notitle",
-							"items": [
-								"1/day: {@spell conjure animals}, {@spell summon lesser demons|XGE}",
-								"1/7 days: {@spell conjure minor elementals}, {@spell conjure woodland beings}, {@spell summon greater demon|XGE}",
-								"1/month: {@spell conjure elemental}, {@spell conjure fey}"
-							]
-						}
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Wish",
-					"entries": [
-						"The Infernal Machine has the ability to bend the nature of reality, with the proper combination of controls recreating the effect of a {@spell wish} spell (including all side effects). Due to the complex nature of its programming, this feature can be used only once per month. Each time this effect is used, there is a cumulative {@chance 10} chance of the Infernal Machine malfunctioning, necessitating seven days' worth of repairs and reprogramming, as well as the expenditure of 500 gp in parts, before it can be used again. When these repairs are done, the cumulative chance of malfunction returns to 10 percent."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Random Properties",
-					"entries": [
-						"There are far more possible combinations for the Infernal Machine's controls than can ever be known or matrixed\u2014especially as the controls shift position and reset themselves over time. At the end of each long rest of the user attuned to it, the Infernal Machine generates {@dice 1d4 + 1} random beneficial properties and {@dice 1d4 + 1} detrimental properties. Roll for each of these properties on the Infernal Machine Properties table. To keep things interesting, the DM might roll secretly for detrimental properties, revealing those properties only during the course of play.",
-						"Once set, these properties last until the end of the attuned user's next long rest.",
-						"(Our thanks to the D&D community for their suggestions for the properties of the Infernal Machine of Lum the Mad!)"
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Destroying the Machine",
-					"entries": [
-						"The Infernal Machine of Lum the Mad is self-repairing of anything short of catastrophic damage, and how it was disabled in Lum's time remains a mystery. It is rumored that if one specific combination of controls is set, the Infernal Machine will enter a repair mode, allowing unfettered access to its inner workings\u2014and preventing it from restoring itself if it is attacked. Alternatively, other combinations of controls might cause the Infernal Machine to teleport its most critical components to some hiding place deep in space and time, rendering it inoperable until those components are found again."
-					]
-				},
-				{
-					"type": "table",
-					"caption": "Infernal Machine Properties",
-					"colLabels": [
-						"d100",
-						"Beneficial Property",
-						"Detrimental Property"
-					],
-					"colStyles": [
-						"col-2 text-center",
-						"col-5",
-						"col-5"
-					],
-					"rows": [
-						[
-							"01",
-							"You have a flying speed of 150 feet but lose all other movement.",
-							"You are {@condition blinded}."
-						],
-						[
-							"02",
-							"You can cast the {@spell speak with animals} spell at will, but can use it to speak with only one animal of your choice.",
-							"All animals despise you. You have disadvantage on Wisdom ({@skill Animal Handling}) checks."
-						],
-						[
-							"03",
-							"One weapon or item you carry of your choice gains a walking speed of 30 feet and goes where you tell it.",
-							"Your armor and clothing feels unnaturally tight. Unless you go naked, roll a {@dice d4} each time you are attacked and subtract the number rolled from your AC."
-						],
-						[
-							"04",
-							"You can cast the {@spell legend lore} spell three times.",
-							"Whenever you make an Intelligence check or use divination magic to learn something about a creature, that knowledge comes with added trivia of the DM's devising."
-						],
-						[
-							"05",
-							"You emanate a weak magnetic aura. The first time during a combat that a creature attacks you with a metal weapon, that creature has disadvantage on the attack roll.",
-							"Metal rusts in response to your touch\u2014including metal armor you wear and metal weapons you hold\u2014reproducing the effect of the rust monster's Rust Metal trait."
-						],
-						[
-							"06",
-							"Your fingers sprout tiny clockwork picks, granting you advantage on ability checks made using {@item thieves' tools|PHB} or {@item tinker's tools|PHB}.",
-							"Any metal object you wield or wear is covered in a thin layer of oil that drips occasionally and leaves your fingerprints everywhere."
-						],
-						[
-							"07",
-							"You can cast the {@spell speak with animals} spell at will, but can use it to communicate only with insects.",
-							"Disturbing whispers on the edge of hearing haunt all creatures within 30 feet of you, causing those creatures to recall their saddest memories."
-						],
-						[
-							"08",
-							"You have a +1 bonus to Wisdom ({@skill Insight} checks) involving creatures you can see.",
-							"Your body is ghostly and translucent except for your bones. You have vulnerability to radiant damage, and you have disadvantage on attack rolls while in direct sunlight."
-						],
-						[
-							"09",
-							"You summon a {@creature unicorn} that obeys your commands. If you give a command that violates the unicorn's alignment, the unicorn immediately vanishes.",
-							"You grow a unicorn horn."
-						],
-						[
-							"10",
-							"A specialized clockwork compass floats in front of you. You can name one character, place, or object on the same plane as you and have the compass point constantly in the direction of the named target. You gain no knowledge of the distance to the target.",
-							"A specialized clockwork compass floats in front of you, and points toward you. The DM determines whether a creature currently looking for you is drawn to your location. Additionally, when a creature attacks you for the first time during an encounter, it has advantage on the attack roll."
-						],
-						[
-							"11",
-							"Your clothes are wrapped in illusion that makes them appear to be the very latest style, drawing praise and attention. You have a +1 bonus to Charisma checks.",
-							"Any food and drink you eat spoils as you swallow it. Each time you eat or drink, you are {@condition poisoned} for 1 hour."
-						],
-						[
-							"12",
-							"You have a +1 bonus to attack rolls with weapons or spells (your choice).",
-							"The {@spell cure wounds} spell restores no hit points for you."
-						],
-						[
-							"13",
-							"You have an innate sense of direction. You automatically succeed on ability checks made to avoid becoming lost.",
-							"Whenever you move, a magical voice calls out your direction and how far you've gone. The voice cannot be silenced or stopped."
-						],
-						[
-							"14",
-							"You constantly see afterimages of all events that occurred within 30 feet of you over the previous hour.",
-							"You are distracted by voices and visions, forcing you to succeed on a Wisdom saving throw every 4 hours or gain one level of {@condition exhaustion}."
-						],
-						[
-							"15",
-							"You understand all languages, as if under the effect of a {@spell comprehend languages} spell.",
-							"Whenever you speak, you speak in a random language (possibly including languages you don't normally know)."
-						],
-						[
-							"16",
-							"You have +1 bonus to initiative rolls.",
-							"You are unable to hear any speech louder than a whisper."
-						],
-						[
-							"17",
-							"An exact duplicate of you appears next to you, dressed as you but lacking any gear. The duplicate functions as a familiar and has the statistics of a {@creature cat}.",
-							"An exact duplicate of you appears next to you, dressed as you but lacking any gear. It loudly tries to convince all other creatures that it is you, and you are its familiar. If destroyed, it reappears in {@dice 1d4} hours."
-						],
-						[
-							"18",
-							"While you are afflicted by a disease or suffering the {@condition poisoned} or {@condition frightened} condition, whenever you hit a humanoid with a melee attack, the target must succeed on a {@dc 15} Constitution saving throw. On a failed save, you transfer the disease or the condition to the target, and the disease or condition ends for you.",
-							"Water becomes intensely acidic to you. If you are submerged in water, you take {@damage 1d6} acid damage at the start of each of your turns, and drinking pure water causes you to be {@condition poisoned} for 1 hour."
-						],
-						[
-							"19",
-							"A random Huge beast appears next to you (chosen by the DM) as if with the {@spell conjure animals} spell. You have a telepathic link to this beast, such that you can give it commands even if it can't hear you.",
-							"A random Huge beast appears next to you (chosen by the DM) and attacks at once."
-						],
-						[
-							"20",
-							"You have 1 luck point, which you can use as if you had taken the Lucky feat. If you have taken that feat, you have 1 extra luck point.",
-							"Those around you perceive you as dishonest, even when you are completely truthful. You automatically fail Charisma checks."
-						],
-						[
-							"21",
-							"If you drop to 0 hit points, a phantom guardian appears next to you, functioning as if you had cast the {@spell Mordenkainen's faithful hound} spell. The guardian disappears if you die, regain hit points, or regain consciousness.",
-							"No one takes you seriously, imposing disadvantage on Charisma ({@skill Deception} and {@skill Persuasion}) checks, and causing you to automatically fail Charisma ({@skill Intimidation}) checks."
-						],
-						[
-							"22",
-							"You can cast the {@spell gaseous form} spell on yourself three times. When you do, instead of appearing as mist, you appear as a swirling puff of feathers.",
-							"Your body is covered in feathers."
-						],
-						[
-							"23",
-							"You have advantage on death saving throws.",
-							"You have disadvantage on all saving throws except death saving throws."
-						],
-						[
-							"24",
-							"You can cast {@spell speak with animals} at will, but can use it to communicate only with dogs.",
-							"All cats are automatically hostile toward you."
-						],
-						[
-							"25",
-							"You can cast the {@spell raise dead} spell once, requiring no material components.",
-							"If you drop to 0 hit points, you automatically suffer 1 failed death saving throw."
-						],
-						[
-							"26",
-							"Each time you finish a short rest, up to 100 silver pieces already in your possession become gold pieces, and up to 100 copper pieces become silver pieces.",
-							"All coins you touch become worthless tin."
-						],
-						[
-							"27",
-							"Anything poisonous within 50 feet of you is automatically detected and marked by the image of a small frog that is visible only to you.",
-							"A dozen small frogs constantly follow you around, chirping loudly."
-						],
-						[
-							"28",
-							"You gain the benefit of a {@spell nondetection} spell.",
-							"Your appearance changes randomly as determined by the DM, as if you were under the effect of a {@spell disguise self} spell."
-						],
-						[
-							"29",
-							"You can cast the {@spell mage hand} cantrip at will.",
-							"A disembodied spirit follows you around, stealing and scattering coins from you, crumbling your food, and playing with your weapons and gear."
-						],
-						[
-							"30",
-							"You are able to decipher any text.",
-							"You lose the ability to speak any language. This has no effect on casting spells with verbal components."
-						],
-						[
-							"31",
-							"You can cast the {@spell speak with plants} spell three times.",
-							"Your skin turns green, and you must drink a half gallon of fresh water every 4 hours or take {@damage 1d4} necrotic damage."
-						],
-						[
-							"32",
-							"You know whether creatures within 15 feet of you are lying, as if you were the center of a {@spell zone of truth} spell.",
-							"Whenever you would speak falsely, you cannot speak at all."
-						],
-						[
-							"33",
-							"You gain a sense of destiny that directs you toward an important goal, as determined by the DM.",
-							"Your head is filled with an unpleasant buzzing that imposes disadvantage on Intelligence checks and saving throws."
-						],
-						[
-							"34",
-							"All creatures you speak with automatically believe your words, as if you have succeeded on a Charisma ({@skill Deception} or {@skill Persuasion}) check against them. Any sign of threatening or duplicitous action on your part negates this automatic success.",
-							"Your personal tastes reverse, such that your favorite foods, hobbies, music, and so forth become unbearable to you."
-						],
-						[
-							"35",
-							"Your shadow becomes an undead {@creature shadow} that shares your alignment and is under your control.",
-							"Your shadow behaves disapprovingly whenever you're not looking\u2014stealing things, mocking you behind your back, taunting opponents or friends, and so on."
-						],
-						[
-							"36",
-							"Your skin is covered by slime. You automatically succeed on ability checks and saving throws made to escape a grapple.",
-							"Your skin is covered by slime. You must succeed on a {@dc 10} Dexterity saving throw to sit down, open doors, and perform other mundane tasks of the DM's determination."
-						],
-						[
-							"37",
-							"Flowers turn to face you as you pass them.",
-							"Mundane animals can't look at you."
-						],
-						[
-							"38",
-							"Each time you finish a short rest, you suddenly sprout a covering of fragrant leaves. The leaves fall off after {@dice 1d10} minutes, revealing {@dice 1d6} magic fruits that can be plucked from your head. Each fruit functions as a berry created with the {@spell goodberry} spell.",
-							"Whenever you stop moving for 10 minutes or more, you discover that your boots or shoes have set down roots that must be pulled free with a successful {@dc 20} Strength check."
-						],
-						[
-							"39",
-							"Choose a creature you can see. That creature must succeed on a {@dc 15} Dexterity saving throw or drop one item they are holding (DM's choice). You can use this property three times.",
-							"Each time you roll a 1 on a Dexterity check, you drop one object you are holding (DM's choice)."
-						],
-						[
-							"40",
-							"A group of small forest animals appears and follows you everywhere, singing and dancing. These magical creatures can perform any task you desire that could be performed by a {@spell prestidigitation} spell.",
-							"You break out into song whenever you roll a 1 on any die."
-						],
-						[
-							"41",
-							"Your possessions change their state or appearance at the DM's determination, giving you hints of potential future events. For example, your sword might become suddenly bloodstained to warn of an upcoming combat encounter, your clothes might become damp to warn of a water-filled pit trap ahead, and so on.",
-							"You take a \u22125 penalty to initiative rolls."
-						],
-						[
-							"42",
-							"Whenever you roll a 1 on a {@dice d20}, you have advantage on your next {@dice d20} roll.",
-							"Whenever you roll a 1 on a {@dice d20}, you have disadvantage on your next {@dice d20} roll."
-						],
-						[
-							"43",
-							"Grass, moss, and flowers instantly grow in your footsteps. You are also unaffected by {@quickref difficult terrain||3} created by plants.",
-							"Any harm that befalls a plant you can see (a woodcutter sawing down a tree, a gardener pulling weeds, and so forth) fills you with a sadness that imposes disadvantage on ability checks for 1 minute."
-						],
-						[
-							"44",
-							"You automatically know the direction to the greatest danger within 500 feet of you.",
-							"You leave a trail of black footprints that allow anyone to automatically follow you."
-						],
-						[
-							"45",
-							"You can cast the {@spell detect thoughts} spell three times.",
-							"All creatures within 30 feet of you automatically know your surface thoughts, as if having cast {@spell detect thoughts} against you."
-						],
-						[
-							"46",
-							"You can cast the {@spell misty step} spell three times. When you do, you must begin and end your teleportation in an area of shadow.",
-							"While in direct sunlight, you have disadvantage on attack rolls as well as on Wisdom ({@skill Perception}) checks that rely on sight."
-						],
-						[
-							"47",
-							"Creatures cannot gain advantage on attacks made against you as a result of another creature using the {@action Help} action.",
-							"You have disadvantage on Dexterity ({@skill Acrobatics}) checks."
-						],
-						[
-							"48",
-							"You have increased lung capacity, increasing your walking speed by 10 feet and letting you hold your breath for twice as long as normal.",
-							"Whenever you exert yourself by fighting, running, and so forth, you breathe out intermittent gouts of flame that deal {@damage 1d4} fire damage to you."
-						],
-						[
-							"49",
-							"You can cast the {@spell daylight} spell three times.",
-							"An evil undead creature that comes within 30 feet of you for the first time is {@condition charmed} by you until the end of your next turn."
-						],
-						[
-							"50",
-							"When you touch a copper piece, it transmutes to become two copper pieces. You can duplicate a maximum of 1,000 coins this way.",
-							"Food doesn't satiate you, and you must eat double the amount of food you normally eat to avoid feeling hungry."
-						],
-						[
-							"51",
-							"You shed light like a torch, as if you were the target of a {@spell light} cantrip.",
-							"No one else can take a short rest within 40 feet of you, as everything you say or do seems distracting to them."
-						],
-						[
-							"52",
-							"You can cast the {@spell divination} spell once.",
-							"Whenever you make an Intelligence check or saving throw, you receive a grim vision of the DM's determination, imposing disadvantage on your next attack roll, ability check, or saving throw."
-						],
-						[
-							"53",
-							"As an action, you can become incorporeal for 10 minutes, allowing you to move through other creatures and objects as if they were {@quickref difficult terrain||3}. You take 5 ({@damage 1d10}) force damage if you end your turn inside an object. You can use this property once.",
-							"Your senses diminish as if the world were faded around you, imposing disadvantage on Wisdom ({@skill Perception}) checks."
-						],
-						[
-							"54",
-							"While you take a short rest, the area within 50 feet of you takes on the illusory appearance of a beautiful forest glade.",
-							"The first time an ally you can see takes damage as a result of failing a saving throw, you take the damage instead of them."
-						],
-						[
-							"55",
-							"As a bonus action, you can choose one creature within 10 feet of you and know one secret about it, as determined by the DM.",
-							"The {@spell remove curse}, {@spell lesser restoration}, and {@spell greater restoration} spells have no effect on you."
-						],
-						[
-							"56",
-							"You can predict the weather conditions for the next 24 hours with perfect accuracy.",
-							"A rain cloud follows you around, drizzling on you constantly even while indoors."
-						],
-						[
-							"57",
-							"You have telepathy out to a range of 120 feet.",
-							"You hear the voices of creatures you can see in your head from time to time (as detailed by the DM), but you have no idea whether what you're hearing is the truth or not."
-						],
-						[
-							"58",
-							"You can cast {@spell speak with animals} at will, but you can use it to communicate only with goats. Any goat you speak with becomes {@condition charmed} by you for 1 hour.",
-							"You become distraught unless your clothing is all the same color, imposing disadvantage on Intelligence, Wisdom, and Charisma checks and saving throws."
-						],
-						[
-							"59",
-							"You have resistance to fire damage.",
-							"You gain no benefit from any potion."
-						],
-						[
-							"60",
-							"You have immunity to the {@condition charmed} and {@condition frightened} conditions.",
-							"You can speak only in a monotone voice, imposing disadvantage on Charisma checks."
-						],
-						[
-							"61",
-							"You and each creature within 10 feet of you have resistance to necrotic damage.",
-							"Any Wisdom ({@skill Medicine}) check you make or that is made to help you is made with disadvantage."
-						],
-						[
-							"62",
-							"The first creature you hit with a weapon attack on each of your turns takes {@damage 1d4} fire damage at the start of its next turn.",
-							"You are {@condition blinded} while in bright light, and your shadow takes on a monstrous appearance."
-						],
-						[
-							"63",
-							"No creature can learn your alignment by magical means, and you have advantage on Charisma checks involving creatures that also share your alignment.",
-							"You have disadvantage on Charisma checks involving creatures that do not share your alignment."
-						],
-						[
-							"64",
-							"As a bonus action, you cause yourself and a willing ally you can see to swap positions by teleportation.",
-							"Whenever you roll a 1 on a {@dice d20} roll, you and an ally you can see swap positions by teleportation."
-						],
-						[
-							"65",
-							"As an action, you cause {@quickref difficult terrain||3} within 50 feet of you to become normal terrain. You can use this property three times.",
-							"Each time you move through {@quickref difficult terrain||3}, your speed is reduced by 10 feet until the end of your next turn."
-						],
-						[
-							"66",
-							"You increase one ability score of your choice by 2. You can increase an ability score above 20 using this property, but the increase is lost when this property ends.",
-							"Whenever you roll a 1 on an attack roll, ability check, or saving throw using your highest ability score, you take {@damage 1d4} psychic damage."
-						],
-						[
-							"67",
-							"As an action, you learn the direction and distance to the nearest magic item not in the possession of you or any of your allies.",
-							"Each creature within 30 feet of you automatically knows which magic items you carry."
-						],
-						[
-							"68",
-							"As an action while you are in dim light or darkness, you can become {@condition invisible}, as if targeted by the {@spell invisibility} spell. In addition to becoming visible if you attack or cast a spell, you become visible if you move into bright light. You can use this property three times.",
-							"While in bright light, you have disadvantage on initiative rolls."
-						],
-						[
-							"69",
-							"You can read and understand all the languages commonly spoken within 1 mile of you, as determined by the DM.",
-							"While speaking, you occasionally use nonsense words, imposing disadvantage on Charisma checks."
-						],
-						[
-							"70",
-							"You know one cantrip of the DM's choice, and can cast one 1st-level spell of the DM's choice at will.",
-							"Whenever you cast a spell or use a magic item property that requires an action or a bonus action to activate, roll on the {@table Wild Magic Surge|PHB} table (see the sorcerer section in chapter 3 of the Player's Handbook) to see what happens."
-						],
-						[
-							"71",
-							"Whenever you roll a 20 on a {@dice d20}, you can immediately end one effect on you.",
-							"Whenever you roll a 1 on a {@dice d20}, you are {@condition blinded} until the end of your next turn."
-						],
-						[
-							"72",
-							"Any clothing you wear is covered with a magical map image that shows all the local area you are aware of. This map doesn't reveal anything you don't know, but grants advantage on ability checks to find secret doors and to navigate back to where you've been.",
-							"Any rope you touch transforms into a {@creature poisonous snake} that attacks you."
-						],
-						[
-							"73",
-							"You summon a {@creature slithering tracker|MPMM} that obeys your commands.",
-							"You take on the appearance of having translucent skin, with your bones and organs slightly visible within."
-						],
-						[
-							"74",
-							"You have a fresh-scrubbed appearance, and a sweet perfume surrounds you. You have advantage on Charisma ({@skill Persuasion}) checks.",
-							"Whenever you fail a Charisma ({@skill Persuasion}) check, the subject of the check becomes irrationally resentful of you, seeking to undermine you in ways determined by the DM."
-						],
-						[
-							"75",
-							"You can cast the {@spell control weather} spell.",
-							"Each time you deal or take cold damage or fire damage, you must succeed on a {@dc 10} Charisma saving throw or accidentally summon a hostile {@creature air elemental} or {@creature fire elemental} (depending on the damage dealt)."
-						],
-						[
-							"76",
-							"A tiny construct resembling a {@creature gynosphinx} follows you around. It can truthfully answer up to ten yes-or-no questions regarding the campaign, at the DM's discretion.",
-							"A tiny construct resembling a {@creature gynosphinx} follows you around. It constantly asks unsolvable riddles of other creatures, and insults those creatures when they fail to answer correctly."
-						],
-						[
-							"77",
-							"A creature appears next to you that is a hybrid of any two nonmagical beasts (akin to the {@creature owlbear}). The creature serves you as if created by a {@spell conjure animals} spell. The DM determines the creature's statistics.",
-							"A creature appears next to you that is a hybrid of any two nonmagical beasts (akin to the {@creature owlbear}). Unless you succeed on a {@dc 12} Wisdom ({@skill Animal Handling}) check, the creature attacks you before wandering off. The DM determines the creature's statistics."
-						],
-						[
-							"78",
-							"You can cast the {@spell teleport} spell, always arriving on target when you do. You can use this property once.",
-							"Each time you walk through a doorway or similar portal, you must succeed on a {@dc 10} Intelligence check or step into a skewed timeline. On a failure, you and all allies within 10 feet of you skip ahead {@dice 1d4} minutes. To other creatures, it appears that you and other affected creatures disappear for that length of time, then appear again in the doorway."
-						],
-						[
-							"79",
-							"You can cast the {@spell haste} spell on yourself. You can use this property three times.",
-							"Each time you are reduced to 0 hit points then stabilized, you suffer the effect of a {@spell slow} spell."
-						],
-						[
-							"80",
-							"You do not need to breathe and cease to do so, making you immune to inhaled poisons and suffocation.",
-							"Whenever you speak (including casting a spell with a verbal component), you must first use a bonus action to breathe."
-						],
-						[
-							"81",
-							"Your blood is venomous, granting you immunity to poison and to the {@condition poisoned} condition. You can cast the {@spell speak with animals} spell at will, but you can use it to communicate only with snakes.",
-							"Your tongue is long and forked, causing you to speak in a hiss. You have disadvantage on Charisma checks involving speech, and you must succeed on a {@dc 15} Constitution check to cast a spell with a verbal component."
-						],
-						[
-							"82",
-							"You grow gills and have the ability to breathe air and water. You also sprout a pair of tentacles from your shoulders that have a reach of 10 feet and can be used to perform any action you could perform with your hands. The tentacles cannot attack or grapple.",
-							"You are constantly followed by {@dice 1d4} {@creature octopus||octopuses} that can breathe air and water, and which have a walking speed of 30 feet. Each time combat breaks out, you must succeed on a {@dc 13} Wisdom ({@skill Animal Handling}) check or have the octopuses panic and attack you."
-						],
-						[
-							"83",
-							"You can cast the {@spell misty step} spell three times. When you do, you must begin and end your teleportation in an area of fire. Any fire damage you take during the same turn in which you use {@spell misty step} is restored automatically at the end of your turn.",
-							"Whenever you start your turn within 30 feet of an ongoing fire effect, you must succeed on a {@dc 13} Wisdom saving throw or move toward the fire and into it if possible."
-						],
-						[
-							"84",
-							"When you look at the sky, you see it overlaid with navigational symbols. You have advantage on ability checks made to avoid becoming lost while outdoors.",
-							"You have disadvantage on Wisdom ({@skill Perception}) checks while indoors."
-						],
-						[
-							"85",
-							"You can cast the {@spell healing word} spell three times.",
-							"Undead are drawn to you, making it impossible for you to hide from them. Each undead creature you face in combat has advantage on its first attack roll against you."
-						],
-						[
-							"86",
-							"Any food you touch is transformed into a culinary delight. You have advantage on Charisma checks while interacting with any creatures that have eaten of this food.",
-							"You constantly hear distracting music that throws off your timing, imposing disadvantage on initiative rolls and Dexterity checks."
-						],
-						[
-							"87",
-							"Your mind is filled with lost facts and lore, granting advantage on Intelligence checks.",
-							"You forget your name, and must be constantly reminded of it by your allies."
-						],
-						[
-							"88",
-							"Your touch can change small nonmagical objects into chocolate.",
-							"Anything you eat or drink makes you feel overly sated and full, imposing disadvantage on Strength checks for 1 hour."
-						],
-						[
-							"89",
-							"Each time you finish a short rest, you regain {@dice 1d8} hit points. Each creature that took a short rest with you and remained within 30 feet of you for the duration also gains this benefit.",
-							"Each time you finish a short rest, you take {@damage 3d8} psychic damage. At your determination, you can transfer some or all of this damage to any creatures that took a short rest with you and remained within 30 feet of you for the duration."
-						],
-						[
-							"90",
-							"Each time you finish a short rest, you find {@dice 1d10} small gems worth 10 gp each in your possession.",
-							"Whenever you spend coins or gems, any character you give them to becomes convinced that the wealth was stolen from them."
-						],
-						[
-							"91",
-							"When you hit a creature for the first time during an encounter, its Armor Class is reduced by 1.",
-							"Whenever you roll a 1 on a weapon attack roll, the weapon shatters like glass. The weapon magically reforms in {@dice 1d4} rounds."
-						],
-						[
-							"92",
-							"Each time you enter a settlement, you are treated as though you are known there and a friend, even if you are neither.",
-							"Each time you roll a 1 on an attack roll, ability check, or saving throw, you grow one inch taller. Your clothing and armor does not grow with you."
-						],
-						[
-							"93",
-							"While standing in a doorway, you can cast the {@spell teleport} spell. Your destination must be another doorway you know. You can use this property once.",
-							"Each time you finish a short rest, you forget one of your allies (of the DM's choice) and no longer trust that character. You lose this distrust at the end of your next short rest."
-						],
-						[
-							"94",
-							"As an action, you cause a swirling storm of rocks and dust to surround you in a 10-foot radius for 1 minute. Each creature hostile to you that enters the area must succeed on a {@dc 12} Constitution saving throw or take {@damage 1d6} bludgeoning damage and be {@condition blinded} for 1 round. You can use this property three times.",
-							"{@creature fire elemental||Fire elementals}, {@creature water elemental||water elementals}, and other creatures of fire and water (as determined by the DM) regard you as their enemy, and focus their attacks against you to the exclusion of all else."
-						],
-						[
-							"95",
-							"As an action, you learn the names of every humanoid creature within 30 feet of you.",
-							"Whenever you roll a 1 on a Strength or Dexterity check that incorporates touching an object, you stick to that object for 1 minute. It takes a successful {@dc 20} Strength check to free yourself."
-						],
-						[
-							"96",
-							"You can cast the {@spell modify memory} spell once.",
-							"Whenever you make an Intelligence check or saving throw, you must succeed on a {@dc 13} Charisma saving throw or lose all your memories of the past hour."
-						],
-						[
-							"97",
-							"You can ignore the verbal component of any spell you cast.",
-							"You must shout the verbal component of any spell you cast."
-						],
-						[
-							"98",
-							"As an action, you conjure a mindless, shapeless force that is your exact duplicate. You control this force as if it were the product of an {@spell unseen servant} spell, except that it is visible.",
-							"Each time you see your own reflection, you must succeed on a {@dc 12} Charisma saving throw. On a failure, you treat your allies as enemies and vice versa for 1 minute, attacking the wrong targets, betraying your companions in social situations, and so forth. You can repeat the saving throw at the end of each of your turns, ending the effect on a success."
-						],
-						[
-							"99",
-							"As an action, you can replace one of your hands with any nonmagical weapon, tool, or piece of adventuring equipment of reasonable size (as determined by the DM).",
-							"Your hands feel unnaturally large, imposing disadvantage on Dexterity ({@skill Sleight of Hand}) checks and Dexterity checks using {@item thieves' tools|PHB} or {@item artisan's tools|PHB}. The first weapon attack roll you make in any encounter is made with disadvantage."
-						],
-						[
-							"00",
-							"All creatures of a particular type other than humanoid (as chosen by the DM) are incapable of acting hostile toward you as long as you do not attack, threaten, or provoke them.",
-							"Whenever you meet a creature of a particular type other than humanoid (as chosen by the DM), there is a 1 percent cumulative chance that the {@creature tarrasque} is magically summoned within 1 mile of you. The tarrasque has no knowledge of your existence. It runs amok for {@dice 1d6 × 10} minutes, then magically returns to its previous location."
-						]
-					]
-				}
-			],
-			"attachedSpells": {
-				"will": [
-					"wish"
-				],
-				"daily": {
-					"1e": [
-						"conjure animals",
-						"summon lesser demons|XGE"
-					]
-				},
-				"other": [
-					"comprehend languages",
-					"conjure elemental",
-					"conjure fey",
-					"conjure minor elementals",
-					"conjure woodland beings",
-					"daylight",
-					"detect thoughts",
-					"divination",
-					"gaseous form",
-					"goodberry",
-					"haste",
-					"healing word",
-					"invisibility",
-					"legend lore",
-					"light",
-					"mage hand",
-					"misty step",
-					"modify memory",
-					"Mordenkainen's faithful hound",
-					"nondetection",
-					"prestidigitation",
-					"raise dead",
-					"slow",
-					"speak with plants",
-					"summon greater demon|XGE",
-					"teleport",
-					"unseen servant",
-					"zone of truth"
-				]
-			}
-		},
-		{
 			"name": "Theki Root",
 			"source": "EGW",
 			"page": 70,
@@ -66139,39 +63676,6 @@
 			]
 		},
 		{
-			"name": "Thessaltoxin",
-			"source": "IMR",
-			"page": 93,
-			"rarity": "none",
-			"poison": true,
-			"entries": [
-				"This poison was first created using blood harvested from the artificer Thessalar. A creature subjected to the poison must succeed on a {@dc 15} Constitution saving throw or take on a new form as if affected by the {@spell polymorph} spell. The creature's new form is a random beast or a creature it has seen within the last 24 hours (as chosen by the DM). This transformation lasts until the end of the target's next long rest. This effect is not subject to {@spell dispel magic} or {@spell remove curse}, but a {@spell greater restoration} spell restores the creature to its original form."
-			],
-			"poisonTypes": [
-				"ingested",
-				"injury"
-			],
-			"attachedSpells": [
-				"polymorph"
-			],
-			"miscTags": [
-				"CNS"
-			]
-		},
-		{
-			"name": "Thessaltoxin Antidote",
-			"source": "IMR",
-			"page": 95,
-			"type": "P",
-			"rarity": "uncommon",
-			"entries": [
-				"This potion appears to change color and texture each time you look at it. When you drink the potion, it ends the {@spell polymorph} effect imposed by thessaltoxin."
-			],
-			"miscTags": [
-				"CNS"
-			]
-		},
-		{
 			"name": "Thieves' Tools",
 			"source": "PHB",
 			"page": 154,
@@ -66185,7 +63689,6 @@
 			],
 			"referenceSources": [
 				"AitFR-THP",
-				"AZfyT",
 				"BGDIA",
 				"CoS",
 				"CRCotN",
@@ -66198,7 +63701,6 @@
 				"JttRC",
 				"KftGV",
 				"LMoP",
-				"LR",
 				"OoW",
 				"PaBTSO",
 				"QftIS",
@@ -66208,7 +63710,6 @@
 				"SDW",
 				"SLW",
 				"ToA",
-				"TTP",
 				"WDH",
 				"WDMM",
 				"XMtS"
@@ -66285,8 +63786,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-BtS",
-				"DrDe-TDoN",
 				"WttHC"
 			],
 			"type": "T|XPHB",
@@ -66544,53 +64043,6 @@
 			]
 		},
 		{
-			"name": "Timepiece of Travel",
-			"source": "AI",
-			"page": 221,
-			"referenceSources": [
-				"OoW"
-			],
-			"rarity": "very rare",
-			"reqAttune": true,
-			"wondrous": true,
-			"bonusSavingThrow": "+1",
-			"entries": [
-				"While attuned to this device, you have a +1 bonus to Dexterity saving throws and you always know which way is north. Additionally, you can cast the {@spell longstrider} spell on yourself at will.",
-				{
-					"type": "entries",
-					"name": "Turn-by-Turn Directions",
-					"entries": [
-						"You can name any location within 10 miles of your current location that is known to at least one creature also within 10 miles of that location (including you). Once you name the location, a disembodied voice heard only by you provides directions to the location by the safest, most direct route. The voice knows to avoid natural hazards, so that it does not send you through trackless wilderness or into a lake. But it has no knowledge of or ability to help you avoid monsters, enemies, traps, locked doors, and the like.",
-						"The timepiece is of no use for reaching locations that are wholly secret or not known to any creatures within range. Once you use this feature of the timepiece of travel, it cannot be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Get Away From It All",
-					"entries": [
-						"As an action, you can cast the {@spell teleport} spell. Once you use this feature of the timepiece of travel, it cannot be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Part of a Whole",
-					"entries": [
-						"While this component is not installed in the {@item Orrery of the Wanderer|AI}, its magic might function sporadically or with unpredictable side effects, as determined by the DM."
-					]
-				}
-			],
-			"attachedSpells": {
-				"will": [
-					"longstrider"
-				],
-				"daily": {
-					"1e": [
-						"teleport"
-					]
-				}
-			}
-		},
-		{
 			"name": "Tinderbox",
 			"source": "PHB",
 			"page": 153,
@@ -66618,10 +64070,6 @@
 			"page": 229,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-TDoN",
-				"DrDe-TFV"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"weight": 1,
@@ -66694,14 +64142,6 @@
 				}
 			},
 			"hasFluffImages": true
-		},
-		{
-			"name": "Tiny jade figurine (River Heralds)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 2500
 		},
 		{
 			"name": "Tloques' Berserker Battleaxe",
@@ -67078,10 +64518,6 @@
 			"page": 229,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"BQGT",
-				"DrDe-TDoN"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"weight": 1,
@@ -67183,19 +64619,6 @@
 			]
 		},
 		{
-			"name": "Travel Alchemical Kit",
-			"source": "AI",
-			"page": 30,
-			"rarity": "uncommon",
-			"wondrous": true,
-			"grantsProficiency": true,
-			"entries": [
-				"Also at rank 3, Head Office provides you with a travel alchemical kit\u2014an uncommon magic item containing miniaturized versions of both {@item alchemist's supplies|phb} and a {@item poisoner's kit|phb} (glass vials, a mortar and pestle, chemicals, and a glass stirring rod). You gain proficiency with a {@item poisoner's kit|phb} as part of this upgrade.",
-				"You can use this magical kit as long as it is on your person, with no need to draw or stow it. If you are ever searched, finding your travel alchemical kit requires a successful {@dc 20} Intelligence ({@skill Investigation}) or Wisdom ({@skill Insight}) check."
-			],
-			"hasFluffImages": true
-		},
-		{
 			"name": "Traveler's Clothes",
 			"source": "PHB",
 			"page": 150,
@@ -67204,8 +64627,7 @@
 			"referenceSources": [
 				"CoS",
 				"KftGV",
-				"PaBTSO",
-				"TTP"
+				"PaBTSO"
 			],
 			"reprintedAs": [
 				"Traveler's Clothes|XPHB"
@@ -67228,14 +64650,6 @@
 			"entries": [
 				"Traveler's Clothes are resilient garments designed for travel in various environments."
 			]
-		},
-		{
-			"name": "Treasure chest crafted of exotic wood with gold fittings and opals (Brazen Coalition)",
-			"source": "PSX",
-			"page": 25,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 750000
 		},
 		{
 			"name": "Trident of Fish Command",
@@ -67289,9 +64703,6 @@
 			"page": 317,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BtS"
-			],
 			"baseItem": "trident|xphb",
 			"type": "M|XPHB",
 			"rarity": "uncommon",
@@ -67324,434 +64735,6 @@
 			},
 			"lootTables": [
 				"Armaments - Uncommon|XDMG"
-			],
-			"hasFluffImages": true
-		},
-		{
-			"name": "Trinket",
-			"source": "AI",
-			"page": 222,
-			"type": "G",
-			"rarity": "none",
-			"entries": [
-				"Worried that you're going to pull out your dead sprite inside a clear glass bottle at a company function only to discover that three other people in the franchise have one as well? Then consider rolling on the Acquisitions Incorporated Trinkets table instead of the {@item Trinket|phb|table in chapter 5 of the Player's Handbook}, to gain a unique trinket at character creation with a bit of Acq Inc flair.",
-				{
-					"type": "table",
-					"caption": "Acquisitions Incorporated Trinkets",
-					"colLabels": [
-						"d100",
-						"Trinket"
-					],
-					"colStyles": [
-						"col-2 text-center",
-						"col-10"
-					],
-					"rows": [
-						[
-							"1",
-							"A perfect skipping stone"
-						],
-						[
-							"2",
-							"Three weighted dice that always roll low"
-						],
-						[
-							"3",
-							"A locket with a picture of Jim Darkmagic"
-						],
-						[
-							"4",
-							"A tiny anvil and smith's hammer"
-						],
-						[
-							"5",
-							"A nonfunctional immovable rod"
-						],
-						[
-							"6",
-							"A DIY acupuncture kit"
-						],
-						[
-							"7",
-							"A stuffed owlbear toy"
-						],
-						[
-							"8",
-							"A diagram for a new war lute"
-						],
-						[
-							"9",
-							"A declaration of war against a nation no one has ever heard of"
-						],
-						[
-							"10",
-							"A pipe that emits green smoke"
-						],
-						[
-							"11",
-							"A glass eye"
-						],
-						[
-							"12",
-							"The centerpiece of a priceless chandelier"
-						],
-						[
-							"13",
-							"A fine cane with a secret compartment"
-						],
-						[
-							"14",
-							"A letter written by Rosie Beestinger"
-						],
-						[
-							"15",
-							"A coin that always lands on its edge"
-						],
-						[
-							"16",
-							"The deed and title to an abandoned windmill and three acres of tillable land that you've never been able to find"
-						],
-						[
-							"17",
-							"A menu from Big Daddy Donaar's Yum Yum Hut"
-						],
-						[
-							"18",
-							"A small purse that screams loudly when opened"
-						],
-						[
-							"19",
-							"A deep-crow-feather quill"
-						],
-						[
-							"20",
-							"A pair of breeches that always smells faintly of honey"
-						],
-						[
-							"21",
-							"A one-armed Viari doll (Apocalypse Dagger accessory missing)"
-						],
-						[
-							"22",
-							"A leather pouch filled with various finger bones of unknown provenance"
-						],
-						[
-							"23",
-							"The collar of your childhood pet, Nutmeg"
-						],
-						[
-							"24",
-							"A seashell that, when pressed to the ear, speaks in flowing rhymes"
-						],
-						[
-							"25",
-							"A recipe book for cooking with mushrooms"
-						],
-						[
-							"26",
-							"One expired coupon for \"A Free Cornerstone\""
-						],
-						[
-							"27",
-							"A portable beehive"
-						],
-						[
-							"28",
-							"Goggles that literally tint everything rose colored"
-						],
-						[
-							"29",
-							"A wand of wonder that allows you to cast only mending"
-						],
-						[
-							"30",
-							"A bracelet woven from mistletoe"
-						],
-						[
-							"31",
-							"A curved claw from an unknown beast that small children are always frightened of"
-						],
-						[
-							"32",
-							"A longsword that can be folded down in 1 minute and hidden in your pocket"
-						],
-						[
-							"33",
-							"A living graft of what you believe to be the World Tree"
-						],
-						[
-							"34",
-							"A tattered scarf with the Acquisitions Incorporated logo"
-						],
-						[
-							"35",
-							"A box containing a torn-up letter"
-						],
-						[
-							"36",
-							"An old contract marked \"Void\""
-						],
-						[
-							"37",
-							"A small pigeon in a cage"
-						],
-						[
-							"38",
-							"An Acquisitions Incorporated \"Green Flame\" foam finger"
-						],
-						[
-							"39",
-							"A \"C\" Team lunchbox"
-						],
-						[
-							"40",
-							"A potted plant that grows different fruit on every branch"
-						],
-						[
-							"41",
-							"A book of adventures for children"
-						],
-						[
-							"42",
-							"An Omin action figure with detachable maul and holy symbol"
-						],
-						[
-							"43",
-							"A pint glass engraved with a picture of a keg robot"
-						],
-						[
-							"44",
-							"A giant hockey puck"
-						],
-						[
-							"45",
-							"A miniature cannon that actually fires"
-						],
-						[
-							"46",
-							"A very fancy red scarf and matching handkerchief"
-						],
-						[
-							"47",
-							"An arrow once shot by Môrgæn"
-						],
-						[
-							"48",
-							"A purple worm toy"
-						],
-						[
-							"49",
-							"A burned doll whose eyes follow you around the room"
-						],
-						[
-							"50",
-							"An infinite inkwell"
-						],
-						[
-							"51",
-							"A band embroidered with the symbol of the Six"
-						],
-						[
-							"52",
-							"A squishy cactus"
-						],
-						[
-							"53",
-							"A velvet blindfold"
-						],
-						[
-							"54",
-							"A dirty figurine of a triceratops that can't be cleaned"
-						],
-						[
-							"55",
-							"A used (and thus nonmagical) noble knife from the Noble Knife"
-						],
-						[
-							"56",
-							"A quill that rotates through all the colors of the rainbow"
-						],
-						[
-							"57",
-							"A twenty-sided die that only rolls the number 4"
-						],
-						[
-							"58",
-							"A pointed hat that glows in the dark"
-						],
-						[
-							"59",
-							"A cup that hums when filled with water"
-						],
-						[
-							"60",
-							"A mug fashioned from the skull of someone else's enemy"
-						],
-						[
-							"61",
-							"A small glass jar containing an immortal firefly"
-						],
-						[
-							"62",
-							"A fake mustache made from gnome facial hair"
-						],
-						[
-							"63",
-							"A petrified troll finger"
-						],
-						[
-							"64",
-							"Half of a map"
-						],
-						[
-							"65",
-							"The other half of a map"
-						],
-						[
-							"66",
-							"An unreasonable amount of pocket lint"
-						],
-						[
-							"67",
-							"A dozen flyers for a local gnome food place"
-						],
-						[
-							"68",
-							"Omin Dran's business card"
-						],
-						[
-							"69",
-							"A lock of hair from a changeling"
-						],
-						[
-							"70",
-							"A marble that rolls uphill"
-						],
-						[
-							"71",
-							"A piece of parchment listing a command word for a powerful magic item"
-						],
-						[
-							"72",
-							"A book titled Conversational Giant"
-						],
-						[
-							"73",
-							"A user's manual for an apparatus of Kwalish"
-						],
-						[
-							"74",
-							"A signed head shot of famous bard Spice Caraway"
-						],
-						[
-							"75",
-							"The eye of a basilisk in a crystal box"
-						],
-						[
-							"76",
-							"A postcard from Ravnica"
-						],
-						[
-							"77",
-							"A stamp collection"
-						],
-						[
-							"78",
-							"A small piece of solidified smoke"
-						],
-						[
-							"79",
-							"A six-sided die that sometimes rolls a seven"
-						],
-						[
-							"80",
-							"A left-hand gauntlet"
-						],
-						[
-							"81",
-							"A music box that plays nursery rhymes"
-						],
-						[
-							"82",
-							"A locket that's bigger on the outside than the inside"
-						],
-						[
-							"83",
-							"A potted plant that grows hair instead of leaves"
-						],
-						[
-							"84",
-							"A collection of teeth"
-						],
-						[
-							"85",
-							"A coin whose minting date always shows three years in the future"
-						],
-						[
-							"86",
-							"A green drinking horn taken from a very large bull"
-						],
-						[
-							"87",
-							"A small book containing pressed and dried botanical samples"
-						],
-						[
-							"88",
-							"A hatched chimera egg"
-						],
-						[
-							"89",
-							"A slightly used red bandit mask"
-						],
-						[
-							"90",
-							"A tiny stirge encased in amber"
-						],
-						[
-							"91",
-							"A large bottle of Red Larch Ale that can't be opened"
-						],
-						[
-							"92",
-							"A cane topped with a stylized golden bulldog"
-						],
-						[
-							"93",
-							"A note in your own hand that you don't remember writing"
-						],
-						[
-							"94",
-							"A sprig of herbs from your family's garden"
-						],
-						[
-							"95",
-							"A tankard stolen from the Dran & Courtier"
-						],
-						[
-							"96",
-							"A small, severed tentacle preserved in alcohol"
-						],
-						[
-							"97",
-							"A walnut with a face drawn on it"
-						],
-						[
-							"98",
-							"A small flask of liquid from the Lake of Radiant Mists"
-						],
-						[
-							"99",
-							"An ice cube that never melts"
-						],
-						[
-							"00",
-							"An expertly carved sword hilt with the blade snapped cleanly off"
-						]
-					]
-				}
-			],
-			"miscTags": [
-				"TT"
 			],
 			"hasFluffImages": true
 		},
@@ -68418,7 +65401,6 @@
 				"BGDIA",
 				"CM",
 				"ToFW",
-				"TTP",
 				"WDH",
 				"WDMM"
 			],
@@ -69718,14 +66700,6 @@
 			]
 		},
 		{
-			"name": "Velvet doublet with gold buttons (Legion of Dusk)",
-			"source": "PSX",
-			"page": 24,
-			"type": "$A|DMG",
-			"rarity": "none",
-			"value": 2500
-		},
-		{
 			"name": "Ventilating Lungs",
 			"source": "ERLW",
 			"page": 279,
@@ -69928,10 +66902,6 @@
 			"page": 229,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-DaS",
-				"DrDe-TDoN"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"value": 100,
@@ -69982,17 +66952,6 @@
 			]
 		},
 		{
-			"name": "Vial of Thought Capture",
-			"source": "AZfyT",
-			"page": 4,
-			"rarity": "unknown (magic)",
-			"entries": [
-				"This dark blue vial allows you to read another's surface thoughts and capture them as thought strands, storing the strands within the vial. As an action, you can activate the vial to target a creature you can see within 10 feet of you to learn its surface thoughts and pull the thoughts learned out of the creature's head as a tangible glowing string of energy known as a thought strand. The strands can be stored in the vial for up to 24 hours or until the vial reaches capacity, in which case the oldest strands dissipate. A creature affected by the vial knows that its thoughts are being probed.",
-				"The vial can also store thought strands created by the {@spell encode thoughts|ggr} cantrip. It does not extend the duration of those strands beyond 8 hours, but stored strands do not disappear if you cast {@spell encode thoughts|ggr} again during the duration of the cantrip.",
-				"The vial has 3 charges and can store up to 3 thought strands. It regains all its charges daily at dusk."
-			]
-		},
-		{
 			"name": "Void Card",
 			"source": "BMT",
 			"page": 15,
@@ -70025,24 +66984,6 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "Voting Kit",
-			"source": "AI",
-			"page": 22,
-			"rarity": "common",
-			"wondrous": true,
-			"entries": [
-				"At rank 4, your voting kit becomes a common magic item that conceals an extradimensional space. As a bonus action, you can place one tool kit that you are proficient with into the voting kit, or can remove it. No other type of object can be placed into the extradimensional space. A creature searching the voting kit finds and extracts the tool kit with a successful {@dc 20} Intelligence ({@skill Investigation}) or Wisdom ({@skill Perception}) check.",
-				"Additionally, you can use the voting kit to cast {@spell charm person} (save {@dc 15}). This property of the kit can't be used again until the next dawn."
-			],
-			"attachedSpells": {
-				"daily": {
-					"1e": [
-						"charm person"
-					]
-				}
-			}
 		},
 		{
 			"name": "Vox Seeker",
@@ -70770,9 +67711,6 @@
 			"page": 320,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-ACfaS"
-			],
 			"type": "WD|XDMG",
 			"rarity": "rare",
 			"reqAttune": "by a spellcaster",
@@ -71088,9 +68026,6 @@
 			"name": "Wand of Orcus",
 			"source": "XDMG",
 			"page": 320,
-			"referenceSources": [
-				"DrDe-TWoO"
-			],
 			"baseItem": "mace|xphb",
 			"type": "WD|XDMG",
 			"typeAlt": "M|XPHB",
@@ -71465,7 +68400,6 @@
 				"CoS",
 				"CRCotN",
 				"DIP",
-				"IMR",
 				"QftIS",
 				"SCC-TMM",
 				"ToA",
@@ -71501,7 +68435,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-TWoO",
 				"WttHC"
 			],
 			"type": "WD|XDMG",
@@ -71569,7 +68502,6 @@
 			"srd": true,
 			"referenceSources": [
 				"IDRotF",
-				"IMR",
 				"WBtW"
 			],
 			"reprintedAs": [
@@ -71857,9 +68789,6 @@
 			"page": 322,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-SD"
-			],
 			"type": "WD|XDMG",
 			"rarity": "rare",
 			"reqAttune": true,
@@ -72219,10 +69148,6 @@
 			"page": 229,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"BQGT",
-				"DrDe-ACfaS"
-			],
 			"type": "G|XPHB",
 			"rarity": "none",
 			"weight": 5,
@@ -72243,8 +69168,6 @@
 			"page": 218,
 			"referenceSources": [
 				"DC",
-				"IMR",
-				"LR",
 				"TftYP-WPM"
 			],
 			"reprintedAs": [
@@ -72563,55 +69486,6 @@
 			"value": 1
 		},
 		{
-			"name": "Wheel of Stars",
-			"source": "AI",
-			"page": 222,
-			"referenceSources": [
-				"OoW"
-			],
-			"rarity": "very rare",
-			"reqAttune": true,
-			"wondrous": true,
-			"bonusSavingThrow": "+1",
-			"entries": [
-				"While attuned to this device, you have a +1 bonus to Wisdom saving throws, and you can use an action to cast the {@spell dancing lights}, {@spell guidance}, or {@spell message} cantrips.",
-				{
-					"type": "entries",
-					"name": "Portent of the Stars",
-					"entries": [
-						"As a reaction when a creature you can see within 60 feet of you makes an attack roll, saving throw, or ability check, you make that creature roll a {@dice d10} and add or subtract the number rolled (your choice) from the roll. Once you use this feature of the wheel of stars, it cannot be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Alter Gravity",
-					"entries": [
-						"As an action, you can cast {@spell fly} on yourself or you can cast {@spell levitate} (save {@dc 15}). Once you use this feature of the wheel of stars, it cannot be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Part of a Whole",
-					"entries": [
-						"While this component is not installed in the {@item Orrery of the Wanderer|AI}, its magic might function sporadically or with unpredictable side effects, as determined by the DM."
-					]
-				}
-			],
-			"attachedSpells": {
-				"will": [
-					"dancing lights",
-					"guidance",
-					"message"
-				],
-				"daily": {
-					"1e": [
-						"fly",
-						"levitate"
-					]
-				}
-			}
-		},
-		{
 			"name": "Wheel of Wind and Water",
 			"source": "ERLW",
 			"page": 280,
@@ -72627,7 +69501,6 @@
 			"source": "DMG",
 			"page": 218,
 			"referenceSources": [
-				"IMR",
 				"TftYP-WPM"
 			],
 			"reprintedAs": [
@@ -72798,97 +69671,6 @@
 			"rarity": "none",
 			"weight": 1,
 			"value": 1
-		},
-		{
-			"name": "Whisper Jar",
-			"source": "AI",
-			"page": 27,
-			"rarity": "varies",
-			"reqAttune": true,
-			"wondrous": true,
-			"entries": [
-				"Also at rank 1, you are the beneficiary of a whisper jar\u2014a common magic item resembling an ether-filled jar with a long tap hose. The jar is used to record others' stories and your own observations, like a verbal notebook with unlimited space. The whisper jar records as fast as a creature can speak into it, and whispers back words at the same pace they were recorded. Activating the playback of a particular recording is an action.",
-				{
-					"type": "table",
-					"caption": "Things Recorded in Your Whisper Jar",
-					"colLabels": [
-						"d8",
-						"Recording"
-					],
-					"colStyles": [
-						"col-2 text-center",
-						"col-10"
-					],
-					"rows": [
-						[
-							"1",
-							"A live recording of the only performance of the mostly forgotten stage play Tabaxi on a Hot Tin Roof"
-						],
-						[
-							"2",
-							"The life's work of the loremonger who owned the jar before you"
-						],
-						[
-							"3",
-							"Every courageous thought you've ever had, to cover for how scared you are most of the time"
-						],
-						[
-							"4",
-							"Everything, because everyone else around you will eat their words one day!"
-						],
-						[
-							"5",
-							"The top seven places to eat fried rat skewers in every settlement you've ever visited"
-						],
-						[
-							"6",
-							"The entire family tree of every royal line, extant or lost, in Faerûn"
-						],
-						[
-							"7",
-							"A moment-by-moment review of your favorite Jim Darkmagic stage performance"
-						],
-						[
-							"8",
-							"The sound of raucous applause, which you play back liberally"
-						]
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Whispered Encyclopedia",
-					"entries": [
-						"At rank 2, your whisper jar becomes an uncommon magic item that can tap into the broader lore of Acquisitions Incorporated. As a bonus action, you ask the jar for information on a specific subject and make a {@dc 15} Intelligence ({@skill History}) check. On a success, the jar plays back a recording on that subject, made somewhere, sometime by another Acq Inc loremonger. This property of the whisper jar can't be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Whispered Warnings",
-					"entries": [
-						"Also at rank 3, your whisper jar gains additional power and becomes a rare magic item. As an action, you can cause the jar to function as a {@item wand of enemy detection}, whereupon it whispers the direction to foes within range. This property of the whisper jar can't be used again until the next dawn."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Whispered Arcana",
-					"entries": [
-						"Also at rank 4, your whisper jar gains access to even more magic. By whispering the name of one of the following spells into the jar as an action, you can cast that spell from the jar: {@spell detect evil and good}, {@spell detect magic}, {@spell detect poison and disease}, {@spell find traps}, {@spell identify}, or {@spell locate animals or plants}. This property of the whisper jar can't be used again until the next dawn."
-					]
-				}
-			],
-			"attachedSpells": {
-				"daily": {
-					"1": [
-						"detect evil and good",
-						"detect magic",
-						"detect poison and disease",
-						"find traps",
-						"identify",
-						"locate animals or plants"
-					]
-				}
-			},
-			"hasFluffImages": true
 		},
 		{
 			"name": "Whistle-Stick",
@@ -74508,8 +71290,7 @@
 			"source": "PHB",
 			"page": 151,
 			"referenceSources": [
-				"ToA",
-				"TTP"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Arcane Focus|XPHB"
@@ -74641,9 +71422,6 @@
 			"page": 231,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BtS"
-			],
 			"type": "GV|XDMG",
 			"rarity": "rare",
 			"reqAttune": true,
@@ -74865,9 +71643,6 @@
 			"page": 234,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BD"
-			],
 			"rarity": "uncommon",
 			"wondrous": true,
 			"recharge": "dawn",
@@ -75282,18 +72057,6 @@
 			"name": "Dragon Vessel",
 			"source": "FTD",
 			"page": 27,
-			"referenceSources": [
-				"DrDe-ACfaS",
-				"DrDe-BD",
-				"DrDe-BtS",
-				"DrDe-DaS",
-				"DrDe-DotSC",
-				"DrDe-FWtVC",
-				"DrDe-SD",
-				"DrDe-TDoN",
-				"DrDe-TFV",
-				"DrDe-TWoO"
-			],
 			"rarity": "varies",
 			"reqAttune": true,
 			"wondrous": true,
@@ -75311,18 +72074,6 @@
 			"name": "Dragon's Wrath Weapon",
 			"source": "FTD",
 			"page": 25,
-			"referenceSources": [
-				"DrDe-ACfaS",
-				"DrDe-BD",
-				"DrDe-BtS",
-				"DrDe-DaS",
-				"DrDe-DotSC",
-				"DrDe-FWtVC",
-				"DrDe-SD",
-				"DrDe-TDoN",
-				"DrDe-TFV",
-				"DrDe-TWoO"
-			],
 			"type": "GV|DMG",
 			"rarity": "varies",
 			"reqAttune": true,
@@ -75340,18 +72091,6 @@
 			"name": "Dragon-Touched Focus",
 			"source": "FTD",
 			"page": 26,
-			"referenceSources": [
-				"DrDe-ACfaS",
-				"DrDe-BD",
-				"DrDe-BtS",
-				"DrDe-DaS",
-				"DrDe-DotSC",
-				"DrDe-FWtVC",
-				"DrDe-SD",
-				"DrDe-TDoN",
-				"DrDe-TFV",
-				"DrDe-TWoO"
-			],
 			"type": "SCF",
 			"rarity": "varies",
 			"reqAttune": "by a spellcaster",
@@ -75461,9 +72200,6 @@
 			"page": 257,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-BtS"
-			],
 			"rarity": "uncommon",
 			"wondrous": true,
 			"items": [
@@ -75985,7 +72721,6 @@
 			"source": "DMG",
 			"page": 169,
 			"referenceSources": [
-				"IMR",
 				"PotA",
 				"RtG",
 				"SKT",
@@ -76213,8 +72948,7 @@
 				"CoS",
 				"DSotDQ",
 				"KftGV",
-				"PaBTSO",
-				"TTP"
+				"PaBTSO"
 			],
 			"reprintedAs": [
 				"Holy Symbol|XPHB"
@@ -76236,9 +72970,6 @@
 			"name": "Holy Symbol",
 			"source": "XPHB",
 			"page": 226,
-			"referenceSources": [
-				"DrDe-ACfaS"
-			],
 			"type": "SCF|XPHB",
 			"scfType": "holy",
 			"rarity": "none",
@@ -76545,9 +73276,6 @@
 			"name": "Ioun Stone",
 			"source": "LLK",
 			"page": 55,
-			"referenceSources": [
-				"IMR"
-			],
 			"reprintedAs": [
 				"Ioun Stone|XDMG"
 			],
@@ -76999,9 +73727,6 @@
 			"page": 288,
 			"srd52": true,
 			"basicRules2024": true,
-			"referenceSources": [
-				"DrDe-DaS"
-			],
 			"type": "P|XPHB",
 			"rarity": "varies",
 			"weight": 0.5,
@@ -77248,7 +73973,6 @@
 			"page": 188,
 			"referenceSources": [
 				"GoS",
-				"IMR",
 				"ToFW",
 				"WDMM"
 			],
@@ -77766,18 +74490,6 @@
 			"name": "Scaled Ornament",
 			"source": "FTD",
 			"page": 27,
-			"referenceSources": [
-				"DrDe-ACfaS",
-				"DrDe-BD",
-				"DrDe-BtS",
-				"DrDe-DaS",
-				"DrDe-DotSC",
-				"DrDe-FWtVC",
-				"DrDe-SD",
-				"DrDe-TDoN",
-				"DrDe-TFV",
-				"DrDe-TWoO"
-			],
 			"rarity": "varies",
 			"reqAttune": true,
 			"wondrous": true,
@@ -78135,15 +74847,6 @@
 			"name": "Spell Gem",
 			"source": "OotA",
 			"page": 223,
-			"otherSources": [
-				{
-					"source": "IMR",
-					"page": 95
-				}
-			],
-			"referenceSources": [
-				"IMR"
-			],
 			"rarity": "varies",
 			"reqAttune": "optional",
 			"wondrous": true,
@@ -78180,7 +74883,6 @@
 				"GoS",
 				"HotDQ",
 				"IDRotF",
-				"IMR",
 				"JttRC",
 				"KftGV",
 				"LLK",
@@ -78188,7 +74890,6 @@
 				"LoX",
 				"LRDT",
 				"MOT",
-				"NRH-TLT",
 				"OotA",
 				"OoW",
 				"PotA",
@@ -78197,7 +74898,6 @@
 				"RtG",
 				"SCC-ARiR",
 				"SDW",
-				"SjA",
 				"SKT",
 				"SLW",
 				"TftYP-AtG",
@@ -78245,12 +74945,6 @@
 			"srd52": true,
 			"basicRules2024": true,
 			"referenceSources": [
-				"DrDe-ACfaS",
-				"DrDe-BD",
-				"DrDe-DaS",
-				"DrDe-DotSC",
-				"DrDe-TDoN",
-				"DrDe-TWoO",
 				"FRAiF"
 			],
 			"type": "SC|XPHB",

@@ -1607,14 +1607,6 @@
 			"name": "Apprentice Wizard",
 			"source": "MPMM",
 			"page": 259,
-			"otherSources": [
-				{
-					"source": "SjA"
-				}
-			],
-			"referenceSources": [
-				"SjA"
-			],
 			"size": [
 				"M"
 			],
@@ -3481,14 +3473,6 @@
 			"name": "Bard",
 			"source": "MPMM",
 			"page": 59,
-			"otherSources": [
-				{
-					"source": "AATM"
-				}
-			],
-			"referenceSources": [
-				"AATM"
-			],
 			"size": [
 				"M"
 			],
@@ -5366,9 +5350,6 @@
 			"source": "MPMM",
 			"page": 68,
 			"otherSources": [
-				{
-					"source": "AATM"
-				},
 				{
 					"source": "VEoR"
 				}
@@ -7858,9 +7839,6 @@
 			"page": 86,
 			"otherSources": [
 				{
-					"source": "AATM"
-				},
-				{
 					"source": "BMT"
 				}
 			],
@@ -8036,14 +8014,6 @@
 			"name": "Deathlock Mastermind",
 			"source": "MPMM",
 			"page": 87,
-			"otherSources": [
-				{
-					"source": "AATM"
-				}
-			],
-			"referenceSources": [
-				"AATM"
-			],
 			"size": [
 				"M"
 			],
@@ -12735,14 +12705,6 @@
 			"name": "Dybbuk",
 			"source": "MPMM",
 			"page": 113,
-			"otherSources": [
-				{
-					"source": "AATM"
-				}
-			],
-			"referenceSources": [
-				"AATM"
-			],
 			"size": [
 				"M"
 			],
@@ -15749,14 +15711,6 @@
 			"name": "Gazer",
 			"source": "MPMM",
 			"page": 134,
-			"otherSources": [
-				{
-					"source": "SjA"
-				}
-			],
-			"referenceSources": [
-				"SjA"
-			],
 			"size": [
 				"T"
 			],
@@ -16287,14 +16241,6 @@
 			"name": "Giff",
 			"source": "MPMM",
 			"page": 138,
-			"otherSources": [
-				{
-					"source": "SjA"
-				}
-			],
-			"referenceSources": [
-				"SjA"
-			],
 			"size": [
 				"M"
 			],
@@ -22516,9 +22462,6 @@
 			"page": 224,
 			"otherSources": [
 				{
-					"source": "AATM"
-				},
-				{
 					"source": "VEoR"
 				}
 			],
@@ -25354,14 +25297,6 @@
 			"name": "Narzugon",
 			"source": "MPMM",
 			"page": 190,
-			"otherSources": [
-				{
-					"source": "AATM"
-				}
-			],
-			"referenceSources": [
-				"AATM"
-			],
 			"size": [
 				"M"
 			],
@@ -25819,14 +25754,6 @@
 			"name": "Neogi Hatchling",
 			"source": "MPMM",
 			"page": 191,
-			"otherSources": [
-				{
-					"source": "SjA"
-				}
-			],
-			"referenceSources": [
-				"SjA"
-			],
 			"size": [
 				"T"
 			],
@@ -30594,14 +30521,6 @@
 			"name": "Skull Lord",
 			"source": "MPMM",
 			"page": 220,
-			"otherSources": [
-				{
-					"source": "AATM"
-				}
-			],
-			"referenceSources": [
-				"AATM"
-			],
 			"size": [
 				"M"
 			],
@@ -30969,14 +30888,6 @@
 			"name": "Spawn of Kyuss",
 			"source": "MPMM",
 			"page": 225,
-			"otherSources": [
-				{
-					"source": "AATM"
-				}
-			],
-			"referenceSources": [
-				"AATM"
-			],
 			"size": [
 				"M"
 			],
@@ -32410,14 +32321,6 @@
 			"name": "Stench Kow",
 			"source": "MPMM",
 			"page": 72,
-			"otherSources": [
-				{
-					"source": "AATM"
-				}
-			],
-			"referenceSources": [
-				"AATM"
-			],
 			"size": [
 				"L"
 			],
@@ -33225,14 +33128,6 @@
 			"name": "Swarm of Rot Grubs",
 			"source": "MPMM",
 			"page": 237,
-			"otherSources": [
-				{
-					"source": "AATM"
-				}
-			],
-			"referenceSources": [
-				"AATM"
-			],
 			"size": [
 				"M"
 			],
@@ -35033,9 +34928,6 @@
 			"page": 250,
 			"otherSources": [
 				{
-					"source": "AATM"
-				},
-				{
 					"source": "BMT"
 				}
 			],
@@ -35190,14 +35082,6 @@
 			"name": "Vargouille",
 			"source": "MPMM",
 			"page": 251,
-			"otherSources": [
-				{
-					"source": "AATM"
-				}
-			],
-			"referenceSources": [
-				"AATM"
-			],
 			"size": [
 				"T"
 			],

@@ -2396,23 +2396,6 @@
 		},
 		{
 			"name": "Gar Shatterkeel",
-			"source": "LR",
-			"page": 18,
-			"lairActions": [
-				"Gar can employ lair actions while he's within the coral mountain.",
-				"On initiative count 20 (losing initiative ties), Gar Shatterkeel takes a lair action to cause one of the following effects; Gar can't use the same effect two rounds in a row.",
-				{
-					"type": "list",
-					"items": [
-						"Gar may teleport anywhere within the coral mountain, bringing up to five willing creatures with him.",
-						"The coral in a 60-foot radius grows rapidly around creatures inside the coral mountain. Each creature must succeed on a {@dc 18} Strength saving throw or become {@condition restrained}. Restrained creatures can take an action on their turn to make a {@dc 18} Strength ({@skill Athletics}) or Dexterity ({@skill Acrobatics}) check to free themselves. This effect lasts for 1 minute unless dispelled (it counts as a 6th level spell), and doesn't require Gar to maintain {@status concentration}. Gar Shatterkeel and any creatures he designates are immune to this effect.",
-						"Up to five corpses that Gar can see within 60 feet rise up as {@creature drowned blade|GoS|drowned blades} and attack anyone Gar directs them to on his turn."
-					]
-				}
-			]
-		},
-		{
-			"name": "Gar Shatterkeel",
 			"source": "PotA",
 			"page": 208,
 			"lairActions": [
@@ -5678,22 +5661,6 @@
 							"name": "Time",
 							"entry": "Time passes slower in the Eternal Garden relative to other planes. For each day spent in the garden, one year passes on the Material Plane."
 						}
-					]
-				}
-			]
-		},
-		{
-			"name": "Thessalkraken",
-			"source": "IMR",
-			"page": 87,
-			"lairActions": [
-				"On initiative count 20 (losing initiative ties), the thessalkraken takes a lair action to cause one of the following magical effects:",
-				{
-					"type": "list",
-					"items": [
-						"A strong current moves through the thessalkraken's lair. Each creature within 60 feet of the thessalkraken must succeed on a {@dc 18} Strength saving throw or be pushed up to 60 feet away from the thessalkraken. On a success, the creature is pushed 10 feet away from the thessalkraken.",
-						"Creatures in the water within 60 feet of the thessalkraken have vulnerability to acid damage until initiative count 20 on the next round.",
-						"The alluring gleam of treasure beneath the water in the thessalkraken's lair compels potential victims to draw near. Each creature within 120 feet of the thessalkraken must succeed on a {@dc 18} Wisdom saving throw or move 10 feet closer to the thessalkraken if able to do so."
 					]
 				}
 			]

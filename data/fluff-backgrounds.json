@@ -458,37 +458,6 @@
 			]
 		},
 		{
-			"name": "Celebrity Adventurer's Scion",
-			"source": "AI",
-			"entries": [
-				{
-					"type": "entries",
-					"entries": [
-						{
-							"type": "entries",
-							"entries": [
-								"Your family name strikes fear and admiration in the hearts of the common folk\u2014but that's got nothing to do with you. Songs and stories celebrating the adventuring exploits of your famous parent are widely known. Kids across the land grew up wishing they were you. But being the child of a famous adventurer wasn't all hugs and kisses.",
-								"You seldom saw your celebrity-adventurer parent, and when they were around, it was all about them and tales of slaying this demon or vanquishing that dragon. All too often, you'd be woken out of a sound sleep by someone standing outside your home screaming about the latest threat to the town, the region, or the world.",
-								"In the end, all you have to show for your lineage is your name. Most of the family's money went for consumables, from potions of healing and spell scrolls to copious amounts of dwarven ale. And everyone expects you to swing a sword or sling spells like your famous forebear, making it doubly hard for you to prove yourself."
-							]
-						}
-					]
-				}
-			],
-			"images": [
-				{
-					"type": "image",
-					"href": {
-						"type": "internal",
-						"path": "backgrounds/AI/celebrity-adventurers-scion.webp"
-					},
-					"credit": "Kris Straub",
-					"width": 1545,
-					"height": 1000
-				}
-			]
-		},
-		{
 			"name": "Charlatan",
 			"source": "PHB",
 			"entries": [
@@ -864,24 +833,6 @@
 			]
 		},
 		{
-			"name": "Failed Merchant",
-			"source": "AI",
-			"entries": [
-				{
-					"type": "entries",
-					"entries": [
-						{
-							"type": "entries",
-							"entries": [
-								"Maybe you come from a long line of merchants. Perhaps you were an entrepreneur. Regardless, your ventures ended poorly. Whether it was because of outside influences, bad luck, or simply because your business acumen was weak, you lost everything.",
-								"With failure, however, comes experience. You're free of that old life, having made some connections and learned your lessons. Prepared to pursue the life of an adventurer, your insight into the world of commerce brought you into the sphere of Acquisitions Incorporated\u2014and a franchise just might be in your future."
-							]
-						}
-					]
-				}
-			]
-		},
-		{
 			"name": "Far Traveler",
 			"source": "SCAG",
 			"entries": [
@@ -1057,23 +1008,6 @@
 							"type": "entries",
 							"entries": [
 								"You come from a humble social rank, but you are destined for so much more. Already the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere."
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "Gambler",
-			"source": "AI",
-			"entries": [
-				{
-					"type": "entries",
-					"entries": [
-						{
-							"type": "entries",
-							"entries": [
-								"All you need to make a lot of gold is a little gold. Except at those times when all you need to have no gold at all is a little gold. Whether you're a good gambler or a bad one rarely matters, because no one can divine the whims of Lady Luck. Sometimes you're up, sometimes you're down. But the thing about gambling is that someone is always willing to take a bet."
 							]
 						}
 					]
@@ -1706,91 +1640,6 @@
 			]
 		},
 		{
-			"name": "Initiate",
-			"source": "PSA",
-			"entries": [
-				{
-					"type": "entries",
-					"entries": [
-						{
-							"type": "entries",
-							"entries": [
-								"You are an initiate, on the path to completing the trials of the five gods in the hope of earning a glorified death in the final Trial of Zeal. Some combination of your natural aptitude, your crop's needs, and your teachers' assessment while you were an acolyte led you to focus your training in one particular area of specialization\u2014hand-to-hand combat, long-range combat, or spellcasting. But only a well-rounded initiate can be called truly worthy of the afterlife.",
-								"If you are a hand-to-hand specialist, consider the {@class barbarian}, {@class fighter}, {@class monk}, {@class paladin}, or {@class rogue} classes. As a long-range combat specialist, you might be a {@class fighter}, a {@class ranger}, or a {@class rogue}. If you are a spellcasting specialist, you might be a {@class bard}, {@class sorcerer}, or {@class wizard}. And beyond this initial choice, you might consider multiclassing or using feats to round out your skills in all three areas."
-							]
-						}
-					]
-				}
-			],
-			"images": [
-				{
-					"type": "image",
-					"href": {
-						"type": "internal",
-						"path": "backgrounds/PSA/Initiate.webp"
-					},
-					"title": "Unwavering Initiate",
-					"credit": "Greg Opalinski",
-					"width": 630,
-					"height": 1650
-				},
-				{
-					"type": "image",
-					"href": {
-						"type": "internal",
-						"path": "backgrounds/PSA/Initiate2.webp"
-					},
-					"title": "Gust Walker",
-					"credit": "Jason Rainville",
-					"width": 631,
-					"height": 816
-				}
-			]
-		},
-		{
-			"name": "Initiate (Dissenter)",
-			"source": "PSA",
-			"_copy": {
-				"name": "Initiate",
-				"source": "PSA",
-				"_mod": {
-					"entries": {
-						"mode": "prependArr",
-						"items": {
-							"type": "entries",
-							"entries": [
-								{
-									"type": "entries",
-									"entries": [
-										"Even in the carefully constructed and curated city-state of Naktamun, and in the presence of the five gods, some people rebel against the doctrines of the God-Pharaoh. They don't challenge the existence of the gods, of course, for those gods are visible nearly every day in the streets of the city. Nor do they question the fact of life after death, which is plain to see in the anointed mummies that surround them, as well as the marauding mummies outside the Hekma. Rather, these dissenters simply refuse to follow the ordained course of life that leads to the glorious afterlife.",
-										"Some dissenters are spurred by fear, not wanting to subject themselves to a violent death in the trials (or in training for the trials). Some are moved by conscience, unwilling to kill their crop-mates in the trials. For while they cannot deny that the gods exist, they can deny that the gods are just\u2014and can fight to prove that the dictates of an unjust god need not be obeyed. Some believe that one god (probably Bontu) has corrupted the process of the trials and the path to the afterlife. Others correctly intuit that the God-Pharaoh did not actually have the people's best interests in mind when he ordered their society.",
-										"A character who is identified as a dissenter loses the benefit of the initiate's or vizier's background feature. In its place, the character gains the Shelter of Dissenters feature.",
-										{
-											"type": "hr"
-										}
-									]
-								}
-							]
-						}
-					},
-					"images": {
-						"mode": "prependArr",
-						"items": {
-							"type": "image",
-							"href": {
-								"type": "internal",
-								"path": "backgrounds/PSA/Dissenter.webp"
-							},
-							"title": "Samut, Voice of Dissent",
-							"credit": "Aleksi Briclot",
-							"width": 620,
-							"height": 901
-						}
-					}
-				}
-			}
-		},
-		{
 			"name": "Inquisitive",
 			"source": "EFA",
 			"entries": [
@@ -1806,36 +1655,6 @@
 					"credit": "Esther Wu",
 					"width": 850,
 					"height": 288
-				}
-			]
-		},
-		{
-			"name": "Inquisitor",
-			"source": "PSI",
-			"entries": [
-				{
-					"type": "entries",
-					"entries": [
-						{
-							"type": "entries",
-							"entries": [
-								"Historically, inquisitors were cathar detectives who investigated crimes both mundane and supernatural. They were known for traveling to remote parishes plagued by unexplained murders, and for exposing werewolves living among normal humans. During Avacyn's absence, when the archangel was trapped within the demonic prison known as the Helvault, the inquisitors led a series of brutal forays into Kessig and the Gavony Moorland. They executed suspected lycanthropes with little or no proof, and punished accused heretics in unsanctioned trials. With Avacyn's madness, this savage form of inquisition has become the norm, and inquisitors who still pry into dark mysteries have become a minority."
-							]
-						}
-					]
-				}
-			],
-			"images": [
-				{
-					"type": "image",
-					"href": {
-						"type": "internal",
-						"path": "backgrounds/PSI/Inquisitor.webp"
-					},
-					"title": "Moorland Inquisitor",
-					"credit": "David Palumbo",
-					"width": 617,
-					"height": 919
 				}
 			]
 		},
@@ -2287,37 +2106,6 @@
 			]
 		},
 		{
-			"name": "Plaintiff",
-			"source": "AI",
-			"entries": [
-				{
-					"type": "entries",
-					"entries": [
-						{
-							"type": "entries",
-							"entries": [
-								"Sure, accidents happen. But they seem to happen an awful lot when Acquisitions Incorporated operatives are on the scene. Naturally, nothing ever happens when there are no witnesses left behind. But sometimes one casualty is left a little less than dead, just waiting to discover what a lucky break that accident actually was.",
-								"You were a victim of a legal incident that was ostensibly the fault of Acquisitions Incorporated. At least that's what the local magistrate said. But before a final ruling could be handed down, Acquisitions Incorporated offered you a job! Don't know how to swing a sword? They promised to teach you! Think you have what it takes to sling spells? They've got masters who'll have you throwing fire in no time!",
-								"With the promise of untold treasures and realms of magic and mystery just a dungeon away, you left your old life behind. Now a world of adventure is yours. Just initial here and sign here and here. Absolve Acq Inc of all former claims, and acknowledge you understand past outcomes don't guarantee future results."
-							]
-						}
-					]
-				}
-			],
-			"images": [
-				{
-					"type": "image",
-					"href": {
-						"type": "internal",
-						"path": "backgrounds/AI/plaintiff-coin.webp"
-					},
-					"credit": "Kris Straub",
-					"width": 1545,
-					"height": 1000
-				}
-			]
-		},
-		{
 			"name": "Planar Philosopher",
 			"source": "SatO",
 			"entries": [
@@ -2467,24 +2255,6 @@
 					"credit": "Brian Valeza",
 					"width": 850,
 					"height": 2328
-				}
-			]
-		},
-		{
-			"name": "Rival Intern",
-			"source": "AI",
-			"entries": [
-				{
-					"type": "entries",
-					"entries": [
-						{
-							"type": "entries",
-							"entries": [
-								"You were an intern at a rival of Acquisitions Incorporated, and you gained a healthy respect for not just the job and the franchising opportunities, but for the ruthless and efficient way Acquisitions Incorporated goes about its business. Why deal with the rest, when you can work for the best?",
-								"Perhaps the rival did not treat you as well as you were hoping, or you washed out of that organization. Maybe you hope to leverage the knowledge you gained there for an advantage at Acquisitions Incorporated. Either way, you're now bringing your talents to the company, ready to put your skills to use."
-							]
-						}
-					]
 				}
 			]
 		},
@@ -3000,80 +2770,6 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "Vizier",
-			"source": "PSA",
-			"entries": [
-				{
-					"type": "entries",
-					"entries": [
-						{
-							"type": "entries",
-							"entries": [
-								"You are a vizier, a servant of your god. You perform tasks that are essential to facilitating the initiates' journey, so the gods reward you with entry into the afterlife with the God-Pharaoh's blessing. You hope to achieve the most honored status in the afterlife by being the best possible servant to your god.",
-								"As a vizier, you can have any class, but you are especially likely to be a {@class cleric}, a {@class druid} (particularly if you serve Rhonas), or a {@class paladin}."
-							]
-						}
-					]
-				}
-			],
-			"images": [
-				{
-					"type": "image",
-					"href": {
-						"type": "internal",
-						"path": "backgrounds/PSA/Vizier.webp"
-					},
-					"title": "Shadowstorm Vizier",
-					"credit": "Yongjae Choi",
-					"width": 1281,
-					"height": 898
-				}
-			]
-		},
-		{
-			"name": "Vizier (Dissenter)",
-			"source": "PSA",
-			"_copy": {
-				"name": "Vizier",
-				"source": "PSA",
-				"_mod": {
-					"entries": {
-						"mode": "prependArr",
-						"items": {
-							"type": "entries",
-							"entries": [
-								{
-									"type": "entries",
-									"entries": [
-										"Even in the carefully constructed and curated city-state of Naktamun, and in the presence of the five gods, some people rebel against the doctrines of the God-Pharaoh. They don't challenge the existence of the gods, of course, for those gods are visible nearly every day in the streets of the city. Nor do they question the fact of life after death, which is plain to see in the anointed mummies that surround them, as well as the marauding mummies outside the Hekma. Rather, these dissenters simply refuse to follow the ordained course of life that leads to the glorious afterlife.",
-										"Some dissenters are spurred by fear, not wanting to subject themselves to a violent death in the trials (or in training for the trials). Some are moved by conscience, unwilling to kill their crop-mates in the trials. For while they cannot deny that the gods exist, they can deny that the gods are just\u2014and can fight to prove that the dictates of an unjust god need not be obeyed. Some believe that one god (probably Bontu) has corrupted the process of the trials and the path to the afterlife. Others correctly intuit that the God-Pharaoh did not actually have the people's best interests in mind when he ordered their society.",
-										"A character who is identified as a dissenter loses the benefit of the initiate's or vizier's background feature. In its place, the character gains the Shelter of Dissenters feature.",
-										{
-											"type": "hr"
-										}
-									]
-								}
-							]
-						}
-					},
-					"images": {
-						"mode": "prependArr",
-						"items": {
-							"type": "image",
-							"href": {
-								"type": "internal",
-								"path": "backgrounds/PSA/Dissenter.webp"
-							},
-							"title": "Samut, Voice of Dissent",
-							"credit": "Aleksi Briclot",
-							"width": 620,
-							"height": 901
-						}
-					}
-				}
-			}
 		},
 		{
 			"name": "Volstrucker Agent",

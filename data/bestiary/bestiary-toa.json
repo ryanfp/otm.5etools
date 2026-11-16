@@ -637,9 +637,6 @@
 			"name": "Almiraj",
 			"source": "ToA",
 			"page": 211,
-			"referenceSources": [
-				"TTP"
-			],
 			"size": [
 				"S"
 			],
@@ -1617,8 +1614,7 @@
 			"source": "ToA",
 			"page": 216,
 			"referenceSources": [
-				"IDRotF",
-				"TTP"
+				"IDRotF"
 			],
 			"size": [
 				"T"
@@ -1983,9 +1979,6 @@
 			"name": "Eblis",
 			"source": "ToA",
 			"page": 219,
-			"referenceSources": [
-				"TTP"
-			],
 			"size": [
 				"L"
 			],
@@ -2413,9 +2406,6 @@
 			"name": "Giant Snapping Turtle",
 			"source": "ToA",
 			"page": 222,
-			"referenceSources": [
-				"TTP"
-			],
 			"size": [
 				"L"
 			],
@@ -2821,9 +2811,6 @@
 			"name": "Jaculi",
 			"source": "ToA",
 			"page": 225,
-			"referenceSources": [
-				"TTP"
-			],
 			"size": [
 				"L"
 			],
@@ -2976,9 +2963,6 @@
 			"name": "Kamadan",
 			"source": "ToA",
 			"page": 225,
-			"referenceSources": [
-				"TLK"
-			],
 			"size": [
 				"L"
 			],
@@ -3304,8 +3288,7 @@
 			"source": "ToA",
 			"page": 227,
 			"referenceSources": [
-				"BGDIA",
-				"TTP"
+				"BGDIA"
 			],
 			"size": [
 				"M"
@@ -3999,9 +3982,6 @@
 			"isNamedCreature": true,
 			"source": "ToA",
 			"page": 230,
-			"referenceSources": [
-				"TTP"
-			],
 			"size": [
 				"M"
 			],
@@ -5872,7 +5852,6 @@
 			"source": "ToA",
 			"page": 235,
 			"referenceSources": [
-				"TTP",
 				"WDH"
 			],
 			"size": [

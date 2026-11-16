@@ -473,9 +473,7 @@
 				"OoW",
 				"PaBTSO",
 				"PotA",
-				"PSI",
 				"QftIS",
-				"SjA",
 				"SKT",
 				"TftYP-TFoF",
 				"TftYP-TSC",
@@ -2951,7 +2949,6 @@
 				"CoA",
 				"EGW",
 				"GoS",
-				"GotSF",
 				"LRDT",
 				"MOT",
 				"OotA",
@@ -3849,9 +3846,7 @@
 				"DSotDQ",
 				"ERLW",
 				"GoS",
-				"GotSF",
 				"HotDQ",
-				"IMR",
 				"JttRC",
 				"KftGV",
 				"MOT",
@@ -7636,8 +7631,7 @@
 			"referenceSources": [
 				"CRCotN",
 				"SKT",
-				"ToA",
-				"TTP"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Ankylosaurus|XMM"
@@ -7795,13 +7789,11 @@
 			"source": "MM",
 			"page": 313,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"CoS",
 				"IDRotF",
 				"KftGV",
 				"PaBTSO",
-				"PSI",
 				"SatO",
 				"TCE",
 				"ToA",
@@ -8106,12 +8098,10 @@
 				"ERLW",
 				"GoS",
 				"IDRotF",
-				"IMR",
 				"JttRC",
 				"KftGV",
 				"LoX",
 				"MOT",
-				"NRH-TLT",
 				"OotA",
 				"OoW",
 				"QftIS",
@@ -8386,7 +8376,6 @@
 				"GoS",
 				"HotDQ",
 				"IDRotF",
-				"IMR",
 				"JttRC",
 				"KftGV",
 				"MOT",
@@ -8548,12 +8537,8 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AZfyT",
 				"IDRotF",
-				"IMR",
 				"MOT",
-				"NRH-AVitW",
-				"PSI",
 				"QftIS",
 				"SCC-CK",
 				"SKT",
@@ -8640,14 +8625,12 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AZfyT",
 				"CM",
 				"GoS",
 				"IDRotF",
 				"LRDT",
 				"MOT",
 				"PotA",
-				"PSI",
 				"QftIS",
 				"RoT",
 				"SCC-HfMT",
@@ -8746,7 +8729,6 @@
 				"IDRotF",
 				"SKT",
 				"ToA",
-				"TTP",
 				"WDH"
 			],
 			"reprintedAs": [
@@ -8929,7 +8911,6 @@
 				"TftYP",
 				"TftYP-THSoT",
 				"ToA",
-				"TTP",
 				"WBtW"
 			],
 			"reprintedAs": [
@@ -9088,7 +9069,6 @@
 				"CoA",
 				"CRCotN",
 				"EGW",
-				"IMR",
 				"OotA",
 				"TCE",
 				"ToFW"
@@ -9309,10 +9289,8 @@
 				"QftIS",
 				"RtG",
 				"SatO",
-				"SjA",
 				"SKT",
 				"SLW",
-				"TLK",
 				"ToA",
 				"ToR",
 				"WDH",
@@ -9434,7 +9412,6 @@
 				"EGW",
 				"GoS",
 				"IDRotF",
-				"IMR",
 				"KftGV",
 				"LLK",
 				"LoX",
@@ -9446,7 +9423,6 @@
 				"SatO",
 				"SKT",
 				"SLW",
-				"TLK",
 				"ToA",
 				"ToFW",
 				"ToR",
@@ -9929,7 +9905,6 @@
 				"BMT",
 				"CoA",
 				"CRCotN",
-				"IMR",
 				"KftGV",
 				"OotA",
 				"PaBTSO",
@@ -10128,7 +10103,6 @@
 				"MOT",
 				"OotA",
 				"PaBTSO",
-				"PSZ",
 				"QftIS",
 				"SCC-CK",
 				"SCC-HfMT",
@@ -10226,10 +10200,8 @@
 			"referenceSources": [
 				"CoS",
 				"IDRotF",
-				"PSX",
 				"SKT",
 				"ToA",
-				"TTP",
 				"WBtW",
 				"WDMM"
 			],
@@ -10652,7 +10624,6 @@
 				"JttRC",
 				"KftGV",
 				"LoX",
-				"NRH-AT",
 				"OotA",
 				"PaBTSO",
 				"SatO",
@@ -11164,7 +11135,6 @@
 			"basicRules": true,
 			"referenceSources": [
 				"GoS",
-				"IMR",
 				"PotA",
 				"QftIS",
 				"SatO",
@@ -11712,8 +11682,7 @@
 				"EGW",
 				"GoS",
 				"PotA",
-				"SKT",
-				"TTP"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Blood Hawk|XMM"
@@ -12151,7 +12120,6 @@
 			"page": 319,
 			"srd": true,
 			"referenceSources": [
-				"AZfyT",
 				"CM",
 				"DIP",
 				"MOT",
@@ -12159,7 +12127,6 @@
 				"QftIS",
 				"SKT",
 				"ToA",
-				"TTP",
 				"WBtW",
 				"WDMM"
 			],
@@ -13198,7 +13165,6 @@
 				"BMT",
 				"GoS",
 				"IDRotF",
-				"IMR",
 				"MOT",
 				"PotA",
 				"QftIS",
@@ -13451,7 +13417,6 @@
 			"page": 33,
 			"referenceSources": [
 				"CRCotN",
-				"NRH-AT",
 				"TftYP",
 				"TftYP-AtG"
 			],
@@ -14133,7 +14098,6 @@
 				"TftYP",
 				"TftYP-AtG",
 				"ToA",
-				"TTP",
 				"WDH",
 				"WDMM"
 			],
@@ -14259,7 +14223,6 @@
 				"CoS",
 				"HotDQ",
 				"IDRotF",
-				"IMR",
 				"JttRC",
 				"OoW",
 				"SKT",
@@ -15788,7 +15751,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"BMT",
 				"CM",
@@ -15804,8 +15766,6 @@
 				"ERLW",
 				"FS",
 				"GoS",
-				"GotSF",
-				"HFStCM",
 				"HotDQ",
 				"IDRotF",
 				"JttRC",
@@ -15814,7 +15774,6 @@
 				"LMoP",
 				"LoX",
 				"MOT",
-				"NRH-CoI",
 				"OotA",
 				"OoW",
 				"PaBTSO",
@@ -16226,7 +16185,6 @@
 				"CoA",
 				"EGW",
 				"IDRotF",
-				"PSX",
 				"SKT",
 				"TftYP",
 				"TftYP-THSoT",
@@ -16425,7 +16383,6 @@
 				"BGDIA",
 				"GoS",
 				"ToA",
-				"TTP",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -16623,10 +16580,7 @@
 				"EGW",
 				"GoS",
 				"HotDQ",
-				"IMR",
 				"PotA",
-				"PSA",
-				"PSX",
 				"SCC-TMM",
 				"SLW",
 				"ToA",
@@ -16727,7 +16681,6 @@
 				"FS",
 				"GoS",
 				"IDRotF",
-				"IMR",
 				"JttRC",
 				"KftGV",
 				"LLK",
@@ -16736,7 +16689,6 @@
 				"OoW",
 				"PaBTSO",
 				"PotA",
-				"PSI",
 				"QftIS",
 				"RoT",
 				"SKT",
@@ -16911,7 +16863,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"BMT",
 				"CM",
@@ -16925,10 +16876,8 @@
 				"HftT",
 				"HotDQ",
 				"IDRotF",
-				"IMR",
 				"JttRC",
 				"KftGV",
-				"KKW",
 				"LLK",
 				"LMoP",
 				"MOT",
@@ -17538,7 +17487,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AATM",
 				"LoX",
 				"MOT",
 				"OotA",
@@ -17640,7 +17588,6 @@
 			"source": "MM",
 			"page": 47,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"BMT",
 				"CM",
@@ -17873,7 +17820,6 @@
 				"EGW",
 				"GoS",
 				"OotA",
-				"PSI",
 				"SCC-CK",
 				"TCE",
 				"VEoR",
@@ -18097,7 +18043,6 @@
 			"source": "MM",
 			"page": 29,
 			"referenceSources": [
-				"AATM",
 				"BMT",
 				"CM",
 				"OotA",
@@ -19476,7 +19421,6 @@
 				"HftT",
 				"HotDQ",
 				"IDRotF",
-				"IMR",
 				"JttRC",
 				"KftGV",
 				"LMoP",
@@ -19839,9 +19783,7 @@
 				"CoS",
 				"EGW",
 				"GoS",
-				"IMR",
 				"OotA",
-				"PSI",
 				"SatO",
 				"WBtW"
 			],
@@ -21210,7 +21152,6 @@
 				"OotA",
 				"OoW",
 				"PotA",
-				"PSI",
 				"QftIS",
 				"RoT",
 				"SatO",
@@ -21373,7 +21314,6 @@
 				"JttRC",
 				"KftGV",
 				"MOT",
-				"PSI",
 				"QftIS",
 				"SCC-ARiR",
 				"SCC-CK",
@@ -24555,11 +24495,9 @@
 				"BMT",
 				"CM",
 				"EGW",
-				"IMR",
 				"MOT",
 				"OotA",
 				"PotA",
-				"PSI",
 				"RoT",
 				"SKT",
 				"TCE",
@@ -24704,8 +24642,6 @@
 				"BMT",
 				"CoA",
 				"EGW",
-				"GotSF",
-				"HFStCM",
 				"JttRC",
 				"MOT",
 				"PotA",
@@ -25362,7 +25298,6 @@
 			"referenceSources": [
 				"BMT",
 				"LoX",
-				"NRH-AT",
 				"OotA",
 				"OoW",
 				"PaBTSO",
@@ -25494,7 +25429,6 @@
 				"OotA",
 				"SKT",
 				"ToA",
-				"TTP",
 				"WDH"
 			],
 			"reprintedAs": [
@@ -25721,7 +25655,6 @@
 				"PaBTSO",
 				"QftIS",
 				"SatO",
-				"TLK",
 				"ToFW",
 				"VEoR",
 				"WBtW",
@@ -25845,7 +25778,6 @@
 			"referenceSources": [
 				"CoS",
 				"KftGV",
-				"PSX",
 				"QftIS",
 				"SCC-CK",
 				"ToA",
@@ -26475,7 +26407,6 @@
 				"IDRotF",
 				"LLK",
 				"LRDT",
-				"NRH-ASS",
 				"OotA",
 				"QftIS",
 				"TftYP",
@@ -26597,7 +26528,6 @@
 				"GoS",
 				"OoW",
 				"PotA",
-				"PSI",
 				"QftIS",
 				"SCC-ARiR",
 				"SDW",
@@ -26728,7 +26658,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"BMT",
 				"CM",
@@ -26762,7 +26691,6 @@
 				"TftYP-ToH",
 				"TftYP-TSC",
 				"ToFW",
-				"TTP",
 				"VEoR",
 				"VNotEE",
 				"WDH",
@@ -26923,7 +26851,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"BMT",
 				"CM",
@@ -26938,12 +26865,10 @@
 				"JttRC",
 				"KftGV",
 				"LMoP",
-				"NRH-AT",
 				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
-				"PSI",
 				"QftIS",
 				"RMBRE",
 				"SatO",
@@ -27243,7 +27168,6 @@
 			"referenceSources": [
 				"MOT",
 				"PotA",
-				"PSX",
 				"QftIS",
 				"RtG",
 				"TCE",
@@ -27337,7 +27261,6 @@
 				"BMT",
 				"GoS",
 				"MOT",
-				"PSI",
 				"SCC-HfMT",
 				"SKT",
 				"ToA"
@@ -27433,8 +27356,6 @@
 				"BGDIA",
 				"GoS",
 				"HotDQ",
-				"PSA",
-				"PSX",
 				"QftIS",
 				"TCE",
 				"TftYP",
@@ -27630,7 +27551,6 @@
 				"TftYP-DiT",
 				"TftYP-WPM",
 				"ToR",
-				"TTP",
 				"VEoR",
 				"WDMM",
 				"XMtS"
@@ -28055,7 +27975,6 @@
 			"basicRules": true,
 			"referenceSources": [
 				"OotA",
-				"PSX",
 				"QftIS",
 				"TftYP",
 				"TftYP-AtG",
@@ -28153,7 +28072,6 @@
 				"GoS",
 				"HftT",
 				"HotDQ",
-				"PSA",
 				"QftIS",
 				"SCC-CK",
 				"TftYP",
@@ -28448,13 +28366,11 @@
 				"JttRC",
 				"KftGV",
 				"OotA",
-				"PSA",
 				"QftIS",
 				"TftYP",
 				"TftYP-AtG",
 				"TftYP-TFoF",
 				"ToA",
-				"TTP",
 				"VEoR",
 				"WDMM"
 			],
@@ -28713,7 +28629,6 @@
 				"BMT",
 				"EGW",
 				"ERLW",
-				"IMR",
 				"SKT"
 			],
 			"reprintedAs": [
@@ -28915,7 +28830,6 @@
 				"EGW",
 				"GoS",
 				"IDRotF",
-				"KKW",
 				"OotA",
 				"OoW",
 				"PotA",
@@ -29054,7 +28968,6 @@
 				"DSotDQ",
 				"EGW",
 				"JttRC",
-				"PSA",
 				"SCC-CK",
 				"SCC-HfMT",
 				"TftYP",
@@ -29251,8 +29164,6 @@
 				"GoS",
 				"IDRotF",
 				"JttRC",
-				"LR",
-				"PSX",
 				"SDW",
 				"SKT",
 				"ToA",
@@ -29367,7 +29278,6 @@
 				"OotA",
 				"OoW",
 				"PaBTSO",
-				"PSX",
 				"QftIS",
 				"RMBRE",
 				"RoT",
@@ -29734,8 +29644,6 @@
 				"EGW",
 				"GoS",
 				"OoW",
-				"PSA",
-				"PSX",
 				"ToA",
 				"WDMM"
 			],
@@ -29898,7 +29806,6 @@
 				"GoS",
 				"LRDT",
 				"OotA",
-				"PSX",
 				"TCE",
 				"TftYP",
 				"TftYP-THSoT",
@@ -30139,7 +30046,6 @@
 			"source": "MM",
 			"page": 160,
 			"referenceSources": [
-				"AATM",
 				"BMT",
 				"CoA",
 				"LoX",
@@ -30269,13 +30175,11 @@
 			"source": "MM",
 			"page": 160,
 			"referenceSources": [
-				"AATM",
 				"BMT",
 				"LoX",
 				"PaBTSO",
 				"QftIS",
 				"SatO",
-				"SjA",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -31519,7 +31423,6 @@
 				"GoS",
 				"HftT",
 				"IDRotF",
-				"KKW",
 				"LMoP",
 				"OotA",
 				"OoW",
@@ -31654,7 +31557,6 @@
 				"GoS",
 				"IDRotF",
 				"KftGV",
-				"KKW",
 				"OotA",
 				"PaBTSO",
 				"SKT",
@@ -32326,8 +32228,6 @@
 				"GoS",
 				"HotDQ",
 				"KftGV",
-				"KKW",
-				"NRH-ASS",
 				"OotA",
 				"PaBTSO",
 				"SCC-CK",
@@ -32918,11 +32818,9 @@
 				"CM",
 				"EGW",
 				"GoS",
-				"IMR",
 				"JttRC",
 				"MOT",
 				"OotA",
-				"PSI",
 				"SatO",
 				"SCC-TMM",
 				"TCE",
@@ -33446,7 +33344,6 @@
 				"CM",
 				"CoA",
 				"IDRotF",
-				"IMR",
 				"KftGV",
 				"OotA",
 				"PaBTSO",
@@ -34063,7 +33960,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"CM",
 				"CoS",
@@ -34081,8 +33977,6 @@
 				"KftGV",
 				"LoX",
 				"MOT",
-				"NRH-ASS",
-				"NRH-TCMC",
 				"OotA",
 				"OoW",
 				"PotA",
@@ -34189,12 +34083,10 @@
 			"page": 234,
 			"srd": true,
 			"referenceSources": [
-				"AATM",
 				"BMT",
 				"CoA",
 				"GoS",
 				"ToA",
-				"TTP",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -34392,7 +34284,6 @@
 			"page": 282,
 			"srd": true,
 			"referenceSources": [
-				"IMR",
 				"JttRC",
 				"LLK",
 				"MOT",
@@ -34733,7 +34624,6 @@
 			"srd": true,
 			"referenceSources": [
 				"GoS",
-				"IMR",
 				"RoT",
 				"SLW"
 			],
@@ -35076,13 +34966,10 @@
 				"CoA",
 				"CoS",
 				"EGW",
-				"HFStCM",
-				"IMR",
 				"KftGV",
 				"MOT",
 				"OoW",
 				"PotA",
-				"PSI",
 				"SatO",
 				"SKT",
 				"SLW",
@@ -36196,7 +36083,6 @@
 				"BMT",
 				"CM",
 				"ERLW",
-				"IMR",
 				"MOT",
 				"PaBTSO",
 				"WDMM"
@@ -36594,7 +36480,6 @@
 				"EGW",
 				"GoS",
 				"PotA",
-				"PSX",
 				"SatO",
 				"SKT",
 				"TftYP",
@@ -36702,7 +36587,6 @@
 				"MOT",
 				"PaBTSO",
 				"PotA",
-				"PSZ",
 				"SatO",
 				"SCC-ARiR",
 				"SLW",
@@ -37290,8 +37174,6 @@
 				"EGW",
 				"GoS",
 				"KftGV",
-				"NRH-CoI",
-				"PSI",
 				"QftIS",
 				"SatO",
 				"SKT",
@@ -37465,7 +37347,6 @@
 				"CRCotN",
 				"EGW",
 				"ERLW",
-				"IMR",
 				"KftGV",
 				"OotA",
 				"TCE",
@@ -38443,8 +38324,7 @@
 				"GoS",
 				"IDRotF",
 				"MOT",
-				"SKT",
-				"TTP"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Killer Whale|XMM"
@@ -38553,7 +38433,6 @@
 				"DSotDQ",
 				"EGW",
 				"GoS",
-				"GotSF",
 				"HotDQ",
 				"JttRC",
 				"KftGV",
@@ -38709,14 +38588,12 @@
 				"ERLW",
 				"GoS",
 				"HotDQ",
-				"NRH-TCMC",
 				"OotA",
 				"RoT",
 				"SKT",
 				"TftYP",
 				"TftYP-AtG",
 				"TftYP-TSC",
-				"TLK",
 				"ToA",
 				"WDH",
 				"WDMM"
@@ -39069,7 +38946,6 @@
 				"GoS",
 				"OotA",
 				"PotA",
-				"PSI",
 				"RtG",
 				"SatO",
 				"TftYP",
@@ -39913,7 +39789,6 @@
 			"referenceSources": [
 				"BGDIA",
 				"CoA",
-				"PSI",
 				"VEoR",
 				"WDH"
 			],
@@ -40028,7 +39903,6 @@
 				"IDRotF",
 				"OoW",
 				"PotA",
-				"PSI",
 				"QftIS",
 				"SatO",
 				"TCE",
@@ -40445,8 +40319,7 @@
 			"referenceSources": [
 				"JttRC",
 				"KftGV",
-				"ToA",
-				"TTP"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Lizard|XMM"
@@ -40802,7 +40675,6 @@
 				"EGW",
 				"GoS",
 				"HotDQ",
-				"IMR",
 				"JttRC",
 				"OoW",
 				"PotA",
@@ -40943,7 +40815,6 @@
 			"referenceSources": [
 				"EGW",
 				"GoS",
-				"IMR",
 				"PotA",
 				"SCC-TMM",
 				"ToA",
@@ -41125,7 +40996,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"BMT",
 				"CM",
@@ -41149,7 +41019,6 @@
 				"OoW",
 				"PaBTSO",
 				"PotA",
-				"PSI",
 				"QftIS",
 				"RoT",
 				"RtG",
@@ -41358,7 +41227,6 @@
 				"GoS",
 				"OotA",
 				"PotA",
-				"SjA",
 				"SKT",
 				"ToA",
 				"WDMM"
@@ -41734,9 +41602,7 @@
 				"CoA",
 				"CRCotN",
 				"GoS",
-				"IMR",
 				"OotA",
-				"PSI",
 				"TftYP",
 				"TftYP-DiT",
 				"WBtW"
@@ -42540,7 +42406,6 @@
 				"CM",
 				"ERLW",
 				"GoS",
-				"IMR",
 				"LLK",
 				"OotA",
 				"PaBTSO",
@@ -42681,7 +42546,6 @@
 				"GoS",
 				"JttRC",
 				"SKT",
-				"TTP",
 				"WBtW",
 				"WDH"
 			],
@@ -43127,7 +42991,6 @@
 				"DIP",
 				"EGW",
 				"IDRotF",
-				"IMR",
 				"KftGV",
 				"LRDT",
 				"OotA",
@@ -43137,7 +43000,6 @@
 				"SatO",
 				"SCC-CK",
 				"ToA",
-				"TTP",
 				"VEoR",
 				"WBtW",
 				"WDH",
@@ -43275,7 +43137,6 @@
 				"CoA",
 				"ERLW",
 				"IDRotF",
-				"IMR",
 				"KftGV",
 				"LoX",
 				"OotA",
@@ -43283,7 +43144,6 @@
 				"PaBTSO",
 				"QftIS",
 				"SatO",
-				"SjA",
 				"TCE",
 				"TftYP",
 				"TftYP-AtG",
@@ -43694,7 +43554,6 @@
 				"MOT",
 				"OotA",
 				"PotA",
-				"PSZ",
 				"QftIS",
 				"SatO",
 				"ToA",
@@ -43822,12 +43681,10 @@
 			"page": 273,
 			"srd": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"DIP",
 				"DSotDQ",
 				"GoS",
-				"IMR",
 				"KftGV",
 				"OotA",
 				"SDW",
@@ -44097,7 +43954,6 @@
 				"PotA",
 				"SCC-ARiR",
 				"ToA",
-				"TTP",
 				"WBtW",
 				"WDMM"
 			],
@@ -44237,7 +44093,6 @@
 				"GoS",
 				"KftGV",
 				"SKT",
-				"TTP",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -44318,7 +44173,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AATM",
 				"AitFR-ISF",
 				"BGDIA",
 				"BMT",
@@ -44328,7 +44182,6 @@
 				"IDRotF",
 				"OotA",
 				"PaBTSO",
-				"PSI",
 				"QftIS",
 				"RoT",
 				"RtG",
@@ -44468,7 +44321,6 @@
 			"page": 229,
 			"srd": true,
 			"referenceSources": [
-				"AATM",
 				"CM",
 				"CoA",
 				"RoT",
@@ -44914,7 +44766,6 @@
 			"referenceSources": [
 				"GoS",
 				"IDRotF",
-				"IMR",
 				"KftGV",
 				"OotA",
 				"QftIS",
@@ -45369,7 +45220,6 @@
 				"GoS",
 				"IDRotF",
 				"PaBTSO",
-				"PSI",
 				"SCC-CK"
 			],
 			"reprintedAs": [
@@ -45828,12 +45678,10 @@
 			"page": 235,
 			"srd": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"BMT",
 				"CoS",
 				"CRCotN",
-				"IMR",
 				"MOT",
 				"SatO",
 				"VEoR"
@@ -45938,7 +45786,6 @@
 			"page": 348,
 			"srd": true,
 			"referenceSources": [
-				"AZfyT",
 				"BGDIA",
 				"BMT",
 				"CM",
@@ -45953,12 +45800,9 @@
 				"GoS",
 				"HotDQ",
 				"IDRotF",
-				"IMR",
 				"JttRC",
 				"KftGV",
-				"KKW",
 				"MOT",
-				"NRH-CoI",
 				"OotA",
 				"OoW",
 				"PotA",
@@ -46082,7 +45926,6 @@
 				"KftGV",
 				"LMoP",
 				"MOT",
-				"NRH-AT",
 				"OotA",
 				"OoW",
 				"PaBTSO",
@@ -46556,9 +46399,7 @@
 			"referenceSources": [
 				"GoS",
 				"IDRotF",
-				"IMR",
 				"SKT",
-				"TTP",
 				"WBtW"
 			],
 			"reprintedAs": [
@@ -46684,12 +46525,10 @@
 				"OoW",
 				"PaBTSO",
 				"PotA",
-				"PSZ",
 				"QftIS",
 				"RMBRE",
 				"RoT",
 				"SatO",
-				"SjA",
 				"SKT",
 				"SLW",
 				"TftYP",
@@ -46916,7 +46755,6 @@
 				"JttRC",
 				"KftGV",
 				"PotA",
-				"PSZ",
 				"SCC-TMM",
 				"SKT",
 				"TCE",
@@ -47698,7 +47536,6 @@
 			"srd": true,
 			"referenceSources": [
 				"HotDQ",
-				"IMR",
 				"JttRC",
 				"OotA",
 				"OoW",
@@ -47838,7 +47675,6 @@
 			"referenceSources": [
 				"CM",
 				"IDRotF",
-				"IMR",
 				"RoT",
 				"ToFW"
 			],
@@ -47939,10 +47775,8 @@
 				"GoS",
 				"HftT",
 				"IDRotF",
-				"IMR",
 				"LMoP",
 				"LRDT",
-				"NRH-AT",
 				"PaBTSO",
 				"PotA",
 				"QftIS",
@@ -49000,7 +48834,6 @@
 				"EGW",
 				"ERLW",
 				"GoS",
-				"IMR",
 				"KftGV",
 				"QftIS",
 				"SatO",
@@ -49131,7 +48964,6 @@
 			"page": 17,
 			"srd": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"CoA",
 				"CRCotN",
@@ -49335,8 +49167,7 @@
 				"DSotDQ",
 				"GoS",
 				"IDRotF",
-				"ToA",
-				"TTP"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Plesiosaurus|XMM"
@@ -49422,14 +49253,12 @@
 			"basicRules": true,
 			"referenceSources": [
 				"GoS",
-				"IMR",
 				"OoW",
 				"QftIS",
 				"TftYP",
 				"TftYP-AtG",
 				"TftYP-ToH",
-				"ToA",
-				"TTP"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Venomous Snake|XMM"
@@ -49509,7 +49338,6 @@
 				"CoA",
 				"EGW",
 				"IDRotF",
-				"IMR",
 				"OotA",
 				"RoT",
 				"SKT",
@@ -49616,7 +49444,6 @@
 				"IDRotF",
 				"KftGV",
 				"OotA",
-				"PSI",
 				"QftIS",
 				"RtG",
 				"ToFW"
@@ -49848,7 +49675,6 @@
 				"OotA",
 				"OoW",
 				"PotA",
-				"PSI",
 				"QftIS",
 				"SatO",
 				"SDW",
@@ -50016,7 +49842,6 @@
 				"ERLW",
 				"GoS",
 				"IDRotF",
-				"IMR",
 				"RoT",
 				"ToA",
 				"WDMM"
@@ -50172,7 +49997,6 @@
 				"SCC-CK",
 				"ToA",
 				"ToFW",
-				"TTP",
 				"WBtW"
 			],
 			"reprintedAs": [
@@ -50264,7 +50088,6 @@
 				"LoX",
 				"OotA",
 				"PaBTSO",
-				"PSI",
 				"ToFW",
 				"VEoR",
 				"WDMM"
@@ -50894,7 +50717,6 @@
 				"LLK",
 				"OotA",
 				"PaBTSO",
-				"PSI",
 				"TCE",
 				"TftYP",
 				"TftYP-DiT",
@@ -51068,7 +50890,6 @@
 				"IDRotF",
 				"MOT",
 				"PotA",
-				"PSA",
 				"ToA",
 				"ToFW",
 				"WDH"
@@ -51336,7 +51157,6 @@
 				"TftYP",
 				"TftYP-TFoF",
 				"ToA",
-				"TTP",
 				"WDH",
 				"WDMM"
 			],
@@ -51422,7 +51242,6 @@
 				"CoS",
 				"IDRotF",
 				"KftGV",
-				"TTP",
 				"VEoR",
 				"WBtW",
 				"WDMM"
@@ -51862,8 +51681,7 @@
 				"JttRC",
 				"RtG",
 				"ToA",
-				"ToR",
-				"TTP"
+				"ToR"
 			],
 			"reprintedAs": [
 				"Reef Shark|XMM"
@@ -51960,7 +51778,6 @@
 				"CoA",
 				"EGW",
 				"IDRotF",
-				"IMR",
 				"LoX",
 				"PaBTSO",
 				"SKT",
@@ -52694,7 +52511,6 @@
 				"SKT",
 				"TftYP-TFoF",
 				"ToA",
-				"TTP",
 				"WBtW",
 				"WDH"
 			],
@@ -52804,7 +52620,6 @@
 			"referenceSources": [
 				"EGW",
 				"IDRotF",
-				"IMR",
 				"OotA",
 				"PotA",
 				"QftIS",
@@ -53488,7 +53303,6 @@
 				"BMT",
 				"CoA",
 				"DoSI",
-				"GotSF",
 				"JttRC",
 				"KftGV",
 				"OotA",
@@ -53637,7 +53451,6 @@
 			"referenceSources": [
 				"BMT",
 				"CM",
-				"IMR",
 				"KftGV",
 				"OoW",
 				"QftIS",
@@ -53945,8 +53758,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"PSX",
-				"TTP",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -54022,7 +53833,6 @@
 			"page": 349,
 			"srd": true,
 			"referenceSources": [
-				"AZfyT",
 				"BGDIA",
 				"CM",
 				"CoA",
@@ -54193,7 +54003,6 @@
 				"TftYP",
 				"TftYP-DiT",
 				"ToA",
-				"TTP",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -54534,21 +54343,17 @@
 				"GoS",
 				"HoL",
 				"IDRotF",
-				"IMR",
 				"MOT",
 				"OotA",
 				"OoW",
 				"PotA",
-				"PSI",
 				"QftIS",
 				"SatO",
-				"SjA",
 				"TCE",
 				"TftYP",
 				"TftYP-DiT",
 				"TftYP-TSC",
 				"TftYP-WPM",
-				"TTP",
 				"VEoR",
 				"VNotEE",
 				"WBtW",
@@ -54681,7 +54486,6 @@
 			"source": "MM",
 			"page": 64,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"BMT",
 				"CoA",
@@ -54689,7 +54493,6 @@
 				"CRCotN",
 				"HoL",
 				"IDRotF",
-				"IMR",
 				"JttRC",
 				"KftGV",
 				"MOT",
@@ -54848,13 +54651,11 @@
 				"CM",
 				"CoS",
 				"GoS",
-				"HFStCM",
 				"HotDQ",
 				"JttRC",
 				"KftGV",
 				"MOT",
 				"OotA",
-				"PSI",
 				"QftIS",
 				"SCC-TMM",
 				"TftYP",
@@ -55436,7 +55237,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"BMT",
 				"CoS",
@@ -55446,14 +55246,11 @@
 				"DSotDQ",
 				"GoS",
 				"HftT",
-				"IMR",
 				"JttRC",
 				"KftGV",
 				"LLK",
 				"LMoP",
 				"LRDT",
-				"NRH-ASS",
-				"NRH-AT",
 				"OotA",
 				"OoW",
 				"PaBTSO",
@@ -56086,7 +55883,6 @@
 				"QftIS",
 				"RMBRE",
 				"SCC-ARiR",
-				"SjA",
 				"ToFW",
 				"WDH",
 				"WDMM"
@@ -56248,7 +56044,6 @@
 			"page": 279,
 			"srd": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"BMT",
 				"CM",
@@ -56265,7 +56060,6 @@
 				"OotA",
 				"PaBTSO",
 				"PotA",
-				"PSI",
 				"QftIS",
 				"RoT",
 				"SatO",
@@ -56419,8 +56213,6 @@
 				"OotA",
 				"OoW",
 				"PotA",
-				"PSX",
-				"TTP",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -56520,7 +56312,6 @@
 				"BGDIA",
 				"CoA",
 				"KftGV",
-				"PSI",
 				"ToA",
 				"WDH"
 			],
@@ -56873,7 +56664,6 @@
 				"EFR",
 				"ERLW",
 				"GoS",
-				"IMR",
 				"KftGV",
 				"LLK",
 				"PotA",
@@ -56999,7 +56789,6 @@
 			"srd": true,
 			"referenceSources": [
 				"AitFR-ISF",
-				"AZfyT",
 				"BGDIA",
 				"BMT",
 				"CM",
@@ -57013,7 +56802,6 @@
 				"GoS",
 				"HotDQ",
 				"IDRotF",
-				"IMR",
 				"JttRC",
 				"KftGV",
 				"MOT",
@@ -57306,7 +57094,6 @@
 				"GoS",
 				"HftT",
 				"HotDQ",
-				"IMR",
 				"KftGV",
 				"LLK",
 				"LMoP",
@@ -57319,7 +57106,6 @@
 				"TftYP",
 				"TftYP-TFoF",
 				"ToA",
-				"TTP",
 				"US",
 				"WDH",
 				"WDMM"
@@ -57578,7 +57364,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"BMT",
 				"CM",
@@ -57589,7 +57374,6 @@
 				"DSotDQ",
 				"GoS",
 				"HotDQ",
-				"IMR",
 				"JttRC",
 				"KftGV",
 				"LLK",
@@ -58118,7 +57902,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AATM",
 				"CM",
 				"CoS",
 				"DitLCoT",
@@ -58346,7 +58129,6 @@
 			"referenceSources": [
 				"CoS",
 				"HotDQ",
-				"KKW",
 				"OotA",
 				"ToA",
 				"WDMM"
@@ -58454,13 +58236,9 @@
 				"BGDIA",
 				"EGW",
 				"GoS",
-				"IMR",
 				"LoX",
-				"NRH-AWoL",
 				"OotA",
 				"OoW",
-				"PSA",
-				"PSX",
 				"SKT",
 				"ToA",
 				"US",
@@ -58690,10 +58468,8 @@
 				"GoS",
 				"JttRC",
 				"KftGV",
-				"LR",
 				"OotA",
 				"PotA",
-				"PSA",
 				"QftIS",
 				"SDW",
 				"ToA",
@@ -59266,7 +59042,6 @@
 			"referenceSources": [
 				"BMT",
 				"IDRotF",
-				"IMR",
 				"LoX",
 				"MOT",
 				"TCE"
@@ -59978,13 +59753,11 @@
 				"ERLW",
 				"GoS",
 				"IDRotF",
-				"IMR",
 				"JttRC",
 				"LLK",
 				"LoX",
 				"MOT",
 				"OoW",
-				"PSI",
 				"QftIS",
 				"RoT",
 				"SatO",
@@ -60129,8 +59902,7 @@
 				"TftYP",
 				"TftYP-THSoT",
 				"ToA",
-				"ToR",
-				"TTP"
+				"ToR"
 			],
 			"reprintedAs": [
 				"Warrior Infantry|XMM"
@@ -60632,7 +60404,6 @@
 				"HotDQ",
 				"OotA",
 				"PotA",
-				"PSZ",
 				"QftIS",
 				"RoT",
 				"SatO",
@@ -60925,9 +60696,7 @@
 				"GoS",
 				"HftT",
 				"LMoP",
-				"NRH-AVitW",
 				"PaBTSO",
-				"PSI",
 				"RMBRE",
 				"TftYP",
 				"TftYP-TSC",
@@ -61376,7 +61145,6 @@
 				"BMT",
 				"CoA",
 				"IDRotF",
-				"IMR",
 				"LLK",
 				"LoX",
 				"OotA",
@@ -61505,7 +61273,6 @@
 			"referenceSources": [
 				"BGDIA",
 				"GoS",
-				"IMR",
 				"KftGV",
 				"MOT",
 				"OoW",
@@ -61717,7 +61484,6 @@
 			"page": 297,
 			"srd": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"BMT",
 				"CM",
@@ -61977,7 +61743,6 @@
 			"page": 298,
 			"srd": true,
 			"referenceSources": [
-				"AATM",
 				"CoS",
 				"DIP",
 				"EGW",
@@ -62746,7 +62511,6 @@
 				"IDRotF",
 				"JttRC",
 				"KftGV",
-				"KKW",
 				"LoX",
 				"MOT",
 				"OotA",
@@ -62756,7 +62520,6 @@
 				"RMBRE",
 				"SatO",
 				"SDW",
-				"SjA",
 				"SKT",
 				"SLW",
 				"TftYP",
@@ -62892,7 +62655,6 @@
 				"DIP",
 				"EGW",
 				"GoS",
-				"PSI",
 				"US"
 			],
 			"reprintedAs": [
@@ -63117,7 +62879,6 @@
 				"GoS",
 				"OotA",
 				"PotA",
-				"PSI",
 				"SatO",
 				"SCC-ARiR",
 				"TCE",
@@ -63704,7 +63465,6 @@
 				"DIP",
 				"DSotDQ",
 				"GoS",
-				"IMR",
 				"JttRC",
 				"MOT",
 				"OoW",
@@ -63716,7 +63476,6 @@
 				"SKT",
 				"SLW",
 				"TCE",
-				"TTP",
 				"VEoR"
 			],
 			"reprintedAs": [
@@ -64253,7 +64012,6 @@
 				"DC",
 				"DIP",
 				"EGW",
-				"IMR",
 				"PotA",
 				"TCE",
 				"ToA"
@@ -64430,7 +64188,6 @@
 				"DIP",
 				"EGW",
 				"GoS",
-				"IMR",
 				"OotA",
 				"OoW",
 				"QftIS",
@@ -64601,8 +64358,7 @@
 				"JttRC",
 				"TftYP-THSoT",
 				"ToA",
-				"ToFW",
-				"TTP"
+				"ToFW"
 			],
 			"reprintedAs": [
 				"Weretiger|XMM"
@@ -64791,7 +64547,6 @@
 				"ERLW",
 				"GoS",
 				"IDRotF",
-				"IMR",
 				"PotA",
 				"SKT",
 				"TftYP-WPM",
@@ -65158,7 +64913,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"BMT",
 				"CM",
@@ -65172,7 +64926,6 @@
 				"IDRotF",
 				"PaBTSO",
 				"PotA",
-				"PSI",
 				"QftIS",
 				"RoT",
 				"RtG",
@@ -65188,7 +64941,6 @@
 				"TftYP-ToH",
 				"TftYP-WPM",
 				"ToA",
-				"TTP",
 				"VEoR",
 				"WDMM"
 			],
@@ -65341,7 +65093,6 @@
 			"page": 301,
 			"srd": true,
 			"referenceSources": [
-				"AATM",
 				"AitFR-AVT",
 				"BGDIA",
 				"BMT",
@@ -65356,7 +65107,6 @@
 				"LoX",
 				"OoW",
 				"PotA",
-				"PSI",
 				"QftIS",
 				"SatO",
 				"TftYP",
@@ -66001,7 +65751,6 @@
 			"page": 302,
 			"srd": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"BMT",
 				"CM",
@@ -66018,7 +65767,6 @@
 				"MOT",
 				"OotA",
 				"PaBTSO",
-				"PSI",
 				"QftIS",
 				"RoT",
 				"RtG",
@@ -66293,7 +66041,6 @@
 				"PotA",
 				"QftIS",
 				"SatO",
-				"TTP",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -68693,7 +68440,6 @@
 			"source": "MM",
 			"page": 85,
 			"referenceSources": [
-				"AATM",
 				"CoA",
 				"QftIS"
 			],
@@ -69497,7 +69243,6 @@
 				"RoT",
 				"SLW",
 				"ToA",
-				"TTP",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -70283,8 +70028,7 @@
 				"HotDQ",
 				"RoT",
 				"SKT",
-				"ToA",
-				"TTP"
+				"ToA"
 			],
 			"reprintedAs": [
 				"Yuan-ti Infiltrator|XMM"
@@ -70446,7 +70190,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AATM",
 				"BGDIA",
 				"BMT",
 				"CoS",
@@ -70461,13 +70204,11 @@
 				"HftT",
 				"JttRC",
 				"KftGV",
-				"KKW",
 				"LMoP",
 				"OotA",
 				"OoW",
 				"PaBTSO",
 				"PotA",
-				"PSI",
 				"QftIS",
 				"RMBRE",
 				"RoT",

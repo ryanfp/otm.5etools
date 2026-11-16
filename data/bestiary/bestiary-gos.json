@@ -1610,7 +1610,6 @@
 			"source": "GoS",
 			"page": 241,
 			"referenceSources": [
-				"IMR",
 				"SLW"
 			],
 			"size": [
@@ -1998,9 +1997,6 @@
 			"name": "Locathah",
 			"source": "GoS",
 			"page": 243,
-			"referenceSources": [
-				"IMR"
-			],
 			"size": [
 				"M"
 			],
@@ -4622,9 +4618,6 @@
 			"name": "Skeletal Juggernaut",
 			"source": "GoS",
 			"page": 253,
-			"referenceSources": [
-				"IMR"
-			],
 			"size": [
 				"L"
 			],
@@ -4729,8 +4722,7 @@
 			"source": "GoS",
 			"page": 254,
 			"referenceSources": [
-				"DC",
-				"IMR"
+				"DC"
 			],
 			"size": [
 				"L"

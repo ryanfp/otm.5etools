@@ -800,11 +800,6 @@
 			"name": "Hammerhead Ship",
 			"source": "AAG",
 			"page": 32,
-			"otherSources": [
-				{
-					"source": "SjA"
-				}
-			],
 			"vehicleType": "SPELLJAMMER",
 			"dimensions": [
 				"250 ft.",
@@ -1528,139 +1523,6 @@
 			],
 			"hasToken": true,
 			"hasFluff": true
-		},
-		{
-			"name": "Mechanical Beholder",
-			"source": "AI",
-			"page": 219,
-			"vehicleType": "SHIP",
-			"size": "H",
-			"dimensions": [
-				"15 ft.",
-				"15 ft."
-			],
-			"terrain": [
-				"land",
-				"sea",
-				"air"
-			],
-			"capCrew": 1,
-			"capPassenger": 5,
-			"capCargo": "crew and passengers' normal gear",
-			"pace": 3,
-			"str": 18,
-			"dex": 12,
-			"con": 18,
-			"int": 0,
-			"wis": 0,
-			"cha": 0,
-			"immune": [
-				"poison",
-				"psychic"
-			],
-			"conditionImmune": [
-				"blinded",
-				"charmed",
-				"deafened",
-				"exhaustion",
-				"frightened",
-				"incapacitated",
-				"paralyzed",
-				"petrified",
-				"poisoned",
-				"prone",
-				"stunned",
-				"unconscious"
-			],
-			"hull": {
-				"ac": 18,
-				"hp": 200,
-				"dt": 10
-			},
-			"control": [
-				{
-					"name": "Helm",
-					"ac": 16,
-					"hp": 25,
-					"entries": [
-						"Move up to the speed of the ship's magical propulsion unit, with one 90-degree turn. The helm can be attacked only if the hull has taken 100 or more damage. If the helm is destroyed, the mechanical beholder can't move."
-					]
-				}
-			],
-			"movement": [
-				{
-					"name": "Magical Propulsion Unit",
-					"ac": 16,
-					"hp": 100,
-					"hpNote": "-5 ft. speed per 25 damage taken",
-					"speed": [
-						{
-							"mode": "magical",
-							"entries": [
-								"burrow 30 ft., fly 30 ft. (hover), swim 30 ft."
-							]
-						}
-					]
-				}
-			],
-			"weapon": [
-				{
-					"name": "Eye Ray Tentacles",
-					"count": 6,
-					"ac": 14,
-					"hp": 50,
-					"entries": [
-						"{@atk g} The mechanical beholder shoots the following magical eye rays at up to three targets that would be visible to the crew and are within 120 feet of it.",
-						{
-							"type": "list",
-							"style": "list-hang-notitle",
-							"items": [
-								{
-									"type": "item",
-									"name": "Disintegration Ray",
-									"entry": "If the target is a creature, it must succeed on a {@dc 15} Dexterity saving throw or take 18 ({@damage 4d8}) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust. If the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it."
-								},
-								{
-									"type": "item",
-									"name": "Enervation Ray",
-									"entry": "The targeted creature must make a {@dc 15} Constitution saving throw, taking 18 ({@damage 4d8}) necrotic damage on a failed save, or half as much damage on a successful one."
-								},
-								{
-									"type": "item",
-									"name": "Paralyzing Ray",
-									"entry": "The targeted creature must succeed on a {@dc 15} Constitution saving throw or be {@condition paralyzed} for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-								}
-							]
-						}
-					]
-				}
-			],
-			"actionThresholds": {
-				"0": 0,
-				"1": 1
-			},
-			"action": [
-				"On its turn the mechanical beholder can take 1 action. It cannot take any actions if it has no crew.",
-				{
-					"type": "list",
-					"style": "list-hang-notitle",
-					"items": [
-						{
-							"type": "item",
-							"name": "Eye Rays",
-							"entry": "The mechanical beholder can use its eye ray tentacles."
-						},
-						{
-							"type": "item",
-							"name": "Move",
-							"entry": "The mechanical beholder can use its helm to move using its magical propulsion unit."
-						}
-					]
-				}
-			],
-			"hasToken": true,
-			"hasFluff": true,
-			"hasFluffImages": true
 		},
 		{
 			"name": "Nautiloid",
@@ -2447,11 +2309,6 @@
 			"name": "Squid Ship",
 			"source": "AAG",
 			"page": 48,
-			"otherSources": [
-				{
-					"source": "SjA"
-				}
-			],
 			"vehicleType": "SPELLJAMMER",
 			"dimensions": [
 				"250 ft.",

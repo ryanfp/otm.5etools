@@ -78,7 +78,6 @@
 		{
 			"name": "+1 Armor",
 			"referenceSources": [
-				"GotSF",
 				"PaBTSO"
 			],
 			"edition": "classic",
@@ -208,10 +207,8 @@
 				"DIP",
 				"DoSI",
 				"GoS",
-				"NRH-ASS",
 				"PaBTSO",
 				"QftIS",
-				"SjA",
 				"TftYP-DiT",
 				"ToFW"
 			],
@@ -493,8 +490,7 @@
 		{
 			"name": "+2 Weapon",
 			"referenceSources": [
-				"BGDIA",
-				"GotSF"
+				"BGDIA"
 			],
 			"edition": "classic",
 			"type": "GV|DMG",
@@ -2269,9 +2265,6 @@
 		},
 		{
 			"name": "Berserker Axe",
-			"referenceSources": [
-				"DrDe-SD"
-			],
 			"type": "GV|XDMG",
 			"requires": [
 				{
@@ -4061,9 +4054,6 @@
 		},
 		{
 			"name": "Frost Brand",
-			"referenceSources": [
-				"DrDe-SD"
-			],
 			"type": "GV|XDMG",
 			"requires": [
 				{
@@ -5001,40 +4991,6 @@
 			}
 		},
 		{
-			"name": "Mithral +1 Armor",
-			"type": "GV|DMG",
-			"requires": [
-				{
-					"type": "HA"
-				},
-				{
-					"type": "MA"
-				},
-				{
-					"type": "HA|XPHB"
-				},
-				{
-					"type": "MA|XPHB"
-				}
-			],
-			"excludes": {
-				"name": "Hide Armor"
-			},
-			"inherits": {
-				"namePrefix": "Mithral +1 ",
-				"source": "AI",
-				"page": 156,
-				"rarity": "rare",
-				"strength": null,
-				"bonusAc": "+1",
-				"stealth": false,
-				"entries": [
-					"You have a {=bonusAc} bonus to AC while wearing this armor.",
-					"Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity ({@skill Stealth}) checks or has a Strength requirement, the mithral version of the armor doesn't."
-				]
-			}
-		},
-		{
 			"name": "Mithral Armor",
 			"referenceSources": [
 				"CoA",
@@ -5084,9 +5040,6 @@
 		},
 		{
 			"name": "Mithral Armor",
-			"referenceSources": [
-				"DrDe-FWtVC"
-			],
 			"type": "GV|XDMG",
 			"requires": [
 				{
@@ -6111,9 +6064,6 @@
 		},
 		{
 			"name": "Silvered Weapon",
-			"referenceSources": [
-				"DrDe-TDoN"
-			],
 			"type": "GV|XDMG",
 			"requires": [
 				{
@@ -6773,34 +6723,6 @@
 				]
 			},
 			"hasFluffImages": true
-		},
-		{
-			"name": "Vicious +1 Weapon",
-			"type": "GV|DMG",
-			"requires": [
-				{
-					"weapon": true
-				}
-			],
-			"excludes": {
-				"net": true
-			},
-			"entries": [
-				"When you roll a 20 with this magic weapon, the target takes an extra 7 damage of the weapon's type.",
-				"{@note Note: According to the SRD, it is an extra {@damage 2d6} damage, although {@link this is incorrect|https://rpg.stackexchange.com/a/174522/53884}.}"
-			],
-			"inherits": {
-				"namePrefix": "Vicious +1 ",
-				"source": "AI",
-				"page": 149,
-				"rarity": "unknown (magic)",
-				"bonusWeapon": "+1",
-				"entries": [
-					"You have a {=bonusWeapon} bonus to attack and damage rolls made with this weapon.",
-					"When you roll a 20 with this magic weapon, the target takes an extra 7 {=dmgType} damage.",
-					"{@note Note: According to the SRD, it is an extra {@damage 2d6} {=dmgType} damage, although {@link this is incorrect|https://rpg.stackexchange.com/a/174522/53884}.}"
-				]
-			}
 		},
 		{
 			"name": "Vicious Weapon",

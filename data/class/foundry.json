@@ -8141,30 +8141,6 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Acolyte of Strength",
-			"source": "PSA",
-			"className": "Cleric",
-			"classSource": "PHB",
-			"subclassShortName": "Strength (PSA)",
-			"subclassSource": "PSA",
-			"level": 1,
-			"entryData": {
-				"skillProficiencies": [
-					{
-						"choose": {
-							"from": [
-								"animal handling",
-								"athletics",
-								"nature",
-								"survival"
-							]
-						}
-					}
-				]
-			},
-			"migrationVersion": 3
-		},
-		{
 			"name": "Arcane Initiate",
 			"source": "SCAG",
 			"className": "Cleric",

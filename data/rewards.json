@@ -2014,14 +2014,6 @@
 			]
 		},
 		{
-			"name": "Charm of the Stumblenoodle",
-			"source": "HFStCM",
-			"type": "Charm",
-			"entries": [
-				"When a creature you can see within 30 feet of you moves, you can use your reaction to give the creature the {@condition prone} condition. Allies of the target who are within 30 feet of the target must succeed on a {@dc 16} Wisdom saving throw or have the {@condition stunned} condition until the end of their next turn as they laugh uncontrollably at their friend's misfortune. Once used three times, the charm vanishes from you."
-			]
-		},
-		{
 			"name": "Charm of the Sun",
 			"source": "BMT",
 			"page": 62,

@@ -6434,7 +6434,7 @@
 					"credit": "Viktor Titov"
 				},
 				"This chapter provides a toolbox to help the Dungeon Master create adventures featuring the guilds of Ravnica. The tensions among the guilds, a constant current of animosity, provide a solid foundation for building adventures.",
-				"\"{@adventure Krenko's Way|KKW}\" can be used to launch a Ravnica campaign.",
+				"\"Krenko's Way\" can be used to launch a Ravnica campaign.",
 				"The tables and advice in this chapter expand on the material in {@book chapter 3|DMG|3} of the {@book Dungeon Master's Guide|DMG}. Monsters and nonplayer characters mentioned on the tables can be found either in the {@book Monster Manual|MM} or in {@book chapter 6|GGR|6} of this book. When a creature's name appears in bold type, that's a visual cue pointing you to the creature's stat block in the {@book Monster Manual|MM}. If the stat block appears elsewhere, the text tells you so.",
 				{
 					"type": "section",
@@ -10147,15 +10147,6 @@
 						}
 					],
 					"id": "197"
-				},
-				{
-					"type": "section",
-					"name": "Krenko's Way",
-					"page": 160,
-					"entries": [
-						"{@note See the {@adventure Krenko's Way|KKW} adventure}"
-					],
-					"id": "21f"
 				}
 			],
 			"id": "138"

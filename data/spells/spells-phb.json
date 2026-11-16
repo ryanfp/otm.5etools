@@ -150,7 +150,6 @@
 				"SKT",
 				"SLW",
 				"TftYP-TFoF",
-				"TLK",
 				"ToA",
 				"WDH",
 				"WDMM"
@@ -1060,7 +1059,6 @@
 				"HoL",
 				"HotDQ",
 				"IDRotF",
-				"IMR",
 				"KftGV",
 				"LRDT",
 				"OotA",
@@ -1071,13 +1069,11 @@
 				"SCC-HfMT",
 				"SCC-TMM",
 				"SDW",
-				"SjA",
 				"SKT",
 				"TftYP-DiT",
 				"TftYP-THSoT",
 				"TftYP-TSC",
 				"ToA",
-				"TTP",
 				"VEoR",
 				"WBtW",
 				"WDH",
@@ -2971,14 +2967,12 @@
 				}
 			],
 			"referenceSources": [
-				"AZfyT",
 				"BGDIA",
 				"CM",
 				"CoS",
 				"DIP",
 				"IDRotF",
 				"KftGV",
-				"LR",
 				"PaBTSO",
 				"RoT",
 				"SDW",
@@ -4242,7 +4236,6 @@
 			"referenceSources": [
 				"IDRotF",
 				"JttRC",
-				"LR",
 				"OotA",
 				"SKT",
 				"US",
@@ -4542,7 +4535,6 @@
 			"srd": true,
 			"referenceSources": [
 				"OotA",
-				"SjA",
 				"SKT",
 				"TftYP-WPM"
 			],
@@ -4729,7 +4721,6 @@
 				"BGDIA",
 				"CM",
 				"CoA",
-				"IMR",
 				"KftGV",
 				"OotA",
 				"SKT",
@@ -4942,7 +4933,6 @@
 				"IDRotF",
 				"JttRC",
 				"KftGV",
-				"KKW",
 				"LoX",
 				"LRDT",
 				"OotA",
@@ -4954,7 +4944,6 @@
 				"SCC-CK",
 				"SCC-TMM",
 				"SDW",
-				"SjA",
 				"SKT",
 				"TftYP-TSC",
 				"ToA",
@@ -5112,8 +5101,7 @@
 			"srd": true,
 			"referenceSources": [
 				"IDRotF",
-				"SKT",
-				"TTP"
+				"SKT"
 			],
 			"reprintedAs": [
 				"Control Weather|XPHB"
@@ -5330,7 +5318,6 @@
 				"CoA",
 				"CoS",
 				"KftGV",
-				"LR",
 				"RtG",
 				"SKT",
 				"TftYP-DiT",
@@ -5773,7 +5760,6 @@
 				"DC",
 				"DSotDQ",
 				"IDRotF",
-				"IMR",
 				"KftGV",
 				"RMBRE",
 				"RoT",
@@ -6404,9 +6390,7 @@
 				"EFR",
 				"FS",
 				"GoS",
-				"HFStCM",
 				"IDRotF",
-				"IMR",
 				"JttRC",
 				"KftGV",
 				"LK",
@@ -6422,7 +6406,6 @@
 				"SCC-ARiR",
 				"SCC-TMM",
 				"SDW",
-				"SjA",
 				"SKT",
 				"TftYP-AtG",
 				"TftYP-DiT",
@@ -6432,7 +6415,6 @@
 				"TftYP-WPM",
 				"ToA",
 				"ToFW",
-				"TTP",
 				"VEoR",
 				"VNotEE",
 				"WBtW",
@@ -6539,7 +6521,6 @@
 				"PaBTSO",
 				"RtG",
 				"SDW",
-				"SjA",
 				"SKT",
 				"WBtW",
 				"WDH",
@@ -6664,7 +6645,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"AZfyT",
 				"BGDIA",
 				"CoS",
 				"DSotDQ",
@@ -6738,7 +6718,6 @@
 				"QftIS",
 				"RoT",
 				"SDW",
-				"SjA",
 				"SKT",
 				"TftYP-AtG",
 				"TftYP-THSoT",
@@ -6900,7 +6879,6 @@
 				}
 			],
 			"referenceSources": [
-				"AZfyT",
 				"BGDIA",
 				"CM",
 				"CoA",
@@ -6914,7 +6892,6 @@
 				"IDRotF",
 				"JttRC",
 				"KftGV",
-				"LR",
 				"LRDT",
 				"OotA",
 				"OoW",
@@ -6923,7 +6900,6 @@
 				"RoT",
 				"RtG",
 				"SDW",
-				"SjA",
 				"SKT",
 				"SLW",
 				"TftYP-AtG",
@@ -6932,7 +6908,6 @@
 				"TftYP-ToH",
 				"TftYP-WPM",
 				"ToA",
-				"TTP",
 				"US",
 				"VEoR",
 				"WBtW",
@@ -7052,7 +7027,6 @@
 				"DSotDQ",
 				"GoS",
 				"IDRotF",
-				"IMR",
 				"KftGV",
 				"LoX",
 				"OotA",
@@ -7290,7 +7264,6 @@
 			"basicRules": true,
 			"referenceSources": [
 				"IDRotF",
-				"IMR",
 				"OoW",
 				"SKT",
 				"ToFW",
@@ -8041,8 +8014,6 @@
 			"page": 238,
 			"srd": true,
 			"referenceSources": [
-				"AZfyT",
-				"LR",
 				"SKT",
 				"TftYP-TSC",
 				"US"
@@ -8225,7 +8196,6 @@
 			"referenceSources": [
 				"HotDQ",
 				"IDRotF",
-				"LR",
 				"OotA",
 				"QftIS",
 				"RoT",
@@ -8539,7 +8509,6 @@
 			"page": 239,
 			"srd": true,
 			"referenceSources": [
-				"AZfyT",
 				"KftGV",
 				"SCC-ARiR",
 				"WDH",
@@ -8675,7 +8644,6 @@
 				"EFR",
 				"HotDQ",
 				"PotA",
-				"SjA",
 				"ToA",
 				"WBtW",
 				"WDH",
@@ -9325,7 +9293,6 @@
 				"GoS",
 				"HotDQ",
 				"IDRotF",
-				"IMR",
 				"KftGV",
 				"OotA",
 				"OoW",
@@ -10012,7 +9979,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"LR",
 				"PaBTSO",
 				"SKT"
 			],
@@ -10532,10 +10498,8 @@
 				"CM",
 				"CoS",
 				"GoS",
-				"IMR",
 				"JttRC",
 				"KftGV",
-				"KKW",
 				"OotA",
 				"OoW",
 				"PaBTSO",
@@ -10544,7 +10508,6 @@
 				"SCC-ARiR",
 				"SCC-HfMT",
 				"SDW",
-				"SjA",
 				"SKT",
 				"SLW",
 				"TftYP-AtG",
@@ -10552,7 +10515,6 @@
 				"TftYP-TSC",
 				"TftYP-WPM",
 				"ToA",
-				"TTP",
 				"VEoR",
 				"WDH",
 				"WDMM"
@@ -10878,7 +10840,6 @@
 				"CoS",
 				"CRCotN",
 				"IDRotF",
-				"IMR",
 				"JttRC",
 				"LLK",
 				"LoX",
@@ -11008,7 +10969,6 @@
 			"srd": true,
 			"referenceSources": [
 				"CM",
-				"IMR",
 				"OotA",
 				"SKT"
 			],
@@ -11116,7 +11076,6 @@
 				"CM",
 				"SKT",
 				"ToA",
-				"TTP",
 				"US",
 				"WDMM"
 			],
@@ -11173,7 +11132,6 @@
 			"referenceSources": [
 				"TftYP-TSC",
 				"ToR",
-				"TTP",
 				"US"
 			],
 			"reprintedAs": [
@@ -11243,7 +11201,6 @@
 				"CoA",
 				"CoS",
 				"GoS",
-				"IMR",
 				"KftGV",
 				"OotA",
 				"SCC-ARiR",
@@ -11696,7 +11653,6 @@
 				"BGDIA",
 				"CoA",
 				"DSotDQ",
-				"LR",
 				"QftIS",
 				"SDW",
 				"TftYP-AtG",
@@ -12664,7 +12620,6 @@
 				"DitLCoT",
 				"GoS",
 				"IDRotF",
-				"IMR",
 				"KftGV",
 				"LMoP",
 				"OotA",
@@ -12676,7 +12631,6 @@
 				"SKT",
 				"TftYP-DiT",
 				"ToA",
-				"TTP",
 				"VNotEE",
 				"WBtW",
 				"WDMM"
@@ -13261,7 +13215,6 @@
 				"TftYP-TSC",
 				"TftYP-WPM",
 				"ToA",
-				"TTP",
 				"VEoR",
 				"VNotEE",
 				"WBtW",
@@ -13313,7 +13266,6 @@
 			"referenceSources": [
 				"CM",
 				"DC",
-				"IMR",
 				"KftGV",
 				"OotA",
 				"RoT",
@@ -13322,7 +13274,6 @@
 				"SLW",
 				"TftYP-ToH",
 				"ToA",
-				"TTP",
 				"WBtW",
 				"WDMM"
 			],
@@ -13425,9 +13376,7 @@
 			"srd": "Tiny Hut",
 			"referenceSources": [
 				"IDRotF",
-				"IMR",
 				"ToA",
-				"TTP",
 				"WDMM"
 			],
 			"reprintedAs": [
@@ -13633,7 +13582,6 @@
 				"CRCotN",
 				"GoS",
 				"HotDQ",
-				"IMR",
 				"KftGV",
 				"LLK",
 				"OotA",
@@ -13763,10 +13711,8 @@
 				"DC",
 				"DIP",
 				"IDRotF",
-				"IMR",
 				"KftGV",
 				"LMoP",
-				"LR",
 				"OotA",
 				"OoW",
 				"PaBTSO",
@@ -13941,7 +13887,6 @@
 				"CM",
 				"CoA",
 				"CoS",
-				"IMR",
 				"JttRC",
 				"KftGV",
 				"QftIS",
@@ -14068,7 +14013,6 @@
 				"IDRotF",
 				"KftGV",
 				"LMoP",
-				"LR",
 				"LRDT",
 				"OotA",
 				"RtG",
@@ -14139,12 +14083,10 @@
 				"KftGV",
 				"LK",
 				"LoX",
-				"NRH-TLT",
 				"OoW",
 				"QftIS",
 				"RMBRE",
 				"SDW",
-				"SjA",
 				"SKT",
 				"TftYP-TFoF",
 				"TftYP-WPM",
@@ -14842,7 +14784,6 @@
 			"srd": true,
 			"basicRules": true,
 			"referenceSources": [
-				"IMR",
 				"SKT",
 				"WBtW",
 				"WDH"
@@ -15090,7 +15031,6 @@
 				"GoS",
 				"HotDQ",
 				"IDRotF",
-				"IMR",
 				"OotA",
 				"OoW",
 				"SCC-ARiR",
@@ -15141,7 +15081,6 @@
 			"page": 259,
 			"srd": true,
 			"referenceSources": [
-				"AZfyT",
 				"BGDIA",
 				"CM",
 				"CoA",
@@ -15546,7 +15485,6 @@
 				"LoX",
 				"PaBTSO",
 				"RtG",
-				"SjA",
 				"SKT",
 				"ToA",
 				"WBtW",
@@ -16047,7 +15985,6 @@
 			"referenceSources": [
 				"CoS",
 				"KftGV",
-				"LR",
 				"OotA",
 				"SKT",
 				"ToFW",
@@ -17017,7 +16954,6 @@
 				"TftYP-ToH",
 				"ToA",
 				"ToFW",
-				"TTP",
 				"WBtW",
 				"WDH",
 				"WDMM"
@@ -17317,7 +17253,6 @@
 				"CoS",
 				"IDRotF",
 				"KftGV",
-				"NRH-TLT",
 				"OotA",
 				"RMBRE",
 				"SKT",
@@ -18260,7 +18195,6 @@
 				}
 			],
 			"referenceSources": [
-				"NRH-TLT",
 				"OotA",
 				"RoT",
 				"SKT",
@@ -18662,7 +18596,6 @@
 				"DIP",
 				"DSotDQ",
 				"IDRotF",
-				"IMR",
 				"JttRC",
 				"KftGV",
 				"LLK",
@@ -18735,7 +18668,6 @@
 			"referenceSources": [
 				"SKT",
 				"ToA",
-				"TTP",
 				"US",
 				"WDMM"
 			],
@@ -18987,8 +18919,6 @@
 			"page": 272,
 			"srd": true,
 			"referenceSources": [
-				"IMR",
-				"SjA",
 				"ToA",
 				"VEoR",
 				"WDH",
@@ -19120,8 +19050,7 @@
 				"BGDIA",
 				"CoS",
 				"GoS",
-				"HotDQ",
-				"TTP"
+				"HotDQ"
 			],
 			"reprintedAs": [
 				"Sanctuary|XPHB"
@@ -20026,7 +19955,6 @@
 				"IDRotF",
 				"KftGV",
 				"LMoP",
-				"NRH-TLT",
 				"OoW",
 				"PaBTSO",
 				"QftIS",
@@ -20220,7 +20148,6 @@
 				"CoS",
 				"DIP",
 				"KftGV",
-				"KKW",
 				"MOT",
 				"QftIS",
 				"RMBRE",
@@ -20492,7 +20419,6 @@
 			"referenceSources": [
 				"BGDIA",
 				"GoS",
-				"IMR",
 				"LK",
 				"QftIS",
 				"RoT",
@@ -20555,7 +20481,6 @@
 				"DSotDQ",
 				"EFR",
 				"GoS",
-				"HFStCM",
 				"HotDQ",
 				"IDRotF",
 				"JttRC",
@@ -20894,7 +20819,6 @@
 				"GoS",
 				"OoW",
 				"TftYP-TFoF",
-				"TTP",
 				"US",
 				"VEoR",
 				"WDMM"
@@ -21013,7 +20937,6 @@
 			"page": 278,
 			"srd": true,
 			"referenceSources": [
-				"AZfyT",
 				"CM",
 				"KftGV",
 				"OotA",
@@ -21675,7 +21598,6 @@
 			"referenceSources": [
 				"BGDIA",
 				"CoS",
-				"IMR",
 				"KftGV",
 				"OotA",
 				"QftIS",
@@ -21826,7 +21748,6 @@
 			"source": "PHB",
 			"page": 281,
 			"referenceSources": [
-				"NRH-TLT",
 				"OotA",
 				"WDMM"
 			],
@@ -21882,7 +21803,6 @@
 				"CoA",
 				"CoS",
 				"CRCotN",
-				"IMR",
 				"KftGV",
 				"OotA",
 				"OoW",
@@ -22058,7 +21978,6 @@
 				"CoS",
 				"CRCotN",
 				"DSotDQ",
-				"IMR",
 				"OotA",
 				"SKT",
 				"TftYP-DiT",
@@ -22190,7 +22109,6 @@
 				"CoS",
 				"DC",
 				"GoS",
-				"IMR",
 				"OoW",
 				"TftYP-TSC",
 				"WDMM"
@@ -22453,7 +22371,6 @@
 			"referenceSources": [
 				"BGDIA",
 				"CoS",
-				"IMR",
 				"KftGV",
 				"OotA",
 				"OoW",
@@ -22958,7 +22875,6 @@
 				"CM",
 				"CoS",
 				"IDRotF",
-				"IMR",
 				"KftGV",
 				"LoX",
 				"OotA",
@@ -23545,7 +23461,6 @@
 				"CRCotN",
 				"DitLCoT",
 				"GoS",
-				"LR",
 				"OotA",
 				"PaBTSO",
 				"PotA",
@@ -23676,7 +23591,6 @@
 			"referenceSources": [
 				"CoS",
 				"IDRotF",
-				"IMR",
 				"OotA",
 				"QftIS",
 				"SKT",
@@ -23928,7 +23842,6 @@
 				"DSotDQ",
 				"HotDQ",
 				"IDRotF",
-				"IMR",
 				"LoX",
 				"OotA",
 				"QftIS",

@@ -334,18 +334,6 @@
 				}
 			],
 			"migrationVersion": 3
-		},
-		{
-			"name": "Human (Keldon)",
-			"source": "PSD",
-			"entryData": {
-				"savingThrowProficiencies": [
-					{
-						"str": true
-					}
-				]
-			},
-			"migrationVersion": 3
 		}
 	],
 	"raceFeature": [
@@ -3877,57 +3865,6 @@
 			"migrationVersion": 3
 		},
 		{
-			"name": "Grit",
-			"source": "PSZ",
-			"raceName": "Goblin (Zendikar; Grotag Tribe)",
-			"raceSource": "PSZ",
-			"effects": [
-				{
-					"name": "Natural Armor",
-					"transfer": true,
-					"changes": [
-						{
-							"key": "system.attributes.ac.calc",
-							"mode": "OVERRIDE",
-							"value": "custom"
-						},
-						{
-							"key": "system.attributes.ac.formula",
-							"mode": "OVERRIDE",
-							"value": "11 + @abilities.dex.mod"
-						}
-					]
-				}
-			],
-			"migrationVersion": 3
-		},
-		{
-			"name": "Grit",
-			"source": "PSZ",
-			"raceName": "Goblin (Zendikar; Lavastep Tribe)",
-			"raceSource": "PSZ",
-			"_copy": {
-				"name": "Grit",
-				"source": "PSZ",
-				"raceName": "Goblin (Zendikar; Grotag Tribe)",
-				"raceSource": "PSZ"
-			},
-			"migrationVersion": 3
-		},
-		{
-			"name": "Grit",
-			"source": "PSZ",
-			"raceName": "Goblin (Zendikar; Tuktuk Tribe)",
-			"raceSource": "PSZ",
-			"_copy": {
-				"name": "Grit",
-				"source": "PSZ",
-				"raceName": "Goblin (Zendikar; Grotag Tribe)",
-				"raceSource": "PSZ"
-			},
-			"migrationVersion": 3
-		},
-		{
 			"name": "Hare-Trigger",
 			"source": "MPMM",
 			"raceName": "Harengon",
@@ -4197,31 +4134,6 @@
 		},
 		{
 			"name": "Natural Armor",
-			"source": "LR",
-			"raceName": "Locathah",
-			"raceSource": "LR",
-			"effects": [
-				{
-					"name": "Natural Armor",
-					"transfer": true,
-					"changes": [
-						{
-							"key": "system.attributes.ac.calc",
-							"mode": "OVERRIDE",
-							"value": "custom"
-						},
-						{
-							"key": "system.attributes.ac.formula",
-							"mode": "OVERRIDE",
-							"value": "12 + @abilities.dex.mod"
-						}
-					]
-				}
-			],
-			"migrationVersion": 3
-		},
-		{
-			"name": "Natural Armor",
 			"source": "MPMM",
 			"raceName": "Lizardfolk",
 			"raceSource": "MPMM",
@@ -4239,31 +4151,6 @@
 							"key": "system.attributes.ac.formula",
 							"mode": "OVERRIDE",
 							"value": "13 + @abilities.dex.mod"
-						}
-					]
-				}
-			],
-			"migrationVersion": 3
-		},
-		{
-			"name": "Natural Armor",
-			"source": "TTP",
-			"raceName": "Tortle",
-			"raceSource": "TTP",
-			"effects": [
-				{
-					"name": "Natural Armor",
-					"transfer": true,
-					"changes": [
-						{
-							"key": "system.attributes.ac.calc",
-							"mode": "OVERRIDE",
-							"value": "custom"
-						},
-						{
-							"key": "system.attributes.ac.formula",
-							"mode": "OVERRIDE",
-							"value": "17"
 						}
 					]
 				}
@@ -4340,27 +4227,6 @@
 						},
 						"bonus": "1"
 					}
-				}
-			],
-			"migrationVersion": 3
-		},
-		{
-			"name": "Shell Defense",
-			"source": "TTP",
-			"raceName": "Tortle",
-			"raceSource": "TTP",
-			"effects": [
-				{
-					"name": "Natural Armor",
-					"disabled": true,
-					"transfer": true,
-					"changes": [
-						{
-							"key": "system.attributes.ac.bonus",
-							"mode": "ADD",
-							"value": "+ 4"
-						}
-					]
 				}
 			],
 			"migrationVersion": 3

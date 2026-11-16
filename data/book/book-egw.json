@@ -10109,7 +10109,7 @@
 													"page": 132,
 													"id": "455",
 													"entries": [
-														"Kryn spies report that the Bold Adventurer, a scouting ship from the Dwendalian Empire, is planning to visit the island of Gelier, near Vurmas. Captain Hallwas Denalor and Norca Brighttusk don't want the Bold Adventurer's crew to see Vurmas or reach Gelier, ensuring that the Kryn's operation in Eiselcross and the settlement of the wormkin remain secret. The pair offer the characters 500 gp to stop the Bold Adventurer's approach. The Bold Adventurer is a keelboat (see the Airborne and Waterborne Vehicles table in {@table Owning a Ship; Airborne and Waterborne Vehicles||chapter 5} of the {@book Dungeon Master's Guide|DMG}) that carries six {@creature Scout||scouts}. The captain of the Bold Adventurer, Sally Brizzberm, has a {@item sending stone|AI} that she uses to communicate with the captain of a Dwendalian warship called the Bright Queen's Doom. If her ship is attacked, Sally uses the stone to send a warning to the warship, which might threaten Vurmas in the future."
+														"Kryn spies report that the Bold Adventurer, a scouting ship from the Dwendalian Empire, is planning to visit the island of Gelier, near Vurmas. Captain Hallwas Denalor and Norca Brighttusk don't want the Bold Adventurer's crew to see Vurmas or reach Gelier, ensuring that the Kryn's operation in Eiselcross and the settlement of the wormkin remain secret. The pair offer the characters 500 gp to stop the Bold Adventurer's approach. The Bold Adventurer is a keelboat (see the Airborne and Waterborne Vehicles table in {@table Owning a Ship; Airborne and Waterborne Vehicles||chapter 5} of the {@book Dungeon Master's Guide|DMG}) that carries six {@creature Scout||scouts}. The captain of the Bold Adventurer, Sally Brizzberm, has a {@item sending stones|DMG|sending stone} that she uses to communicate with the captain of a Dwendalian warship called the Bright Queen's Doom. If her ship is attacked, Sally uses the stone to send a warning to the warship, which might threaten Vurmas in the future."
 													]
 												},
 												{
@@ -13394,7 +13394,7 @@
 					"page": 180,
 					"id": "656",
 					"entries": [
-						"For centuries, the people of Xhorhas and the Dwendalian Empire believed {@race tortle|ttp|tortles} to be a hoax concocted by Concordian hucksters. In truth, tortles are an ancient and long-lived people who dwell within the jungles and along the beaches of the Menagerie Coast. Most tortles who journey far from the coast begin to feel pangs of homesickness, which can develop into a depression.",
+						"For centuries, the people of Xhorhas and the Dwendalian Empire believed {@race tortle|MPMM|tortles} to be a hoax concocted by Concordian hucksters. In truth, tortles are an ancient and long-lived people who dwell within the jungles and along the beaches of the Menagerie Coast. Most tortles who journey far from the coast begin to feel pangs of homesickness, which can develop into a depression.",
 						"Tortles are almost unheard of beyond the sunny shores of the Menagerie Coast."
 					]
 				},
